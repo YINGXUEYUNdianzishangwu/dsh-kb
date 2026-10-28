@@ -2,8 +2,8 @@
 
 来源：F:\OAuth\deepseek\repos\deepseek-harness-0.2.1-rc.3\deepseek-harness-dsh-v0.2.1-rc.3
 tag：dsh-v0.2.1-rc.3｜commit：1f81c047fc48fa190a683e469daa699857e9afe8
-生成：2026-10-28T22:47:41.340Z（kb-gen v3）
-规模：16347 文件 / 381 包 / 4517 篇 docs / 12608 个导出符号
+生成：2026-10-28T23:06:12.095Z（kb-gen v3）
+规模：16347 文件 / 381 包 / 4517 篇 docs / 14120 个导出符号
 
 > 本机安装版本 **0.2.1-rc.3**，与本索引 tag 对齐。
 
@@ -218,11 +218,16 @@ tag：dsh-v0.2.1-rc.3｜commit：1f81c047fc48fa190a683e469daa699857e9afe8
 | 30-plugins-client-ui-part2.md | 998 |
 | 30-plugins-presets.md | 258 |
 | 40-symbols-summary.md | 530 |
-| 40-symbols.jsonl | machine(1756KB) |
+| 40-symbols.jsonl | machine(1969KB) |
 | 50-scene-map.md | 792 |
+| README.md | 1059 |
 | meta.json | 228 |
+| modules/client.md | 993 |
 | modules/core.md | 1268 |
+| modules/llm.md | 792 |
 | modules/mcp.md | 1087 |
+| modules/session.md | 732 |
+| modules/skill.md | 718 |
 
 ## 使用顺序
 

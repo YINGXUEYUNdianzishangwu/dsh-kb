@@ -134,15 +134,35 @@ for (const [g, list] of Object.entries(docGroups).sort()) {
 // ---------- 符号索引 ----------
 const pkgRoots = pkgs.map((p) => ({ name: p.name, root: p.path })).filter((p) => p.root).sort((a, b) => b.root.length - a.root.length);
 const pkgOf = (r) => { for (const p of pkgRoots) if (r === p.root || r.startsWith(p.root + '/')) return p.name; return '<root>'; };
-const symRe = /^export\s+(?:default\s+)?(?:abstract\s+)?(?:async\s+)?(class|function|const|let|var|interface|type|enum)\s+([A-Za-z_$][\w$]*)/;
+const symRe = /^export\s+(?:default\s+)?(?:declare\s+)?(?:abstract\s+)?(?:async\s+)?(class|function|const|let|var|interface|type|enum)\s+([A-Za-z_$][\w$]*)/;
+const reexportRe = /^export\s+(type\s+)?\{([^}]*)\}/;
+const nsRe = /^export\s+\*\s+as\s+([A-Za-z_$][\w$]*)\s+from/;
 const syms = [];
+const seen = new Set();
+const pushSym = (s, k, f, l, pkg) => {
+  const key = s + '|' + k + '|' + f + '|' + l;
+  if (seen.has(key)) return;
+  seen.add(key);
+  syms.push({ s, k, f, l, p: pkg });
+};
 for (const f of files.filter((x) => /\.(ts|tsx|mts|cts)$/.test(x) && !x.endsWith('.d.ts'))) {
   const r = rel(f);
   let lines; try { lines = fs.readFileSync(f, 'utf8').split('\n'); } catch { continue; }
   const pkg = pkgOf(r);
   for (let i = 0; i < lines.length; i++) {
-    const m = symRe.exec(lines[i]);
-    if (m) syms.push({ s: m[2], k: m[1], f: r, l: i + 1, p: pkg });
+    const line = lines[i];
+    const m = symRe.exec(line);
+    if (m) { pushSym(m[2], m[1], r, i + 1, pkg); continue; }
+    const rn = nsRe.exec(line);
+    if (rn) { pushSym(rn[1], 'namespace', r, i + 1, pkg); continue; }
+    const rr = reexportRe.exec(line);
+    if (rr) {
+      const kind = rr[1] ? 'reexport-type' : 'reexport';
+      for (const part of rr[2].split(',')) {
+        const name = part.trim().replace(/^type\s+/, '').split(/\s+as\s+/).pop().trim();
+        if (/^[A-Za-z_$][\w$]*$/.test(name)) pushSym(name, kind, r, i + 1, pkg);
+      }
+    }
   }
 }
 const symJsonl = syms.map((x) => JSON.stringify(x)).join('\n') + '\n';
