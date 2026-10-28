@@ -2,7 +2,7 @@
 
 来源：F:\OAuth\deepseek\repos\deepseek-harness-0.2.1-rc.3\deepseek-harness-dsh-v0.2.1-rc.3
 tag：dsh-v0.2.1-rc.3｜commit：1f81c047fc48fa190a683e469daa699857e9afe8
-生成：2026-10-28T23:06:12.095Z（kb-gen v3）
+生成：2026-10-28T23:11:34.132Z（kb-gen v3）
 规模：16347 文件 / 381 包 / 4517 篇 docs / 14120 个导出符号
 
 > 本机安装版本 **0.2.1-rc.3**，与本索引 tag 对齐。
@@ -220,8 +220,9 @@ tag：dsh-v0.2.1-rc.3｜commit：1f81c047fc48fa190a683e469daa699857e9afe8
 | 40-symbols-summary.md | 530 |
 | 40-symbols.jsonl | machine(1969KB) |
 | 50-scene-map.md | 792 |
-| README.md | 1059 |
+| README.md | 1319 |
 | meta.json | 228 |
+| search-index.json.gz | machine(6289KB) |
 | modules/client.md | 993 |
 | modules/core.md | 1268 |
 | modules/llm.md | 792 |
@@ -237,8 +238,11 @@ tag：dsh-v0.2.1-rc.3｜commit：1f81c047fc48fa190a683e469daa699857e9afe8
 4. 找实现 → `grep 40-symbols.jsonl` → 定位 file:line，再读该文件
 5. 机制 → `modules/<domain>.md`（1–3k）
 6. 插件/入口 → `30-plugins-*.md`；场景 → `50-scene-map.md`
+7. 全文检索 → `node kb-search.cjs "<query>"`（BM25 本地索引，无需网络）
 
 ## 维护
 
 - 重建：`node gen.cjs <repo> <outRoot> <tag> <commit>`（同一 slug 覆盖）
-- 校验：`node verify.cjs`（预算/完整性/stale）
+- 校验：`node verify.cjs`（预算/完整性）
+- 检索索引：`node kb-search.cjs build <repoPath> <kbDir>`（本目录已含 search-index.json.gz）
+- 陈旧检测：`node staleness.cjs [--check-upstream]`（年龄 / 源 HEAD / 上游最新 tag）

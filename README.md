@@ -43,6 +43,25 @@ node verify.cjs
 
 索引是**派生产物**：升级 DSH 后按新 tag 重新生成（slug 随 tag 变化），旧索引标记 stale 后删除。
 
+## 全文检索（本地 BM25，无需网络）
+
+```powershell
+node kb-search.cjs "mcp tool naming"            # 返回 top 8 命中：路径:行 + 摘要
+node kb-search.cjs "checkpoint policy" --n 5 --json
+node kb-search.cjs build <repoPath> <kbDir>     # 重建索引（已内置 search-index.json.gz）
+```
+
+索引覆盖 `docs/**`、各包 `README.md`、根级 md，共 1,131 文件 / 14,157 块（gz 约 6MB），构建约 5 秒。
+
+## 陈旧检测
+
+```powershell
+node staleness.cjs                    # 年龄 + 源 HEAD 对比
+node staleness.cjs --check-upstream   # 额外对比上游最新 tag（需网络）
+```
+
+判定：生成超过 30 天、源 HEAD ≠ 记录的 commit、或上游出现更新 tag → 输出 `STALE: ...` 并以非 0 退出。
+
 ## 说明
 
 - 索引只包含路径、名称、描述、摘要与符号位置，**不包含源码正文**；源码仍需在本地仓库副本中读取。

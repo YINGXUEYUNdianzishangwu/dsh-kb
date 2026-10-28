@@ -208,7 +208,7 @@ const sizes = {}; let nav = 0; const over = [];
 for (const f of listFiles) {
   const st = fs.statSync(path.join(out, f));
   if (st.isDirectory()) continue;
-  if (f.endsWith('.jsonl')) { sizes[f] = 'machine(' + (st.size / 1024).toFixed(0) + 'KB)'; continue; }
+  if (f.endsWith('.jsonl') || f.endsWith('.gz')) { sizes[f] = 'machine(' + (st.size / 1024).toFixed(0) + 'KB)'; continue; }
   const tok = enc(fs.readFileSync(path.join(out, f), 'utf8'));
   sizes[f] = tok;
   if (['10-tree.md', '20-packages.md', '25-docs-index.md', '40-symbols-summary.md'].includes(f)) nav += tok;
@@ -235,13 +235,20 @@ const readme = ['# KB: deepseek-harness ' + tag + '（' + slug + '）', '',
   '4. 找实现 → `grep 40-symbols.jsonl` → 定位 file:line，再读该文件',
   '5. 机制 → `modules/<domain>.md`（1–3k）',
   '6. 插件/入口 → `30-plugins-*.md`；场景 → `50-scene-map.md`',
+  '7. 全文检索 → `node kb-search.cjs "<query>"`（BM25 本地索引，无需网络）',
   '', '## 维护', '',
   '- 重建：`node gen.cjs <repo> <outRoot> <tag> <commit>`（同一 slug 覆盖）',
-  '- 校验：`node verify.cjs`（预算/完整性/stale）'].join('\n') + '\n';
+  '- 校验：`node verify.cjs`（预算/完整性）',
+  '- 检索索引：`node kb-search.cjs build <repoPath> <kbDir>`（本目录已含 search-index.json.gz）',
+  '- 陈旧检测：`node staleness.cjs [--check-upstream]`（年龄 / 源 HEAD / 上游最新 tag）'].join('\n') + '\n';
 fs.writeFileSync(path.join(out, '00-README.md'), readme);
 
 // 复制生成器与校验器
 fs.copyFileSync(__filename, path.join(out, 'gen.cjs'));
+for (const s of ['kb-search.cjs', 'staleness.cjs']) {
+  const p = path.join(__dirname, s);
+  if (fs.existsSync(p)) fs.copyFileSync(p, path.join(out, s));
+}
 const verify = `// verify.cjs — 索引完整性/预算自检
 const fs=require('fs'), path=require('path');
 const G='C:/Users/wang7/AppData/Roaming/npm/node_modules'; let T=null;
