@@ -1,0 +1,34 @@
+# docs: packages (830 篇, part 6/26)
+
+- @deepseek-ai/dsh-client-ui-settings-session-log — description: "Control Session-log upload with DeepSeek API requests from General settings. — packages/client/ui-settings-session-log/README.md
+- @deepseek-ai/dsh-client-ui-settings-session-log — description: "在通用设置中控制随 DeepSeek API 请求上传会话日志。" — packages/client/ui-settings-session-log/README.zh.md
+- @deepseek-ai/dsh-client-ui-settings-shell — description: "The shell executor's settings page on the dsh web client's Plugins page: the — packages/client/ui-settings-shell/README.md
+- @deepseek-ai/dsh-client-ui-settings-shell — description: "dsh Web 客户端插件页上的终端执行器设置页：shell 命名空间的命令超时与单流输出上限。" — packages/client/ui-settings-shell/README.zh.md
+- @deepseek-ai/dsh-client-ui-settings-subagent — description: "The Subagent settings page on the dsh web client's Plugins page: delegation  — packages/client/ui-settings-subagent/README.md
+- @deepseek-ai/dsh-client-ui-settings-subagent — description: "dsh Web 客户端插件页上的子智能体设置页：subagent 命名空间的委派深度与并行容量，以及 subagent-model-selection  — packages/client/ui-settings-subagent/README.zh.md
+- @deepseek-ai/dsh-client-ui-settings-web-search — description: "The DeepSeek web-search settings page on the dsh web client's Plugins page:  — packages/client/ui-settings-web-search/README.md
+- @deepseek-ai/dsh-client-ui-settings-web-search — description: "dsh Web 客户端插件页上的 DeepSeek 网页搜索设置页：Search 与 Fetch API 开关、API Key、接口地址与每次搜索的上限 — packages/client/ui-settings-web-search/README.zh.md
+- @deepseek-ai/dsh-client-ui-shortcuts — description: "Browse the commands available in the current window and find them by action, — packages/client/ui-shortcuts/README.md
+- @deepseek-ai/dsh-client-ui-shortcuts — description: "查看当前窗口可用的命令，按操作名称、英文别名或键位搜索" — packages/client/ui-shortcuts/README.zh.md
+- @deepseek-ai/dsh-client-ui-sidebar — description: "Sidebar shell plugin for the dsh web client: brand row, New Session action,  — packages/client/ui-sidebar/README.md
+- @deepseek-ai/dsh-client-ui-sidebar — description: "dsh Web 客户端的侧边栏外壳插件：品牌行、New Session 操作、折叠控件、可感知滚动的区域席位与底部固定的 Settings 席位。" — packages/client/ui-sidebar/README.zh.md
+- @deepseek-ai/dsh-client-ui-sidebar-browser — description: "Right-Sidebar browser tabs for sandboxed HTTP(S) pages, including loopback s — packages/client/ui-sidebar-browser/README.md
+- @deepseek-ai/dsh-client-ui-sidebar-browser — description: "右侧 Sidebar 浏览器 tab：在 sandbox 中访问 HTTP(S) 页面，包括 loopback 服务。" — packages/client/ui-sidebar-browser/README.zh.md
+- @deepseek-ai/dsh-client-ui-sidebar-documentpreview — description: "Document previews in the right Sidebar: shared file loading and controls, se — packages/client/ui-sidebar-documentpreview/README.md
+- @deepseek-ai/dsh-client-ui-sidebar-documentpreview — description: "右侧 Sidebar 的文档预览：共享文件加载与控件，可选 Markdown、代码、图片、PDF、Office 和 HTML 渲染器，并以纯文本兜底。" — packages/client/ui-sidebar-documentpreview/README.zh.md
+- XLSX fuzz diagnostics — English | [中文](README.zh.md) — packages/client/ui-sidebar-documentpreview/tests/fuzz/README.md
+- XLSX 模糊测试诊断 — [English](README.md) | 中文 — packages/client/ui-sidebar-documentpreview/tests/fuzz/README.zh.md
+- @deepseek-ai/dsh-client-ui-sidebar-files — description: "The right Sidebar's file-tree tab type for the dsh web client: the session w — packages/client/ui-sidebar-files/README.md
+- @deepseek-ai/dsh-client-ui-sidebar-files — description: "dsh Web 客户端右侧 Sidebar 的文件树 tab 类型：通过网络逐层列出会话工作区根目录，按资源地址把文件打开到 Sidebar。" — packages/client/ui-sidebar-files/README.zh.md
+- @deepseek-ai/dsh-client-ui-sidebar-right — description: "The right Sidebar of the dsh web client: one docking surface per session, tw — packages/client/ui-sidebar-right/README.md
+- @deepseek-ai/dsh-client-ui-sidebar-right — description: "dsh Web 客户端的右侧 Sidebar：每会话一个停靠面、两种呈现形态、导航控制器 ctx.sidebarRight、tab 类型注册表 ctx. — packages/client/ui-sidebar-right/README.zh.md
+- @deepseek-ai/dsh-client-ui-sidebar-terminal — description: "Open, recover and control interactive shell tabs in the Web right sidebar." — packages/client/ui-sidebar-terminal/README.md
+- @deepseek-ai/dsh-client-ui-sidebar-terminal — description: "在 Web 右侧栏打开、恢复和控制交互式 shell 标签页。" — packages/client/ui-sidebar-terminal/README.zh.md
+- @deepseek-ai/dsh-client-ui-skill — description: "Web skill references and the dedicated skill tool row for the dsh web client — packages/client/ui-skill/README.md
+- @deepseek-ai/dsh-client-ui-skill — description: "dsh Web 客户端的 skill 引用与专属 skill 工具行：/ 触发的 skill source 与 skill 调用卡片。" — packages/client/ui-skill/README.zh.md
+- @deepseek-ai/dsh-client-ui-slots — description: "Slot registry pure core for the dsh web client: ordinary extension slots, re — packages/client/ui-slots/README.md
+- @deepseek-ai/dsh-client-ui-slots — description: "dsh Web 客户端的 slot 注册表纯核心：普通扩展 slots、可复用 Component Factory、推导 props 类型、store  — packages/client/ui-slots/README.zh.md
+- @deepseek-ai/dsh-client-ui-subagent — description: "Subagent conversation catalog, continuation routing UI, and '@' reference so — packages/client/ui-subagent/README.md
+- @deepseek-ai/dsh-client-ui-subagent — description: "dsh Web 客户端的 subagent 对话目录、续接路由 UI 与 '@' 引用 source。" — packages/client/ui-subagent/README.zh.md
+- @deepseek-ai/dsh-client-ui-theme — description: "Theme, font-size, and font-family settings for the dsh web client: --dsw- to — packages/client/ui-theme/README.md
+- @deepseek-ai/dsh-client-ui-theme — description: "dsh Web 客户端的主题、字号与字体设置：--dsw- token 样式表、ThemeRuntime 状态、「通用」设置行与插件前引导。" — packages/client/ui-theme/README.zh.md

@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 40/66)
+
+- Agent Note: Windows self-hosted ReFS store and block-clone installs — Status: implemented — .agents/notes/archived/process/2026-08-30-windows-refs-store-block-clone-install.md
+- Agent Note: Windows 自托管 ReFS store 与块克隆安装 — Status: implemented — .agents/notes/archived/process/2026-08-30-windows-refs-store-block-clone-install.zh.md
+- Agent Note: PR-opened Issue start dates — Status: implemented — .agents/notes/archived/process/2026-08-31-pr-opened-issue-start-dates.md
+- Agent Note: 在 PR 创建时设置 Issue 开始日期 — Status: implemented — .agents/notes/archived/process/2026-08-31-pr-opened-issue-start-dates.zh.md
+- Agent Note: serial-windows notices timeout budget and generator store-scan cost — Status: implemented — .agents/notes/archived/process/2026-08-31-serial-windows-notices-timeout-budget.md
+- Agent Note: serial-windows 的 notices 超时预算与 generator store 扫描成本 — Status: implemented — .agents/notes/archived/process/2026-08-31-serial-windows-notices-timeout-budget.zh.md
+- Agent Note: deterministic assertions and dispose budgets for the Windows coverage lane — Status: implemented — .agents/notes/archived/process/2026-08-31-windows-coverage-flaky-test-budgets.md
+- Agent Note: Windows coverage lane 的确定性断言与 dispose 预算 — Status: implemented — .agents/notes/archived/process/2026-08-31-windows-coverage-flaky-test-budgets.zh.md
+- Agent Note: Project-local Issue planning fields — Status: implemented — .agents/notes/archived/process/2026-09-02-project-local-issue-planning-fields.md
+- Agent Note: Project 局部 Issue 规划字段 — Status: implemented — .agents/notes/archived/process/2026-09-02-project-local-issue-planning-fields.zh.md
+- Agent Note: Semantic Issue templates and presentation-neutral policy — Status: implemented — .agents/notes/archived/process/2026-09-03-semantic-issue-templates-and-policy.md
+- Agent Note: 语义化 Issue template 与不检查展示形式的 policy — Status: implemented — .agents/notes/archived/process/2026-09-03-semantic-issue-templates-and-policy.zh.md
+- Agent Note: Workspace version coherence is a static gate — Status: implemented — .agents/notes/archived/process/2026-09-03-workspace-version-coherence-gate.md
+- Agent Note: 工作区版本一致性是静态门禁 — Status: implemented — .agents/notes/archived/process/2026-09-03-workspace-version-coherence-gate.zh.md
+- Agent Note: Evidence-driven performance optimization workflow — Status: implemented — .agents/notes/archived/process/2026-09-06-evidence-driven-performance-skill.md
+- Agent Note: 以证据驱动的性能优化工作流 — Status: implemented — .agents/notes/archived/process/2026-09-06-evidence-driven-performance-skill.zh.md
+- Agent Note: Master-only platform CI — Status: implemented — .agents/notes/archived/process/2026-09-06-master-only-platform-ci.md
+- Agent Note: 仅 master 执行的平台 CI — Status: implemented — .agents/notes/archived/process/2026-09-06-master-only-platform-ci.zh.md
+- Agent Note: Isolated Node compatibility jobs on self-hosted Linux — Status: implemented — .agents/notes/archived/process/2026-09-06-node-compatibility-selfhosted.md
+- Agent Note: 自托管 Linux 上隔离的 Node 兼容性作业 — Status: implemented — .agents/notes/archived/process/2026-09-06-node-compatibility-selfhosted.zh.md
+- Agent Note: Measured GitHub-hosted PR preview sizing — Status: implemented — .agents/notes/archived/process/2026-09-06-preview-hosted-runner-sizing.md
+- Agent Note: 基于测量的 GitHub 托管 PR 预览规格 — Status: implemented — .agents/notes/archived/process/2026-09-06-preview-hosted-runner-sizing.zh.md
+- Agent Note: trusted release rehearsals on persistent Linux runners — Status: implemented — .agents/notes/archived/process/2026-09-06-release-rehearsal-selfhosted.md
+- Agent Note: 在持久化 Linux 运行器上执行受信任的发布演练 — Status: implemented — .agents/notes/archived/process/2026-09-06-release-rehearsal-selfhosted.zh.md
+- Agent Note: Selective Issue policy evaluation — Status: implemented — .agents/notes/archived/process/2026-09-07-selective-issue-policy-evaluation.md
+- Agent Note: Issue 策略的选择性求值 — Status: implemented — .agents/notes/archived/process/2026-09-07-selective-issue-policy-evaluation.zh.md
+- Agent Note: Browser third-party libraries as build inputs — Status: implemented — .agents/notes/archived/process/2026-09-08-browser-third-party-build-inputs.md
+- Agent Note: 浏览器第三方库作为构建输入 — Status: implemented — .agents/notes/archived/process/2026-09-08-browser-third-party-build-inputs.zh.md
+- Agent Note: Include package indexes in Markdown link discovery — Status: implemented — .agents/notes/archived/process/2026-09-08-package-index-link-discovery.md
+- Agent Note: 将包索引纳入 Markdown 链接发现范围 — Status: implemented — .agents/notes/archived/process/2026-09-08-package-index-link-discovery.zh.md
+- Agent Note: Playwright video captures continuous browser demos — Status: implemented — .agents/notes/archived/process/2026-09-08-playwright-video-gif.md
+- Agent Note: Playwright 视频录制连续浏览器演示 — Status: implemented — .agents/notes/archived/process/2026-09-08-playwright-video-gif.zh.md
+- Agent Note: Blocked weighted approvals remain pending — Status: implemented — .agents/notes/archived/process/2026-09-09-blocked-weighted-approvals-remain-pending.md
+- Agent Note: 阻塞中的加权批准保持 pending — Status: implemented — .agents/notes/archived/process/2026-09-09-blocked-weighted-approvals-remain-pending.zh.md
+- Agent Note: Cancel superseded CI validation — Status: implemented — .agents/notes/archived/process/2026-09-09-cancel-superseded-ci.md
+- Agent Note: 取消被取代的 CI 验证 — Status: implemented — .agents/notes/archived/process/2026-09-09-cancel-superseded-ci.zh.md
+- Agent Note: Identify approval review workflows by file path — Status: implemented — .agents/notes/archived/process/2026-09-10-approval-review-workflow-identity.md
+- Agent Note: 按文件路径识别审批评审工作流 — Status: implemented — .agents/notes/archived/process/2026-09-10-approval-review-workflow-identity.zh.md
+- Agent Note: Independent precompiled LibreOffice package — Status: implemented — .agents/notes/archived/process/2026-09-11-independent-libreoffice-package.md
+- Agent Note: 独立的预编译 LibreOffice 包 — Status: implemented — .agents/notes/archived/process/2026-09-11-independent-libreoffice-package.zh.md

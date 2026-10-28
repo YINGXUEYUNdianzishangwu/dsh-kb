@@ -1,0 +1,43 @@
+# docs: .agents (2583 篇, part 64/66)
+
+- Agent Note: 单会话迁移通过 follow 重定向呈现 — Status: proposed — .agents/notes/proposed/architecture/2026-09-29-session-migration-follow-redirect.zh.md
+- Agent Note: Keep cleanup dependencies usable until consumers finish — Status: proposed — .agents/notes/proposed/architecture/2026-10-09-cordis-cleanup-dependency-lifetimes.md
+- Agent Note: 在消费者清理完成前保持清理依赖可用 — Status: proposed — .agents/notes/proposed/architecture/2026-10-09-cordis-cleanup-dependency-lifetimes.zh.md
+- Agent Note: Quarantine unreadable historical attachments — Status: proposed — .agents/notes/proposed/bug-fix/2026-08-20-attachment-read-quarantine.md
+- Agent Note: 隔离无法读取的历史附件 — Status: proposed — .agents/notes/proposed/bug-fix/2026-08-20-attachment-read-quarantine.zh.md
+- Agent Note: Pre-tool input rewrite — a consistent design — Status: proposed — .agents/notes/proposed/feature/2026-06-30-pre-tool-input-rewrite.md
+- Agent Note: 工具执行前输入重写——一致性设计 — Status: proposed — .agents/notes/proposed/feature/2026-06-30-pre-tool-input-rewrite.zh.md
+- Agent Note: Recallable compaction — index checkpoints, a state checkpoint, and in-session history recall — Status: proposed — .agents/notes/proposed/feature/2026-07-06-recallable-compaction.md
+- Agent Note: 可回溯压缩：索引检查点、状态检查点与会话内历史回溯 — Status: proposed — .agents/notes/proposed/feature/2026-07-06-recallable-compaction.zh.md
+- Agent Note: Interactive side sessions and merge-back — Status: proposed — .agents/notes/proposed/feature/2026-07-08-interactive-side-sessions.md
+- Agent Note: 交互式侧会话与合并回写 — Status: proposed — .agents/notes/proposed/feature/2026-07-08-interactive-side-sessions.zh.md
+- Agent Note: Task Surface for structured session interaction — Status: proposed — .agents/notes/proposed/feature/2026-08-04-task-surface.md
+- Agent Note: 用于结构化会话交互的 Task Surface — Status: proposed — .agents/notes/proposed/feature/2026-08-04-task-surface.zh.md
+- Agent Note: Desktop mandatory-update API — Status: proposed — .agents/notes/proposed/feature/2026-09-08-desktop-mandatory-update-api.md
+- Agent Note: Desktop 强制更新接口 — Status: proposed — .agents/notes/proposed/feature/2026-09-08-desktop-mandatory-update-api.zh.md
+- Agent Note: Deferred Desktop update extensions — Status: proposed — .agents/notes/proposed/feature/2026-09-08-desktop-update-extensions.md
+- Agent Note: Desktop 更新后续扩展 — Status: proposed — .agents/notes/proposed/feature/2026-09-08-desktop-update-extensions.zh.md
+- Agent Note: Desktop update policy and installation — Status: proposed — .agents/notes/proposed/feature/2026-09-08-desktop-update-policy-and-installation.md
+- Agent Note: Desktop 更新策略与安装 — Status: proposed — .agents/notes/proposed/feature/2026-09-08-desktop-update-policy-and-installation.zh.md
+- Agent Note: Pi extensions bridge — Status: proposed — .agents/notes/proposed/feature/2026-10-03-pi-extensions-bridge.md
+- Agent Note: Pi 扩展桥接 — Status: proposed — .agents/notes/proposed/feature/2026-10-03-pi-extensions-bridge.zh.md
+- Agent Note: Pi plugins compatibility — levels of support — Status: proposed — .agents/notes/proposed/feature/2026-10-03-pi-plugins-compatibility.md
+- Agent Note: Pi 插件兼容——分级支持 — Status: proposed — .agents/notes/proposed/feature/2026-10-03-pi-plugins-compatibility.zh.md
+- Agent Note: API extractor reports — Status: proposed — .agents/notes/proposed/process/2026-06-11-api-extractor-reports.md
+- Agent Note: API extractor 报告 — Status: proposed — .agents/notes/proposed/process/2026-06-11-api-extractor-reports.zh.md
+- Agent Note: Supply chain checks and vendor drift verification — Status: proposed — .agents/notes/proposed/process/2026-06-11-supply-chain-and-vendor-drift.md
+- Agent Note: 供应链检查与 vendor 漂移验证 — Status: proposed — .agents/notes/proposed/process/2026-06-11-supply-chain-and-vendor-drift.zh.md
+- Agent Note: Discover package inventories instead of maintaining static lists — Status: proposed — .agents/notes/proposed/process/2026-06-20-discover-package-inventory.md
+- Agent Note: 通过发现机制获取包清单，而非维护静态列表 — Status: proposed — .agents/notes/proposed/process/2026-06-20-discover-package-inventory.zh.md
+- Agent Note: Periodic human-review maintenance for dsh-code-review — Status: proposed — .agents/notes/proposed/process/2026-07-13-human-review-skill-maintenance.md
+- Agent Note: dsh-code-review 的定期人工评审维护 — Status: proposed — .agents/notes/proposed/process/2026-07-13-human-review-skill-maintenance.zh.md
+- Agent Note: Remove the packed-session fixture branch migrator — Status: proposed — .agents/notes/proposed/process/2026-07-26-remove-packed-session-fixture-migrator.md
+- Agent Note: 移除打包会话 fixture 分支迁移器 — Status: proposed — .agents/notes/proposed/process/2026-07-26-remove-packed-session-fixture-migrator.zh.md
+- Agent Note: Audience-first documentation quality criteria — Status: proposed — .agents/notes/proposed/process/2026-08-20-audience-first-documentation-quality.md
+- Agent Note: 以受众为先的文档质量标准 — Status: proposed — .agents/notes/proposed/process/2026-08-20-audience-first-documentation-quality.zh.md
+- Agent Note: Defer Office background scheduling until a consumer needs it — Status: proposed — .agents/notes/proposed/simplification/2026-09-17-defer-office-background-scheduling.md
+- Agent Note: 待调用方需要时再引入 Office 后台调度 — Status: proposed — .agents/notes/proposed/simplification/2026-09-17-defer-office-background-scheduling.zh.md
+- Agent Note: Limit DSH HMR to live profile configuration — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-config-only-hmr.md
+- Agent Note: 将 DSH HMR 限定为实时 profile 配置更新 — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-config-only-hmr.zh.md
+- Agent Note: Read instruction files only through a filesystem provider — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-provider-only-instruction-reads.md
+- Agent Note: 仅通过文件系统提供方读取指令文件 — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-provider-only-instruction-reads.zh.md

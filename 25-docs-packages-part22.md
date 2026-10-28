@@ -1,0 +1,34 @@
+# docs: packages (830 篇, part 22/26)
+
+- @deepseek-ai/dsh-fs-ssh — description: "面向与 SSH 子进程共享文件的消费方，说明远端文件系统语义。" — packages/ssh/fs-ssh/README.zh.md
+- ssh/ — POSIX remote execution providers — description: "The POSIX SSH provider family: shared connection, remote filesystem, managed — packages/ssh/README.md
+- ssh/ — POSIX 远端执行提供方 — description: "POSIX SSH 提供方家族：共享连接、远端文件系统、托管子进程及文件效果沙箱。" — packages/ssh/README.zh.md
+- @deepseek-ai/dsh-sandbox-ssh — description: "Remote file-effect confinement for compositions using SSH filesystem and sub — packages/ssh/sandbox-ssh/README.md
+- @deepseek-ai/dsh-sandbox-ssh — description: "面向使用 SSH 文件系统和子进程提供方的组合，说明远端文件效果限制。" — packages/ssh/sandbox-ssh/README.zh.md
+- @deepseek-ai/dsh-ssh — description: "OpenSSH connection configuration and remote helper lifecycle for deployments — packages/ssh/ssh/README.md
+- @deepseek-ai/dsh-ssh — description: "面向组合 POSIX 文件、进程与沙箱提供方的部署者，说明 OpenSSH 连接配置及远端辅助进程生命周期。" — packages/ssh/ssh/README.zh.md
+- @deepseek-ai/dsh-ssh-helper-runtime — description: "Build and verify SSH helper executables with an embedded Node runtime for Li — packages/ssh/ssh-helper-runtime/README.md
+- @deepseek-ai/dsh-ssh-helper-runtime — description: "构建并验证内嵌 Node 运行时的 Linux 与 macOS SSH helper 可执行文件。" — packages/ssh/ssh-helper-runtime/README.zh.md
+- @deepseek-ai/dsh-subprocess-ssh — description: "Managed SSH subprocess and terminal behavior for Bash, LSP and Node runtime  — packages/ssh/subprocess-ssh/README.md
+- @deepseek-ai/dsh-subprocess-ssh — description: "面向 Bash、LSP 及 Node 运行时消费方，说明托管 SSH 子进程与终端行为。" — packages/ssh/subprocess-ssh/README.zh.md
+- packages/storage — description: "The storage group map: durable non-session data through named backends and t — packages/storage/README.md
+- packages/storage — description: "存储组地图：通过具名后端与类型化领域数据形式持久化非会话数据，供浏览本组的用户与维护者阅读。" — packages/storage/README.zh.md
+- @deepseek-ai/dsh-storage — description: "Storage hub (ctx.storage) for compositions and maintainers choosing, mountin — packages/storage/storage/README.md
+- @deepseek-ai/dsh-storage — description: "存储枢纽（ctx.storage）：面向选择、挂载或排查具名存储后端与数据形式设施的组合方与维护者。" — packages/storage/storage/README.zh.md
+- @deepseek-ai/dsh-storage-domain — description: "Domain data form (ctx.storageDomain) for hosts and maintainers choosing, mou — packages/storage/storage-domain/README.md
+- @deepseek-ai/dsh-storage-domain — description: "领域数据形式（ctx.storageDomain）：面向在存储后端之上选择、挂载或排查经过 schema 校验、发出变更事件的 KV 领域的宿主与维护者 — packages/storage/storage-domain/README.zh.md
+- @deepseek-ai/dsh-storage-json — description: "JSON storage backend for hosts and maintainers choosing, configuring, or deb — packages/storage/storage-json/README.md
+- @deepseek-ai/dsh-storage-json — description: "JSON 存储后端：面向在配置根目录下选择、配置或排查整单元文件与逐记录文件的宿主与维护者。" — packages/storage/storage-json/README.zh.md
+- @deepseek-ai/dsh-storage-sqlite — description: "SQLite storage backend for hosts and maintainers choosing, configuring, or d — packages/storage/storage-sqlite/README.md
+- @deepseek-ai/dsh-storage-sqlite — description: "SQLite 存储后端：面向在单个数据库文件中选择、配置或排查按行存储文档的 KV 存储的宿主与维护者。" — packages/storage/storage-sqlite/README.zh.md
+- subagent/ — subagent capability family — description: "The subagent package group: the delegation seam, its in-process and out-of-p — packages/subagent/README.md
+- subagent/：subagent 能力家族 — description: "subagent 包组：委派 seam、其进程内与进程外后端，以及面向模型的委派工具。" — packages/subagent/README.zh.md
+- @deepseek-ai/dsh-subagent — description: "The subagent delegation seam for users and maintainers choosing a provider b — packages/subagent/subagent/README.md
+- @deepseek-ai/dsh-subagent — description: "面向用户与维护者的 subagent 委派 seam，用于选择提供方后端、组装委派工具或排查子 agent（智能体）运行问题。" — packages/subagent/subagent/README.zh.md
+- @deepseek-ai/dsh-subagent-acp — description: "The out-of-process ACP subagent backend for users and maintainers choosing a — packages/subagent/subagent-acp/README.md
+- @deepseek-ai/dsh-subagent-acp — description: "面向用户与维护者的进程外 ACP（Agent Client Protocol）subagent 后端，用于选择委派提供方、配置子 ACP agent（智 — packages/subagent/subagent-acp/README.zh.md
+- @deepseek-ai/dsh-subagent-claude-code — description: "The one-shot Claude Code subagent provider for users and maintainers choosin — packages/subagent/subagent-claude-code/README.md
+- @deepseek-ai/dsh-subagent-claude-code — description: "面向用户与维护者的一次性 Claude Code subagent 提供方，用于选择产品后端、安装 Profile bundle 或配置无人值守的 Cl — packages/subagent/subagent-claude-code/README.zh.md
+- @deepseek-ai/dsh-subagent-codex — description: "The one-shot Codex subagent provider for users and maintainers choosing a pr — packages/subagent/subagent-codex/README.md
+- @deepseek-ai/dsh-subagent-codex — description: "面向用户与维护者的一次性 Codex subagent 提供方，用于选择产品后端、安装 Profile bundle 或配置无人值守的 Codex 委派 — packages/subagent/subagent-codex/README.zh.md
+- @deepseek-ai/dsh-subagent-dsh-sdk — description: "The out-of-process SDK subagent backend for users and maintainers choosing a — packages/subagent/subagent-dsh-sdk/README.md

@@ -1,0 +1,46 @@
+# docs: .agents (2583 篇, part 53/66)
+
+- Agent Note: POSIX SSH 执行提供方 — Status: implemented — .agents/notes/implemented/architecture/2026-09-11-posix-ssh-runtime.zh.md
+- Agent Note: Sandboxed Node execution for PTC — Status: implemented — .agents/notes/implemented/architecture/2026-09-11-sandboxed-node-ptc-runtime.md
+- Agent Note: PTC 的沙箱 Node 执行 — Status: implemented — .agents/notes/implemented/architecture/2026-09-11-sandboxed-node-ptc-runtime.zh.md
+- Agent Note: Subprocess control pipe — Status: implemented — .agents/notes/implemented/architecture/2026-09-11-subprocess-control-pipe.md
+- Agent Note: Subprocess control pipe — Status: implemented — .agents/notes/implemented/architecture/2026-09-11-subprocess-control-pipe.zh.md
+- Agent Note: Browser-use provider registration and Session ownership — Status: implemented — .agents/notes/implemented/architecture/2026-09-12-browser-use-provider-registration.md
+- Agent Note: 浏览器操作提供方注册与 Session 所有权 — Status: implemented — .agents/notes/implemented/architecture/2026-09-12-browser-use-provider-registration.zh.md
+- Agent Note: Computer-use provider registration — Status: implemented — .agents/notes/implemented/architecture/2026-09-12-computer-use-provider-registration.md
+- Agent Note: Computer-use provider registration — Status: implemented — .agents/notes/implemented/architecture/2026-09-12-computer-use-provider-registration.zh.md
+- Agent Note: Session working directory — Status: implemented — .agents/notes/implemented/architecture/2026-09-13-session-working-directory.md
+- Agent Note: Session working directory — Status: implemented — .agents/notes/implemented/architecture/2026-09-13-session-working-directory.zh.md
+- Agent Note: Reuse the PTC Node sandbox for workflows — Status: implemented — .agents/notes/implemented/architecture/2026-09-13-workflow-ptc-sandbox-reuse.md
+- Agent Note: 工作流复用 PTC Node 沙箱 — Status: implemented — .agents/notes/implemented/architecture/2026-09-13-workflow-ptc-sandbox-reuse.zh.md
+- Agent Note: Current-profile plugin management shares CLI transactions — Status: implemented — .agents/notes/implemented/architecture/2026-09-14-current-profile-plugin-management.md
+- Agent Note：当前 profile 插件管理共享 CLI 事务 — Status: implemented — .agents/notes/implemented/architecture/2026-09-14-current-profile-plugin-management.zh.md
+- Agent Note: DeepSeek account browser login — Status: implemented — .agents/notes/implemented/architecture/2026-09-14-deepseek-account-login.md
+- Agent Note: DeepSeek 账号浏览器登录 — Status: implemented — .agents/notes/implemented/architecture/2026-09-14-deepseek-account-login.zh.md
+- Agent Note: Independent LibreOffice kit ownership — Status: implemented — .agents/notes/implemented/architecture/2026-09-14-independent-libreoffice-kit.md
+- Agent Note: 独立 LibreOffice kit 的归属 — Status: implemented — .agents/notes/implemented/architecture/2026-09-14-independent-libreoffice-kit.zh.md
+- Agent Note: Default DeepSeek Session-log upload — Status: implemented — .agents/notes/implemented/architecture/2026-09-14-session-log-upload-default.md
+- Agent Note: DeepSeek 会话日志默认上传 — Status: implemented — .agents/notes/implemented/architecture/2026-09-14-session-log-upload-default.zh.md
+- Agent Note: Web app-owned routes are document-relative — Status: implemented — .agents/notes/implemented/architecture/2026-09-14-web-document-relative-app-routes.md
+- Agent Note: Web 应用自有路由相对文档寻址 — Status: implemented — .agents/notes/implemented/architecture/2026-09-14-web-document-relative-app-routes.zh.md
+- Agent Note: Bounded shared Office conversion — Status: implemented — .agents/notes/implemented/architecture/2026-09-15-bounded-office-conversion.md
+- Agent Note: 有界的共享 Office 转换 — Status: implemented — .agents/notes/implemented/architecture/2026-09-15-bounded-office-conversion.zh.md
+- Agent Note: Client Session references, reference sources, and UI status — Status: implemented — .agents/notes/implemented/architecture/2026-09-15-client-session-references.md
+- Agent Note: Client Session 引用、引用来源与 UI 状态 — Status: implemented — .agents/notes/implemented/architecture/2026-09-15-client-session-references.zh.md
+- Agent Note: Native Desktop fatal recovery — Status: implemented — .agents/notes/implemented/architecture/2026-09-15-desktop-native-fatal-recovery.md
+- Agent Note: 原生 Desktop 致命错误恢复 — Status: implemented — .agents/notes/implemented/architecture/2026-09-15-desktop-native-fatal-recovery.zh.md
+- Agent Note: First-class tool-role messages — Status: implemented — .agents/notes/implemented/architecture/2026-09-15-first-class-tool-role-messages.md
+- Agent Note：一等 tool-role 消息 — Status: implemented — .agents/notes/implemented/architecture/2026-09-15-first-class-tool-role-messages.zh.md
+- Agent Note: Guided plugin installation — Status: implemented — .agents/notes/implemented/architecture/2026-09-15-guided-plugin-installation.md
+- Agent Note：引导式插件安装 — Status: implemented — .agents/notes/implemented/architecture/2026-09-15-guided-plugin-installation.zh.md
+- Agent Note: Creator mode installs persistent plugin bundles — Status: implemented — .agents/notes/implemented/architecture/2026-09-16-creator-persistent-plugin-management.md
+- Agent Note: 创造模式安装持久化插件组合包 — Status: implemented — .agents/notes/implemented/architecture/2026-09-16-creator-persistent-plugin-management.zh.md
+- Agent Note: Experimental voice input with explicit recognition providers — Status: implemented — .agents/notes/implemented/architecture/2026-09-16-experimental-voice-input.md
+- Agent Note：使用显式识别 Provider 的实验性语音输入 — Status: implemented — .agents/notes/implemented/architecture/2026-09-16-experimental-voice-input.zh.md
+- Agent Note: Host-owned scheduled messages — Status: implemented — .agents/notes/implemented/architecture/2026-09-16-host-schedule-storage.md
+- Agent Note: Host 拥有的定时消息 — Status: implemented — .agents/notes/implemented/architecture/2026-09-16-host-schedule-storage.zh.md
+- Agent Note: User-terminal permissions — Status: implemented — .agents/notes/implemented/architecture/2026-09-16-user-terminal-permissions.md
+- Agent Note: User-terminal permissions — Status: implemented — .agents/notes/implemented/architecture/2026-09-16-user-terminal-permissions.zh.md
+- Agent Note: Account provider and active request cancellation — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-account-provider-signout.md
+- Agent Note: 账号提供方与当前请求取消 — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-account-provider-signout.zh.md
+- Agent Note: Developer messages for incremental session changes — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-developer-session-changes.md

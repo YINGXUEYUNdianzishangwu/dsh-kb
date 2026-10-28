@@ -1,0 +1,32 @@
+# docs: packages (830 篇, part 14/26)
+
+- packages/goal — description: "goal 组地图：每会话一个持久的完成目标，以及模型工具、用户命令与自动续行，供浏览本组的用户与维护者阅读。" — packages/goal/README.zh.md
+- @deepseek-ai/dsh-tool-goal — description: "The model-facing goal tools for users and maintainers choosing, composing, o — packages/goal/tool-goal/README.md
+- @deepseek-ai/dsh-tool-goal — description: "面向选择、组合或排查 getgoal、creategoal 与 updategoal 的用户与维护者的模型侧 goal 工具说明。" — packages/goal/tool-goal/README.zh.md
+- guard/ — loop-hygiene guard family — description: "Package map for the loop-hygiene guard family: the advisory repeat-tool remi — packages/guard/README.md
+- guard/：循环卫生 guard 家族 — description: "循环卫生 guard 家族的包映射：建议性重复工具提醒与单次工具调用超时策略，供选择或组合 guard 的用户与维护者阅读。" — packages/guard/README.zh.md
+- @deepseek-ai/dsh-repeat-tool-reminder — description: "Advisory loop-hygiene guard that nudges the model out of identical tool-call — packages/guard/repeat-tool-reminder/README.md
+- @deepseek-ai/dsh-repeat-tool-reminder — description: "建议性循环卫生 guard：当 agent（智能体）重复完全相同的工具调用时提醒模型，供选择、配置或排查此插件的用户与维护者阅读。" — packages/guard/repeat-tool-reminder/README.zh.md
+- @deepseek-ai/dsh-tool-call-timeout-policy — description: "Cooperative time limit for cancellation-aware tool calls, mapping a settled  — packages/guard/timeout-policy/README.md
+- @deepseek-ai/dsh-tool-call-timeout-policy — description: "为配合取消的工具调用设置协作式时间上限，并在超时流程完成后映射为清晰的模型错误，供选择或排查此插件的用户与维护者阅读。" — packages/guard/timeout-policy/README.zh.md
+- @deepseek-ai/dsh-host-directory-picker — description: "Workspace-directory picking seam for the web GUI host: the service contract, — packages/host/directory-picker/README.md
+- @deepseek-ai/dsh-host-directory-picker — description: "面向 web GUI 宿主的工作区目录选择 seam：原生与浏览后端所实现的服务约定、能力词汇与错误码。" — packages/host/directory-picker/README.zh.md
+- @deepseek-ai/dsh-host-directory-picker-auto — description: "Adaptive chooser of the directory-picker seam: resolves the web GUI host's s — packages/host/directory-picker-auto/README.md
+- @deepseek-ai/dsh-host-directory-picker-auto — description: "目录选择 seam 的自适应选择器：在启动时判定一次 web GUI 宿主的处境，并挂载匹配的原生或浏览后端。" — packages/host/directory-picker-auto/README.zh.md
+- @deepseek-ai/dsh-host-directory-picker-browse — description: "In-app browsing backend of the directory-picker seam: one-level directory li — packages/host/directory-picker-browse/README.md
+- @deepseek-ai/dsh-host-directory-picker-browse — description: "目录选择 seam 的应用内浏览后端：为 web GUI 宿主提供单层目录列举与子目录创建，也能服务于远程客户端。" — packages/host/directory-picker-browse/README.zh.md
+- @deepseek-ai/dsh-host-directory-picker-native — description: "Native-OS-chooser backend of the directory-picker seam: opens one platform c — packages/host/directory-picker-native/README.md
+- @deepseek-ai/dsh-host-directory-picker-native — description: "目录选择 seam 的原生 OS 选择器后端：为坐在 web GUI 宿主屏幕前的操作者每次打开一个平台选择器。" — packages/host/directory-picker-native/README.zh.md
+- @deepseek-ai/dsh-host-frontend-static — description: "SPA dist server for the Web shell: claims the webserver fallback seat and se — packages/host/frontend-static/README.md
+- @deepseek-ai/dsh-host-frontend-static — description: "Web 壳的 SPA dist 服务器：占据 webserver 回退席位，以遍历拒绝与 SPA index 回退服务已构建的前端。" — packages/host/frontend-static/README.zh.md
+- @deepseek-ai/dsh-host-open-in-app — description: "Host half of open-in-app: resolving installed editors, Git GUIs, terminals,  — packages/host/open-in-app/README.md
+- @deepseek-ai/dsh-host-open-in-app — description: "open-in-app 的主机半边：在 macOS、Windows、Linux 上把已安装的编辑器、Git GUI、终端与文件管理器解析为已验证的启动器 — packages/host/open-in-app/README.zh.md
+- @deepseek-ai/dsh-host-plugin-inventory — description: "Read-only projection of the current Cordis Loader plugin state with each age — packages/host/plugin-inventory/README.md
+- @deepseek-ai/dsh-host-plugin-inventory — description: "当前 Cordis Loader 插件状态的只读投影，并附带每个 agent preset（智能体预设）的组合：面向 web GUI 宿主客户端的 pl — packages/host/plugin-inventory/README.zh.md
+- @deepseek-ai/dsh-host-product-telemetry-otel — description: "Configure explicit product usage events, OTLP/HTTP routing, batching, and sh — packages/host/product-telemetry-otel/README.md
+- @deepseek-ai/dsh-host-product-telemetry-otel — description: "配置显式产品使用事件、OTLP/HTTP 路由、批量发送与退出等待上限。" — packages/host/product-telemetry-otel/README.zh.md
+- host/ — web-GUI host half — description: "Package map for the web GUI host half: the HTTP and SPA servers, workspace-d — packages/host/README.md
+- host/ — Web GUI 宿主侧 — description: "Web GUI Host 侧的包映射：HTTP 与 SPA 服务器、工作区目录选择实现、open-in-app 启动路由、插件清单投影和显式产品事件上报 — packages/host/README.zh.md
+- @deepseek-ai/dsh-host-webserver — description: "The web GUI host's HTTP server: named-route and upgrade registration, an opt — packages/host/webserver/README.md
+- @deepseek-ai/dsh-host-webserver — description: "web GUI 宿主的 HTTP 服务器：具名路由与 upgrade 注册、可选的 TLS 监听、index 转换，以及服务 Web 壳 SPA dis — packages/host/webserver/README.zh.md
+- @deepseek-ai/dsh-anonymous-user-id — description: "Anonymous per-harness-home identity for users and maintainers tracing how te — packages/identity/anonymous-user-id/README.md

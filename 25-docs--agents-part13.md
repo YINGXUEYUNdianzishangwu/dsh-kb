@@ -1,0 +1,38 @@
+# docs: .agents (2583 篇, part 13/66)
+
+- Agent Note: 空白会话打开期间保持 hero 可见 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-hero-visible-while-blank-session-opens.zh.md
+- Agent Note: Resume selector folds titles only — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-resume-selector-batch-projection.md
+- Agent Note: 恢复选择器只折叠标题 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-resume-selector-batch-projection.zh.md
+- Agent Note: Same-basename Workspace adoption — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-same-basename-workspace-adoption.md
+- Agent Note: 接纳 basename 相同的 Workspace — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-same-basename-workspace-adoption.zh.md
+- Agent Note: TUI diff context lines stay neutral — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-tui-diff-context-line-accounting.md
+- Agent Note: TUI diff 上下文行保持中性 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-tui-diff-context-line-accounting.zh.md
+- Agent Note: Web stop preserves pending Queue — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-web-stop-preserves-queue.md
+- Agent Note: Web 停止操作保留待处理 Queue — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-web-stop-preserves-queue.zh.md
+- Agent Note: Reject human interaction from runtime-owned subagents — Status: implemented — .agents/notes/archived/bug-fix/2026-08-01-ask-user-delegated-caller-guard.md
+- Agent Note: 拒绝运行时中归属于其他 agent 的 subagent 向人类发起交互 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-01-ask-user-delegated-caller-guard.zh.md
+- Agent Note: Goal-round wrap-up message — Status: implemented — .agents/notes/archived/bug-fix/2026-08-02-goal-round-wrapup-message.md
+- Agent Note: Goal Round 收尾消息 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-02-goal-round-wrapup-message.zh.md
+- Agent Note: Message fork actions require a completed turn tail — Status: implemented — .agents/notes/archived/bug-fix/2026-08-02-message-fork-actions-require-completed-turn-tail.md
+- Agent Note: 消息 fork 操作要求消息位于已完成轮次尾部 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-02-message-fork-actions-require-completed-turn-tail.zh.md
+- Agent Note: Todo-first composer context order — Status: implemented — .agents/notes/archived/bug-fix/2026-08-02-todo-first-composer-context-order.md
+- Agent Note: Todo 优先的 composer 上下文顺序 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-02-todo-first-composer-context-order.zh.md
+- Agent Note: Bounded, escalating signal shutdown for Web and headless — Status: implemented — .agents/notes/archived/bug-fix/2026-08-03-cli-signal-shutdown-escalation.md
+- Agent Note: Web 与 headless 的有界信号关闭和重复信号强制退出 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-03-cli-signal-shutdown-escalation.zh.md
+- Agent Note: HMR's initial scan deadlocked a failing boot into a silent exit 13 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-03-hmr-initial-scan-boot-deadlock.md
+- Agent Note: HMR 初始扫描使失败的启动死锁为静默的 exit 13 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-03-hmr-initial-scan-boot-deadlock.zh.md
+- Agent Note: TUI long-session render costs — shared step-timing scan and card line caches — Status: implemented — .agents/notes/archived/bug-fix/2026-08-03-tui-long-session-render-costs.md
+- Agent Note: TUI 长会话渲染开销：共享步骤耗时扫描与卡片行缓存 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-03-tui-long-session-render-costs.zh.md
+- Agent Note: The conversation column reserves one scrollbar gutter for every view — Status: implemented — .agents/notes/archived/bug-fix/2026-08-04-composer-tab-gutter-reservation.md
+- Agent Note: 会话列为每个视图预留同一条滚动条槽 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-04-composer-tab-gutter-reservation.zh.md
+- Agent Note: Large history provenance is scanned without argument expansion — Status: implemented — .agents/notes/archived/bug-fix/2026-08-04-large-history-pagination-call-stack.md
+- Agent Note: 大规模历史记录的溯源信息通过扫描处理，不做参数展开 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-04-large-history-pagination-call-stack.zh.md
+- Agent Note: the context meter could not see a compaction — Status: implemented — .agents/notes/archived/bug-fix/2026-08-05-context-meter-blind-to-compaction.md
+- Agent Note: 上下文仪表看不见压缩 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-05-context-meter-blind-to-compaction.zh.md
+- Agent Note: Turn-tail IconActions require a completed turn — Status: implemented — .agents/notes/archived/bug-fix/2026-08-05-turn-tail-actions-require-a-completed-turn.md
+- Agent Note: 轮次尾部 IconActions 要求轮次已完成 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-05-turn-tail-actions-require-a-completed-turn.zh.md
+- Agent Note: Workspace New Session reuse hijacked cwd-matching unaccounted blank sessions — Status: implemented — .agents/notes/archived/bug-fix/2026-08-05-workspace-blank-session-reuse-membership.md
+- Agent Note: 工作区新建会话复用了 cwd 匹配但未入账的空白会话 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-05-workspace-blank-session-reuse-membership.zh.md
+- Agent Note: Validate API key format before it reaches an HTTP header — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-api-key-format-validation.md
+- Agent Note: 在 API Key 进入 HTTP header 之前校验其格式 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-api-key-format-validation.zh.md
+- Agent Note: isolate bwrap from the host PID namespace — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-bwrap-private-pid-namespace.md

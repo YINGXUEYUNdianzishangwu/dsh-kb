@@ -1,0 +1,33 @@
+# docs: packages (830 篇, part 10/26)
+
+- @deepseek-ai/dsh-experimental-badge-skill-bundle — description: "让 Agent 为文档、PR 等产出添加「powered by dsh」徽章。" — packages/experimental/badge-skill-bundle/README.zh.md
+- @deepseek-ai/dsh-experimental-browser-use-chrome-devtools-mcp — description: "Operate Chromium through Chrome DevTools MCP with separate browser state for — packages/experimental/browser-use-chrome-devtools-mcp/README.md
+- @deepseek-ai/dsh-experimental-browser-use-chrome-devtools-mcp — description: "通过 Chrome DevTools MCP 操作 Chromium，为每个活动 Session 保持独立浏览器状态。" — packages/experimental/browser-use-chrome-devtools-mcp/README.zh.md
+- @deepseek-ai/dsh-experimental-browser-use-playwright-mcp — description: "Operate Chromium through Playwright MCP with separate browser state for each — packages/experimental/browser-use-playwright-mcp/README.md
+- @deepseek-ai/dsh-experimental-browser-use-playwright-mcp — description: "通过 Playwright MCP 操作 Chromium，为每个活动 Session 保持独立浏览器状态。" — packages/experimental/browser-use-playwright-mcp/README.zh.md
+- @deepseek-ai/dsh-experimental-browser-use-runtime — description: "Share per-Session browser ownership and MCP activation across experimental b — packages/experimental/browser-use-runtime/README.md
+- @deepseek-ai/dsh-experimental-browser-use-runtime — description: "在实验性浏览器提供方之间共享按 Session 管理的浏览器所有权与 MCP 激活。" — packages/experimental/browser-use-runtime/README.zh.md
+- @deepseek-ai/dsh-experimental-browser-use-stagehand-native — description: "Control Chromium through Stagehand native browser operations and explicitly  — packages/experimental/browser-use-stagehand-native/README.md
+- @deepseek-ai/dsh-experimental-browser-use-stagehand-native — description: "通过 Stagehand 原生浏览器操作与显式配置的模型推理控制 Chromium。" — packages/experimental/browser-use-stagehand-native/README.zh.md
+- @deepseek-ai/dsh-experimental-claude-code-mods — description: "Experimental bridge that runs Claude Code mods as DSH plugins: their registe — packages/experimental/claude-code-mods/README.md
+- @deepseek-ai/dsh-experimental-claude-code-mods — description: "实验性桥接：把 Claude Code 模组作为 DSH 插件运行——其 register(on, options) 钩子可守卫工具调用、改写提示词、添 — packages/experimental/claude-code-mods/README.zh.md
+- @deepseek-ai/dsh-experimental-client-ui-agent-team — description: "Use and debug the experimental Web Agent Teams roster, shared task board, an — packages/experimental/client-ui-agent-team/README.md
+- @deepseek-ai/dsh-experimental-client-ui-agent-team — description: "使用并排查实验性 Web Agent Teams roster、共享任务板与 teammate 导航面板。" — packages/experimental/client-ui-agent-team/README.zh.md
+- @deepseek-ai/dsh-experimental-client-ui-claude-code-mods — description: "Web band above the prompt for Claude Code mods: draws each session's mod tre — packages/experimental/client-ui-claude-code-mods/README.md
+- @deepseek-ai/dsh-experimental-client-ui-claude-code-mods — description: "面向 Claude Code 模组的提示框上方 Web 横幅：从桥接的 Remote 绘制每个会话的模组树，并把按钮点击发回。" — packages/experimental/client-ui-claude-code-mods/README.zh.md
+- @deepseek-ai/dsh-experimental-client-ui-cot-translation — description: "Machine-translate expanded reasoning while retaining the original text and s — packages/experimental/client-ui-cot-translation/README.md
+- @deepseek-ai/dsh-experimental-client-ui-cot-translation — description: "对展开的思考内容进行机器翻译，同时保留原文和已保存结果。" — packages/experimental/client-ui-cot-translation/README.zh.md
+- @deepseek-ai/dsh-experimental-client-ui-voice-input — description: "Record speech and insert reviewable transcripts into the conversation draft. — packages/experimental/client-ui-voice-input/README.md
+- @deepseek-ai/dsh-experimental-client-ui-voice-input — description: "录制语音并将可确认的转写文字插入会话草稿。" — packages/experimental/client-ui-voice-input/README.zh.md
+- @deepseek-ai/dsh-experimental-computer-use-cua-driver-mcp — description: "Configure experimental local computer use with an installed Cua Driver MCP e — packages/experimental/computer-use-cua-driver-mcp/README.md
+- @deepseek-ai/dsh-experimental-computer-use-cua-driver-mcp — description: "通过已安装的 Cua Driver MCP 可执行程序和独占提供者注册，配置实验性本地计算机使用能力。" — packages/experimental/computer-use-cua-driver-mcp/README.zh.md
+- @deepseek-ai/dsh-experimental-computer-use-cua-driver-native — description: "Run Cua Driver computer-use tools from its native npm SDK, with durable scre — packages/experimental/computer-use-cua-driver-native/README.md
+- @deepseek-ai/dsh-experimental-computer-use-cua-driver-native — description: "通过原生 npm SDK 运行 Cua Driver 的电脑操作工具，持久化截图，并明确主机桌面权限要求。" — packages/experimental/computer-use-cua-driver-native/README.zh.md
+- @deepseek-ai/dsh-experimental-cot-translation-bundle — description: "Enable machine translation of displayed reasoning from the Plugins page." — packages/experimental/cot-translation-bundle/README.md
+- @deepseek-ai/dsh-experimental-cot-translation-bundle — description: "从插件页面启用已展示思考内容的机器翻译。" — packages/experimental/cot-translation-bundle/README.zh.md
+- @deepseek-ai/dsh-cua — description: "Reuse Computer Use application and window objects with authorized, logged pl — packages/experimental/cua/README.md
+- @deepseek-ai/dsh-cua — description: "复用 Computer Use 应用和窗口对象，通过已授权并记录日志的平台操作完成任务。" — packages/experimental/cua/README.zh.md
+- dsh-cua native helper — description: "Native macOS helper protocol, input semantics, shared-service lifecycle and  — packages/experimental/cua-macos/native/README.md
+- dsh-cua 原生辅助程序 — description: "macOS 原生辅助程序的请求协议、输入语义、共享服务和验证命令。" — packages/experimental/cua-macos/native/README.zh.md
+- @deepseek-ai/dsh-experimental-cua-macos — description: "Inspect and operate native macOS applications through scoped app and window  — packages/experimental/cua-macos/README.md
+- @deepseek-ai/dsh-experimental-cua-macos — description: "通过按应用和窗口限定的对象，观察和操作原生 macOS 应用。" — packages/experimental/cua-macos/README.zh.md

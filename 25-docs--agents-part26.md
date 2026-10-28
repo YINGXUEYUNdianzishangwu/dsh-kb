@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 26/66)
+
+- Agent Note: 为待处理队列项提供编辑与移除操作 — Status: implemented — .agents/notes/archived/feature/2026-07-29-addressable-queue-operations.zh.md
+- Agent Note: Ask-question Web presentation — Status: implemented — .agents/notes/archived/feature/2026-07-29-ask-question-web-presentation.md
+- Agent Note: Ask-question Web 呈现 — Status: implemented — .agents/notes/archived/feature/2026-07-29-ask-question-web-presentation.zh.md
+- Agent Note: Adaptive default for the directory-picker interaction — Status: implemented — .agents/notes/archived/feature/2026-07-29-directory-picker-adaptive-default.md
+- Agent Note: 目录选择交互的自适应默认值 — Status: implemented — .agents/notes/archived/feature/2026-07-29-directory-picker-adaptive-default.zh.md
+- Agent Note: Persistent Bash and string-replacement editor tools — Status: implemented — .agents/notes/archived/feature/2026-07-29-persistent-bash-str-replace-editor.md
+- Agent Note: 持久 Bash 与字符串替换编辑器工具 — Status: implemented — .agents/notes/archived/feature/2026-07-29-persistent-bash-str-replace-editor.zh.md
+- Agent Note: TUI hidden mode folds a turn's assistant steps into one message — Status: implemented — .agents/notes/archived/feature/2026-07-29-tui-hidden-mode-assistant-fold.md
+- Agent Note: TUI 隐藏模式把一个轮次的 assistant 步骤折叠为一条消息 — Status: implemented — .agents/notes/archived/feature/2026-07-29-tui-hidden-mode-assistant-fold.zh.md
+- Agent Note: Web message IconActions and clocks — Status: implemented — .agents/notes/archived/feature/2026-07-29-web-message-icon-actions-and-clock.md
+- Agent Note: Web 消息 IconActions 与时钟 — Status: implemented — .agents/notes/archived/feature/2026-07-29-web-message-icon-actions-and-clock.zh.md
+- Agent Note: Live standalone compaction progress in the terminal — Status: implemented — .agents/notes/archived/feature/2026-07-30-compaction-progress-visibility.md
+- Agent Note: 终端中的实时独立压缩进度 — Status: implemented — .agents/notes/archived/feature/2026-07-30-compaction-progress-visibility.zh.md
+- Agent Note: Current sandbox policy context — Status: implemented — .agents/notes/archived/feature/2026-07-30-current-sandbox-policy-context.md
+- Agent Note: 当前沙箱策略上下文 — Status: implemented — .agents/notes/archived/feature/2026-07-30-current-sandbox-policy-context.zh.md
+- Agent Note: official DeepSeek first-run credential setup — Status: implemented — .agents/notes/archived/feature/2026-07-30-deepseek-onboarding-credential-setup.md
+- Agent Note: DeepSeek 官方首次使用凭据配置 — Status: implemented — .agents/notes/archived/feature/2026-07-30-deepseek-onboarding-credential-setup.zh.md
+- Agent Note: dsh --dump-config prints the composed config tree — Status: implemented — .agents/notes/archived/feature/2026-07-30-dsh-dump-config.md
+- Agent Note: dsh --dump-config 打印合成后的配置树 — Status: implemented — .agents/notes/archived/feature/2026-07-30-dsh-dump-config.zh.md
+- Agent Note: Plan review as a decision, not a question — Status: implemented — .agents/notes/archived/feature/2026-07-30-plan-review-presentation-intent.md
+- Agent Note: 计划审阅是一次决定，不是一道题 — Status: implemented — .agents/notes/archived/feature/2026-07-30-plan-review-presentation-intent.zh.md
+- Agent Note: Queued manual compaction with one durable lock — Status: implemented — .agents/notes/archived/feature/2026-07-30-queued-manual-compaction.md
+- Agent Note: 使用单一持久锁实现排队手动压缩 — Status: implemented — .agents/notes/archived/feature/2026-07-30-queued-manual-compaction.zh.md
+- Agent Note: Search render intent — grep and glob emit a structured search card — Status: implemented — .agents/notes/archived/feature/2026-07-30-search-render-card.md
+- Agent Note: 搜索渲染意图——grep 与 glob 产出结构化搜索卡片 — Status: implemented — .agents/notes/archived/feature/2026-07-30-search-render-card.zh.md
+- Agent Note: /details command for transcript detail state — Status: implemented — .agents/notes/archived/feature/2026-07-30-tui-details-command.md
+- Agent Note: 用于 transcript 细节状态的 /details 命令 — Status: implemented — .agents/notes/archived/feature/2026-07-30-tui-details-command.zh.md
+- Agent Note: Versioned GUI welcome onboarding — Status: implemented — .agents/notes/archived/feature/2026-07-30-versioned-gui-welcome-onboarding.md
+- Agent Note: 版本化 GUI 欢迎引导 — Status: implemented — .agents/notes/archived/feature/2026-07-30-versioned-gui-welcome-onboarding.zh.md
+- Agent Note: Versioned TUI first-run welcome — Status: implemented — .agents/notes/archived/feature/2026-07-30-versioned-tui-first-run-welcome.md
+- Agent Note: 版本化 TUI 首次运行欢迎页 — Status: implemented — .agents/notes/archived/feature/2026-07-30-versioned-tui-first-run-welcome.zh.md
+- Agent Note: Web composer stats detail and input-zone polish — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-composer-stats-and-input-polish.md
+- Agent Note: Web composer stats detail and input-zone polish — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-composer-stats-and-input-polish.zh.md
+- Agent Note: Web context injection disclosure — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-context-injection-disclosure.md
+- Agent Note: Web 上下文注入展开项 — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-context-injection-disclosure.zh.md
+- Agent Note: Web diff card — the write/edit render intent reaches the browser — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-diff-card.md
+- Agent Note: Web diff 卡片 —— write/edit 渲染意图抵达浏览器 — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-diff-card.zh.md
+- Agent Note: Steer a queued Web message into the active turn — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-queue-steer-action.md
+- Agent Note: 将 Web 已排队消息转为活动轮次的 steering（中途引导） — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-queue-steer-action.zh.md

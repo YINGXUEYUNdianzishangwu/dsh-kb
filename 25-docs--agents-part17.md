@@ -1,0 +1,38 @@
+# docs: .agents (2583 篇, part 17/66)
+
+- Agent Note: Token-meter surface fold commits in place through a plan/commit pair — Status: implemented — .agents/notes/archived/bug-fix/2026-08-24-token-meter-surface-fold-plan-commit.md
+- Agent Note: token-meter surface fold 改为 plan/commit 两段式原地提交 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-24-token-meter-surface-fold-plan-commit.zh.md
+- Agent Note: Composer e2e gestures gate on the contenteditable attribute — Status: implemented — .agents/notes/archived/bug-fix/2026-08-26-composer-gesture-editable-gate.md
+- Agent Note: Composer e2e 手势以 contenteditable 属性为门 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-26-composer-gesture-editable-gate.zh.md
+- Agent Note: pi-ai grant payloads store their JSON image — Status: implemented — .agents/notes/archived/bug-fix/2026-08-26-pi-ai-grant-payload-json-image.md
+- Agent Note: pi-ai grant payload 落盘其 JSON 像 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-26-pi-ai-grant-payload-json-image.zh.md
+- Agent Note: Question drafts survive Session switches — Status: implemented — .agents/notes/archived/bug-fix/2026-08-26-question-drafts-survive-session-switch.md
+- Agent Note: 提问草稿在 Session 切换后保留 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-26-question-drafts-survive-session-switch.zh.md
+- Agent Note: Stable Turn-process ordering — Status: implemented — .agents/notes/archived/bug-fix/2026-08-26-stable-turn-process-order.md
+- Agent Note: 稳定的轮次过程排序 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-26-stable-turn-process-order.zh.md
+- Agent Note: Steer and follow-up image delivery — Status: implemented — .agents/notes/archived/bug-fix/2026-08-27-steer-followup-image-delivery.md
+- Agent Note: steer 与 follow-up 的图片投递 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-27-steer-followup-image-delivery.zh.md
+- Agent Note: Linear drain for long-lived stream queues — Status: implemented — .agents/notes/archived/bug-fix/2026-08-28-linear-stream-queue-drain.md
+- Agent Note: 长期流队列的线性排空 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-28-linear-stream-queue-drain.zh.md
+- Agent Note: read_image accepts extension-less image paths — Status: implemented — .agents/notes/archived/bug-fix/2026-08-28-read-image-extensionless-paths.md
+- Agent Note: read_image 接受无扩展名图片路径 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-28-read-image-extensionless-paths.zh.md
+- Agent Note: The trigger menu keeps previous rows through refinement — Status: implemented — .agents/notes/archived/bug-fix/2026-08-28-trigger-menu-stale-while-revalidate.md
+- Agent Note: The trigger menu keeps previous rows through refinement — Status: implemented — .agents/notes/archived/bug-fix/2026-08-28-trigger-menu-stale-while-revalidate.zh.md
+- Agent Note: Bound in-flight binding calls, snapshot binding metadata, compact the reply queue, and meter wide completions with cursors in the CPython backend — Status: implemented — .agents/notes/archived/bug-fix/2026-08-29-code-runtime-python-call-backlog-and-binding-metadata-snapshot.md
+- Agent Note: 在 CPython 后端限制在途 binding 调用、快照 binding 元数据、压缩回复队列并用游标计量宽完成值 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-29-code-runtime-python-call-backlog-and-binding-metadata-snapshot.zh.md
+- Agent Note: Load-time pythonBin validation, binding snapshot, and reply-drain settle in the CPython backend — Status: implemented — .agents/notes/archived/bug-fix/2026-08-29-code-runtime-python-load-and-dispatch-hardening.md
+- Agent Note: CPython 后端的加载期 pythonBin 校验、binding 快照与回复排空结算 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-29-code-runtime-python-load-and-dispatch-hardening.zh.md
+- Agent Note: Bound the reply backlog and count lone surrogates without a match list in the CPython backend — Status: implemented — .agents/notes/archived/bug-fix/2026-08-29-code-runtime-python-reply-backlog-and-surrogate-count.md
+- Agent Note: 在 CPython 后端限制回复积压并改用长度差计数孤立代理项 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-29-code-runtime-python-reply-backlog-and-surrogate-count.zh.md
+- Agent Note: The drill claim is published before the edit that re-enters tracking — Status: implemented — .agents/notes/archived/bug-fix/2026-08-29-drill-claim-precedes-the-drill-edit.md
+- Agent Note: The drill claim is published before the edit that re-enters tracking — Status: implemented — .agents/notes/archived/bug-fix/2026-08-29-drill-claim-precedes-the-drill-edit.zh.md
+- Agent Note: Retry transient Windows atomic replacements — Status: implemented — .agents/notes/archived/bug-fix/2026-08-29-windows-atomic-replace-retry.md
+- Agent Note: 重试 Windows 上的瞬时原子替换失败 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-29-windows-atomic-replace-retry.zh.md
+- Agent Note: Read the Win32 picker path without a fixed-size unmanaged view — Status: implemented — .agents/notes/archived/bug-fix/2026-08-31-win32-picker-path-string-read.md
+- Agent Note: 不用固定长度的非托管视图读取 Win32 选择器路径 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-31-win32-picker-path-string-read.zh.md
+- Agent Note: Host-initiated goal pause aborts the live turn — Status: implemented — .agents/notes/archived/bug-fix/2026-09-01-host-goal-pause-aborts-turn.md
+- Agent Note: 宿主发起的 goal 暂停中止当前轮次 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-01-host-goal-pause-aborts-turn.zh.md
+- Agent Note: Fully qualified Workspace paths — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-fully-qualified-workspace-paths.md
+- Agent Note: Workspace 完全限定路径 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-fully-qualified-workspace-paths.zh.md
+- Agent Note: Suppressing Windows subprocess windows — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-hidden-windows-subprocess-windows.md
+- Agent Note: 隐藏 Windows 子进程窗口 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-hidden-windows-subprocess-windows.zh.md

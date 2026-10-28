@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 23/66)
+
+- Agent Note: TUI 启动横幅品牌渐变 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-banner-brand-gradient.zh.md
+- Agent Note: The banner sweeps in; the subtitle line is gone — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-banner-sweep.md
+- Agent Note: 横幅整体扫入；副标题行移除 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-banner-sweep.zh.md
+- Agent Note: The banner returns, borderless — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-borderless-banner.md
+- Agent Note: 横幅回归，无边框 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-borderless-banner.zh.md
+- Agent Note: TUI footer shows the session cache hit rate — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-footer-cache-hit-rate.md
+- Agent Note: TUI 页脚展示会话缓存命中率 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-footer-cache-hit-rate.zh.md
+- Agent Note: No startup banner — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-no-banner.md
+- Agent Note: 移除启动横幅 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-no-banner.zh.md
+- Agent Note: The /reload command re-reads loader configs on demand — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-reload-command.md
+- Agent Note: /reload 命令按需重读 loader 配置 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-reload-command.zh.md
+- Agent Note: Product-level TUI session resume — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-resume-command.md
+- Agent Note: 产品级 TUI 会话恢复 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-resume-command.zh.md
+- Agent Note: TUI skill slash command — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-skill-slash-command.md
+- Agent Note: TUI skill slash command — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-skill-slash-command.zh.md
+- Agent Note: TUI status line badges queued steering messages — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-steering-queue-badge.md
+- Agent Note: TUI 状态行标示排队中的 steering 消息 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-steering-queue-badge.zh.md
+- Agent Note: The running status line shows the turn phase and elapsed time — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-verbose-status-line.md
+- Agent Note: 运行状态行展示轮次阶段与已用时长 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-verbose-status-line.zh.md
+- Agent Note: Docked web goal bar — Status: implemented — .agents/notes/archived/feature/2026-07-22-docked-web-goal-bar.md
+- Agent Note: 停靠式 Web 目标条 — Status: implemented — .agents/notes/archived/feature/2026-07-22-docked-web-goal-bar.zh.md
+- Agent Note: Durable subagent catalog and list_agents — Status: implemented — .agents/notes/archived/feature/2026-07-22-durable-subagent-catalog-and-list-agents.md
+- Agent Note: 持久化 subagent 目录与 list_agents — Status: implemented — .agents/notes/archived/feature/2026-07-22-durable-subagent-catalog-and-list-agents.zh.md
+- Agent Note: Explicit web bind address — Status: implemented — .agents/notes/archived/feature/2026-07-22-web-bind-address.md
+- Agent Note: 显式指定 Web 绑定地址 — Status: implemented — .agents/notes/archived/feature/2026-07-22-web-bind-address.zh.md
+- Agent Note: Web multimodal image input and durable attachments — Status: implemented — .agents/notes/archived/feature/2026-07-22-web-multimodal-image-input-and-durable-attachments.md
+- Agent Note: Web 多模态图片输入与持久附件 — Status: implemented — .agents/notes/archived/feature/2026-07-22-web-multimodal-image-input-and-durable-attachments.zh.md
+- Agent Note: Session telemetry seam with mandatory redaction and the OTel backend — Status: implemented — .agents/notes/archived/feature/2026-07-23-session-telemetry-otel-revival.md
+- Agent Note: 设有强制脱敏点和 OTel 后端的会话遥测 seam — Status: implemented — .agents/notes/archived/feature/2026-07-23-session-telemetry-otel-revival.zh.md
+- Agent Note: Trajectory step cell and turn list chrome — Status: implemented — .agents/notes/archived/feature/2026-07-23-trajectory-step-cell.md
+- Agent Note: Trajectory 步骤单元格与轮次列表 chrome — Status: implemented — .agents/notes/archived/feature/2026-07-23-trajectory-step-cell.zh.md
+- Agent Note: TUI file-reference autocomplete — Status: implemented — .agents/notes/archived/feature/2026-07-23-tui-file-reference-autocomplete.md
+- Agent Note: TUI 文件引用自动补全 — Status: implemented — .agents/notes/archived/feature/2026-07-23-tui-file-reference-autocomplete.zh.md
+- Agent Note: TUI status inspects model request inputs — Status: implemented — .agents/notes/archived/feature/2026-07-23-tui-status-prompt-tools.md
+- Agent Note: TUI 状态检查模型请求输入 — Status: implemented — .agents/notes/archived/feature/2026-07-23-tui-status-prompt-tools.zh.md
+- Agent Note: Safe assistant Markdown in the Web conversation — Status: implemented — .agents/notes/archived/feature/2026-07-23-web-assistant-markdown.md
+- Agent Note: Web 对话中安全的 assistant Markdown — Status: implemented — .agents/notes/archived/feature/2026-07-23-web-assistant-markdown.zh.md
+- Agent Note: Web UI permission presets and approval answering — Status: implemented — .agents/notes/archived/feature/2026-07-23-web-permission-and-approval.md
+- Agent Note: Web UI 权限预设与审批应答 — Status: implemented — .agents/notes/archived/feature/2026-07-23-web-permission-and-approval.zh.md
+- Agent Note: Web todo display — snapshot side-effect channel + two render surfaces — Status: implemented — .agents/notes/archived/feature/2026-07-23-web-todo-display.md

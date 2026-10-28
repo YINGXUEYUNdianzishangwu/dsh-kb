@@ -1,0 +1,44 @@
+# docs: .agents (2583 篇, part 22/66)
+
+- Agent Note: 可选时间上下文插件 — Status: implemented — .agents/notes/archived/feature/2026-07-14-time-context-plugin.zh.md
+- Agent Note: Durable per-step time context — Status: implemented — .agents/notes/archived/feature/2026-07-16-durable-per-step-time-context.md
+- Agent Note: 持久的逐步骤时间上下文 — Status: implemented — .agents/notes/archived/feature/2026-07-16-durable-per-step-time-context.zh.md
+- Agent Note: Harness-level goal-based execution — Status: implemented — .agents/notes/archived/feature/2026-07-16-harness-level-loop.md
+- Agent Note: Harness 层目标式执行 — Status: implemented — .agents/notes/archived/feature/2026-07-16-harness-level-loop.zh.md
+- Agent Note: Dedicated full-screen TUI front door — Status: implemented — .agents/notes/archived/feature/2026-07-17-dedicated-full-screen-tui-front-door.md
+- Agent Note: 独立的全屏 TUI 入口 — Status: implemented — .agents/notes/archived/feature/2026-07-17-dedicated-full-screen-tui-front-door.zh.md
+- Agent Note: Fresh-agent Ralph workflow tool — Status: implemented — .agents/notes/archived/feature/2026-07-19-fresh-agent-ralph-workflow-tool.md
+- Agent Note: 全新 agent Ralph 工作流工具 — Status: implemented — .agents/notes/archived/feature/2026-07-19-fresh-agent-ralph-workflow-tool.zh.md
+- Agent Note: Human `/goal` command — Status: implemented — .agents/notes/archived/feature/2026-07-19-human-goal-command.md
+- Agent Note: 面向人类的 `/goal` 命令 — Status: implemented — .agents/notes/archived/feature/2026-07-19-human-goal-command.zh.md
+- Agent Note: Persisted same-session goal domain — Status: implemented — .agents/notes/archived/feature/2026-07-19-persisted-same-session-goal-domain.md
+- Agent Note: 持久化的同会话目标领域 — Status: implemented — .agents/notes/archived/feature/2026-07-19-persisted-same-session-goal-domain.zh.md
+- Agent Note: Plugin-owned human command registration — Status: implemented — .agents/notes/archived/feature/2026-07-19-plugin-command-registration.md
+- Agent Note: 插件自有的人类命令注册 — Status: implemented — .agents/notes/archived/feature/2026-07-19-plugin-command-registration.zh.md
+- Agent Note: Same-session goal-round driver — Status: implemented — .agents/notes/archived/feature/2026-07-19-same-session-goal-round-driver.md
+- Agent Note: 同会话 Goal Round 驱动器 — Status: implemented — .agents/notes/archived/feature/2026-07-19-same-session-goal-round-driver.zh.md
+- Agent Note: The dsh CLI and personal config overlays from the Harness home — Status: implemented — .agents/notes/archived/feature/2026-07-20-dsh-cli-personal-config.md
+- Agent Note: dsh CLI 与来自 Harness home 的个人配置 overlay — Status: implemented — .agents/notes/archived/feature/2026-07-20-dsh-cli-personal-config.zh.md
+- Agent Note: Startup slogans replace the configured TUI welcome line — Status: implemented — .agents/notes/archived/feature/2026-07-20-tui-startup-slogans.md
+- Agent Note: 启动 slogan 取代配置化的 TUI 欢迎语 — Status: implemented — .agents/notes/archived/feature/2026-07-20-tui-startup-slogans.zh.md
+- Agent Note: Support the TUI on Windows — Status: implemented — .agents/notes/archived/feature/2026-07-20-windows-tui-support.md
+- Agent Note: 在 Windows 上支持 TUI — Status: implemented — .agents/notes/archived/feature/2026-07-20-windows-tui-support.zh.md
+- Agent Note: Continuable background subagents — Status: implemented — .agents/notes/archived/feature/2026-07-21-continuable-background-subagents.md
+- Agent Note: 可继续的后台 subagent — Status: implemented — .agents/notes/archived/feature/2026-07-21-continuable-background-subagents.zh.md
+- Agent Note: Cross-session references — Status: implemented — .agents/notes/archived/feature/2026-07-21-cross-session-references.md
+- Agent Note: 跨会话引用 — Status: implemented — .agents/notes/archived/feature/2026-07-21-cross-session-references.zh.md
+- Agent Note: dsh tells the agent where its own source lives — Status: implemented — .agents/notes/archived/feature/2026-07-21-dsh-system-prompt-source-path.md
+- Agent Note: dsh 告知 agent 其自身源码所在位置 — Status: implemented — .agents/notes/archived/feature/2026-07-21-dsh-system-prompt-source-path.zh.md
+- Agent Note: Follow symlinked instruction files — Status: implemented — .agents/notes/archived/feature/2026-07-21-follow-instruction-symlinks.md
+- Agent Note: 跟随符号链接指向的指令文件 — Status: implemented — .agents/notes/archived/feature/2026-07-21-follow-instruction-symlinks.zh.md
+- Agent Note: Load all instruction candidates with per-directory dedup — Status: implemented — .agents/notes/archived/feature/2026-07-21-instruction-load-all-dedup.md
+- Agent Note: 加载全部指令候选并按目录去重 — Status: implemented — .agents/notes/archived/feature/2026-07-21-instruction-load-all-dedup.zh.md
+- Agent Note: Default local instruction overlay — Status: implemented — .agents/notes/archived/feature/2026-07-21-local-instruction-overlay.md
+- Agent Note: 默认的本地指令覆盖层 — Status: implemented — .agents/notes/archived/feature/2026-07-21-local-instruction-overlay.zh.md
+- Agent Note: Log-backed session titles — Status: implemented — .agents/notes/archived/feature/2026-07-21-log-backed-session-titles.md
+- Agent Note: 基于日志的会话标题 — Status: implemented — .agents/notes/archived/feature/2026-07-21-log-backed-session-titles.zh.md
+- Agent Note: Auto-titled terminal from the first message — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-auto-pane-title.md
+- Agent Note: 从首条消息自动命名终端 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-auto-pane-title.zh.md
+- Agent Note: Auto-title on by default, re-derived on resume — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-auto-title-default-on.md
+- Agent Note: 自动标题默认开启，恢复时重新推导 — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-auto-title-default-on.zh.md
+- Agent Note: TUI banner brand gradient — Status: implemented — .agents/notes/archived/feature/2026-07-21-tui-banner-brand-gradient.md

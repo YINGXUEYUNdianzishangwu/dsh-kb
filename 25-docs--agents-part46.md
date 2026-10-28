@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 46/66)
+
+- Agent Note: Shared base default file editor selection — Status: implemented — .agents/notes/archived/simplification/2026-09-05-base-default-file-editor.md
+- Agent Note: 共享 base 默认文件编辑器选择 — Status: implemented — .agents/notes/archived/simplification/2026-09-05-base-default-file-editor.zh.md
+- Agent Note: Reuse only loop-proven message freezes — Status: implemented — .agents/notes/archived/simplification/2026-09-06-agent-request-freeze-evidence.md
+- Agent Note: 仅复用循环已证明的消息冻结 — Status: implemented — .agents/notes/archived/simplification/2026-09-06-agent-request-freeze-evidence.zh.md
+- Agent Note: Scan file content without per-array callbacks — Status: implemented — .agents/notes/archived/simplification/2026-09-07-file-content-scan.md
+- Agent Note: 文件内容扫描不为每个数组创建回调 — Status: implemented — .agents/notes/archived/simplification/2026-09-07-file-content-scan.zh.md
+- Agent Note: Web subagent catalogs consume shared projections — Status: implemented — .agents/notes/archived/simplification/2026-09-08-web-subagent-catalog-projections.md
+- Agent Note：Web 子代理目录消费共享 projection — Status: implemented — .agents/notes/archived/simplification/2026-09-08-web-subagent-catalog-projections.zh.md
+- Agent Note: Derive Workspace recency independently of manual order — Status: implemented — .agents/notes/archived/simplification/2026-09-10-derived-workspace-recency.md
+- Agent Note: 独立于手动顺序派生 Workspace 最近更新顺序 — Status: implemented — .agents/notes/archived/simplification/2026-09-10-derived-workspace-recency.zh.md
+- Agent Note: Ship ralph off in the default compositions — Status: implemented — .agents/notes/archived/simplification/2026-09-12-ralph-off-in-shipped-defaults.md
+- Agent Note: 在随附默认组合中关闭 ralph — Status: implemented — .agents/notes/archived/simplification/2026-09-12-ralph-off-in-shipped-defaults.zh.md
+- Agent Note: Validate Remote inputs only on the Host — Status: implemented — .agents/notes/archived/simplification/2026-09-15-host-only-remote-input-validation.md
+- Agent Note: 仅在 Host 校验 Remote 输入 — Status: implemented — .agents/notes/archived/simplification/2026-09-15-host-only-remote-input-validation.zh.md
+- Agent Note: Model agent availability and Team targets — Status: implemented — .agents/notes/archived/simplification/2026-09-15-model-agent-availability-and-team-targets.md
+- Agent Note: 模型可见的 Agent 可用状态与 Team 目标 — Status: implemented — .agents/notes/archived/simplification/2026-09-15-model-agent-availability-and-team-targets.zh.md
+- Agent Note: Keep model configuration outside subagent catalogs — Status: implemented — .agents/notes/archived/simplification/2026-09-16-subagent-catalog-membership-only.md
+- Agent Note: 将模型配置保留在子代理目录之外 — Status: implemented — .agents/notes/archived/simplification/2026-09-16-subagent-catalog-membership-only.zh.md
+- Agent Note: One Messages transport for the official DeepSeek route — Status: implemented — .agents/notes/archived/simplification/2026-09-19-deepseek-messages-only.md
+- Agent Note: One Messages transport for the official DeepSeek route — Status: implemented — .agents/notes/archived/simplification/2026-09-19-deepseek-messages-only.zh.md
+- Agent Note: Property-based testing for protocol-shaped code — Status: implemented — .agents/notes/archived/testing/2026-06-11-property-based-testing.md
+- Agent Note: 对协议形态代码进行基于属性的测试 — Status: implemented — .agents/notes/archived/testing/2026-06-11-property-based-testing.zh.md
+- Agent Note: ACP snapshot tests — record-once / replay-deterministic — Status: implemented — .agents/notes/archived/testing/2026-06-19-acp-snapshot-tests.md
+- Agent Note: ACP 快照测试——一次录制 / 确定性回放 — Status: implemented — .agents/notes/archived/testing/2026-06-19-acp-snapshot-tests.zh.md
+- Agent Note: Use `session.jsonl` as the only snapshot session-log artifact — Status: implemented — .agents/notes/archived/testing/2026-06-20-remove-redundant-snapshot-log-expected-output.md
+- Agent Note: 使用 `session.jsonl` 作为唯一的快照会话日志产物 — Status: implemented — .agents/notes/archived/testing/2026-06-20-remove-redundant-snapshot-log-expected-output.zh.md
+- Agent Note: Persist the seed boundary so fork-child replay routes correctly — Status: implemented — .agents/notes/archived/testing/2026-06-22-fork-child-replay-seed-boundary.md
+- Agent Note: 持久化 seed 边界以确保 fork 子会话回放正确路由 — Status: implemented — .agents/notes/archived/testing/2026-06-22-fork-child-replay-seed-boundary.zh.md
+- Agent Note: Record fork and mixed spawn+fork snapshot scenarios — Status: implemented — .agents/notes/archived/testing/2026-06-22-fork-snapshot-scenarios.md
+- Agent Note: 记录 fork 与混合 spawn+fork 快照场景 — Status: implemented — .agents/notes/archived/testing/2026-06-22-fork-snapshot-scenarios.zh.md
+- Agent Note: Per-session snapshot replay for nested agents — Status: implemented — .agents/notes/archived/testing/2026-06-22-subagent-snapshot-replay.md
+- Agent Note: 嵌套 agent 的逐会话快照回放 — Status: implemented — .agents/notes/archived/testing/2026-06-22-subagent-snapshot-replay.zh.md
+- Agent Note: Hook snapshot matrix — end-to-end expected outputs for both bridges — Status: implemented — .agents/notes/archived/testing/2026-07-04-hook-snapshot-matrix.md
+- Agent Note: 钩子快照矩阵——覆盖两种 bridge 的端到端预期输出测试 — Status: implemented — .agents/notes/archived/testing/2026-07-04-hook-snapshot-matrix.zh.md
+- Agent Note: Single-source the acp-agent replay config — Status: implemented — .agents/notes/archived/testing/2026-07-04-single-source-acp-replay-config.md
+- Agent Note: 将 acp-agent 回放配置改为单一来源 — Status: implemented — .agents/notes/archived/testing/2026-07-04-single-source-acp-replay-config.zh.md
+- Agent Note: Pin request-header content in one snapshot scenario — Status: implemented — .agents/notes/archived/testing/2026-07-06-pin-request-header-content-in-one-scenario.md
+- Agent Note: 在单个快照场景中固定请求头内容 — Status: implemented — .agents/notes/archived/testing/2026-07-06-pin-request-header-content-in-one-scenario.zh.md
+- Agent Note: Extract the ACP snapshot suite into a support package — Status: implemented — .agents/notes/archived/testing/2026-07-08-shared-acp-snapshot-package.md

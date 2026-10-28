@@ -1,0 +1,40 @@
+# docs: .agents (2583 篇, part 5/66)
+
+- Agent Note: pi-ai routes are declared providers, not catalog lookups — Status: implemented — .agents/notes/archived/architecture/2026-08-03-pi-ai-declared-provider-catalog.md
+- Agent Note: pi-ai 路由是被声明的提供方，而不是 catalog 查表 — Status: implemented — .agents/notes/archived/architecture/2026-08-03-pi-ai-declared-provider-catalog.zh.md
+- Agent Note: Splitting the credential store from the user environment layer — Status: implemented — .agents/notes/archived/architecture/2026-08-04-credentials-yaml-and-user-environment-layer.md
+- Agent Note: 把凭据存储与用户环境层拆开 — Status: implemented — .agents/notes/archived/architecture/2026-08-04-credentials-yaml-and-user-environment-layer.zh.md
+- Agent Note: Declaring a provider from the Models page — Status: implemented — .agents/notes/archived/architecture/2026-08-04-declaring-a-provider-from-the-models-page.md
+- Agent Note: 在 Models 页上声明一个提供方 — Status: implemented — .agents/notes/archived/architecture/2026-08-04-declaring-a-provider-from-the-models-page.zh.md
+- Agent Note: Interrogating a draft provider endpoint — Status: implemented — .agents/notes/archived/architecture/2026-08-04-draft-provider-endpoint-interrogation.md
+- Agent Note: 询问草稿中的提供方端点 — Status: implemented — .agents/notes/archived/architecture/2026-08-04-draft-provider-endpoint-interrogation.zh.md
+- Agent Note: WebSocket carrier for browser downlinks — Status: implemented — .agents/notes/archived/architecture/2026-08-04-websocket-downlink-carrier.md
+- Agent Note: 浏览器下行 WebSocket 载体 — Status: implemented — .agents/notes/archived/architecture/2026-08-04-websocket-downlink-carrier.zh.md
+- Agent Note: Large-session JSONL restore pipeline — Status: implemented — .agents/notes/archived/architecture/2026-08-05-large-session-jsonl-restore-pipeline.md
+- Agent Note: 大型会话 JSONL 恢复流水线 — Status: implemented — .agents/notes/archived/architecture/2026-08-05-large-session-jsonl-restore-pipeline.zh.md
+- Agent Note: Reusable Session preparation before publication — Status: implemented — .agents/notes/archived/architecture/2026-08-05-session-preparation.md
+- Agent Note: 发布前可复用的 Session 准备阶段 — Status: implemented — .agents/notes/archived/architecture/2026-08-05-session-preparation.zh.md
+- Agent Note: Slot declaration injection and reload lifetimes — Status: implemented — .agents/notes/archived/architecture/2026-08-05-slot-declaration-injection.md
+- Agent Note: slot 声明注入与重载生命周期 — Status: implemented — .agents/notes/archived/architecture/2026-08-05-slot-declaration-injection.zh.md
+- Agent Note: Agent-scoped events dispatch a single payload object — Status: implemented — .agents/notes/archived/architecture/2026-08-06-agent-event-payload-objects.md
+- Agent Note: Agent 作用域事件 dispatch 单个 payload 对象 — Status: implemented — .agents/notes/archived/architecture/2026-08-06-agent-event-payload-objects.zh.md
+- Agent Note: Apps own their command line through `ctx.cmdlineArgs` — Status: implemented — .agents/notes/archived/architecture/2026-08-06-app-owned-command-line.md
+- Agent Note: 应用通过 `ctx.cmdlineArgs` 持有自己的命令行 — Status: implemented — .agents/notes/archived/architecture/2026-08-06-app-owned-command-line.zh.md
+- Agent Note: Subagent list identity via the projection unit — Status: implemented — .agents/notes/archived/architecture/2026-08-06-subagent-list-identity-projection.md
+- Agent Note: subagent 列表经投影单元读取身份 — Status: implemented — .agents/notes/archived/architecture/2026-08-06-subagent-list-identity-projection.zh.md
+- Agent Note: Incremental streaming markdown through a direct mdast renderer — Status: implemented — .agents/notes/archived/architecture/2026-08-06-web-markdown-incremental-ast-renderer.md
+- Agent Note: 经由直接 mdast 渲染器的增量流式 Markdown — Status: implemented — .agents/notes/archived/architecture/2026-08-06-web-markdown-incremental-ast-renderer.zh.md
+- Agent Note: Web shell dist chunk split and directory layout — Status: implemented — .agents/notes/archived/architecture/2026-08-06-web-shell-dist-chunk-layout.md
+- Agent Note: Web 壳产物的分片拆分与目录布局 — Status: implemented — .agents/notes/archived/architecture/2026-08-06-web-shell-dist-chunk-layout.zh.md
+- Agent Note: Shared anonymous user id across telemetry, feedback, and DeepSeek requests — Status: implemented — .agents/notes/archived/architecture/2026-08-07-shared-feedback-telemetry-user-id.md
+- Agent Note: 遥测、反馈与 DeepSeek 请求共享匿名用户 id — Status: implemented — .agents/notes/archived/architecture/2026-08-07-shared-feedback-telemetry-user-id.zh.md
+- Agent Note: Bounded session persistence write batching — Status: implemented — .agents/notes/archived/architecture/2026-08-08-bounded-session-persistence-write-batching.md
+- Agent Note: 为会话持久化写入批处理设定上界 — Status: implemented — .agents/notes/archived/architecture/2026-08-08-bounded-session-persistence-write-batching.zh.md
+- Agent Note: Client Tool presentation ownership — Status: implemented — .agents/notes/archived/architecture/2026-08-08-client-tool-presentation-ownership.md
+- Agent Note: Client 工具展示所有权 — Status: implemented — .agents/notes/archived/architecture/2026-08-08-client-tool-presentation-ownership.zh.md
+- Agent Note: Per-preset standing mounts over a scope parent chain — Status: implemented — .agents/notes/archived/architecture/2026-08-08-per-preset-standing-mounts.md
+- Agent Note: 基于作用域父链的逐预设常驻挂载 — Status: implemented — .agents/notes/archived/architecture/2026-08-08-per-preset-standing-mounts.zh.md
+- Agent Note: An independent Events backstop closes the cordis-surface exhaustiveness gap — Status: implemented — .agents/notes/archived/architecture/2026-08-09-cordis-event-walk-backstop.md
+- Agent Note: 独立的 Events 兜底扫描补上 Cordis 表面完备性缺口 — Status: implemented — .agents/notes/archived/architecture/2026-08-09-cordis-event-walk-backstop.zh.md
+- Agent Note: headless is a direct core entry point — Status: implemented — .agents/notes/archived/architecture/2026-08-09-headless-direct-core-entry-point.md
+- Agent Note: headless 是直接使用核心服务的入口 — Status: implemented — .agents/notes/archived/architecture/2026-08-09-headless-direct-core-entry-point.zh.md

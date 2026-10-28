@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 55/66)
+
+- Agent Note: Desktop 关闭快捷键跟随页面焦点 — Status: implemented — .agents/notes/implemented/architecture/2026-09-21-desktop-page-close-shortcuts.zh.md
+- Agent Note: Ship experimental capabilities as optional bundles — Status: implemented — .agents/notes/implemented/architecture/2026-09-21-experimental-capabilities-as-optional-bundles.md
+- Agent Note: 将实验能力作为可选 bundle 发布 — Status: implemented — .agents/notes/implemented/architecture/2026-09-21-experimental-capabilities-as-optional-bundles.zh.md
+- Agent Note: Fatal diagnostics and Desktop crash reports — Status: implemented — .agents/notes/implemented/architecture/2026-09-22-fatal-diagnostics-and-crash-reports.md
+- Agent Note: 致命诊断与 Desktop 崩溃报告 — Status: implemented — .agents/notes/implemented/architecture/2026-09-22-fatal-diagnostics-and-crash-reports.zh.md
+- Agent Note: Account-scoped Platform browser storage — Status: implemented — .agents/notes/implemented/architecture/2026-09-22-platform-browser-storage.md
+- Agent Note: 按账号隔离的 Platform 浏览器存储 — Status: implemented — .agents/notes/implemented/architecture/2026-09-22-platform-browser-storage.zh.md
+- Agent Note: Schedule deletes task rows and bounds delivery history — Status: implemented — .agents/notes/implemented/architecture/2026-09-22-schedule-hard-delete-and-bounded-history.md
+- Agent Note: Schedule 删除任务行并限制投递历史 — Status: implemented — .agents/notes/implemented/architecture/2026-09-22-schedule-hard-delete-and-bounded-history.zh.md
+- Agent Note: Tool calls own preparation, dispatch, and results by callId — Status: implemented — .agents/notes/implemented/architecture/2026-09-22-tool-call-three-phases.md
+- Agent Note: 工具调用按 callId 管理准备、派发与结果 — Status: implemented — .agents/notes/implemented/architecture/2026-09-22-tool-call-three-phases.zh.md
+- Agent Note: Node PTC execution modes and in-memory state — Status: implemented — .agents/notes/implemented/architecture/2026-09-23-best-effort-persistent-ptc.md
+- Agent Note: Node PTC 执行模式与内存状态 — Status: implemented — .agents/notes/implemented/architecture/2026-09-23-best-effort-persistent-ptc.zh.md
+- Agent Note: Hide the Desktop window on close and confirm interruptible quits — Status: implemented — .agents/notes/implemented/architecture/2026-09-23-desktop-close-to-background-and-quit-confirmation.md
+- Agent Note: Hide the Desktop window on close and confirm interruptible quits — Status: implemented — .agents/notes/implemented/architecture/2026-09-23-desktop-close-to-background-and-quit-confirmation.zh.md
+- Agent Note: Native HTTPS on the Web listener — Status: implemented — .agents/notes/implemented/architecture/2026-09-23-native-https-web-listener.md
+- Agent Note: Web 监听器原生 HTTPS — Status: implemented — .agents/notes/implemented/architecture/2026-09-23-native-https-web-listener.zh.md
+- Agent Note: Bounded DeepSeek Session-log upload — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-bounded-session-log-upload.md
+- Agent Note: 有上限的 DeepSeek 会话日志上传 — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-bounded-session-log-upload.zh.md
+- Agent Note: DeepSeek account models come from the account listing and gate by client version — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-deepseek-account-remote-model-catalog.md
+- Agent Note: DeepSeek 账号模型来自账号列表，并按客户端版本门控 — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-deepseek-account-remote-model-catalog.zh.md
+- Agent Note: Incremental tool-argument scanning and argument order during preparation — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-preparing-tool-arguments.md
+- Agent Note: 准备阶段的工具参数增量扫描与参数顺序 — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-preparing-tool-arguments.zh.md
+- Agent Note: Preset-scoped Schedule tools — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-preset-scoped-schedule-tools.md
+- Agent Note: 按 preset 提供的 Schedule 工具 — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-preset-scoped-schedule-tools.zh.md
+- Agent Note: Preset-scoped time context — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-preset-scoped-time-context.md
+- Agent Note: 按 preset 归属的时间上下文 — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-preset-scoped-time-context.zh.md
+- Agent Note: Delivered reminders are framed as scheduled messages from the user — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-scheduled-message-framing.md
+- Agent Note: 投递的提醒以「用户安排的定时消息」为固定文本 — Status: implemented — .agents/notes/implemented/architecture/2026-09-24-scheduled-message-framing.zh.md
+- Agent Note: Session-log OTLP strings and bounded requests — Status: implemented — .agents/notes/implemented/architecture/2026-09-25-session-log-otel-byte-limits.md
+- Agent Note: Session 日志的 OTLP 字符串与有界请求 — Status: implemented — .agents/notes/implemented/architecture/2026-09-25-session-log-otel-byte-limits.zh.md
+- Agent Note: Application consent for native Computer Use — Status: implemented — .agents/notes/implemented/architecture/2026-09-26-cua-application-consent.md
+- Agent Note: 原生 Computer Use 的应用授权 — Status: implemented — .agents/notes/implemented/architecture/2026-09-26-cua-application-consent.zh.md
+- Agent Note: Progressive Office skills with ordinary shell execution — Status: implemented — .agents/notes/implemented/architecture/2026-09-27-progressive-office-skills.md
+- Agent Note: Office 技能渐进加载与普通 shell 执行 — Status: implemented — .agents/notes/implemented/architecture/2026-09-27-progressive-office-skills.zh.md
+- Agent Note: Open the Session when migration is required — Status: implemented — .agents/notes/implemented/architecture/2026-09-29-explicit-session-history-preparation.md
+- Agent Note: 需要迁移时引导打开会话 — Status: implemented — .agents/notes/implemented/architecture/2026-09-29-explicit-session-history-preparation.zh.md
+- Agent Note: Refresh runtime resolution after package operations and expire HMR package configuration — Status: implemented — .agents/notes/implemented/architecture/2026-09-30-profile-package-refresh-and-manifest-invalidation.md
+- Agent Note: 包操作刷新 runtime resolution 与 HMR 包配置失效 — Status: implemented — .agents/notes/implemented/architecture/2026-09-30-profile-package-refresh-and-manifest-invalidation.zh.md

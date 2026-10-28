@@ -1,0 +1,32 @@
+# docs: packages (830 篇, part 15/26)
+
+- @deepseek-ai/dsh-anonymous-user-id — description: "面向用户与维护者的按 harness home 划分的匿名身份说明，用于追踪遥测、反馈确认与 DeepSeek 提供方请求如何关联记录。" — packages/identity/anonymous-user-id/README.zh.md
+- identity/ — shared identity — description: "The identity package group: anonymous, per-harness-home correlation ids shar — packages/identity/README.md
+- identity/ — 共享身份 — description: "identity 包组：由遥测、反馈与 DeepSeek 提供方请求共享的匿名关联 id，每个 harness home 一个。" — packages/identity/README.zh.md
+- @deepseek-ai/dsh-commands — description: "Human slash-command registry for interactive UIs: plugin-owned commands that — packages/interaction/commands/README.md
+- @deepseek-ai/dsh-commands — description: "交互式 UI 的面向用户斜杠命令注册表：插件拥有的命令直接针对 agent（智能体）执行，不产生模型消息；供组合或扩展命令面的用户与维护者阅读。" — packages/interaction/commands/README.zh.md
+- @deepseek-ai/dsh-permission-presets — description: "User-facing permission presets for users and maintainers choosing, configuri — packages/interaction/permission-presets/README.md
+- @deepseek-ai/dsh-permission-presets — description: "面向用户的权限预设：供选择、配置或排查把沙箱模式与审批策略捆绑在一起的 Permissions 选择器的用户与维护者阅读。" — packages/interaction/permission-presets/README.zh.md
+- interaction/ — the human-collaboration plane — description: "Package map for the human-collaboration capability family: slash commands, o — packages/interaction/README.md
+- interaction/：人机协作平面 — description: "人机协作能力族的包映射：斜杠命令、一次性审批、权限预设，以及让运行中的 agent（智能体）暂停等待人类决定的问答 seam。" — packages/interaction/README.zh.md
+- @deepseek-ai/dsh-tool-ask-user — description: "The model-facing askuserquestion tool over the user-questions seam, for user — packages/interaction/tool-ask-user/README.md
+- @deepseek-ai/dsh-tool-ask-user — description: "基于 user-questions seam 的模型侧 askuserquestion 工具；供组合或排查交互式 agent（智能体）表面的用户与维护者 — packages/interaction/tool-ask-user/README.zh.md
+- @deepseek-ai/dsh-user-approval — description: "Channel-neutral one-shot approval seam for users and maintainers composing a — packages/interaction/user-approval/README.md
+- @deepseek-ai/dsh-user-approval — description: "与通道无关的一次性审批 seam；供组合应答者、设置策略或排查以拒绝方式关闭的权限决定的用户与维护者阅读。" — packages/interaction/user-approval/README.zh.md
+- @deepseek-ai/dsh-user-questions — description: "Waterfall-based question and answer service for tools, permission plugins, l — packages/interaction/user-questions/README.md
+- @deepseek-ai/dsh-user-questions — description: "基于 waterfall 的问答服务，用于工具、权限插件、本地 answerer 与 Agent-scoped Web 交互。" — packages/interaction/user-questions/README.zh.md
+- @deepseek-ai/dsh-jobs — description: "The background-job registry contract for users and maintainers composing, im — packages/jobs/jobs/README.md
+- @deepseek-ai/dsh-jobs — description: "后台任务注册表约定，供组合、实现或排查后台工作的用户与维护者阅读：id、归属、生命周期、输出环与事件流。" — packages/jobs/jobs/README.zh.md
+- @deepseek-ai/dsh-jobs-local — description: "The process-local background-job registry for users and maintainers composin — packages/jobs/jobs-local/README.md
+- @deepseek-ai/dsh-jobs-local — description: "进程本地后台任务注册表，供组合、容量评估或排查进程内任务的用户与维护者阅读：按所有者的准入、生命周期与销毁。" — packages/jobs/jobs-local/README.zh.md
+- jobs/ — background-job capability family — description: "The jobs group map: background-job control — the registry contract, process- — packages/jobs/README.md
+- jobs/：后台任务能力家族 — description: "jobs 组地图：后台任务控制——注册表约定、进程本地存储与面向模型的任务工具，供浏览本组的用户与维护者阅读。" — packages/jobs/README.zh.md
+- @deepseek-ai/dsh-tool-jobs — description: "The model-facing background-job controls for users and maintainers choosing, — packages/jobs/tool-jobs/README.md
+- @deepseek-ai/dsh-tool-jobs — description: "面向模型的后台任务控制，供选择、配置或排查 joboutput、joblist、jobkill 与完成通知的用户与维护者阅读。" — packages/jobs/tool-jobs/README.zh.md
+- @deepseek-ai/dsh-deepseek-llm-api-extensions — description: "Official DeepSeek request-extension registry for provider plugins contributi — packages/llm/deepseek-llm-api-extensions/README.md
+- @deepseek-ai/dsh-deepseek-llm-api-extensions — description: "面向提供方插件的官方 DeepSeek 请求扩展注册表，用于贡献具有生命周期归属的顶层 API 字段。" — packages/llm/deepseek-llm-api-extensions/README.zh.md
+- @deepseek-ai/dsh-llm — description: "The provider-neutral model-call service for users and maintainers streaming  — packages/llm/llm/README.md
+- @deepseek-ai/dsh-llm — description: "面向用户与维护者的提供方无关模型调用服务说明：流式发起请求、注册提供方适配器或解析模型元数据。" — packages/llm/llm/README.zh.md
+- @deepseek-ai/dsh-llm-deepseek — description: "Configure DeepSeek Messages, reasoning, and image input." — packages/llm/llm-deepseek/README.md
+- @deepseek-ai/dsh-llm-deepseek — description: "配置 DeepSeek Messages、推理与图片输入。" — packages/llm/llm-deepseek/README.zh.md
+- @deepseek-ai/dsh-llm-deepseek-account — description: "DeepSeek account authentication, model listing, and model gating." — packages/llm/llm-deepseek-account/README.md

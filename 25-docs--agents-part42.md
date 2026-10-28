@@ -1,0 +1,35 @@
+# docs: .agents (2583 篇, part 42/66)
+
+- Agent Note: 拆分文件系统 seam——提供方文本变更操作与 `dsh-fs-observation-policy` 插件 — Status: implemented — .agents/notes/archived/simplification/2026-06-26-fsspec-style-fs-seam.zh.md
+- Agent Note: Stop mirroring the token stream as an agent event — Status: implemented — .agents/notes/archived/simplification/2026-07-02-remove-stream-chunk-mirror.md
+- Agent Note: 停止将 token 流镜像为 agent 事件 — Status: implemented — .agents/notes/archived/simplification/2026-07-02-remove-stream-chunk-mirror.zh.md
+- Agent Note: Drop the `image` content block until a path can honor it — Status: implemented — .agents/notes/archived/simplification/2026-07-04-drop-image-content-block.md
+- Agent Note: 移除 `image` 内容块，直到有路径能真正处理它 — Status: implemented — .agents/notes/archived/simplification/2026-07-04-drop-image-content-block.zh.md
+- Agent Note: Drop `GenerateOptions.prefill` and `ToolSchema.strict` — request knobs with no working end-to-end path — Status: implemented — .agents/notes/archived/simplification/2026-07-04-drop-inert-request-knobs.md
+- Agent Note: 移除 `GenerateOptions.prefill` 与 `ToolSchema.strict`——无端到端可用路径的请求旋钮 — Status: implemented — .agents/notes/archived/simplification/2026-07-04-drop-inert-request-knobs.zh.md
+- Agent Note: Drop the unconsumed web observation surface — the `providers-change` event and the status methods — Status: implemented — .agents/notes/archived/simplification/2026-07-04-drop-unconsumed-web-observation-surface.md
+- Agent Note: 移除未被消费的 web 观测接口——`providers-change` 事件与 status 方法 — Status: implemented — .agents/notes/archived/simplification/2026-07-04-drop-unconsumed-web-observation-surface.zh.md
+- Agent Note: Fold the stdio UI helper into the stdio app — Status: implemented — .agents/notes/archived/simplification/2026-07-04-fold-stdio-ui-helper.md
+- Agent Note: 将 stdio UI 辅助模块折入 stdio 应用 — Status: implemented — .agents/notes/archived/simplification/2026-07-04-fold-stdio-ui-helper.zh.md
+- Agent Note: Prune producer-less vocabulary variants (block cache hints, the `agent` message source, the `continuation` turn trigger) — Status: implemented — .agents/notes/archived/simplification/2026-07-04-prune-producerless-vocabulary-variants.md
+- Agent Note: 裁剪无生产者的词汇变体（块缓存提示、`agent` 消息来源、`continuation` 轮次触发器） — Status: implemented — .agents/notes/archived/simplification/2026-07-04-prune-producerless-vocabulary-variants.zh.md
+- Agent Note: Prune write-only fields and a dead routing knob from the fs seam — Status: implemented — .agents/notes/archived/simplification/2026-07-04-prune-write-only-fs-surface.md
+- Agent Note: 从 fs seam 中移除只写字段与一个无效的路由旋钮 — Status: implemented — .agents/notes/archived/simplification/2026-07-04-prune-write-only-fs-surface.zh.md
+- Agent Note: Remove the `agent/steering` mirror emit — Status: implemented — .agents/notes/archived/simplification/2026-07-04-remove-agent-steering-mirror.md
+- Agent Note: 移除 `agent/steering` 镜像 emit — Status: implemented — .agents/notes/archived/simplification/2026-07-04-remove-agent-steering-mirror.zh.md
+- Agent Note: Share the app bins' boot glue instead of maintaining twin copies — Status: implemented — .agents/notes/archived/simplification/2026-07-04-share-app-bin-boot-glue.md
+- Agent Note: 共享应用 bin 的启动胶水代码，而非维护两份副本 — Status: implemented — .agents/notes/archived/simplification/2026-07-04-share-app-bin-boot-glue.zh.md
+- Agent Note: Tighten the hook-protocol contract — dialect, discarded fields, double defaults, and lib-owned `hook/result` semantics — Status: implemented — .agents/notes/archived/simplification/2026-07-04-tighten-hook-protocol-contract.md
+- Agent Note: 收紧 hook-protocol 约定——dialect、被丢弃的字段、双重默认值与 lib 拥有的 `hook/result` 语义 — Status: implemented — .agents/notes/archived/simplification/2026-07-04-tighten-hook-protocol-contract.zh.md
+- Agent Note: Trim unreachable ACP bridge surface — the branding knobs and the kind-sniffing fallback — Status: implemented — .agents/notes/archived/simplification/2026-07-04-trim-acp-bridge-unreachable-surface.md
+- Agent Note: 裁剪不可达的 ACP 桥接层表面——品牌配置项与 kind 嗅探回退 — Status: implemented — .agents/notes/archived/simplification/2026-07-04-trim-acp-bridge-unreachable-surface.zh.md
+- Agent Note: Drop unconsumed skill provider events — Status: implemented — .agents/notes/archived/simplification/2026-07-12-drop-unconsumed-skill-provider-events.md
+- Agent Note: 移除无消费方的 skill 提供方事件 — Status: implemented — .agents/notes/archived/simplification/2026-07-12-drop-unconsumed-skill-provider-events.zh.md
+- Agent Note: Prune unused web seam fields — Status: implemented — .agents/notes/archived/simplification/2026-07-12-prune-unused-web-seam-fields.md
+- Agent Note: 裁剪 web seam 中未使用的字段 — Status: implemented — .agents/notes/archived/simplification/2026-07-12-prune-unused-web-seam-fields.zh.md
+- Agent Note: Simplify session-log representation — Status: implemented — .agents/notes/archived/simplification/2026-07-12-simplify-session-log-representation.md
+- Agent Note: 简化会话日志表示 — Status: implemented — .agents/notes/archived/simplification/2026-07-12-simplify-session-log-representation.zh.md
+- Agent Note: Retire the standalone subagent mock package — Status: implemented — .agents/notes/archived/simplification/2026-07-19-retire-subagent-mock-package.md
+- Agent Note: 撤销独立的 subagent mock 包 — Status: implemented — .agents/notes/archived/simplification/2026-07-19-retire-subagent-mock-package.zh.md
+- Agent Note: Use one surface manager per session — Status: implemented — .agents/notes/archived/simplification/2026-07-19-use-one-session-surface-manager.md
+- Agent Note: 每个会话只使用一个表层管理器 — Status: implemented — .agents/notes/archived/simplification/2026-07-19-use-one-session-surface-manager.zh.md

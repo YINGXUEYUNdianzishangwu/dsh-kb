@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 47/66)
+
+- Agent Note: 将 ACP 快照套件提取为支持包 — Status: implemented — .agents/notes/archived/testing/2026-07-08-shared-acp-snapshot-package.zh.md
+- Agent Note: Snapshot semantic terminal state for the TUI — Status: implemented — .agents/notes/archived/testing/2026-07-18-tui-terminal-state-snapshots.md
+- Agent Note: TUI 语义终端状态快照 — Status: implemented — .agents/notes/archived/testing/2026-07-18-tui-terminal-state-snapshots.zh.md
+- Agent Note: Keep supported-platform tests semantic — Status: implemented — .agents/notes/archived/testing/2026-07-22-cross-platform-test-fixtures.md
+- Agent Note: 让受支持平台的测试聚焦语义 — Status: implemented — .agents/notes/archived/testing/2026-07-22-cross-platform-test-fixtures.zh.md
+- Agent Note: Scriptable LLM wire fault server — Status: implemented — .agents/notes/archived/testing/2026-07-25-scriptable-llm-wire-fault-server.md
+- Agent Note: 可脚本控制的 LLM 协议层故障服务器 — Status: implemented — .agents/notes/archived/testing/2026-07-25-scriptable-llm-wire-fault-server.zh.md
+- Agent Note: Adopt execa for hand-rolled test subprocess plumbing — Status: implemented — .agents/notes/archived/testing/2026-07-26-execa-for-test-subprocess-plumbing.md
+- Agent Note: 采用 execa 替换手写的测试子进程管道代码 — Status: implemented — .agents/notes/archived/testing/2026-07-26-execa-for-test-subprocess-plumbing.zh.md
+- Agent Note: Keep browser storage owned by jsdom in Vitest — Status: implemented — .agents/notes/archived/testing/2026-07-30-vitest-jsdom-webstorage-ownership.md
+- Agent Note: 在 Vitest 中将浏览器存储交由 jsdom 管理 — Status: implemented — .agents/notes/archived/testing/2026-07-30-vitest-jsdom-webstorage-ownership.zh.md
+- Agent Note: Required CI gate for web browser expected outputs — Status: implemented — .agents/notes/archived/testing/2026-07-30-web-browser-snapshot-ci-gate.md
+- Agent Note: Web 浏览器预期输出的必需 CI 门禁 — Status: implemented — .agents/notes/archived/testing/2026-07-30-web-browser-snapshot-ci-gate.zh.md
+- Agent Note: Required Python runtime pull-request validation — Status: implemented — .agents/notes/archived/testing/2026-08-12-required-python-runtime-pull-request-ci.md
+- Agent Note: 必需的 Python 运行时拉取请求验证 — Status: implemented — .agents/notes/archived/testing/2026-08-12-required-python-runtime-pull-request-ci.zh.md
+- Agent Note: Python minimal-composition model-visible snapshot — Status: implemented — .agents/notes/archived/testing/2026-08-13-python-minimal-model-visible-snapshot.md
+- Agent Note: Python 极简组合的模型可见快照 — Status: implemented — .agents/notes/archived/testing/2026-08-13-python-minimal-model-visible-snapshot.zh.md
+- Agent Note: Session snapshot envelope projection — Status: implemented — .agents/notes/archived/testing/2026-08-18-session-snapshot-envelope-projection.md
+- Agent Note: 会话快照 envelope 投影 — Status: implemented — .agents/notes/archived/testing/2026-08-18-session-snapshot-envelope-projection.zh.md
+- Agent Note: Coverage-lane budget for the translation-pairing-merge suite — Status: implemented — .agents/notes/archived/testing/2026-08-27-translation-pairing-merge-budget.md
+- Agent Note: translation-pairing-merge 套件的 coverage lane 预算 — Status: implemented — .agents/notes/archived/testing/2026-08-27-translation-pairing-merge-budget.zh.md
+- Agent Note: CI test reliability skill — Status: implemented — .agents/notes/archived/testing/2026-08-28-ci-test-reliability-skill.md
+- Agent Note: CI 测试可靠性 Skill — Status: implemented — .agents/notes/archived/testing/2026-08-28-ci-test-reliability-skill.zh.md
+- Agent Note: Hook budget and Lefthook suite budget on the Windows coverage lane — Status: implemented — .agents/notes/archived/testing/2026-08-29-windows-lane-hook-and-lefthook-budget.md
+- Agent Note: Windows 覆盖率 lane 的 hook 预算与 Lefthook 套件预算 — Status: implemented — .agents/notes/archived/testing/2026-08-29-windows-lane-hook-and-lefthook-budget.zh.md
+- Agent Note: Whole-client test tier over an endpoint-named Remote mock — Status: implemented — .agents/notes/archived/testing/2026-09-06-client-assembly-test-line.md
+- Agent Note: 基于端点具名 Remote mock 的整机客户端测试档 — Status: implemented — .agents/notes/archived/testing/2026-09-06-client-assembly-test-line.zh.md
+- Agent Note: runner-owned temporary storage for PR CI — Status: implemented — .agents/notes/archived/testing/2026-09-06-pr-ci-runner-temporary-storage.md
+- Agent Note: PR CI 使用 runner 管理的临时存储 — Status: implemented — .agents/notes/archived/testing/2026-09-06-pr-ci-runner-temporary-storage.zh.md
+- Agent Note: Bounded retry for Python runtime dependency install — Status: implemented — .agents/notes/archived/testing/2026-09-06-python-runtime-install-retry.md
+- Agent Note: Python runtime 依赖安装的有界重试 — Status: implemented — .agents/notes/archived/testing/2026-09-06-python-runtime-install-retry.zh.md
+- Agent Note: Standard hosted runner for required benchmarks — Status: implemented — .agents/notes/archived/testing/2026-09-06-standard-hosted-benchmark-runner.md
+- Agent Note: 必需 benchmark 使用标准托管运行器 — Status: implemented — .agents/notes/archived/testing/2026-09-06-standard-hosted-benchmark-runner.zh.md
+- Agent Note: Publint test subprocesses inherit the execution lane deadline — Status: implemented — .agents/notes/archived/testing/2026-09-07-publint-test-subprocess-lifetime.md
+- Agent Note: Publint 测试子进程继承执行通道期限 — Status: implemented — .agents/notes/archived/testing/2026-09-07-publint-test-subprocess-lifetime.zh.md
+- Agent Note: PowerShell CI completion and profile expectations — Status: implemented — .agents/notes/archived/testing/2026-09-07-pwsh-ci-observable-completion.md
+- Agent Note: PowerShell CI 完成信号与 profile 预期 — Status: implemented — .agents/notes/archived/testing/2026-09-07-pwsh-ci-observable-completion.zh.md
+- Agent Note: Subagent teardown tests inherit their execution lane budgets — Status: implemented — .agents/notes/archived/testing/2026-09-07-subagent-teardown-test-budgets.md
+- Agent Note: 子代理清理测试继承执行通道的时间预算 — Status: implemented — .agents/notes/archived/testing/2026-09-07-subagent-teardown-test-budgets.zh.md

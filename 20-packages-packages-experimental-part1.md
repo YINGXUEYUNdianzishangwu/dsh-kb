@@ -1,0 +1,39 @@
+# packages/experimental (47 packages, part 1/2)
+
+- @deepseek-ai/dsh-cua 0.2.1-rc.3 — Shared Computer Use application objects, authorization, and logged tool execution — packages/experimental/cua
+- @deepseek-ai/dsh-experimental-agent-team 0.2.1-rc.3 — Implicit-root Agent Teams roster, direct peer messaging, and shared task DAG — packages/experimental/agent-team
+- @deepseek-ai/dsh-experimental-agent-team-profile 0.2.1-rc.3 — Agent Teams collaboration, tools, and Web UI in one experimental bundle — packages/experimental/agent-team-profile
+- @deepseek-ai/dsh-experimental-api-speech-to-text 0.2.1-rc.3 — Authenticated experimental speech transcription for browser clients — packages/experimental/api-speech-to-text
+- @deepseek-ai/dsh-experimental-auto-review 0.2.1-rc.3 — Per-tool LLM authorization review for the DeepSeek Harness Auto permission preset — packages/experimental/auto-review
+- @deepseek-ai/dsh-experimental-badge-skill-bundle 0.2.1-rc.3 — Let agents add a “powered by dsh” badge to documents, pull requests, and other outputs. — packages/experimental/badge-skill-bundle
+- @deepseek-ai/dsh-experimental-browser-use-chrome-devtools-mcp 0.2.1-rc.3 — Experimental per-Session Chromium browser tools through chrome-devtools-mcp — packages/experimental/browser-use-chrome-devtools-mcp
+- @deepseek-ai/dsh-experimental-browser-use-playwright-mcp 0.2.1-rc.3 — Experimental per-Session Chromium browser tools through @playwright/mcp — packages/experimental/browser-use-playwright-mcp
+- @deepseek-ai/dsh-experimental-browser-use-runtime 0.2.1-rc.3 — Session-owned browser resource lifecycles and MCP integration for experimental providers — packages/experimental/browser-use-runtime
+- @deepseek-ai/dsh-experimental-browser-use-stagehand-native 0.2.1-rc.3 — Experimental Stagehand browser tools with separately configured native models — packages/experimental/browser-use-stagehand-native
+- @deepseek-ai/dsh-experimental-claude-code-mods 0.2.1-rc.3 — Experimental bridge: load Claude Code mods (hooks modules) and run their hook chains on DeepSeek Harness exten — packages/experimental/claude-code-mods
+- @deepseek-ai/dsh-experimental-client-ui-agent-team 0.2.1-rc.3 — Web Agent Teams roster, task board, and teammate navigation — packages/experimental/client-ui-agent-team
+- @deepseek-ai/dsh-experimental-client-ui-claude-code-mods 0.2.1-rc.3 — Web band above the prompt for Claude Code mods: draws each session's mod tree and sends button presses back to — packages/experimental/client-ui-claude-code-mods
+- @deepseek-ai/dsh-experimental-client-ui-cot-translation 0.2.1-rc.3 — Optional machine translation of expanded reasoning, preserving original Session text — packages/experimental/client-ui-cot-translation
+- @deepseek-ai/dsh-experimental-client-ui-voice-input 0.2.1-rc.3 — Record speech and insert editable text into the conversation draft — packages/experimental/client-ui-voice-input
+- @deepseek-ai/dsh-experimental-computer-use-cua-driver-mcp 0.2.1-rc.3 — Experimental computer use through an installed Cua Driver MCP executable — packages/experimental/computer-use-cua-driver-mcp
+- @deepseek-ai/dsh-experimental-computer-use-cua-driver-native 0.2.1-rc.3 — Experimental computer-use provider embedding the Cua Driver native npm SDK — packages/experimental/computer-use-cua-driver-native
+- @deepseek-ai/dsh-experimental-cot-translation-bundle 0.2.1-rc.3 — Experimental machine translation of expanded reasoning — packages/experimental/cot-translation-bundle
+- @deepseek-ai/dsh-experimental-cua-macos 0.2.1-rc.3 — macOS native provider for shared Computer Use application and window objects — packages/experimental/cua-macos
+- @deepseek-ai/dsh-experimental-inspector 0.2.1-rc.3 — Experimental cross-realm CDP hub for Host debugging and Client Runtime inspection — packages/experimental/inspector
+- @deepseek-ai/dsh-experimental-inspector-profile 0.2.1-rc.3 — Optional Web bundle for raw Session logs and Chat node inspection — packages/experimental/inspector-profile
+- @deepseek-ai/dsh-experimental-plugin-market-bundle 0.2.1-rc.3 — Experimental custom plugin markets: a Discover tab that browses and installs bundles from plugin market indexe — packages/experimental/plugin-market-bundle
+- @deepseek-ai/dsh-experimental-ptc-runtime-python 0.2.1-rc.3 — CPython subprocess implementation of the DeepSeek Harness PTC execution seam — packages/experimental/ptc-runtime-python
+- @deepseek-ai/dsh-experimental-ralph-bundle 0.2.1-rc.3 — Run explicitly requested repeated work with fresh agents. — packages/experimental/ralph-bundle
+- @deepseek-ai/dsh-experimental-session-inspector 0.2.1-rc.3 — Experimental virtualized Session log and live Chat group/node inspectors — packages/experimental/session-inspector
+- @deepseek-ai/dsh-experimental-session-search 0.2.1-rc.3 — Give Agents tools to search and read earlier sessions from the current workspace. — packages/experimental/session-search
+- @deepseek-ai/dsh-experimental-session-titles-bundle 0.2.1-rc.3 — Refresh session titles as new human prompts arrive. — packages/experimental/session-titles-bundle
+- @deepseek-ai/dsh-experimental-speech-to-text 0.2.1-rc.3 — Experimental speech recognition with independently selectable providers — packages/experimental/speech-to-text
+- @deepseek-ai/dsh-experimental-speech-to-text-sensevoice 0.2.1-rc.3 — Local SenseVoice ONNX transcription with a managed sherpa-onnx process — packages/experimental/speech-to-text-sensevoice
+- @deepseek-ai/dsh-experimental-terminal-bundle 0.2.1-rc.3 — Keep shell processes alive across tool calls. — packages/experimental/terminal-bundle
+- @deepseek-ai/dsh-experimental-tool-agent-team 0.2.1-rc.3 — Scoped model-facing Agent Teams tools over ctx.agentTeams — packages/experimental/tool-agent-team
+- @deepseek-ai/dsh-experimental-tool-worktree 0.2.1-rc.3 — Model tool that creates and enters a new Git worktree — packages/experimental/tool-worktree
+- @deepseek-ai/dsh-experimental-translator 0.2.1-rc.3 — Machine translation with reusable Session results — packages/experimental/translator
+- @deepseek-ai/dsh-experimental-voice-input-bundle 0.2.1-rc.3 — Experimental voice input with local SenseVoice; downloads its runtime on first use — packages/experimental/voice-input-bundle
+- @deepseek-ai/dsh-experimental-webworker-packer 0.2.1-rc.3 — Build-time packer for the browser runtime's base VFS image and ordered data-overlay archives — packages/experimental/webworker-packer
+- @deepseek-ai/dsh-experimental-webworker-runtime 0.2.1-rc.3 — Browser-only harness runtime: in-memory VFS, module transform and loader, postMessage tunnel, and the dedicate — packages/experimental/webworker-runtime
+- @deepseek-ai/dsh-experimental-worktree 0.2.1-rc.3 — Creates a named Git worktree and changes the calling Session working directory — packages/experimental/worktree

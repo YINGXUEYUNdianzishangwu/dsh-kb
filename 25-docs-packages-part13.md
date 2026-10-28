@@ -1,0 +1,36 @@
+# docs: packages (830 篇, part 13/26)
+
+- packages/extensions — description: "运行时 API 检查、进程内 runner 与历史 Cordis 卡片。" — packages/extensions/README.zh.md
+- @deepseek-ai/dsh-tool-cordis — description: "Read-only runtime API discovery for agents developing and configuring instal — packages/extensions/tool-cordis/README.md
+- @deepseek-ai/dsh-tool-cordis — description: "为开发和配置已安装 Harness 插件的 agent 提供只读运行时 API 查询。" — packages/extensions/tool-cordis/README.zh.md
+- @deepseek-ai/dsh-client-ui-cordis — description: "Historical Cordis cards and controls for process-local runner definitions." — packages/extensions/ui-cordis/README.md
+- @deepseek-ai/dsh-client-ui-cordis — description: "历史 Cordis 卡片及进程内 runner 定义的控件。" — packages/extensions/ui-cordis/README.zh.md
+- @deepseek-ai/dsh-command-feedback — description: "Session feedback: the /feedback command, the sessionFeedback Host Remote beh — packages/feedback/command-feedback/README.md
+- @deepseek-ai/dsh-command-feedback — description: "会话反馈：/feedback 命令、Web 反馈弹窗背后的 sessionFeedback Host Remote，以及固定的分类表；供用户与维护者选择 — packages/feedback/command-feedback/README.zh.md
+- @deepseek-ai/dsh-message-feedback — description: "Canonical Session-log ratings, categories, and notes for finalized assistant — packages/feedback/message-feedback/README.md
+- @deepseek-ai/dsh-message-feedback — description: "在权威 Session 日志中保存已完成 assistant 消息的评分、分类与备注。" — packages/feedback/message-feedback/README.zh.md
+- feedback/ — recorded human feedback — description: "The feedback package group: user feedback on sessions and assistant messages — packages/feedback/README.md
+- feedback/：记录的人类反馈 — description: "feedback 包组：关于会话与 assistant 消息的用户反馈，供用户与维护者选择、组合或排查反馈采集。" — packages/feedback/README.zh.md
+- @deepseek-ai/dsh-fs — description: "The ctx.fs filesystem service contract for deployments choosing or mounting  — packages/fs/fs/README.md
+- @deepseek-ai/dsh-fs — description: "ctx.fs 文件系统服务约定：面向选择或挂载文件系统后端的部署方，以及实现后端的开发者。" — packages/fs/fs/README.zh.md
+- @deepseek-ai/dsh-fs-local — description: "The host-filesystem backend for ctx.fs for deployments and maintainers choos — packages/fs/fs-local/README.md
+- @deepseek-ai/dsh-fs-local — description: "ctx.fs 的宿主文件系统后端：面向选择或排查本地文件访问的部署方与维护者。" — packages/fs/fs-local/README.zh.md
+- @deepseek-ai/dsh-fs-observation-policy — description: "The read-before-edit filesystem policy plugin for deployments and maintainer — packages/fs/fs-observation-policy/README.md
+- @deepseek-ai/dsh-fs-observation-policy — description: "编辑前读取的文件系统策略插件：面向选择或排查受防护写入/编辑行为的部署方与维护者。" — packages/fs/fs-observation-policy/README.zh.md
+- @deepseek-ai/dsh-fs-sandbox — description: "The sandbox-enforcing ctx.fs backend for deployments and maintainers confini — packages/fs/fs-sandbox/README.md
+- @deepseek-ai/dsh-fs-sandbox — description: "强制沙箱的 ctx.fs 后端：面向把模型文件变更限制在会话工作区内的部署方与维护者。" — packages/fs/fs-sandbox/README.zh.md
+- packages/fs — description: "The filesystem package group: the ctx.fs provider contract, local and sandbo — packages/fs/README.md
+- packages/fs — description: "文件系统包组：ctx.fs 提供方约定、本地与沙箱强制后端、编辑前读取策略插件，以及面向模型的文件与搜索工具。" — packages/fs/README.zh.md
+- @deepseek-ai/dsh-tool-fs — description: "The model-facing read, readimage, write, and edit tools for users and mainta — packages/fs/tool-fs/README.md
+- @deepseek-ai/dsh-tool-fs — description: "面向模型的 read、readimage、write 与 edit 工具：供组合或排查 agent 文件系统访问的用户与维护者使用。" — packages/fs/tool-fs/README.zh.md
+- @deepseek-ai/dsh-tool-fs-search — description: "The model-facing glob and grep discovery tools for users and maintainers com — packages/fs/tool-fs-search/README.md
+- @deepseek-ai/dsh-tool-fs-search — description: "面向模型的 glob 与 grep 发现工具：供组合或排查 agent（智能体）工作区搜索的用户与维护者使用。" — packages/fs/tool-fs-search/README.zh.md
+- @deepseek-ai/dsh-tool-str-replace-editor — description: "The standalone strreplaceeditor tool over ctx.fs for users and maintainers c — packages/fs/tool-str-replace-editor/README.md
+- @deepseek-ai/dsh-tool-str-replace-editor — description: "基于 ctx.fs 的独立 strreplaceeditor 工具：供为 agent（智能体）组合 Claude Code 风格文件编辑能力的用户与维护 — packages/fs/tool-str-replace-editor/README.zh.md
+- @deepseek-ai/dsh-command-goal — description: "The human-facing /goal slash command for users and maintainers choosing, com — packages/goal/command-goal/README.md
+- @deepseek-ai/dsh-command-goal — description: "面向在 UI 命令平面中选择、组合或排查 goal 控制的用户与维护者的 /goal 斜杠命令说明。" — packages/goal/command-goal/README.zh.md
+- @deepseek-ai/dsh-goal — description: "The persisted same-session goal service for users and maintainers choosing,  — packages/goal/goal/README.md
+- @deepseek-ai/dsh-goal — description: "面向选择、配置或排查同会话持久 goal 服务的用户与维护者：每会话一个持久的完成目标。" — packages/goal/goal/README.zh.md
+- @deepseek-ai/dsh-goal-round-driver — description: "The same-session continuation driver for users and maintainers choosing, com — packages/goal/goal-round-driver/README.md
+- @deepseek-ai/dsh-goal-round-driver — description: "面向选择、组合或排查自动 Goal Round 的用户与维护者的同会话续行驱动器说明。" — packages/goal/goal-round-driver/README.zh.md
+- packages/goal — description: "The goal group map: one durable completion objective per session, with model — packages/goal/README.md

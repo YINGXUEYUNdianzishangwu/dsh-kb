@@ -1,0 +1,44 @@
+# docs: .agents (2583 篇, part 61/66)
+
+- Agent Note: In-tree persistence-type history — Status: implemented — .agents/notes/implemented/process/2026-09-11-persistence-type-history.md
+- Agent Note: 目录内的持久化类型历史 — Status: implemented — .agents/notes/implemented/process/2026-09-11-persistence-type-history.zh.md
+- Agent Note: Keep experimental packages outside the default product — Status: implemented — .agents/notes/implemented/process/2026-09-12-default-product-experimental-isolation.md
+- Agent Note: 将实验包隔离在默认产品之外 — Status: implemented — .agents/notes/implemented/process/2026-09-12-default-product-experimental-isolation.zh.md
+- Agent Note: Generate the CLI reference from command help — Status: implemented — .agents/notes/implemented/process/2026-09-14-generated-cli-help-reference.md
+- Agent Note: 从命令帮助生成 CLI 参考 — Status: implemented — .agents/notes/implemented/process/2026-09-14-generated-cli-help-reference.zh.md
+- Agent Note: Ship optional bundles with the installation — Status: implemented — .agents/notes/implemented/process/2026-09-15-shipped-optional-bundles.md
+- Agent Note: Ship optional bundles with the installation — Status: implemented — .agents/notes/implemented/process/2026-09-15-shipped-optional-bundles.zh.md
+- Agent Note: Persistence schema policy and review — Status: implemented — .agents/notes/implemented/process/2026-09-17-persistence-schema-review.md
+- Agent Note: 持久化 schema 策略与审阅 — Status: implemented — .agents/notes/implemented/process/2026-09-17-persistence-schema-review.zh.md
+- Agent Note: Windows runtime signature cache — Status: implemented — .agents/notes/implemented/process/2026-09-17-windows-runtime-signature-cache.md
+- Agent Note: Windows 运行时签名缓存 — Status: implemented — .agents/notes/implemented/process/2026-09-17-windows-runtime-signature-cache.zh.md
+- Agent Note: Separate Windows hardware signing from timestamp completion — Status: implemented — .agents/notes/implemented/process/2026-09-17-windows-signature-completion.md
+- Agent Note：分离 Windows 硬件签名与时间戳处理 — Status: implemented — .agents/notes/implemented/process/2026-09-17-windows-signature-completion.zh.md
+- Agent Note: Prohibit new assertions to unknown — Status: implemented — .agents/notes/implemented/process/2026-09-19-no-unknown-casts.md
+- Agent Note: 禁止新增到 unknown 的类型断言 — Status: implemented — .agents/notes/implemented/process/2026-09-19-no-unknown-casts.zh.md
+- Agent Note: Dual-release install layout work budget — Status: implemented — .agents/notes/implemented/process/2026-09-28-dual-release-install-layout-work-budget.md
+- Agent Note: 双发布安装布局的工作量预算 — Status: implemented — .agents/notes/implemented/process/2026-09-28-dual-release-install-layout-work-budget.zh.md
+- Agent Note: PR artifact builds and aggregate TypeScript checks — Status: implemented — .agents/notes/implemented/process/2026-10-05-pr-artifact-typechecks.md
+- Agent Note: PR 产物构建与 aggregate TypeScript 检查 — Status: implemented — .agents/notes/implemented/process/2026-10-05-pr-artifact-typechecks.zh.md
+- Agent Note: Require product use or an explicit package classification — Status: implemented — .agents/notes/implemented/process/2026-10-05-product-package-classification.md
+- Agent Note: Require product use or an explicit package classification — Status: implemented — .agents/notes/implemented/process/2026-10-05-product-package-classification.zh.md
+- Agent Note: Session versions follow reader compatibility — Status: implemented — .agents/notes/implemented/process/2026-10-08-session-reader-compatibility-review.md
+- Agent Note: Session 版本取决于读取器兼容性 — Status: implemented — .agents/notes/implemented/process/2026-10-08-session-reader-compatibility-review.zh.md
+- Agent Note: Split build:artifacts and build:check, with build running both concurrently — Status: implemented — .agents/notes/implemented/process/2026-10-11-build-artifacts-check-split.md
+- Agent Note: 拆分 build:artifacts 与 build:check，build 并发执行两者 — Status: implemented — .agents/notes/implemented/process/2026-10-11-build-artifacts-check-split.zh.md
+- Agent Note: Build speed-ups that keep outputs unchanged — Status: implemented — .agents/notes/implemented/process/2026-10-11-lossless-build-speedups.md
+- Agent Note: 不改变产物的构建提速 — Status: implemented — .agents/notes/implemented/process/2026-10-11-lossless-build-speedups.zh.md
+- Agent Note: Local gate, hook, and test speed-ups — Status: implemented — .agents/notes/implemented/process/2026-10-12-local-gate-speedups.md
+- Agent Note: 本地门禁、钩子与测试提速 — Status: implemented — .agents/notes/implemented/process/2026-10-12-local-gate-speedups.zh.md
+- Agent Note: Experimental packages follow the same dependency declaration rules — Status: implemented — .agents/notes/implemented/process/2026-10-14-experimental-dependency-policy.md
+- Agent Note: 实验包遵守同一套依赖声明规则 — Status: implemented — .agents/notes/implemented/process/2026-10-14-experimental-dependency-policy.zh.md
+- Agent Note: Package sources must not use top-level await — Status: implemented — .agents/notes/implemented/process/2026-10-14-no-top-level-await-in-packages.md
+- Agent Note: 包源码禁止顶层 await — Status: implemented — .agents/notes/implemented/process/2026-10-14-no-top-level-await-in-packages.zh.md
+- Agent Note: Unify the agent id and the session id — Status: implemented — .agents/notes/implemented/simplification/2026-06-20-unify-agent-and-session-id.md
+- Agent Note: 统一 agent id 与会话 id — Status: implemented — .agents/notes/implemented/simplification/2026-06-20-unify-agent-and-session-id.zh.md
+- Agent Note: Remove implicit batching from ordinary sends — Status: implemented — .agents/notes/implemented/simplification/2026-07-17-one-send-one-turn.md
+- Agent Note: 删除普通 send 的隐式批处理 — Status: implemented — .agents/notes/implemented/simplification/2026-07-17-one-send-one-turn.zh.md
+- Agent Note: ACP as an automation-only protocol — Status: implemented — .agents/notes/implemented/simplification/2026-07-23-acp-automation-only-protocol.md
+- Agent Note: ACP 作为仅面向自动化的协议 — Status: implemented — .agents/notes/implemented/simplification/2026-07-23-acp-automation-only-protocol.zh.md
+- Agent Note: Remove synthetic turns for log-only events — Status: implemented — .agents/notes/implemented/simplification/2026-07-28-remove-synthetic-log-only-turns.md
+- Agent Note: 移除纯日志事件的合成轮次 — Status: implemented — .agents/notes/implemented/simplification/2026-07-28-remove-synthetic-log-only-turns.zh.md

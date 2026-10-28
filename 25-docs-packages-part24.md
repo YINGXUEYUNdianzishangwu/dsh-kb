@@ -1,0 +1,33 @@
+# docs: packages (830 篇, part 24/26)
+
+- @deepseek-ai/dsh-llm-mock-server — description: "用于在无提供方密钥的情况下测试 LLM（大语言模型）适配器与恢复策略的可通过脚本控制的 Messages 兼容故障服务器，面向测试作者与演示。" — packages/test-support/llm-mock-server/README.zh.md
+- @deepseek-ai/dsh-llm-replay — description: "Keyless LLM replay plugin for snapshot tests, for test authors booting the r — packages/test-support/llm-replay/README.md
+- @deepseek-ai/dsh-llm-replay — description: "面向快照测试的无密钥 LLM（大语言模型）回放插件，供测试作者针对已记录模型 transcript（文本记录）启动真实 agent（智能体）。" — packages/test-support/llm-replay/README.zh.md
+- @deepseek-ai/dsh-loader-smoke — description: "Shared subprocess and direct-agent harness for keyless example smoke tests,  — packages/test-support/loader-smoke/README.md
+- @deepseek-ai/dsh-loader-smoke — description: "面向无密钥示例冒烟测试的共享子进程与直接 agent（智能体） harness，供测试作者启动真实 Loader 组合。" — packages/test-support/loader-smoke/README.zh.md
+- packages/test-support — description: "The test-support group map: keyless test harnesses, LLM mock and replay serv — packages/test-support/README.md
+- packages/test-support — description: "test-support 组地图：面向编写与运行仓库测试的开发者，提供无密钥测试 harness、LLM（大语言模型） mock 与回放服务器以及 Lo — packages/test-support/README.zh.md
+- @deepseek-ai/dsh-remote-mock — description: "Endpoint-named mock for Typert Remote traffic: a table of unary answers and  — packages/test-support/remote-mock/README.md
+- @deepseek-ai/dsh-remote-mock — description: "Typert Remote 流量的端点具名 mock：一元应答与流脚本的表、活流控制、日志与 Connection 载体面，供测试作者在没有 Host  — packages/test-support/remote-mock/README.zh.md
+- @deepseek-ai/dsh-session-snapshot — description: "Session-log snapshot support for keyless profile tests: manifests, identity  — packages/test-support/session-snapshot/README.md
+- @deepseek-ai/dsh-session-snapshot — description: "面向无密钥 profile 测试的会话日志快照支持：manifest（元数据清单）、身份脱敏、规范化、workspace 检查与协议适配器。" — packages/test-support/session-snapshot/README.zh.md
+- packages/test-support/session-snapshot/tests/fixtures/record-suite/rec-pin/system-prompt.expected.md — SYS PROMPT — packages/test-support/session-snapshot/tests/fixtures/record-suite/rec-pin/system-prompt.expected.md
+- packages/test-support/session-snapshot/tests/fixtures/suite/pin-turn/system-prompt.expected.md — SYS PROMPT — packages/test-support/session-snapshot/tests/fixtures/suite/pin-turn/system-prompt.expected.md
+- packages/test-support/session-snapshot/tests/fixtures/suite/plain-turn/system-prompt.1.expected.md — SYS PROMPT — packages/test-support/session-snapshot/tests/fixtures/suite/plain-turn/system-prompt.1.expected.md
+- packages/todo — description: "The todo group map: the model-facing todowrite tool over the session log, fo — packages/todo/README.md
+- packages/todo — description: "todo 组地图：基于会话日志的模型侧 todowrite 工具，供浏览本组的用户与维护者阅读。" — packages/todo/README.zh.md
+- @deepseek-ai/dsh-tool-todo — description: "The model-facing todowrite tool over the DeepSeek Harness session log: whole — packages/todo/tool-todo/README.md
+- @deepseek-ai/dsh-tool-todo — description: "面向 DeepSeek Harness 会话日志的模型侧 todowrite 工具：整表替换、单一会话归属与 todos 投影，供选择、配置或排查该工具 — packages/todo/tool-todo/README.zh.md
+- @deepseek-ai/dsh-typert-generator — description: "The build-time Typert generator: source type analysis, compiler-independent  — packages/typert/generator/README.md
+- @deepseek-ai/dsh-typert-generator — description: "构建时 Typert 生成器：源代码类型分析、与编译器无关的模型与产物生成，供接入 Typert 发布或消费生成产物的维护者阅读。" — packages/typert/generator/README.zh.md
+- @deepseek-ai/dsh-typert-loader — description: "Loader integration for generated Typert artifacts: how mounted packages auto — packages/typert/loader/README.md
+- @deepseek-ai/dsh-typert-loader — description: "生成的 Typert 产物所用的 Loader 集成：已挂载的包如何自动把宿主侧反射与 schema 贡献给运行时注册表。" — packages/typert/loader/README.zh.md
+- @deepseek-ai/dsh-typert-protocol — description: "The shared Typert Remote protocol: decorators, wire descriptors, codecs, and — packages/typert/protocol/README.md
+- @deepseek-ai/dsh-typert-protocol — description: "共享的 Typert Remote 协议：业务包、生成产物、Host Gateway 与 Client API 使用的装饰器、wire 描述符、编解码器 — packages/typert/protocol/README.zh.md
+- packages/typert — description: "The Typert group map: the build-time type-graph generator, runtime registry, — packages/typert/README.md
+- packages/typert — description: "Typert 组地图：构建时类型图生成器、运行时注册表、Loader 集成与共享 Remote 协议，它们共同支撑类型化的 Host 到 Client  — packages/typert/README.zh.md
+- @deepseek-ai/dsh-typert-registry — description: "The runtime Typert registry: stores generated package reflection, lazy Zod s — packages/typert/registry/README.md
+- @deepseek-ai/dsh-typert-registry — description: "运行时 Typert 注册表：保存生成的包反射、惰性 Zod schema factory 与 Remote 调用描述符，并按需为消费方解析。" — packages/typert/registry/README.zh.md
+- @deepseek-ai/dsh-atomic-write — description: "Atomic file replacement and cross-process writer locking for packages that m — packages/util/atomic-write/README.md
+- @deepseek-ai/dsh-atomic-write — description: "原子文件替换与跨进程写锁，供绝不允许在磁盘上留下不完整、被符号链接劫持或权限过宽内容的包使用。" — packages/util/atomic-write/README.zh.md
+- @deepseek-ai/dsh-brand — description: "Nominal string and number types with stateless constructors for packages tha — packages/util/brand/README.md

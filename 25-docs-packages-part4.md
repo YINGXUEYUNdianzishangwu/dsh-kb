@@ -1,0 +1,30 @@
+# docs: packages (830 篇, part 4/26)
+
+- @deepseek-ai/dsh-client-ui-deepseek-model-label-1017 — description: "在输入框的模型选择器中为 DeepSeek Flash 显示临时的 1017 角标。" — packages/client/ui-deepseek-model-label-1017/README.zh.md
+- @deepseek-ai/dsh-client-ui-deliverables — description: "Changed files, deliveries, and clickable file references for the Web GUI: th — packages/client/ui-deliverables/README.md
+- @deepseek-ai/dsh-client-ui-deliverables — description: "Web GUI 的改动文件、交付文件与可点击文件引用：已完成轮次末尾的改动文件卡片与交付文件卡片、逐个对比改动文件的 review tab，以及收尾正文 — packages/client/ui-deliverables/README.zh.md
+- @deepseek-ai/dsh-client-ui-directory-picker-browse — description: "In-app directory-browsing surface: the Miller-column Select Workspace Direct — packages/client/ui-directory-picker-browse/README.md
+- @deepseek-ai/dsh-client-ui-directory-picker-browse — description: "应用内目录浏览表面：填充工作区目录流程的 Miller 分栏「选择工作区目录」对话框；供 Web 拾取体验的用户与维护者阅读。" — packages/client/ui-directory-picker-browse/README.zh.md
+- @deepseek-ai/dsh-client-ui-directory-picker-native — description: "Native directory-picker surface: the browser half that drives the local Desk — packages/client/ui-directory-picker-native/README.md
+- @deepseek-ai/dsh-client-ui-directory-picker-native — description: "原生目录选择表面：驱动本地 Desktop 或 Host 操作系统选择器的浏览器半部，用于工作区目录流程；供选择拾取交互的用户与维护者阅读。" — packages/client/ui-directory-picker-native/README.zh.md
+- @deepseek-ai/dsh-client-ui-dockkit — description: "Docking layout kit for the dsh web client: a split tree of tabbed panes with — packages/client/ui-dockkit/README.md
+- @deepseek-ai/dsh-client-ui-dockkit — description: "dsh Web 客户端的停靠布局套件：带可逆操作的标签格分裂树、planner、线性历史，以及渲染并驱动它的组件。" — packages/client/ui-dockkit/README.zh.md
+- @deepseek-ai/dsh-client-ui-entry-customization — description: "Offer plugin browsing and a Creator draft in three navigation regions." — packages/client/ui-entry-customization/README.md
+- @deepseek-ai/dsh-client-ui-entry-customization — description: "为三个导航区域的更多菜单提供插件浏览与创造模式草稿。" — packages/client/ui-entry-customization/README.zh.md
+- @deepseek-ai/dsh-client-ui-goal — description: "Goal surface for the Web GUI: the composer-context strip that shows the curr — packages/client/ui-goal/README.md
+- @deepseek-ai/dsh-client-ui-goal — description: "Web GUI 的 goal 界面：显示当前目标并支持编辑、暂停、恢复或清除的 composer 上下文条带；供 goal 体验的用户与维护者阅读。" — packages/client/ui-goal/README.zh.md
+- @deepseek-ai/dsh-client-ui-input-trigger — description: "Input trigger pipeline for the Web GUI: / and @ detection under the caret, t — packages/client/ui-input-trigger/README.md
+- @deepseek-ai/dsh-client-ui-input-trigger — description: "Web GUI 的输入触发流水线：光标处的 / 与 @ 检测、分组候选菜单，以及把 pick 路由到已注册 source；供斜杠命令与引用的用户与维护者 — packages/client/ui-input-trigger/README.zh.md
+- @deepseek-ai/dsh-client-ui-jobs — description: "The session-header background-job list: expandable streaming output panels,  — packages/client/ui-jobs/README.md
+- @deepseek-ai/dsh-client-ui-jobs — description: "会话头部后台任务列表：可展开的流式输出面板、进行中/已结束分组，以及无保留输出的已结束任务的静态行。" — packages/client/ui-jobs/README.zh.md
+- @deepseek-ai/dsh-client-ui-layout — description: "Shell layout for the Web GUI: the three-column AppFrame whose right column i — packages/client/ui-layout/README.md
+- @deepseek-ai/dsh-client-ui-layout — description: "Web GUI 的外壳布局：三栏 AppFrame（右栏作为贴边面板的轨道）、面板几何服务与主题呈现；供窗口外壳的使用者与维护者阅读。" — packages/client/ui-layout/README.zh.md
+- @deepseek-ai/dsh-client-ui-message-feedback — description: "The Web feedback surface: the Like/Dislike pair in the finalized assistant m — packages/client/ui-message-feedback/README.md
+- @deepseek-ai/dsh-client-ui-message-feedback — description: "Web 反馈界面：已定稿助手消息动作行中的 Like/Dislike 对、两种评分与 /feedback 共用的反馈弹窗，以及确认和失败 toast；供 — packages/client/ui-message-feedback/README.zh.md
+- @deepseek-ai/dsh-client-ui-model-selection — description: "Model selection for the Web GUI: the /model popup and the composer model sea — packages/client/ui-model-selection/README.md
+- @deepseek-ai/dsh-client-ui-model-selection — description: "Web GUI 的模型选择：/model 弹窗与 composer 模型位共用一份按提供方分组的会话级目录；供模型路由的用户与维护者阅读。" — packages/client/ui-model-selection/README.zh.md
+- @deepseek-ai/dsh-client-ui-open-in-app — description: "Web \"Open In...\" controls: the Session-header split button launching the r — packages/client/ui-open-in-app/README.md
+- @deepseek-ai/dsh-client-ui-open-in-app — description: "Web \"Open In...\" 控件：会话头部在记住的应用中打开 workspace 目录的分体按钮，以及文档预览里用默认应用打开、显示单个文件位 — packages/client/ui-open-in-app/README.zh.md
+- @deepseek-ai/dsh-client-ui-permission-presets — description: "Permission preset surfaces for the Web GUI: the General settings default row — packages/client/ui-permission-presets/README.md
+- @deepseek-ai/dsh-client-ui-permission-presets — description: "Web GUI 的权限预设界面：通用设置中的默认行与切换当前会话的 /permission 选择器；供权限策略的用户与维护者阅读。" — packages/client/ui-permission-presets/README.zh.md
+- @deepseek-ai/dsh-client-ui-plan — description: "Plan-mode status chip for the Web GUI: the composer control that shows plan  — packages/client/ui-plan/README.md

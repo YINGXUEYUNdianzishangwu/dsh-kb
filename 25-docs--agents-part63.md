@@ -1,0 +1,43 @@
+# docs: .agents (2583 篇, part 63/66)
+
+- Agent Note: Windows-lane observations wait on the state they read — Status: implemented — .agents/notes/implemented/testing/2026-09-27-observation-waits-on-observed-state.md
+- Agent Note: Windows lane 的观测等待它所读取的状态 — Status: implemented — .agents/notes/implemented/testing/2026-09-27-observation-waits-on-observed-state.zh.md
+- Agent Note: Plugin-manager Git children isolate the host's command-line configuration — Status: implemented — .agents/notes/implemented/testing/2026-09-27-plugin-manager-git-child-environment.md
+- Agent Note: plugin-manager 的 Git 子进程隔离宿主机的命令行配置 — Status: implemented — .agents/notes/implemented/testing/2026-09-27-plugin-manager-git-child-environment.zh.md
+- Agent Note: Web lane moves spreadsheet selections by keyboard before reflow assertions — Status: implemented — .agents/notes/implemented/testing/2026-09-27-spreadsheet-selection-by-keyboard-before-reflow.md
+- Agent Note: Web lane moves spreadsheet selections by keyboard before reflow assertions — Status: implemented — .agents/notes/implemented/testing/2026-09-27-spreadsheet-selection-by-keyboard-before-reflow.zh.md
+- Agent Note: Performance baselines for large Session corpora — Status: implemented — .agents/notes/implemented/testing/2026-09-28-session-corpus-performance.md
+- Agent Note: 大型 Session 语料的性能基线 — Status: implemented — .agents/notes/implemented/testing/2026-09-28-session-corpus-performance.zh.md
+- Agent Note: Memory-limited benchmark reruns — Status: implemented — .agents/notes/implemented/testing/2026-10-07-memory-limited-benchmarks.md
+- Agent Note: 内存受限的基准重跑 — Status: implemented — .agents/notes/implemented/testing/2026-10-07-memory-limited-benchmarks.zh.md
+- Agent Note: Scaled machine and memory-pressure benchmark report — Status: implemented — .agents/notes/implemented/testing/2026-10-07-scaled-benchmark-report.md
+- Agent Note: 按机器缩放与内存压力的基准报告 — Status: implemented — .agents/notes/implemented/testing/2026-10-07-scaled-benchmark-report.zh.md
+- Agent Note: Linear credential matching and performance gates for user text — Status: implemented — .agents/notes/implemented/testing/2026-10-11-user-text-credential-matching.md
+- Agent Note: 用户文本凭据识别的线性匹配与性能门禁 — Status: implemented — .agents/notes/implemented/testing/2026-10-11-user-text-credential-matching.zh.md
+- Agent Note: Required cancellation through tool-reachable capability seams — Status: proposed — .agents/notes/proposed/architecture/2026-07-19-required-cancellation-through-tool-capability-seams.md
+- Agent Note: 工具可达能力 seam 中的必填取消 — Status: proposed — .agents/notes/proposed/architecture/2026-07-19-required-cancellation-through-tool-capability-seams.zh.md
+- Agent Note: Domain KV storage capability seam and the workspace entity — Status: proposed — .agents/notes/proposed/architecture/2026-07-24-domain-kv-storage-and-workspace.md
+- Agent Note: 领域 KV 存储能力 seam 与 workspace 实体 — Status: proposed — .agents/notes/proposed/architecture/2026-07-24-domain-kv-storage-and-workspace.zh.md
+- Agent Note: Session projections and command lifecycle logging — Status: proposed — .agents/notes/proposed/architecture/2026-07-27-session-projection-and-command-log.md
+- Agent Note: 会话投影与命令生命周期日志记录 — Status: proposed — .agents/notes/proposed/architecture/2026-07-27-session-projection-and-command-log.zh.md
+- Agent Note: Storage root placement and derived-medium recovery — Status: proposed — .agents/notes/proposed/architecture/2026-07-28-storage-root-and-derived-medium-recovery.md
+- Agent Note: 存储根目录落点与派生介质恢复 — Status: proposed — .agents/notes/proposed/architecture/2026-07-28-storage-root-and-derived-medium-recovery.zh.md
+- Agent Note: Record last activity in the session index — Status: proposed — .agents/notes/proposed/architecture/2026-07-29-durable-last-activity-index.md
+- Agent Note: 在会话索引中记录最后活动 — Status: proposed — .agents/notes/proposed/architecture/2026-07-29-durable-last-activity-index.zh.md
+- Agent Note: Semantic phases for composer-chain election — Status: proposed — .agents/notes/proposed/architecture/2026-08-08-semantic-composer-chain-phases.md
+- Agent Note: composer 链选举的语义阶段 — Status: proposed — .agents/notes/proposed/architecture/2026-08-08-semantic-composer-chain-phases.zh.md
+- Agent Note: Logical session and storage rebuild — Status: proposed — .agents/notes/proposed/architecture/2026-09-06-logical-session-storage-rebuild.md
+- Agent Note: 逻辑会话与存储重建 — Status: proposed — .agents/notes/proposed/architecture/2026-09-06-logical-session-storage-rebuild.zh.md
+- Agent Note: Session capability protocols — Status: proposed — .agents/notes/proposed/architecture/2026-09-10-session-capability-protocols.md
+- Agent Note: Session 能力协议 — Status: proposed — .agents/notes/proposed/architecture/2026-09-10-session-capability-protocols.zh.md
+- Agent Note: Session historical data compatibility — Status: proposed — .agents/notes/proposed/architecture/2026-09-10-session-data-compatibility.md
+- Agent Note: Session 历史数据兼容 — Status: proposed — .agents/notes/proposed/architecture/2026-09-10-session-data-compatibility.zh.md
+- Agent Note: Session developer transition rules — Status: proposed — .agents/notes/proposed/architecture/2026-09-10-session-developer-transition.md
+- Agent Note: Session 开发者迁移规则 — Status: proposed — .agents/notes/proposed/architecture/2026-09-10-session-developer-transition.zh.md
+- Agent Note: Session refactor FAQ — Status: proposed — .agents/notes/proposed/architecture/2026-09-10-session-refactor-faq.md
+- Agent Note: Session 重构常见问题 — Status: proposed — .agents/notes/proposed/architecture/2026-09-10-session-refactor-faq.zh.md
+- Agent Note: Two-stage Composer and DraftEditor isolation — Status: proposed — .agents/notes/proposed/architecture/2026-09-14-composer-model-and-draft-editor.md
+- Agent Note: Composer 与 DraftEditor 隔离的两阶段重构 — Status: proposed — .agents/notes/proposed/architecture/2026-09-14-composer-model-and-draft-editor.zh.md
+- Agent Note: Unified Typert/Remote metadata — Status: proposed — .agents/notes/proposed/architecture/2026-09-20-unified-typert-remote-metadata.md
+- Agent Note: 统一 Typert/Remote 元数据 — Status: proposed — .agents/notes/proposed/architecture/2026-09-20-unified-typert-remote-metadata.zh.md
+- Agent Note: Present single-Session migration through follow redirection — Status: proposed — .agents/notes/proposed/architecture/2026-09-29-session-migration-follow-redirect.md

@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 45/66)
+
+- Agent Note: 移除 steering（中途引导）插话标注 — Status: implemented — .agents/notes/archived/simplification/2026-08-10-web-remove-steering-interjection-caption.zh.md
+- Agent Note: parseCmdline runs the program's own commander action — Status: implemented — .agents/notes/archived/simplification/2026-08-11-cmdline-program-action.md
+- Agent Note: parseCmdline 运行 program 自己的 commander action — Status: implemented — .agents/notes/archived/simplification/2026-08-11-cmdline-program-action.zh.md
+- Agent Note: Route documentation roots to quick start — Status: implemented — .agents/notes/archived/simplification/2026-08-11-quickstart-documentation-home.md
+- Agent Note: 将文档根路由指向快速开始 — Status: implemented — .agents/notes/archived/simplification/2026-08-11-quickstart-documentation-home.zh.md
+- Agent Note: Remove the SDK project toolchain — Status: implemented — .agents/notes/archived/simplification/2026-08-11-remove-sdk-project-toolchain.md
+- Agent Note: 移除 SDK 项目工具链 — Status: implemented — .agents/notes/archived/simplification/2026-08-11-remove-sdk-project-toolchain.zh.md
+- Agent Note: Production dsh excludes product subagent providers — Status: implemented — .agents/notes/archived/simplification/2026-08-12-production-dsh-excludes-product-subagent-providers.md
+- Agent Note: 生产 dsh 排除产品 subagent 提供方 — Status: implemented — .agents/notes/archived/simplification/2026-08-12-production-dsh-excludes-product-subagent-providers.zh.md
+- Agent Note: Separate source launch from repository build — Status: implemented — .agents/notes/archived/simplification/2026-08-12-separate-source-launch-from-build.md
+- Agent Note: 将源码启动与仓库构建分离 — Status: implemented — .agents/notes/archived/simplification/2026-08-12-separate-source-launch-from-build.zh.md
+- Agent Note: Trim the Agent Teams read and lifecycle surface — Status: implemented — .agents/notes/archived/simplification/2026-08-12-trim-agent-teams-read-and-lifecycle-surface.md
+- Agent Note: Trim the Agent Teams read and lifecycle surface — Status: implemented — .agents/notes/archived/simplification/2026-08-12-trim-agent-teams-read-and-lifecycle-surface.zh.md
+- Agent Note: Remove the first-run beta notice — Status: implemented — .agents/notes/archived/simplification/2026-08-13-remove-first-run-beta-notice.md
+- Agent Note: 移除首次启动内测声明 — Status: implemented — .agents/notes/archived/simplification/2026-08-13-remove-first-run-beta-notice.zh.md
+- Agent Note: Deleted stale and duplicative knip.json workspace entries — Status: implemented — .agents/notes/archived/simplification/2026-08-19-knip-config-cleanup.md
+- Agent Note: 删除 knip.json 中失效与重复的 workspace 条目 — Status: implemented — .agents/notes/archived/simplification/2026-08-19-knip-config-cleanup.zh.md
+- Agent Note: Product subagents expose minimal actionable diagnostics — Status: implemented — .agents/notes/archived/simplification/2026-08-21-product-subagent-minimal-diagnostics.md
+- Agent Note: 产品 subagent 公开最小可行动诊断 — Status: implemented — .agents/notes/archived/simplification/2026-08-21-product-subagent-minimal-diagnostics.zh.md
+- Agent Note: Owner-local profile tests and runnable guides — Status: implemented — .agents/notes/archived/simplification/2026-08-24-owner-local-profile-tests-and-guides.md
+- Agent Note: 归属方本地的 Profile 测试与可运行指南 — Status: implemented — .agents/notes/archived/simplification/2026-08-24-owner-local-profile-tests-and-guides.zh.md
+- Agent Note: Remove the agent-spine demo package — Status: implemented — .agents/notes/archived/simplification/2026-08-26-remove-agent-spine-demo.md
+- Agent Note: 删除 agent-spine demo 包 — Status: implemented — .agents/notes/archived/simplification/2026-08-26-remove-agent-spine-demo.zh.md
+- Agent Note: Persistence export() and pre-release read-path trims — Status: implemented — .agents/notes/archived/simplification/2026-08-27-persistence-export-and-pre-release-trims.md
+- Agent Note: 持久化 export() 与预发布读取路径精简 — Status: implemented — .agents/notes/archived/simplification/2026-08-27-persistence-export-and-pre-release-trims.zh.md
+- Agent Note: Omit invariant companions without independent observations — Status: implemented — .agents/notes/archived/simplification/2026-08-28-omit-unneeded-invariant-companions.md
+- Agent Note: 没有独立观察时省略不变量伴生入口 — Status: implemented — .agents/notes/archived/simplification/2026-08-28-omit-unneeded-invariant-companions.zh.md
+- Agent Note: The hero input glow is removed — Status: implemented — .agents/notes/archived/simplification/2026-08-28-remove-hero-input-glow.md
+- Agent Note: The hero input glow is removed — Status: implemented — .agents/notes/archived/simplification/2026-08-28-remove-hero-input-glow.zh.md
+- Agent Note: The absent-probe parent repair runs on Windows only — Status: implemented — .agents/notes/archived/simplification/2026-08-28-windows-only-absent-probe-repair.md
+- Agent Note: 缺失探测的父目录修复只在 Windows 上执行 — Status: implemented — .agents/notes/archived/simplification/2026-08-28-windows-only-absent-probe-repair.zh.md
+- Agent Note: Team messaging uses one Steer send_message operation — Status: implemented — .agents/notes/archived/simplification/2026-08-30-team-send-message-steer.md
+- Agent Note: Team 消息使用单一 Steer send_message 操作 — Status: implemented — .agents/notes/archived/simplification/2026-08-30-team-send-message-steer.zh.md
+- Agent Note: replace produced-file probes with CSS width bands — Status: implemented — .agents/notes/archived/simplification/2026-09-01-css-produced-file-layout.md
+- Agent Note: 以 CSS 宽度档位替代产出文件探针 — Status: implemented — .agents/notes/archived/simplification/2026-09-01-css-produced-file-layout.zh.md
+- Agent Note: PTC preset omits the general workflow tool — Status: implemented — .agents/notes/archived/simplification/2026-09-01-ptc-omits-workflow-tool.md
+- Agent Note: PTC preset 不提供通用 workflow 工具 — Status: implemented — .agents/notes/archived/simplification/2026-09-01-ptc-omits-workflow-tool.zh.md
+- Agent Note: Minimal profiles expose only a persistent shell — Status: implemented — .agents/notes/archived/simplification/2026-09-03-minimal-profiles-persistent-shell-only.md
+- Agent Note: 极简 profile 只提供持久 shell — Status: implemented — .agents/notes/archived/simplification/2026-09-03-minimal-profiles-persistent-shell-only.zh.md

@@ -1,0 +1,37 @@
+# docs: apps (260 篇, part 6/6)
+
+- apps/web/tests/expected/sidebar-terminal/unavailable.expected.md — - alert: This terminal no longer exists. Open a new terminal. — apps/web/tests/expected/sidebar-terminal/unavailable.expected.md
+- apps/web/tests/expected/skill-invocation-policy/menu-fuzzy.expected.md — - listbox "Trigger suggestions": — apps/web/tests/expected/skill-invocation-policy/menu-fuzzy.expected.md
+- apps/web/tests/expected/skill-invocation-policy/menu.expected.md — - listbox "Trigger suggestions": — apps/web/tests/expected/skill-invocation-policy/menu.expected.md
+- apps/web/tests/expected/skill-invocation-policy/preview.expected.md — - term: name — apps/web/tests/expected/skill-invocation-policy/preview.expected.md
+- apps/web/tests/expected/skill-user-invoke/ui-expanded.expected.md — - banner: — apps/web/tests/expected/skill-user-invoke/ui-expanded.expected.md
+- apps/web/tests/expected/skill-user-invoke/ui.expected.md — - banner: — apps/web/tests/expected/skill-user-invoke/ui.expected.md
+- apps/web/tests/expected/stats-paged-history/ui.expected.md — - banner: — apps/web/tests/expected/stats-paged-history/ui.expected.md
+- apps/web/tests/expected/steer-all/mid-steer.expected.md — - banner: — apps/web/tests/expected/steer-all/mid-steer.expected.md
+- apps/web/tests/expected/steer-all/settled-expanded.expected.md — - banner: — apps/web/tests/expected/steer-all/settled-expanded.expected.md
+- apps/web/tests/expected/steer-all/settled.expected.md — - banner: — apps/web/tests/expected/steer-all/settled.expected.md
+- Before opening the child — - tree "Subagent sessions": — apps/web/tests/expected/subagent-conversation/migration-required-child.expected.md
+- apps/web/tests/expected/thinking-markdown/ui.expected.md — - button "Think" [expanded] — apps/web/tests/expected/thinking-markdown/ui.expected.md
+- apps/web/tests/expected/trajectory-virtualization/load-more.expected.md — - row "Load earlier history": — apps/web/tests/expected/trajectory-virtualization/load-more.expected.md
+- apps/web/tests/expected/voice-download-fallback.expected.md — - alert: — apps/web/tests/expected/voice-download-fallback.expected.md
+- apps/web/tests/expected/voice-download.expected.md — - alert: — apps/web/tests/expected/voice-download.expected.md
+- apps/web/tests/expected/voice-setup.expected.md — - dialog "Set up voice input before recording": — apps/web/tests/expected/voice-setup.expected.md
+- apps/web/tests/expected/voice-source-auto.expected.md — - strong: SenseVoiceSmall (INT8) — apps/web/tests/expected/voice-source-auto.expected.md
+- apps/web/tests/expected/voice-source-manual.expected.md — - strong: SenseVoiceSmall (INT8) — apps/web/tests/expected/voice-source-manual.expected.md
+- apps/web/tests/expected/web-runtime-context/file-reference-prompt.expected.md — Prefer showing the primary results within your final response alongside a brief explanatio — apps/web/tests/expected/web-runtime-context/file-reference-prompt.expected.md
+- apps/web/tests/expected/web-runtime-context/web-surface-prompt.expected.md — You are interacting with the user through the DeepSeek Harness Web GUI whose URL the runti — apps/web/tests/expected/web-runtime-context/web-surface-prompt.expected.md
+- apps/web/tests/expected/workspace-management/grouping-options.expected.md — - menu: — apps/web/tests/expected/workspace-management/grouping-options.expected.md
+- apps/web/tests/expected/workspace-management/parent-folders.expected.md — - treeitem "folder-group" [expanded] — apps/web/tests/expected/workspace-management/parent-folders.expected.md
+- apps/web/tests/expected/workspace-new-session-folding/first-batch.expected.md — - tree "Sessions": — apps/web/tests/expected/workspace-new-session-folding/first-batch.expected.md
+- apps/web/tests/expected/workspace-new-session-folding/sidebar.expected.md — - tree "Sessions": — apps/web/tests/expected/workspace-new-session-folding/sidebar.expected.md
+- apps/web/tests/expected/workspace-new-session-folding/watermark-kept.expected.md — - tree "Sessions": — apps/web/tests/expected/workspace-new-session-folding/watermark-kept.expected.md
+- Binary Office fixtures — English | [中文](README.zh.md) — apps/web/tests/fixtures/office/README.md
+- 二进制 Office 测试文件 — [English](README.md) | 中文 — apps/web/tests/fixtures/office/README.zh.md
+- apps/web browser e2e — English | [中文](README.zh.md) — apps/web/tests/README.md
+- apps/web 浏览器 e2e — [English](README.md) | 中文 — apps/web/tests/README.zh.md
+- apps/web/tests/snapshots/agent-team-panel/resize.expected.md — - dialog "Agent Team": — apps/web/tests/snapshots/agent-team-panel/resize.expected.md
+- apps/web/tests/snapshots/agent-team-panel/task.expected.md — - dialog "Agent Team": — apps/web/tests/snapshots/agent-team-panel/task.expected.md
+- apps/web/tests/snapshots/live-job-stream/settled.expected.md — - list "Background jobs": — apps/web/tests/snapshots/live-job-stream/settled.expected.md
+- apps/web/tests/snapshots/live-job-stream/streaming.expected.md — - list "Background jobs": — apps/web/tests/snapshots/live-job-stream/streaming.expected.md
+- apps/web/tests/snapshots/preview-boot/source-chooser.expected.md — - form "Choose Preview data": — apps/web/tests/snapshots/preview-boot/source-chooser.expected.md
+- apps/web/tests/snapshots/streaming-fence-highlight/mid-stream.expected.md — - banner: — apps/web/tests/snapshots/streaming-fence-highlight/mid-stream.expected.md

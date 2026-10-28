@@ -1,0 +1,40 @@
+# docs: .agents (2583 篇, part 2/66)
+
+- Agent Note: 相对文件系统路径按调用方的会话 cwd 解析 — Status: implemented — .agents/notes/archived/architecture/2026-07-02-fs-per-session-cwd.zh.md
+- Agent Note: Result-time applied-hunk diffs for file mutations — Status: implemented — .agents/notes/archived/architecture/2026-07-02-result-time-applied-hunk-diffs.md
+- Agent Note: 结果时刻的 applied-hunk diff 用于文件变更 — Status: implemented — .agents/notes/archived/architecture/2026-07-02-result-time-applied-hunk-diffs.zh.md
+- Agent Note: Add direct directory listing to the filesystem seam — Status: implemented — .agents/notes/archived/architecture/2026-07-03-filesystem-directory-listing-seam.md
+- Agent Note: 为文件系统 seam 添加直接目录列举能力 — Status: implemented — .agents/notes/archived/architecture/2026-07-03-filesystem-directory-listing-seam.zh.md
+- Agent Note: Subagent provider-lifecycle events — `subagent/provider-added` / `subagent/provider-removed` — Status: implemented — .agents/notes/archived/architecture/2026-07-05-subagent-provider-lifecycle-events.md
+- Agent Note: Subagent 提供方生命周期事件——`subagent/provider-added` / `subagent/provider-removed` — Status: implemented — .agents/notes/archived/architecture/2026-07-05-subagent-provider-lifecycle-events.zh.md
+- Agent Note: Windows write-permission semantics — inherited DACLs, not mode bits — Status: implemented — .agents/notes/archived/architecture/2026-07-05-windows-fs-permissions.md
+- Agent Note: Windows 写入权限语义：继承 DACL，而非权限模式位 — Status: implemented — .agents/notes/archived/architecture/2026-07-05-windows-fs-permissions.zh.md
+- Agent Note: Windows-native durable JSONL publication — Status: implemented — .agents/notes/archived/architecture/2026-07-05-windows-jsonl-durable-publish.md
+- Agent Note: Windows 原生持久 JSONL 发布 — Status: implemented — .agents/notes/archived/architecture/2026-07-05-windows-jsonl-durable-publish.zh.md
+- Agent Note: Tool result retention library — Status: implemented — .agents/notes/archived/architecture/2026-07-06-tool-result-retention-library.md
+- Agent Note: 工具结果保留库 — Status: implemented — .agents/notes/archived/architecture/2026-07-06-tool-result-retention-library.zh.md
+- Agent Note: The agent is a registration scope — Status: implemented — .agents/notes/archived/architecture/2026-07-08-agent-scope-contexts.md
+- Agent Note: agent 即注册作用域 — Status: implemented — .agents/notes/archived/architecture/2026-07-08-agent-scope-contexts.zh.md
+- Agent Note: After-call compaction pressure and context-overflow recovery — Status: implemented — .agents/notes/archived/architecture/2026-07-10-after-call-compaction-pressure-and-overflow-recovery.md
+- Agent Note: 调用后压缩压力与上下文溢出恢复 — Status: implemented — .agents/notes/archived/architecture/2026-07-10-after-call-compaction-pressure-and-overflow-recovery.zh.md
+- Agent Note: Agent-scope runtime design and correctness — Status: implemented — .agents/notes/archived/architecture/2026-07-12-agent-scope-runtime-design.md
+- Agent Note: Agent 作用域运行时设计与正确性 — Status: implemented — .agents/notes/archived/architecture/2026-07-12-agent-scope-runtime-design.zh.md
+- Agent Note: Shared scoped-layer storage — Status: implemented — .agents/notes/archived/architecture/2026-07-12-scoped-layers-store.md
+- Agent Note: 共享作用域分层存储 — Status: implemented — .agents/notes/archived/architecture/2026-07-12-scoped-layers-store.zh.md
+- Agent Note: Advisory LLM catalogs and per-session ACP model selection — Status: implemented — .agents/notes/archived/architecture/2026-07-15-llm-model-catalog-and-acp-selection.md
+- Agent Note: 建议性 LLM 目录与 ACP 会话级模型选择 — Status: implemented — .agents/notes/archived/architecture/2026-07-15-llm-model-catalog-and-acp-selection.zh.md
+- Agent Note: LSP capability seam and model-facing query tool — Status: implemented — .agents/notes/archived/architecture/2026-07-15-lsp-capability-seam.md
+- Agent Note: LSP 能力 seam 与面向模型的查询工具 — Status: implemented — .agents/notes/archived/architecture/2026-07-15-lsp-capability-seam.zh.md
+- Agent Note: Replay token meter service — Status: implemented — .agents/notes/archived/architecture/2026-07-15-replay-token-meter-service.md
+- Agent Note: 回放式 token 计量服务 — Status: implemented — .agents/notes/archived/architecture/2026-07-15-replay-token-meter-service.zh.md
+- Agent Note: Explicit turn cancellation capability — Status: implemented — .agents/notes/archived/architecture/2026-07-16-explicit-turn-cancellation.md
+- Agent Note: 显式轮次取消能力 — Status: implemented — .agents/notes/archived/architecture/2026-07-16-explicit-turn-cancellation.zh.md
+- Agent Note: One-shot startup cleanup for local spill files — Status: implemented — .agents/notes/archived/architecture/2026-07-17-local-spill-startup-cleanup.md
+- Agent Note: 本地 spill 文件的一次性启动清理 — Status: implemented — .agents/notes/archived/architecture/2026-07-17-local-spill-startup-cleanup.zh.md
+- Agent Note: GUI layering and the RPC protocol — host/client layering by capability provider, the four-quadrant message model, and the fetch carrier — Status: implemented — .agents/notes/archived/architecture/2026-07-19-gui-layering-and-rpc-protocol.md
+- Agent Note: GUI 分层与 RPC 协议——host/client 按能力提供方分层、四象限消息模型与 fetch 载体 — Status: implemented — .agents/notes/archived/architecture/2026-07-19-gui-layering-and-rpc-protocol.zh.md
+- Agent Note: Web client architecture — the client cordis plugin tree, the slot system, and the React-free object layer — Status: implemented — .agents/notes/archived/architecture/2026-07-19-gui-web-client-architecture.md
+- Agent Note: Web 客户端架构——client cordis 插件树、slot 体系与 React-free 对象层 — Status: implemented — .agents/notes/archived/architecture/2026-07-19-gui-web-client-architecture.zh.md
+- Agent Note: Meaningful package invariant contracts — Status: implemented — .agents/notes/archived/architecture/2026-07-19-package-invariant-runtime-contracts.md
+- Agent Note: 有意义的包不变量约定 — Status: implemented — .agents/notes/archived/architecture/2026-07-19-package-invariant-runtime-contracts.zh.md
+- Agent Note: Package-owned invariant service contract — Status: implemented — .agents/notes/archived/architecture/2026-07-19-package-owned-invariant-service.md

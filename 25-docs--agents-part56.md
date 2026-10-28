@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 56/66)
+
+- Agent Note: Initial draft content and structured reference restoration — Status: implemented — .agents/notes/implemented/architecture/2026-09-30-structured-draft-initialization.md
+- Agent Note: 草稿初始内容与结构化引用恢复 — Status: implemented — .agents/notes/implemented/architecture/2026-09-30-structured-draft-initialization.zh.md
+- Agent Note: Replace plugins whose loaded package files changed during profile recomposition — Status: implemented — .agents/notes/implemented/architecture/2026-10-01-replace-changed-package-modules-on-recomposition.md
+- Agent Note: profile 重新组合时替换已加载包文件发生变化的插件 — Status: implemented — .agents/notes/implemented/architecture/2026-10-01-replace-changed-package-modules-on-recomposition.zh.md
+- Agent Note: Anonymous translation remains separate from model history — Status: implemented — .agents/notes/implemented/architecture/2026-10-05-anonymous-reasoning-translation.md
+- Agent Note: 免登录翻译独立于模型历史 — Status: implemented — .agents/notes/implemented/architecture/2026-10-05-anonymous-reasoning-translation.zh.md
+- Agent Note: Discover Official bundles without installing their runtimes — Status: implemented — .agents/notes/implemented/architecture/2026-10-05-official-on-demand-bundles.md
+- Agent Note: 发现 Official bundle 而不安装其运行时 — Status: implemented — .agents/notes/implemented/architecture/2026-10-05-official-on-demand-bundles.zh.md
+- Agent Note: Paid native Flash translation uses independent queries — Status: implemented — .agents/notes/implemented/architecture/2026-10-05-paid-native-flash-reasoning-translation.md
+- Agent Note: 付费原生 Flash 翻译使用独立查询 — Status: implemented — .agents/notes/implemented/architecture/2026-10-05-paid-native-flash-reasoning-translation.zh.md
+- Agent Note: Machine translation results use shared Session records — Status: implemented — .agents/notes/implemented/architecture/2026-10-05-persistent-machine-translation.md
+- Agent Note: 机器翻译结果使用统一的 Session 记录 — Status: implemented — .agents/notes/implemented/architecture/2026-10-05-persistent-machine-translation.zh.md
+- Agent Note: Shared agents root joins the user-global instruction chain — Status: implemented — .agents/notes/implemented/architecture/2026-10-05-shared-agents-root-instructions.md
+- Agent Note: 共享 agents 根目录加入用户全局指令链 — Status: implemented — .agents/notes/implemented/architecture/2026-10-05-shared-agents-root-instructions.zh.md
+- Agent Note: Preserve Web and Desktop plugin identities across experimental consolidation — Status: implemented — .agents/notes/implemented/architecture/2026-10-06-web-desktop-plugin-identity-compatibility.md
+- Agent Note: 在实验能力整合中保留 Web 和 Desktop 插件身份 — Status: implemented — .agents/notes/implemented/architecture/2026-10-06-web-desktop-plugin-identity-compatibility.zh.md
+- Agent Note: Desktop shell configuration independent of the Host — Status: implemented — .agents/notes/implemented/architecture/2026-10-08-desktop-shell-configuration.md
+- Agent Note: Desktop 壳层配置独立于 Host — Status: implemented — .agents/notes/implemented/architecture/2026-10-08-desktop-shell-configuration.zh.md
+- Agent Note: Retained PTC processes follow file policy — Status: implemented — .agents/notes/implemented/architecture/2026-10-08-persistent-ptc-sandbox.md
+- Agent Note: 保留状态的 PTC 进程遵循文件策略 — Status: implemented — .agents/notes/implemented/architecture/2026-10-08-persistent-ptc-sandbox.zh.md
+- Agent Note: Claimed commands as atomic composer chips — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-composer-command-chip.md
+- Agent Note: 已认领命令作为输入框原子 chip — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-composer-command-chip.zh.md
+- Agent Note: Shared native CUA process with Agent-scoped state — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-cua-shared-native-helper.md
+- Agent Note：共享原生 CUA 进程并隔离 Agent 状态 — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-cua-shared-native-helper.zh.md
+- Agent Note: Domain image Slots and a shared gallery Factory — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-message-node-factories-and-delegates.md
+- Agent Note: 领域图片 Slot 与共享画廊 Factory — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-message-node-factories-and-delegates.zh.md
+- Agent Note: Peer-scoped connect handshake — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-operator-scoped-connect-handshake.md
+- Agent Note: 以 Peer 为作用域的建连握手 — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-operator-scoped-connect-handshake.zh.md
+- Agent Note: PTC owns policy-change cleanup waits — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-ptc-owned-policy-cleanup.md
+- Agent Note: PTC 自行等待策略变化后的清理 — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-ptc-owned-policy-cleanup.zh.md
+- Agent Note: Standard reasoning Body Slot and reusable Content Factory — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-reasoning-content-slot-factory.md
+- Agent Note: 思考正文的标准 Slot 与可复用 Content Factory — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-reasoning-content-slot-factory.zh.md
+- Agent Note: Stored credentials take precedence over the launch environment — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-stored-credential-precedence.md
+- Agent Note: 存储的凭据优先于启动环境 — Status: implemented — .agents/notes/implemented/architecture/2026-10-09-stored-credential-precedence.zh.md
+- Agent Note: User-text candidate scheduling and Facts-driven refresh — Status: implemented — .agents/notes/implemented/architecture/2026-10-10-user-text-json-nodes.md
+- Agent Note: 用户文本候选调度与 Facts 驱动刷新 — Status: implemented — .agents/notes/implemented/architecture/2026-10-10-user-text-json-nodes.zh.md
+- Agent Note: Chat group-tree positions and exchanges — Status: implemented — .agents/notes/implemented/architecture/2026-10-11-chat-group-tree-exchanges.md
+- Agent Note: Chat 分组树位置与交互段 — Status: implemented — .agents/notes/implemented/architecture/2026-10-11-chat-group-tree-exchanges.zh.md
+- Agent Note: Exclusive Conversation matches — Status: implemented — .agents/notes/implemented/architecture/2026-10-12-exclusive-conversation-matches.md

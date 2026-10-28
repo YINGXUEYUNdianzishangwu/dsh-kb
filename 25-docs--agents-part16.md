@@ -1,0 +1,39 @@
+# docs: .agents (2583 篇, part 16/66)
+
+- Agent Note: Safari textarea 软换行收缩恢复 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-13-safari-textarea-soft-wrap-reflow.zh.md
+- Agent Note: Replay state aligns with assembled content by construction — Status: implemented — .agents/notes/archived/bug-fix/2026-08-15-max-token-replay-state-alignment.md
+- Agent Note: 回放状态与组装内容按构造对齐 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-15-max-token-replay-state-alignment.zh.md
+- Agent Note: Persistent bash keeps the backend's controlled prompt — Status: implemented — .agents/notes/archived/bug-fix/2026-08-15-persistent-bash-keeps-controlled-prompt.md
+- Agent Note: 持久 bash 保留后端的受控提示符 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-15-persistent-bash-keeps-controlled-prompt.zh.md
+- Agent Note: Recover the Web queue from durable Inbox state — Status: implemented — .agents/notes/archived/bug-fix/2026-08-17-durable-web-queue-recovery.md
+- Agent Note: 从持久 Inbox 状态恢复 Web Queue — Status: implemented — .agents/notes/archived/bug-fix/2026-08-17-durable-web-queue-recovery.zh.md
+- Agent Note: Child Agent messages precede their settlement notices — Status: implemented — .agents/notes/archived/bug-fix/2026-08-17-subagent-message-settlement-ordering.md
+- Agent Note: Child Agent 消息先于其结算通知 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-17-subagent-message-settlement-ordering.zh.md
+- Agent Note: Rail search keeps its expansion when the opening click reaches document — Status: implemented — .agents/notes/archived/bug-fix/2026-08-18-rail-search-outside-click-self-dismissal.md
+- Agent Note: 轨道搜索在展开点击到达 document 时保持展开 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-18-rail-search-outside-click-self-dismissal.zh.md
+- Agent Note: Tool-row file-open failures stay visible — Status: implemented — .agents/notes/archived/bug-fix/2026-08-18-tool-row-file-open-failure.md
+- Agent Note: Tool-row file-open failures stay visible — Status: implemented — .agents/notes/archived/bug-fix/2026-08-18-tool-row-file-open-failure.zh.md
+- Agent Note: DeepSeek reasoning passback on every reasoned turn — Status: implemented — .agents/notes/archived/bug-fix/2026-08-19-deepseek-reasoning-passback-every-turn.md
+- Agent Note: DeepSeek reasoning passback on every reasoned turn — Status: implemented — .agents/notes/archived/bug-fix/2026-08-19-deepseek-reasoning-passback-every-turn.zh.md
+- Agent Note: Composer edits carry the range they applied to — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-composer-edit-range-from-selection.md
+- Agent Note: 输入框的编辑自带它所作用的范围 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-composer-edit-range-from-selection.zh.md
+- Agent Note: Composer reference decorations key by draft-order ordinal — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-composer-reference-decoration-keys.md
+- Agent Note: 输入框引用装饰按草稿顺序序号取 key — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-composer-reference-decoration-keys.zh.md
+- Agent Note: Explicit Web index paths and 404 static misses — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-explicit-web-index-paths.md
+- Agent Note: 显式 Web index 路径与静态资源未命中的 404 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-explicit-web-index-paths.zh.md
+- Agent Note: The shipped preset root is the plugin's own — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-plugin-owned-shipped-preset-root.md
+- Agent Note: The shipped preset root is the plugin's own — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-plugin-owned-shipped-preset-root.zh.md
+- Agent Note: Running drafts take the primary Send action — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-running-draft-primary-send.md
+- Agent Note: 运行中草稿取得主 Send 操作 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-running-draft-primary-send.zh.md
+- Agent Note: Terminal turn errors survive same-turn retry history — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-turn-error-survives-same-turn-retry-history.md
+- Agent Note: Terminal turn errors survive same-turn retry history — Status: implemented — .agents/notes/archived/bug-fix/2026-08-20-turn-error-survives-same-turn-retry-history.zh.md
+- Agent Note: Recover DeepSeek image requests from Files resolution failures — Status: implemented — .agents/notes/archived/bug-fix/2026-08-21-deepseek-files-inline-fallback.md
+- Agent Note: DeepSeek Files 解析失败时恢复图片请求 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-21-deepseek-files-inline-fallback.zh.md
+- Agent Note: Sent user text projects inline, and queue rows fold wire references — Status: implemented — .agents/notes/archived/bug-fix/2026-08-21-inline-user-text-projection.md
+- Agent Note: 已发送用户文本行内投影，Queue 行折叠 wire 引用 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-21-inline-user-text-projection.zh.md
+- Agent Note: Win32 folder-picker paths stop truncating at U+XX00 code units — Status: implemented — .agents/notes/archived/bug-fix/2026-08-23-win32-utf16-nul-truncation.md
+- Agent Note: Win32 目录选择器路径不再在 U+XX00 码元处截断 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-23-win32-utf16-nul-truncation.zh.md
+- Agent Note: Alpha-routed image quality ladders replace colour-count codec routing — Status: implemented — .agents/notes/archived/bug-fix/2026-08-24-alpha-routed-image-quality-ladders.md
+- Agent Note: 按 alpha 路由的图片质量阶梯取代按色数分类的编码路由 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-24-alpha-routed-image-quality-ladders.zh.md
+- Agent Note: Equal-order system-prompt sections render in activation order — Status: implemented — .agents/notes/archived/bug-fix/2026-08-24-system-prompt-section-order-ties.md
+- Agent Note: 等序系统提示词分段按激活顺序渲染 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-24-system-prompt-section-order-ties.zh.md

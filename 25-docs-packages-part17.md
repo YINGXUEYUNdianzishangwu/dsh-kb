@@ -1,0 +1,36 @@
+# docs: packages (830 篇, part 17/26)
+
+- plan/ — plan collaboration state — description: "Package map for the plan group: the plan-mode feature that guides the agent  — packages/plan/README.md
+- plan/：plan 协作状态 — description: "plan 组的包映射：引导 agent（智能体）先探索和设计再执行的计划模式功能，供用户和维护者浏览该组。" — packages/plan/README.zh.md
+- @deepseek-ai/dsh-agent-preset — description: "Define an Agent’s child plugins in ordinary Cordis YAML. Declare several pre — packages/preset/agent-preset/README.md
+- @deepseek-ai/dsh-agent-preset — description: "在普通 Cordis YAML 中定义 Agent 的子插件列表。可同时声明多个 preset，由会话选择。声明会提前加载，修改只影响之后创建的 Age — packages/preset/agent-preset/README.zh.md
+- packages/preset/agent-preset/skills/agent-experience/SKILL.md — name: agent-experience — packages/preset/agent-preset/skills/agent-experience/SKILL.md
+- Loadable Harness plugin packages — This file is GENERATED from workspace manifests (scripts/gen-plugin-packages.ts) and verif — packages/preset/agent-preset/skills/cordis-composition-reference/references/packages.md
+- Cordis composition reference — name: cordis-composition-reference — packages/preset/agent-preset/skills/cordis-composition-reference/SKILL.md
+- Bundles and Host plugins — A bundle is a package whose package.json declares dsh.bundle.patch; the YAML patch inserts — packages/preset/agent-preset/skills/cordis-plugin-development/references/host-plugin.md
+- Connect an MCP server — Read templates/mcp/ with the file-read tool and write its files into your bundle directory — packages/preset/agent-preset/skills/cordis-plugin-development/references/mcp-bundle.md
+- Harness plugin practices — These rules follow from Harness mechanisms. Confirm every Service method, Event name, and  — packages/preset/agent-preset/skills/cordis-plugin-development/references/practices.md
+- UI plugins in the Web page — Read templates/decoration/ with the file-read tool and write its files into your bundle di — packages/preset/agent-preset/skills/cordis-plugin-development/references/ui-plugin.md
+- User actions and agent tools — Expose the plugin UI's operations on application data and configuration to the agent. Pure — packages/preset/agent-preset/skills/cordis-plugin-development/references/user-actions.md
+- Verify in the available environment — Prefer the authenticated page already connected to Harness. Do not launch a separate brows — packages/preset/agent-preset/skills/cordis-plugin-development/references/verification.md
+- Persistent Harness plugins — name: cordis-plugin-development — packages/preset/agent-preset/skills/cordis-plugin-development/SKILL.md
+- Editing Cordis compositions — name: editing-cordis-compositions — packages/preset/agent-preset/skills/editing-cordis-compositions/SKILL.md
+- @deepseek-ai/dsh-agent-preset-registry — description: "Choose an Agent’s tools, prompt sections and skills through declarative pres — packages/preset/agent-preset-registry/README.md
+- @deepseek-ai/dsh-agent-preset-registry — description: "通过声明式 preset 选择 Agent 的工具、提示词和技能。同一进程可以运行多种组合。配置失败会显示在列表中；现有 Agent 保留已经使用的组合 — packages/preset/agent-preset-registry/README.zh.md
+- @deepseek-ai/dsh-persona — description: "The composable persona row presets mount to give one agent its own system-pr — packages/preset/persona/README.md
+- @deepseek-ai/dsh-persona — description: "preset 挂载的可组装人设行，让单个 agent 拥有自己的系统提示词人设，供配置或排查它的用户与维护者阅读。" — packages/preset/persona/README.zh.md
+- packages/preset — description: "This group declares Agent capabilities through ordinary Cordis configuration — packages/preset/README.md
+- packages/preset — description: "本组通过普通 Cordis 声明定义 Agent 能力，并管理会话选择和运行时代际。Host 共享 Agent loop；各 Agent 使用自己选定代 — packages/preset/README.zh.md
+- @deepseek-ai/dsh-ptc-runtime — description: "Abstract PTC execution seam (ctx.ptcRuntime) for users and maintainers compo — packages/ptc-runtime/ptc-runtime/README.md
+- @deepseek-ai/dsh-ptc-runtime — description: "抽象 PTC 执行 seam（ctx.ptcRuntime），供用户与维护者组合、消费或构建后端，以针对宿主提供的绑定运行一段模型编写的程序。" — packages/ptc-runtime/ptc-runtime/README.zh.md
+- @deepseek-ai/dsh-ptc-runtime-node — description: "Run TypeScript programs in fresh Node processes with the session filesystem  — packages/ptc-runtime/ptc-runtime-node/README.md
+- @deepseek-ai/dsh-ptc-runtime-node — description: "在全新 Node 进程中运行 TypeScript 程序，使用会话文件系统沙箱、受管清理以及可配置的执行与输出限制。" — packages/ptc-runtime/ptc-runtime-node/README.zh.md
+- ptc-runtime/ — PTC execution capability family — description: "Package map for the PTC execution capability family: what program execution  — packages/ptc-runtime/README.md
+- ptc-runtime/——PTC 执行能力族 — description: "PTC 执行能力族的包映射：程序执行能为你做什么，以及每个部分由哪个包负责。" — packages/ptc-runtime/README.zh.md
+- Packages — description: "The DeepSeek Harness package workspace: how the npm packages under packages/ — packages/README.md
+- 包 — description: "DeepSeek Harness 包工作区：packages/ 下的 npm 包如何分组、每个组负责什么，以及约束它们的约定。" — packages/README.zh.md
+- packages/sandbox — description: "The process-sandbox package group: the confinement seam, per-platform backen — packages/sandbox/README.md
+- packages/sandbox — description: "进程沙箱包组：隔离 seam、各平台后端、共享策略解析器与 Windows 写入限制档。" — packages/sandbox/README.zh.md
+- @deepseek-ai/dsh-sandbox — description: "The process-sandbox service contract for users and maintainers composing, us — packages/sandbox/sandbox/README.md
+- @deepseek-ai/dsh-sandbox — description: "面向用户与维护者的进程沙箱服务约定，用于组合、使用或扩展与宿主共享文件系统和内核的子进程限制机制。" — packages/sandbox/sandbox/README.zh.md
+- @deepseek-ai/dsh-sandbox-local — description: "Local per-platform sandbox backends for users and maintainers choosing, conf — packages/sandbox/sandbox-local/README.md

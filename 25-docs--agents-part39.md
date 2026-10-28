@@ -1,0 +1,43 @@
+# docs: .agents (2583 篇, part 39/66)
+
+- Agent Note: 引用已提交的产物，绝不引用设计会话序号 — Status: implemented — .agents/notes/archived/process/2026-08-09-committed-artifact-citations.zh.md
+- Agent Note: Concrete prose names actors and recorded facts — Status: implemented — .agents/notes/archived/process/2026-08-09-concrete-prose-names-actors-and-recorded-facts.md
+- Agent Note: 具体表述说明执行者和记录的事实 — Status: implemented — .agents/notes/archived/process/2026-08-09-concrete-prose-names-actors-and-recorded-facts.zh.md
+- Agent Note: verify-md-links validates fragment anchors, closing the last dead-link class — Status: implemented — .agents/notes/archived/process/2026-08-09-md-fragment-anchor-gate.md
+- Agent Note: verify-md-links 校验 fragment 锚点，消除最后一类死链 — Status: implemented — .agents/notes/archived/process/2026-08-09-md-fragment-anchor-gate.zh.md
+- Agent Note: Oxlint-only fix workflow — Status: implemented — .agents/notes/archived/process/2026-08-09-oxlint-only-fix-workflow.md
+- Agent Note: 仅使用 Oxlint 的修复工作流 — Status: implemented — .agents/notes/archived/process/2026-08-09-oxlint-only-fix-workflow.zh.md
+- Agent Note: Rescope vendored Cordis into @deepseek-ai — Status: implemented — .agents/notes/archived/process/2026-08-10-vendor-package-rescope.md
+- Agent Note: 把 vendored Cordis 重命名进 @deepseek-ai scope — Status: implemented — .agents/notes/archived/process/2026-08-10-vendor-package-rescope.zh.md
+- Agent Note: Python public publication workflow — Status: implemented — .agents/notes/archived/process/2026-08-11-python-publication-workflow.md
+- Agent Note: Python 公开发布工作流 — Status: implemented — .agents/notes/archived/process/2026-08-11-python-publication-workflow.zh.md
+- Agent Note: Documentation-site navigation and repository chrome — Status: implemented — .agents/notes/archived/process/2026-08-12-documentation-site-navigation-and-chrome.md
+- Agent Note: 文档站导航与仓库 chrome — Status: implemented — .agents/notes/archived/process/2026-08-12-documentation-site-navigation-and-chrome.zh.md
+- Agent Note: Face-named client test files — Status: implemented — .agents/notes/archived/process/2026-08-12-face-named-client-test-files.md
+- Agent Note: 用文件名标明 client 测试的编译面 — Status: implemented — .agents/notes/archived/process/2026-08-12-face-named-client-test-files.zh.md
+- Agent Note: npm access per release sequence: the vendored framework and the native packages publish publicly — Status: implemented — .agents/notes/archived/process/2026-08-13-public-vendor-and-native-sequences.md
+- Agent Note: 按发布序列区分 npm access:vendored 框架与 native 包公开发布 — Status: implemented — .agents/notes/archived/process/2026-08-13-public-vendor-and-native-sequences.zh.md
+- Agent Note: Validate published document fragments — Status: implemented — .agents/notes/archived/process/2026-08-13-published-document-fragments.md
+- Agent Note: 校验已发布文档的 fragment — Status: implemented — .agents/notes/archived/process/2026-08-13-published-document-fragments.zh.md
+- Agent Note: README assets publish from a dedicated repository — Status: implemented — .agents/notes/archived/process/2026-08-17-readme-assets-on-cdn.md
+- Agent Note: README 资产通过专用仓库发布 — Status: implemented — .agents/notes/archived/process/2026-08-17-readme-assets-on-cdn.zh.md
+- Agent Note: In-job partitioned coverage — Status: implemented — .agents/notes/archived/process/2026-08-18-in-job-partitioned-coverage.md
+- Agent Note: 单 job 分区覆盖率 — Status: implemented — .agents/notes/archived/process/2026-08-18-in-job-partitioned-coverage.zh.md
+- Agent Note: Localize bilingual document links — Status: implemented — .agents/notes/archived/process/2026-08-18-localized-bilingual-links.md
+- Agent Note: 双语文档链接本地化 — Status: implemented — .agents/notes/archived/process/2026-08-18-localized-bilingual-links.zh.md
+- Agent Note: Remove Knip from repository gates — Status: implemented — .agents/notes/archived/process/2026-08-19-remove-knip.md
+- Agent Note: 从仓库门禁中移除 Knip — Status: implemented — .agents/notes/archived/process/2026-08-19-remove-knip.zh.md
+- Agent Note: Raw-Markdown twins and llms.txt on the documentation site — Status: implemented — .agents/notes/archived/process/2026-08-20-doc-site-raw-markdown-twins.md
+- Agent Note: 文档站的纯 Markdown 孪生页与 llms.txt — Status: implemented — .agents/notes/archived/process/2026-08-20-doc-site-raw-markdown-twins.zh.md
+- Agent Note: Publish the documentation site from a release tag — Status: implemented — .agents/notes/archived/process/2026-08-21-documentation-site-tag-release.md
+- Agent Note: 文档站从发布 tag 发布 — Status: implemented — .agents/notes/archived/process/2026-08-21-documentation-site-tag-release.zh.md
+- Agent Note: Classifying Client cross-package value dependencies — Status: implemented — .agents/notes/archived/process/2026-08-23-client-cross-package-value-dependencies.md
+- Agent Note: Client 跨包值依赖分类 — Status: implemented — .agents/notes/archived/process/2026-08-23-client-cross-package-value-dependencies.zh.md
+- Agent Note: Explicit workspace path aliases replace per-group wildcards — Status: implemented — .agents/notes/archived/process/2026-08-27-explicit-workspace-path-aliases.md
+- Agent Note: Explicit workspace path aliases replace per-group wildcards — Status: implemented — .agents/notes/archived/process/2026-08-27-explicit-workspace-path-aliases.zh.md
+- Agent Note: Gate-runner fail-fast — Status: implemented — .agents/notes/archived/process/2026-08-27-gate-runner-fail-fast.md
+- Agent Note: 门禁运行器快速失败 — Status: implemented — .agents/notes/archived/process/2026-08-27-gate-runner-fail-fast.zh.md
+- Agent Note: Redirect the Node compile cache to the data-volume runner temp — Status: implemented — .agents/notes/archived/process/2026-08-28-ci-node-compile-cache-data-disk.md
+- Agent Note: 将 Node 编译缓存重定向到数据卷 runner 临时目录 — Status: implemented — .agents/notes/archived/process/2026-08-28-ci-node-compile-cache-data-disk.zh.md
+- Agent Note: Unit tests remove the dsh-* temp dirs they create — Status: implemented — .agents/notes/archived/process/2026-08-28-test-temp-dir-self-cleanup.md
+- Agent Note: 单测删除自己创建的 dsh-* 临时目录 — Status: implemented — .agents/notes/archived/process/2026-08-28-test-temp-dir-self-cleanup.zh.md

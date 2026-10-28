@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 51/66)
+
+- Agent Note: Client Session、Conversation 与 UI 所有权分层 — Status: implemented — .agents/notes/implemented/architecture/2026-08-20-client-session-conversation-ownership.zh.md
+- Agent Note: DeepSeek LLM API request extensions for session logs and plugin packages — Status: implemented — .agents/notes/implemented/architecture/2026-08-21-deepseek-llm-api-request-extensions.md
+- Agent Note: DeepSeek LLM API 会话日志与插件包请求扩展 — Status: implemented — .agents/notes/implemented/architecture/2026-08-21-deepseek-llm-api-request-extensions.zh.md
+- Agent Note: One dsh launcher for application profiles — Status: implemented — .agents/notes/implemented/architecture/2026-08-22-single-dsh-application-launcher.md
+- Agent Note: 由一个 dsh 启动应用 profile — Status: implemented — .agents/notes/implemented/architecture/2026-08-22-single-dsh-application-launcher.zh.md
+- Agent Note: Client-Derived Presentation from Raw Session Tool Events — Status: implemented — .agents/notes/implemented/architecture/2026-08-23-client-derived-tool-presentation.md
+- Agent Note: Client 从原始 Session 工具事件派生展示 — Status: implemented — .agents/notes/implemented/architecture/2026-08-23-client-derived-tool-presentation.zh.md
+- Agent Note: Locale-owned client UI copy — Status: implemented — .agents/notes/implemented/architecture/2026-08-23-locale-owned-client-ui-copy.md
+- Agent Note: locale 归属的 client UI 文案 — Status: implemented — .agents/notes/implemented/architecture/2026-08-23-locale-owned-client-ui-copy.zh.md
+- Agent Note: Browser launch-token authentication — Status: implemented — .agents/notes/implemented/architecture/2026-08-24-browser-token-authentication.md
+- Agent Note: 浏览器启动令牌认证 — Status: implemented — .agents/notes/implemented/architecture/2026-08-24-browser-token-authentication.zh.md
+- Agent Note: Package and update the Electron desktop application — Status: implemented — .agents/notes/implemented/architecture/2026-08-25-electron-desktop-packaging-and-updates.md
+- Agent Note: 打包并更新 Electron 桌面应用 — Status: implemented — .agents/notes/implemented/architecture/2026-08-25-electron-desktop-packaging-and-updates.zh.md
+- Agent Note: Session observations and projection-owned client state — Status: implemented — .agents/notes/implemented/architecture/2026-08-25-session-observations-and-projection-owned-client-state.md
+- Agent Note: Session observation 与 projection 所有的客户端状态 — Status: implemented — .agents/notes/implemented/architecture/2026-08-25-session-observations-and-projection-owned-client-state.zh.md
+- Agent Note: Adjacent Agents share one Steer send_message operation — Status: implemented — .agents/notes/implemented/architecture/2026-08-27-adjacent-agent-steer-messaging.md
+- Agent Note: 相邻 Agent 共享一个 Steer send_message 操作 — Status: implemented — .agents/notes/implemented/architecture/2026-08-27-adjacent-agent-steer-messaging.zh.md
+- Agent Note: Handle-based session persistence — Status: implemented — .agents/notes/implemented/architecture/2026-08-27-handle-based-session-persistence.md
+- Agent Note: 基于句柄的会话持久化 — Status: implemented — .agents/notes/implemented/architecture/2026-08-27-handle-based-session-persistence.zh.md
+- Agent Note: One outbound proxy policy, installed before anything can request — Status: implemented — .agents/notes/implemented/architecture/2026-08-27-outbound-proxy-policy.md
+- Agent Note: 一份出站代理策略，在任何请求发生之前装好 — Status: implemented — .agents/notes/implemented/architecture/2026-08-27-outbound-proxy-policy.zh.md
+- Agent Note: One Remote failure vocabulary for ctx.remote — Status: implemented — .agents/notes/implemented/architecture/2026-08-28-ctx-remote-failure-vocabulary.md
+- Agent Note: One Remote failure vocabulary for ctx.remote — Status: implemented — .agents/notes/implemented/architecture/2026-08-28-ctx-remote-failure-vocabulary.zh.md
+- Agent Note: Retain ignorable session events for external plugins — Status: implemented — .agents/notes/implemented/architecture/2026-08-30-retain-ignorable-external-session-events.md
+- Agent Note: 为外部插件保留可忽略会话事件 — Status: implemented — .agents/notes/implemented/architecture/2026-08-30-retain-ignorable-external-session-events.zh.md
+- Agent Note: Alpha Session migration refuses every unknown historical event — Status: implemented — .agents/notes/implemented/architecture/2026-08-31-alpha-historical-unknown-event-refusal.md
+- Agent Note: Alpha Session 迁移拒绝所有未知历史事件 — Status: implemented — .agents/notes/implemented/architecture/2026-08-31-alpha-historical-unknown-event-refusal.zh.md
+- Agent Note: Explicit Agent identity at runtime boundaries — Status: implemented — .agents/notes/implemented/architecture/2026-08-31-explicit-agent-runtime-identity.md
+- Agent Note: 运行时边界显式携带 Agent 身份 — Status: implemented — .agents/notes/implemented/architecture/2026-08-31-explicit-agent-runtime-identity.zh.md
+- Agent Note: Released Session formats migrate through stateful streaming stages — Status: implemented — .agents/notes/implemented/architecture/2026-08-31-released-session-format-migrations.md
+- Agent Note: 已发布 Session 格式通过有状态流式 Stage 迁移 — Status: implemented — .agents/notes/implemented/architecture/2026-08-31-released-session-format-migrations.zh.md
+- Agent Note: Parent-owned subagent catalog events — Status: implemented — .agents/notes/implemented/architecture/2026-09-01-parent-owned-subagent-catalog.md
+- Agent Note: parent 自有的 subagent 目录事件 — Status: implemented — .agents/notes/implemented/architecture/2026-09-01-parent-owned-subagent-catalog.zh.md
+- Agent Note: Embed Assistant streams in v2 attempt settlements — Status: implemented — .agents/notes/implemented/architecture/2026-09-01-v2-embedded-assistant-streams.md
+- Agent Note: 在 v2 attempt settlement 中嵌入 Assistant stream — Status: implemented — .agents/notes/implemented/architecture/2026-09-01-v2-embedded-assistant-streams.zh.md
+- Agent Note: The system prompt is surface node 0 — Status: implemented — .agents/notes/implemented/architecture/2026-09-02-system-prompt-as-surface-node.md
+- Agent Note: 系统提示词是 surface 的第 0 号节点 — Status: implemented — .agents/notes/implemented/architecture/2026-09-02-system-prompt-as-surface-node.zh.md
+- Agent Note: One output ring, one projection, one event stream for background jobs — Status: implemented — .agents/notes/implemented/architecture/2026-09-03-jobs-seam-consolidation.md
+- Agent Note：后台 job 的一个输出环、一个投影、一条事件流 — Status: implemented — .agents/notes/implemented/architecture/2026-09-03-jobs-seam-consolidation.zh.md

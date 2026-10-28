@@ -1,0 +1,34 @@
+# docs: packages (830 篇, part 20/26)
+
+- @deepseek-ai/dsh-tool-working-directory — description: "Read the Session’s current directory or enter an existing directory with the — packages/session/tool-working-directory/README.md
+- @deepseek-ai/dsh-tool-working-directory — description: "使用同一工具读取 Session 的当前目录，或进入一个现有目录。相对路径变更基于当前目录解析。返回的绝对路径可传给其他工具。" — packages/session/tool-working-directory/README.zh.md
+- @deepseek-ai/dsh-working-directory — description: "Change one Session’s working directory while existing processes retain their — packages/session/working-directory/README.md
+- @deepseek-ai/dsh-working-directory — description: "改变一个 Session 的工作目录，同时保留已有进程各自的目录。所选目录可通过回放恢复，并出现在用户上下文中。当前目录消失时，只要原始项目仍然存在，就 — packages/session/working-directory/README.zh.md
+- session-query/ — session retrieval capability family — description: "Package map for the session retrieval capability family: searching, tracing, — packages/session-query/README.md
+- session-query/：会话检索能力家族 — description: "会话检索能力家族的包映射：搜索、追踪与读取实时和持久会话历史，以及 Web 端会话日志导出。" — packages/session-query/README.zh.md
+- @deepseek-ai/dsh-session-log-export — description: "Web Session-log ZIP export: Host streaming, the authenticated download route — packages/session-query/session-log-export/README.md
+- @deepseek-ai/dsh-session-log-export — description: "Web 会话日志 ZIP 导出：Host 流式传输、认证下载路由、Session Header 操作与 /export 命令。" — packages/session-query/session-log-export/README.zh.md
+- @deepseek-ai/dsh-session-query — description: "The unified session-history query service for consumers and backend authors: — packages/session-query/session-query/README.md
+- @deepseek-ai/dsh-session-query — description: "面向消费方与后端作者的统一会话历史查询服务：对实时与持久化会话日志的精确读取、关系追踪与提供方无关过滤。" — packages/session-query/session-query/README.zh.md
+- @deepseek-ai/dsh-session-query-sqlite — description: "The SQLite FTS5 full-text search backend for session history, for deployment — packages/session-query/session-query-sqlite/README.md
+- @deepseek-ai/dsh-session-query-sqlite — description: "面向部署方与维护者的 SQLite FTS5 会话历史全文搜索后端，用于选择、配置或排查查询服务之上的全文搜索。" — packages/session-query/session-query-sqlite/README.zh.md
+- settings/ — plugin configuration forms — description: "Schema-derived forms for live plugin configuration." — packages/settings/README.md
+- settings/——插件配置表单 — description: "用于插件即时配置的 schema 派生表单。" — packages/settings/README.zh.md
+- @deepseek-ai/dsh-settings — description: "Inspect and edit live plugin configuration through Config-derived forms." — packages/settings/settings/README.md
+- @deepseek-ai/dsh-settings — description: "通过 Config 派生表单查看和编辑插件的即时配置。" — packages/settings/settings/README.zh.md
+- @deepseek-ai/dsh-bash-local — description: "The default POSIX Bash executor for deployments and maintainers choosing, co — packages/shell/bash-local/README.md
+- @deepseek-ai/dsh-bash-local — description: "面向部署方与维护者的默认 POSIX Bash 执行器说明，用于选择、配置或排查基于 shell seam 的非隔离命令执行。" — packages/shell/bash-local/README.zh.md
+- @deepseek-ai/dsh-bash-sandbox — description: "The sandbox-consuming Bash executor for deployments and maintainers choosing — packages/shell/bash-sandbox/README.md
+- @deepseek-ai/dsh-bash-sandbox — description: "面向部署方与维护者的沙箱 Bash 执行器说明，用于选择、配置或排查受限命令执行及其拒绝与升权事实。" — packages/shell/bash-sandbox/README.zh.md
+- @deepseek-ai/dsh-pwsh-local — description: "The local PowerShell executor for deployments and maintainers choosing, conf — packages/shell/pwsh-local/README.md
+- @deepseek-ai/dsh-pwsh-local — description: "面向部署方与维护者的本地 PowerShell 执行器说明，用于选择、配置或排查基于 shell seam 的非隔离 PowerShell 命令执行。" — packages/shell/pwsh-local/README.zh.md
+- @deepseek-ai/dsh-pwsh-sandbox — description: "The sandbox-consuming PowerShell executor for deployments and maintainers ch — packages/shell/pwsh-sandbox/README.md
+- @deepseek-ai/dsh-pwsh-sandbox — description: "面向部署方与维护者的沙箱 PowerShell 执行器说明，用于选择、配置或排查受限 PowerShell 命令执行及其拒绝事实。" — packages/shell/pwsh-sandbox/README.zh.md
+- shell/ — bash capability family — description: "The bash capability family for deployments and maintainers choosing and comp — packages/shell/README.md
+- shell/ — bash 能力家族 — description: "面向部署方与维护者的 bash 能力家族说明，用于选择并组合 shell 执行器、沙箱化与面向模型的 bash 与 pwsh 工具。" — packages/shell/README.zh.md
+- @deepseek-ai/dsh-shell — description: "The shell executor seam for developers and maintainers choosing, composing,  — packages/shell/shell/README.md
+- @deepseek-ai/dsh-shell — description: "面向开发者与维护者的 shell 执行器 seam 说明，用于选择、组合或实现基于 ctx.shell 的命令执行。" — packages/shell/shell/README.zh.md
+- @deepseek-ai/dsh-shell-env — description: "The managed DSH shell environment for users and maintainers choosing, config — packages/shell/shell-env/README.md
+- @deepseek-ai/dsh-shell-env — description: "受管 DSH shell 环境，供选择、配置或扩展每次模型 shell 调用所运行环境的使用者与维护者阅读。" — packages/shell/shell-env/README.zh.md
+- @deepseek-ai/dsh-tool-bash — description: "The model-facing bash tool for users and maintainers choosing, configuring,  — packages/shell/tool-bash/README.md
+- @deepseek-ai/dsh-tool-bash — description: "面向模型的 bash 工具，供选择、配置或排查一次性命令执行、后台任务与沙箱升权的使用者与维护者阅读。" — packages/shell/tool-bash/README.zh.md

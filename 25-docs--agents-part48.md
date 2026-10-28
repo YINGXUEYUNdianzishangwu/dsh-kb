@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 48/66)
+
+- Agent Note: CI fixture completion and isolation — Status: implemented — .agents/notes/archived/testing/2026-09-08-ci-completion-observations.md
+- Agent Note: CI fixture 的完成与隔离 — Status: implemented — .agents/notes/archived/testing/2026-09-08-ci-completion-observations.zh.md
+- Agent Note: CI assertions wait for owned completion — Status: implemented — .agents/notes/archived/testing/2026-09-08-ci-readiness-and-completion.md
+- Agent Note: CI 断言等待所属操作完成 — Status: implemented — .agents/notes/archived/testing/2026-09-08-ci-readiness-and-completion.zh.md
+- Agent Note: User-patch tests control filesystem event delivery — Status: implemented — .agents/notes/archived/testing/2026-09-09-user-patch-hmr-test-delivery.md
+- Agent Note: 用户 patch 测试控制文件系统事件投递 — Status: implemented — .agents/notes/archived/testing/2026-09-09-user-patch-hmr-test-delivery.zh.md
+- Agent Note: Hosted-image assumptions in the coverage suite — Status: implemented — .agents/notes/archived/testing/2026-09-10-hosted-image-test-assumptions.md
+- Agent Note: coverage 套件里的托管镜像假设 — Status: implemented — .agents/notes/archived/testing/2026-09-10-hosted-image-test-assumptions.zh.md
+- Agent Note: Connection and compaction fixture preconditions — Status: implemented — .agents/notes/archived/testing/2026-09-12-connection-and-compaction-fixture-preconditions.md
+- Agent Note: 连接与压缩测试夹具的前置条件 — Status: implemented — .agents/notes/archived/testing/2026-09-12-connection-and-compaction-fixture-preconditions.zh.md
+- Agent Note: Web conversation clocks on the fixture day — Status: implemented — .agents/notes/archived/testing/2026-09-26-web-conversation-clock-fixture-day.md
+- Agent Note: Web conversation clocks on the fixture day — Status: implemented — .agents/notes/archived/testing/2026-09-26-web-conversation-clock-fixture-day.zh.md
+- Agent Note: Oxlint contract cases that spawn a process carry a 90 s ceiling — Status: implemented — .agents/notes/archived/testing/2026-09-27-oxlint-contract-spawn-case-budgets.md
+- Agent Note: 会 spawn 进程的 Oxlint 契约用例携带 90 s 上限 — Status: implemented — .agents/notes/archived/testing/2026-09-27-oxlint-contract-spawn-case-budgets.zh.md
+- Agent Note: Keep plugin-install interception for the page lifetime — Status: implemented — .agents/notes/archived/testing/2026-09-27-plugin-install-interceptor-lifetime.md
+- Agent Note: 让插件安装拦截器持续到页面关闭 — Status: implemented — .agents/notes/archived/testing/2026-09-27-plugin-install-interceptor-lifetime.zh.md
+- Agent Note: Web lane assertions name their input state — Status: implemented — .agents/notes/archived/testing/2026-09-27-web-lane-assertions-name-their-input-state.md
+- Agent Note: Web lane assertions name their input state — Status: implemented — .agents/notes/archived/testing/2026-09-27-web-lane-assertions-name-their-input-state.zh.md
+- Agent Note: The task-detail close waits on the observed state — Status: implemented — .agents/notes/archived/testing/2026-09-28-detail-close-waits-on-observed-state.md
+- Agent Note: 任务详情关闭断言等待它所观测的状态 — Status: implemented — .agents/notes/archived/testing/2026-09-28-detail-close-waits-on-observed-state.zh.md
+- AGENTS.md — Implemented Agent Notes — These Agent Notes describe shipped decisions. Follow the [root instructions](../../../AGEN — .agents/notes/implemented/AGENTS.md
+- Agent Note: Source-owned session immutability — Status: implemented — .agents/notes/implemented/architecture/2026-06-11-dev-invariants-over-deep-readonly.md
+- Agent Note: 源端拥有的会话不可变性 — Status: implemented — .agents/notes/implemented/architecture/2026-06-11-dev-invariants-over-deep-readonly.zh.md
+- Agent Note: Event-sourced sessions with derived message history — Status: implemented — .agents/notes/implemented/architecture/2026-06-11-event-sourced-sessions.md
+- Agent Note: 事件溯源的会话与派生消息历史 — Status: implemented — .agents/notes/implemented/architecture/2026-06-11-event-sourced-sessions.zh.md
+- Agent Note: Capability seams — Service Definition / Service Provider / Consumer roles — Status: implemented — .agents/notes/implemented/architecture/2026-06-13-capability-seams.md
+- Agent Note: 能力 seam——Service Definition / Service Provider / Consumer 角色 — Status: implemented — .agents/notes/implemented/architecture/2026-06-13-capability-seams.zh.md
+- Agent Note: Two LLM adapters as a design-verification twin — Status: implemented — .agents/notes/implemented/architecture/2026-06-13-twin-llm-adapters.md
+- Agent Note: 以两个 LLM 适配器作为设计验证孪生体 — Status: implemented — .agents/notes/implemented/architecture/2026-06-13-twin-llm-adapters.zh.md
+- Agent Note: Session surface — an ordered projection over the event log — Status: implemented — .agents/notes/implemented/architecture/2026-06-18-session-surface.md
+- Agent Note: 会话 surface：事件日志上的有序投影 — Status: implemented — .agents/notes/implemented/architecture/2026-06-18-session-surface.zh.md
+- Agent Note: Bounded recovery for transient LLM request failures — Status: implemented — .agents/notes/implemented/architecture/2026-06-21-bounded-llm-request-recovery.md
+- Agent Note: LLM 暂时性请求失败的有界恢复 — Status: implemented — .agents/notes/implemented/architecture/2026-06-21-bounded-llm-request-recovery.zh.md
+- Agent Note: Web capability seam - stable tools over multiple providers — Status: implemented — .agents/notes/implemented/architecture/2026-06-24-web-capability-seam.md
+- Agent Note: Web 能力 seam——稳定的工具覆盖多个提供方 — Status: implemented — .agents/notes/implemented/architecture/2026-06-24-web-capability-seam.zh.md
+- Agent Note: Event-domain semantics — session is the fact log, agent is the live event channel — Status: implemented — .agents/notes/implemented/architecture/2026-06-30-event-domain-semantics.md
+- Agent Note: 事件域语义——会话是事实日志，agent 是实时事件通道 — Status: implemented — .agents/notes/implemented/architecture/2026-06-30-event-domain-semantics.zh.md
+- Agent Note: Tagged render-intent union for tool-call presentation — Status: implemented — .agents/notes/implemented/architecture/2026-07-02-tool-render-intent-union.md
+- Agent Note: 用于工具调用展示的带标签 render-intent 联合类型 — Status: implemented — .agents/notes/implemented/architecture/2026-07-02-tool-render-intent-union.zh.md

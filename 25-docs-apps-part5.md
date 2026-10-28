@@ -1,0 +1,49 @@
+# docs: apps (260 篇, part 5/6)
+
+- apps/web/tests/expected/shared-inspector/bottom.expected.md — - shortcut: Ctrl/Cmd+Shift+. — apps/web/tests/expected/shared-inspector/bottom.expected.md
+- apps/web/tests/expected/shared-inspector/client-status.expected.md — - disconnected Client attribute: disconnected — apps/web/tests/expected/shared-inspector/client-status.expected.md
+- apps/web/tests/expected/shared-inspector/connections.expected.md — - embedded page one: 2 contexts (Host + own Client) — apps/web/tests/expected/shared-inspector/connections.expected.md
+- apps/web/tests/expected/shared-inspector/metadata-en.expected.md — - bundle: Developer Tools — apps/web/tests/expected/shared-inspector/metadata-en.expected.md
+- apps/web/tests/expected/shared-inspector/metadata-zh.expected.md — - bundle: 开发者工具 — apps/web/tests/expected/shared-inspector/metadata-zh.expected.md
+- apps/web/tests/expected/shared-inspector/page.expected.md — - tablist "Panels": — apps/web/tests/expected/shared-inspector/page.expected.md
+- apps/web/tests/expected/shell-command-details/background-long-token.expected.md — - button "Bash Start the diagnostic worker" [expanded] — apps/web/tests/expected/shell-command-details/background-long-token.expected.md
+- apps/web/tests/expected/shell-command-details/background.expected.md — - button "Bash Start the diagnostic worker" [expanded] — apps/web/tests/expected/shell-command-details/background.expected.md
+- apps/web/tests/expected/shell-command-details/foreground-multiline.expected.md — - button "Bash Start the diagnostic worker" [expanded] — apps/web/tests/expected/shell-command-details/foreground-multiline.expected.md
+- apps/web/tests/expected/shortcuts/edit-stale.expected.md — - group "Toggle left sidebar": — apps/web/tests/expected/shortcuts/edit-stale.expected.md
+- apps/web/tests/expected/shortcuts/en-US-conflict.expected.md — - alert: Already used by “Open keyboard shortcuts” — apps/web/tests/expected/shortcuts/en-US-conflict.expected.md
+- apps/web/tests/expected/shortcuts/en-US-empty.expected.md — - dialog "Keyboard shortcuts": — apps/web/tests/expected/shortcuts/en-US-empty.expected.md
+- apps/web/tests/expected/shortcuts/en-US-inline.expected.md — - group "Toggle left sidebar": — apps/web/tests/expected/shortcuts/en-US-inline.expected.md
+- apps/web/tests/expected/shortcuts/en-US-reset-confirm.expected.md — - dialog "Restore all default shortcuts?": — apps/web/tests/expected/shortcuts/en-US-reset-confirm.expected.md
+- apps/web/tests/expected/shortcuts/en-US-saved.expected.md — - alert: Modified — apps/web/tests/expected/shortcuts/en-US-saved.expected.md
+- apps/web/tests/expected/shortcuts/en-US.expected.md — - dialog "Keyboard shortcuts": — apps/web/tests/expected/shortcuts/en-US.expected.md
+- apps/web/tests/expected/shortcuts/zh-CN-conflict.expected.md — - alert: 已被「快捷键速查」占用 — apps/web/tests/expected/shortcuts/zh-CN-conflict.expected.md
+- apps/web/tests/expected/shortcuts/zh-CN-empty.expected.md — - dialog "快捷键": — apps/web/tests/expected/shortcuts/zh-CN-empty.expected.md
+- apps/web/tests/expected/shortcuts/zh-CN-inline.expected.md — - group "展开／收起左侧栏": — apps/web/tests/expected/shortcuts/zh-CN-inline.expected.md
+- apps/web/tests/expected/shortcuts/zh-CN-reset-confirm.expected.md — - dialog "恢复全部默认快捷键？": — apps/web/tests/expected/shortcuts/zh-CN-reset-confirm.expected.md
+- apps/web/tests/expected/shortcuts/zh-CN-saved.expected.md — - alert: 已修改 — apps/web/tests/expected/shortcuts/zh-CN-saved.expected.md
+- apps/web/tests/expected/shortcuts/zh-CN.expected.md — - dialog "快捷键": — apps/web/tests/expected/shortcuts/zh-CN.expected.md
+- apps/web/tests/expected/shortcuts-desktop/chord.expected.md — - listitem: — apps/web/tests/expected/shortcuts-desktop/chord.expected.md
+- apps/web/tests/expected/shortcuts-desktop/fixed-conflict.expected.md — - group "New Session": — apps/web/tests/expected/shortcuts-desktop/fixed-conflict.expected.md
+- Font sizes — { — apps/web/tests/expected/shortcuts-desktop/font-sizes.expected.md
+- apps/web/tests/expected/shortcuts-desktop/macos-copy-override.expected.md — - listitem: — apps/web/tests/expected/shortcuts-desktop/macos-copy-override.expected.md
+- Modal layers — { — apps/web/tests/expected/shortcuts-desktop/modal-layers.expected.md
+- apps/web/tests/expected/shortcuts-desktop/recording.expected.md — - group "New Session": — apps/web/tests/expected/shortcuts-desktop/recording.expected.md
+- apps/web/tests/expected/shortcuts-desktop/windows-copy-override.expected.md — - listitem: — apps/web/tests/expected/shortcuts-desktop/windows-copy-override.expected.md
+- apps/web/tests/expected/shortcuts-panels/browser.expected.md — - tablist: — apps/web/tests/expected/shortcuts-panels/browser.expected.md
+- apps/web/tests/expected/shortcuts-panels/guide-close.expected.md — - tablist: — apps/web/tests/expected/shortcuts-panels/guide-close.expected.md
+- apps/web/tests/expected/shortcuts-panels/page-actions.expected.md — - tablist: — apps/web/tests/expected/shortcuts-panels/page-actions.expected.md
+- apps/web/tests/expected/shortcuts-panels/panels.expected.md — - tablist: — apps/web/tests/expected/shortcuts-panels/panels.expected.md
+- apps/web/tests/expected/shortcuts-panels/tab-menu.expected.md — - menu: — apps/web/tests/expected/shortcuts-panels/tab-menu.expected.md
+- apps/web/tests/expected/shortcuts-workspace/files-open.expected.md — - text: {{cwd}}/keyboard-project — apps/web/tests/expected/shortcuts-workspace/files-open.expected.md
+- apps/web/tests/expected/shortcuts-workspace/fork-unavailable.expected.md — - alert: This session has no completed turn — apps/web/tests/expected/shortcuts-workspace/fork-unavailable.expected.md
+- apps/web/tests/expected/shortcuts-workspace/fork.expected.md — - text: Workspaces — apps/web/tests/expected/shortcuts-workspace/fork.expected.md
+- apps/web/tests/expected/shortcuts-workspace/macos-defaults.expected.md — - dialog "Keyboard shortcuts": — apps/web/tests/expected/shortcuts-workspace/macos-defaults.expected.md
+- apps/web/tests/expected/shortcuts-workspace/session-menu.expected.md — - menu: — apps/web/tests/expected/shortcuts-workspace/session-menu.expected.md
+- apps/web/tests/expected/sidebar-subagent-activity/owner-running.expected.md — - tree "Sessions": — apps/web/tests/expected/sidebar-subagent-activity/owner-running.expected.md
+- apps/web/tests/expected/sidebar-terminal/colors.expected.md — { — apps/web/tests/expected/sidebar-terminal/colors.expected.md
+- apps/web/tests/expected/sidebar-terminal/disconnected.expected.md — - status: — apps/web/tests/expected/sidebar-terminal/disconnected.expected.md
+- apps/web/tests/expected/sidebar-terminal/guide.expected.md — - button "New terminal Run commands in the Session workspace" — apps/web/tests/expected/sidebar-terminal/guide.expected.md
+- apps/web/tests/expected/sidebar-terminal/limit.expected.md — - alert: "Terminal error: The terminal limit has been reached. Close unused terminals and  — apps/web/tests/expected/sidebar-terminal/limit.expected.md
+- apps/web/tests/expected/sidebar-terminal/running.expected.md — - textbox "Terminal" — apps/web/tests/expected/sidebar-terminal/running.expected.md
+- apps/web/tests/expected/sidebar-terminal/shell-menu.expected.md — - menu: — apps/web/tests/expected/sidebar-terminal/shell-menu.expected.md
+- apps/web/tests/expected/sidebar-terminal/theme.expected.md — { — apps/web/tests/expected/sidebar-terminal/theme.expected.md

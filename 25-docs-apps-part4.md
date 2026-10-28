@@ -1,0 +1,48 @@
+# docs: apps (260 篇, part 4/6)
+
+- apps/web/tests/expected/plugin-install-cancel/invalid-registry.expected.md — - radio "自定义地址" [checked] — apps/web/tests/expected/plugin-install-cancel/invalid-registry.expected.md
+- apps/web/tests/expected/plugin-install-cancel/preparing.expected.md — - dialog "正在准备安装…": — apps/web/tests/expected/plugin-install-cancel/preparing.expected.md
+- apps/web/tests/expected/plugin-install-cancel/unconfirmed.expected.md — - dialog "安装状态尚未确认": — apps/web/tests/expected/plugin-install-cancel/unconfirmed.expected.md
+- apps/web/tests/expected/plugin-install-cancel/unknown.expected.md — - dialog "未能获取安装结果": — apps/web/tests/expected/plugin-install-cancel/unknown.expected.md
+- apps/web/tests/expected/plugin-install-github/another-way.expected.md — - dialog "添加插件": — apps/web/tests/expected/plugin-install-github/another-way.expected.md
+- apps/web/tests/expected/plugin-install-github/failed-on-mirror.expected.md — - dialog "无法访问 GitHub": — apps/web/tests/expected/plugin-install-github/failed-on-mirror.expected.md
+- apps/web/tests/expected/plugin-install-github/failed.expected.md — - dialog "无法访问 GitHub": — apps/web/tests/expected/plugin-install-github/failed.expected.md
+- apps/web/tests/expected/plugin-install-github/mirror.expected.md — - dialog "添加插件": — apps/web/tests/expected/plugin-install-github/mirror.expected.md
+- apps/web/tests/expected/plugin-install-github/timeout-on-mirror.expected.md — - dialog "连接 GitHub 超时": — apps/web/tests/expected/plugin-install-github/timeout-on-mirror.expected.md
+- apps/web/tests/expected/plugin-install-github/timeout.expected.md — - dialog "连接 GitHub 超时": — apps/web/tests/expected/plugin-install-github/timeout.expected.md
+- apps/web/tests/expected/plugin-install-registry/fastest-default.expected.md — - group "从哪个 npm 源下载插件": — apps/web/tests/expected/plugin-install-registry/fastest-default.expected.md
+- apps/web/tests/expected/plugin-install-registry/installed.expected.md — - dialog "已安装": — apps/web/tests/expected/plugin-install-registry/installed.expected.md
+- apps/web/tests/expected/plugin-install-registry/official-default.expected.md — - group "从哪个 npm 源下载插件": — apps/web/tests/expected/plugin-install-registry/official-default.expected.md
+- apps/web/tests/expected/plugin-install-registry/picker.expected.md — - group "从哪个 npm 源下载插件": — apps/web/tests/expected/plugin-install-registry/picker.expected.md
+- apps/web/tests/expected/plugin-manager/exports-en.expected.md — - button "Back to plugins": Plugins — apps/web/tests/expected/plugin-manager/exports-en.expected.md
+- apps/web/tests/expected/plugin-manager/exports.expected.md — - button "返回插件": 插件 — apps/web/tests/expected/plugin-manager/exports.expected.md
+- Plugin header responsive layout — en 1680px: actions beside the heading, single-line; contained; information follows subtitl — apps/web/tests/expected/plugin-manager/header-responsive.expected.md
+- apps/web/tests/expected/plugin-manager/icons.expected.md — Third-party bundle card: image, 36×36, decoded — apps/web/tests/expected/plugin-manager/icons.expected.md
+- apps/web/tests/expected/plugin-manager/ime-enter.expected.md — Synthetic browser KeyboardEvents, not an OS input-method test. — apps/web/tests/expected/plugin-manager/ime-enter.expected.md
+- apps/web/tests/expected/plugin-manager/live-enabled.expected.md — - heading "插件" [level=1] — apps/web/tests/expected/plugin-manager/live-enabled.expected.md
+- apps/web/tests/expected/plugin-manager/loading.expected.md — - heading "插件" [level=1] — apps/web/tests/expected/plugin-manager/loading.expected.md
+- apps/web/tests/expected/plugin-manager/manager.expected.md — - heading "插件" [level=1] — apps/web/tests/expected/plugin-manager/manager.expected.md
+- apps/web/tests/expected/plugin-manager/missing-bundle.expected.md — - button "返回插件": 插件 — apps/web/tests/expected/plugin-manager/missing-bundle.expected.md
+- apps/web/tests/expected/plugin-manager/preview.expected.md — - button "返回 实验性插件": 实验性插件 — apps/web/tests/expected/plugin-manager/preview.expected.md
+- apps/web/tests/expected/plugin-manager/refresh.expected.md — Hover at 499ms: 0 tooltips — apps/web/tests/expected/plugin-manager/refresh.expected.md
+- apps/web/tests/expected/quota-notice/account_quota.expected.md — - status: — apps/web/tests/expected/quota-notice/account_quota.expected.md
+- apps/web/tests/expected/quota-notice/quota.expected.md — - status: — apps/web/tests/expected/quota-notice/quota.expected.md
+- apps/web/tests/expected/reasoning-preview/running.expected.md — - text: Running — apps/web/tests/expected/reasoning-preview/running.expected.md
+- apps/web/tests/expected/reference-composer/menu.expected.md — - listbox "Trigger suggestions": — apps/web/tests/expected/reference-composer/menu.expected.md
+- apps/web/tests/expected/reference-composer/order.expected.md — - banner: — apps/web/tests/expected/reference-composer/order.expected.md
+- apps/web/tests/expected/schedule-after/at-conversation.expected.md — - paragraph: "Reminder: Review the release window." — apps/web/tests/expected/schedule-after/at-conversation.expected.md
+- apps/web/tests/expected/schedule-after/conversation.expected.md — - text: Automation task — apps/web/tests/expected/schedule-after/conversation.expected.md
+- apps/web/tests/expected/schedule-after/every-conversation.expected.md — - paragraph: "Reminders: Check primary metrics; Check secondary metrics." — apps/web/tests/expected/schedule-after/every-conversation.expected.md
+- Automation tasks header — en 1680px: title and New single-line, New beside the title; contained; New retains focus — apps/web/tests/expected/schedule-header.expected.md
+- apps/web/tests/expected/seeded-history/blank-reasoning.expected.md — - button "Think" [expanded] — apps/web/tests/expected/seeded-history/blank-reasoning.expected.md
+- apps/web/tests/expected/session-archive-active/dialog.expected.md — - dialog "Stop and archive this session?": — apps/web/tests/expected/session-archive-active/dialog.expected.md
+- apps/web/tests/expected/settings-appearance/account.expected.md — - region "账号与余额": — apps/web/tests/expected/settings-appearance/account.expected.md
+- apps/web/tests/expected/settings-appearance/dark.expected.md — { — apps/web/tests/expected/settings-appearance/dark.expected.md
+- apps/web/tests/expected/settings-appearance/light.expected.md — { — apps/web/tests/expected/settings-appearance/light.expected.md
+- apps/web/tests/expected/settings-chrome/collapse-timing-en.expected.md — - menu: — apps/web/tests/expected/settings-chrome/collapse-timing-en.expected.md
+- apps/web/tests/expected/settings-chrome/collapse-timing-zh.expected.md — - menu: — apps/web/tests/expected/settings-chrome/collapse-timing-zh.expected.md
+- apps/web/tests/expected/settings-chrome/dialog-en.expected.md — - dialog "Settings": — apps/web/tests/expected/settings-chrome/dialog-en.expected.md
+- apps/web/tests/expected/settings-chrome/dialog-no-browser.expected.md — - dialog "Settings": — apps/web/tests/expected/settings-chrome/dialog-no-browser.expected.md
+- apps/web/tests/expected/settings-chrome/dialog.expected.md — - dialog "设置": — apps/web/tests/expected/settings-chrome/dialog.expected.md
+- apps/web/tests/expected/settings-chrome/plugin-instances.expected.md — - list: — apps/web/tests/expected/settings-chrome/plugin-instances.expected.md
+- apps/web/tests/expected/settings-chrome/plugins.expected.md — - listitem: — apps/web/tests/expected/settings-chrome/plugins.expected.md

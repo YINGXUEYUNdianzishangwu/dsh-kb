@@ -1,0 +1,40 @@
+# docs: .agents (2583 篇, part 27/66)
+
+- Agent Note: Web read card frontend — the read tool's line window renders line-numbered and highlighted — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-read-card-frontend.md
+- Agent Note: Web 读取卡片前端 —— 读取工具的行窗口以带行号、语法高亮的形式渲染 — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-read-card-frontend.zh.md
+- Agent Note: Read card — the read tool's structured line window reaches the client — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-read-card.md
+- Agent Note: Read card — the read tool's structured line window reaches the client — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-read-card.zh.md
+- Agent Note: Remote Web Markdown images — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-remote-markdown-images.md
+- Agent Note: Web 中的远程 Markdown 图片 — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-remote-markdown-images.zh.md
+- Agent Note: Web result card frontend — rendering the web render intent in the browser — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-result-card-frontend.md
+- Agent Note: Web result 卡片前端 —— 在浏览器渲染 web 渲染意图 — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-result-card-frontend.zh.md
+- Agent Note: Web result card — a structured render intent for web_search and web_fetch — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-result-card.md
+- Agent Note: Web result card — a structured render intent for web_search and web_fetch — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-result-card.zh.md
+- Agent Note: Web search card — the grep and glob render intent reaches the browser — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-search-card.md
+- Agent Note: Web 搜索卡片 —— grep 与 glob 的 render intent 到达浏览器 — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-search-card.zh.md
+- Agent Note: Web tool-row unified expand and trajectory Inspect — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-tool-row-unified-expand-and-inspect.md
+- Agent Note: Web 工具行统一展开交互与 trajectory Inspect — Status: implemented — .agents/notes/archived/feature/2026-07-30-web-tool-row-unified-expand-and-inspect.zh.md
+- Agent Note: The Settings language a fresh browser opens in comes from the browser — Status: implemented — .agents/notes/archived/feature/2026-07-31-browser-derived-initial-locale.md
+- Agent Note: 全新浏览器打开的设置语言由浏览器决定 — Status: implemented — .agents/notes/archived/feature/2026-07-31-browser-derived-initial-locale.zh.md
+- Agent Note: Even out the shipped tool rosters — Status: implemented — .agents/notes/archived/feature/2026-07-31-even-out-shipped-tool-rosters.md
+- Agent Note: 拉平交付的工具清单 — Status: implemented — .agents/notes/archived/feature/2026-07-31-even-out-shipped-tool-rosters.zh.md
+- Agent Note: experimental subcommands gate behind `--experimental` or `DSH_EXPERIMENTAL=1` — Status: implemented — .agents/notes/archived/feature/2026-07-31-experimental-subcommand-gate.md
+- Agent Note: 实验性子命令由 `--experimental` 或 `DSH_EXPERIMENTAL=1` 把守 — Status: implemented — .agents/notes/archived/feature/2026-07-31-experimental-subcommand-gate.zh.md
+- Agent Note: GUI Full access risk confirmation — Status: implemented — .agents/notes/archived/feature/2026-07-31-gui-full-access-confirmation.md
+- Agent Note: GUI Full access 风险确认 — Status: implemented — .agents/notes/archived/feature/2026-07-31-gui-full-access-confirmation.zh.md
+- Agent Note: Hover cards copy their primary value on activation — Status: implemented — .agents/notes/archived/feature/2026-07-31-hover-card-click-copy.md
+- Agent Note: 悬浮卡片激活时复制主要值 — Status: implemented — .agents/notes/archived/feature/2026-07-31-hover-card-click-copy.zh.md
+- Agent Note: Permission Settings default for new sessions — Status: implemented — .agents/notes/archived/feature/2026-07-31-permission-default-for-new-sessions.md
+- Agent Note: 新会话的权限 Settings 默认值 — Status: implemented — .agents/notes/archived/feature/2026-07-31-permission-default-for-new-sessions.zh.md
+- Agent Note: PTC mode language dispatch and the Python SDK renderer — Status: implemented — .agents/notes/archived/feature/2026-07-31-ptc-language-dispatch.md
+- Agent Note: PTC mode 语言分发与 Python SDK 渲染器 — Status: implemented — .agents/notes/archived/feature/2026-07-31-ptc-language-dispatch.zh.md
+- Agent Note: Session archive (registry-global set) — Status: implemented — .agents/notes/archived/feature/2026-07-31-session-archive-global-set.md
+- Agent Note: 会话归档（注册表级全局集合） — Status: implemented — .agents/notes/archived/feature/2026-07-31-session-archive-global-set.zh.md
+- Agent Note: SessionTelemetryBackend anonymous user id ($DSH_HOME/.anonymous-user-id) and the OTel Resource user.id — Status: implemented — .agents/notes/archived/feature/2026-07-31-telemetry-anonymous-user-id.md
+- Agent Note: 遥测匿名用户 id（$DSH_HOME/.anonymous-user-id）与 OTel Resource 的 user.id — Status: implemented — .agents/notes/archived/feature/2026-07-31-telemetry-anonymous-user-id.zh.md
+- Agent Note: Third-party memory MCP examples — Status: implemented — .agents/notes/archived/feature/2026-07-31-third-party-memory-mcp-examples.md
+- Agent Note: 第三方记忆 MCP 示例 — Status: implemented — .agents/notes/archived/feature/2026-07-31-third-party-memory-mcp-examples.zh.md
+- Agent Note: Card tool rows collapse through one ToolRow — Status: implemented — .agents/notes/archived/feature/2026-07-31-web-cards-toolrow.md
+- Agent Note: 卡片工具行通过同一个 ToolRow 折叠 — Status: implemented — .agents/notes/archived/feature/2026-07-31-web-cards-toolrow.zh.md
+- Agent Note: Default Web search in shipped compositions — Status: implemented — .agents/notes/archived/feature/2026-07-31-web-default-search.md
+- Agent Note: 已交付组合中的默认 Web 搜索 — Status: implemented — .agents/notes/archived/feature/2026-07-31-web-default-search.zh.md

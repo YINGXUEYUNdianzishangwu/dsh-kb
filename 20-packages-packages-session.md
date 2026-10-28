@@ -1,0 +1,23 @@
+# packages/session (21 packages, part 1/1)
+
+- @deepseek-ai/dsh-session-checkpoint-policy 0.2.1-rc.3 — Semantic session durability checkpoints before model requests and tool side effects — packages/session/session-checkpoint-policy
+- @deepseek-ai/dsh-session-format 0.2.1-rc.3 — Streaming adjacent Session format migration machinery — packages/session/session-format
+- @deepseek-ai/dsh-session-format-catalog 0.2.1-rc.3 — Build-static first-party Session format codec and migration catalog — packages/session/session-format-catalog
+- @deepseek-ai/dsh-session-format-v0-to-v1 0.2.1-rc.3 — Frozen released-v0 Session codec and identity migration to v1 — packages/session/session-format-v0-to-v1
+- @deepseek-ai/dsh-session-format-v1-to-v2 0.2.1-rc.3 — Frozen released-v1 Session codec and assistant-stream migration to v2 — packages/session/session-format-v1-to-v2
+- @deepseek-ai/dsh-session-format-v2-to-v3 0.2.1-rc.3 — Streaming system-prompt, canonical-envelope and PTC migration into V3 — packages/session/session-format-v2-to-v3
+- @deepseek-ai/dsh-session-format-v3-to-v4 0.2.1-rc.3 — Streaming tool-role migration and delivery validation from Session V3 to V4 — packages/session/session-format-v3-to-v4
+- @deepseek-ai/dsh-session-log-deepseek 0.2.1-rc.3 — Incremental lossless session-log request extension for the official DeepSeek LLM API — packages/session/session-log-deepseek
+- @deepseek-ai/dsh-session-persistence 0.2.1-rc.3 — Abstract durable session persistence seam (ctx.sessionPersistence) for the DeepSeek Harness — packages/session/session-persistence
+- @deepseek-ai/dsh-session-persistence-jsonl 0.2.1-rc.3 — JSONL durable session persistence backend for the DeepSeek Harness — packages/session/session-persistence-jsonl
+- @deepseek-ai/dsh-session-projection 0.2.1-rc.3 — Session-projection seam: the merge-extensible projection type table, the provider contract, and the ctx.sessio — packages/session/session-projection
+- @deepseek-ai/dsh-session-projection-cache 0.2.1-rc.3 — Persisted projection cache (ctx.sessionProjectionCache): durable per-session checkpoint records on the session — packages/session/session-projection-cache
+- @deepseek-ai/dsh-session-stats 0.2.1-rc.3 — Whole-log conversation counts and wall times projection (sessionStats) for the DeepSeek Harness — packages/session/session-stats
+- @deepseek-ai/dsh-session-telemetry 0.2.1-rc.3 — SessionTelemetryBackend seam for the DeepSeek Harness: session-event capture, projection, redaction, and hando — packages/session/session-telemetry
+- @deepseek-ai/dsh-session-telemetry-otel 0.2.1-rc.3 — Feedback-authorized Session logs over byte-bounded OpenTelemetry HTTP requests — packages/session/session-telemetry-otel
+- @deepseek-ai/dsh-session-title 0.2.1-rc.3 — Log-backed session title service and provider registry for the DeepSeek Harness — packages/session/session-title
+- @deepseek-ai/dsh-session-title-first-prompt-llm 0.2.1-rc.3 — First-message LLM provider plugin for DeepSeek Harness session titles — packages/session/session-title-first-prompt-llm
+- @deepseek-ai/dsh-session-title-llm 0.2.1-rc.3 — Shared LLM generation policy for DeepSeek Harness session-title providers — packages/session/session-title-llm
+- @deepseek-ai/dsh-session-turn-outline 0.2.1-rc.3 — Whole-log turn outline projection (turnOutline) for the DeepSeek Harness — packages/session/session-turn-outline
+- @deepseek-ai/dsh-tool-working-directory 0.2.1-rc.3 — Read and change the active Session working directory — packages/session/tool-working-directory
+- @deepseek-ai/dsh-working-directory 0.2.1-rc.3 — Session working directories with durable changes and model context — packages/session/working-directory

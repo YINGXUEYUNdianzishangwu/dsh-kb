@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 41/66)
+
+- Agent Note: Weight approvals by changed production-line ownership — Status: implemented — .agents/notes/archived/process/2026-09-11-production-blame-approval-weight.md
+- Agent Note: 按变更生产代码行的归属调整审批权重 — Status: implemented — .agents/notes/archived/process/2026-09-11-production-blame-approval-weight.zh.md
+- Agent Note: Publish experimental packages with explicit private exceptions — Status: implemented — .agents/notes/archived/process/2026-09-12-experimental-publication-denylist.md
+- Agent Note: 默认发布实验性包并保留显式私有例外 — Status: implemented — .agents/notes/archived/process/2026-09-12-experimental-publication-denylist.zh.md
+- Agent Note: Maintained repository references — Status: implemented — .agents/notes/archived/process/2026-09-12-maintained-repository-references.md
+- Agent Note: 维护中的仓库引用 — Status: implemented — .agents/notes/archived/process/2026-09-12-maintained-repository-references.zh.md
+- Agent Note: Publish every current experimental package — Status: implemented — .agents/notes/archived/process/2026-09-12-publish-all-experimental-packages.md
+- Agent Note: 发布所有当前实验性包 — Status: implemented — .agents/notes/archived/process/2026-09-12-publish-all-experimental-packages.zh.md
+- Agent Note: PR-scoped approval delegation — Status: implemented — .agents/notes/archived/process/2026-09-15-pr-approval-delegation.md
+- Agent Note: PR 范围内的批准委托 — Status: implemented — .agents/notes/archived/process/2026-09-15-pr-approval-delegation.zh.md
+- Agent Note: Author approval credit — Status: implemented — .agents/notes/archived/process/2026-09-16-author-approval-credit.md
+- Agent Note: 作者审批积分 — Status: implemented — .agents/notes/archived/process/2026-09-16-author-approval-credit.zh.md
+- Agent Note: Derive Desktop test versions from the complete dsh version — Status: implemented — .agents/notes/archived/process/2026-09-16-desktop-release-version-derivation.md
+- Agent Note: 从完整 dsh 版本派生 Desktop 测试版本 — Status: implemented — .agents/notes/archived/process/2026-09-16-desktop-release-version-derivation.zh.md
+- Agent Note: Evidence-led simplification surveys — Status: implemented — .agents/notes/archived/process/2026-09-19-evidence-led-simplification-surveys.md
+- Agent Note: 以证据指导简化调研 — Status: implemented — .agents/notes/archived/process/2026-09-19-evidence-led-simplification-surveys.zh.md
+- Agent Note: Pass the Desktop build version as an argument instead of rewriting manifests — Status: implemented — .agents/notes/archived/process/2026-09-21-desktop-build-version-as-input.md
+- Agent Note：Desktop 发布版本改为命令参数，不再改写清单 — Status: implemented — .agents/notes/archived/process/2026-09-21-desktop-build-version-as-input.zh.md
+- Agent Note: Bundle the Desktop main process after the workspace tsdown pass — Status: implemented — .agents/notes/archived/process/2026-09-22-desktop-main-bundle-after-workspace-tsdown.md
+- Agent Note：Desktop 主进程在工作区 tsdown 阶段之后再打 bundle — Status: implemented — .agents/notes/archived/process/2026-09-22-desktop-main-bundle-after-workspace-tsdown.zh.md
+- Agent Note: Workspace dependency release ranges — Status: implemented — .agents/notes/archived/process/2026-09-22-workspace-release-ranges.md
+- Agent Note: Workspace 依赖发布范围 — Status: implemented — .agents/notes/archived/process/2026-09-22-workspace-release-ranges.zh.md
+- Agent Note: Section-keyed translation pairing records — Status: implemented — .agents/notes/archived/process/2026-09-23-section-keyed-translation-pairing-records.md
+- Agent Note: 按分节记录翻译配对 — Status: implemented — .agents/notes/archived/process/2026-09-23-section-keyed-translation-pairing-records.zh.md
+- Agent Note: Drop the mutable session summary — Status: implemented — .agents/notes/archived/simplification/2026-06-19-drop-mutable-session-summary.md
+- Agent Note: 移除可变的会话摘要 — Status: implemented — .agents/notes/archived/simplification/2026-06-19-drop-mutable-session-summary.zh.md
+- Agent Note: Fold trace-only session facts into load-bearing events — Status: implemented — .agents/notes/archived/simplification/2026-06-20-collapse-trace-only-session-events.md
+- Agent Note: 将仅用于追踪的会话事实折叠进承载实际功能的事件 — Status: implemented — .agents/notes/archived/simplification/2026-06-20-collapse-trace-only-session-events.zh.md
+- Agent Note: Drop the unconsumed `llm/adapter-change` event — Status: implemented — .agents/notes/archived/simplification/2026-06-20-drop-unconsumed-llm-adapter-change-event.md
+- Agent Note: 移除未被消费的 `llm/adapter-change` 事件 — Status: implemented — .agents/notes/archived/simplification/2026-06-20-drop-unconsumed-llm-adapter-change-event.zh.md
+- Agent Note: Drop unconsumed assembled LLM convenience surfaces — Status: implemented — .agents/notes/archived/simplification/2026-06-20-drop-unconsumed-llm-assembled-surfaces.md
+- Agent Note: 移除未被消费的 LLM 组装便捷接口 — Status: implemented — .agents/notes/archived/simplification/2026-06-20-drop-unconsumed-llm-assembled-surfaces.zh.md
+- Agent Note: Prune dead methods from the persistence seam — Status: implemented — .agents/notes/archived/simplification/2026-06-20-prune-dead-seam-methods.md
+- Agent Note: 从持久化 seam 中移除无用方法 — Status: implemented — .agents/notes/archived/simplification/2026-06-20-prune-dead-seam-methods.zh.md
+- Agent Note: Keep one public stop primitive — Status: implemented — .agents/notes/archived/simplification/2026-06-20-public-agent-stop-api.md
+- Agent Note: 保留单一公开停止原语 — Status: implemented — .agents/notes/archived/simplification/2026-06-20-public-agent-stop-api.zh.md
+- Agent Note: Stop mirroring durable boundaries as agent events — Status: implemented — .agents/notes/archived/simplification/2026-06-20-remove-agent-boundary-mirror-events.md
+- Agent Note: 停止将持久化边界镜像为 agent 事件 — Status: implemented — .agents/notes/archived/simplification/2026-06-20-remove-agent-boundary-mirror-events.zh.md
+- Agent Note: Split the filesystem seam — provider text mutations plus the `dsh-fs-observation-policy` plugin — Status: implemented — .agents/notes/archived/simplification/2026-06-26-fsspec-style-fs-seam.md

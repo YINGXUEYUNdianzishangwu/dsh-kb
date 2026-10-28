@@ -1,0 +1,40 @@
+# docs: .agents (2583 篇, part 12/66)
+
+- Agent Note: Web 图片准入的原子性 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-29-atomic-web-image-admission.zh.md
+- Agent Note: The human transcript projects append-origin events — Status: implemented — .agents/notes/archived/bug-fix/2026-07-29-human-transcript-append-origin.md
+- Agent Note: 人类可读记录投影追加来源的事件 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-29-human-transcript-append-origin.zh.md
+- Agent Note: Isolate pnpm setup per GitHub Actions runner — Status: implemented — .agents/notes/archived/bug-fix/2026-07-29-pnpm-setup-runner-isolation.md
+- Agent Note: 按 GitHub Actions runner 隔离 pnpm 设置 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-29-pnpm-setup-runner-isolation.zh.md
+- Agent Note: Fixed header, sticky composer inside the transcript scrollport — Status: implemented — .agents/notes/archived/bug-fix/2026-07-29-sticky-composer-conversation-scroll.md
+- Agent Note: 固定标题栏，sticky 编辑器位于 transcript（文本记录）滚动容器内 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-29-sticky-composer-conversation-scroll.zh.md
+- Agent Note: Web details follow the current Session lifecycle — Status: implemented — .agents/notes/archived/bug-fix/2026-07-29-web-details-session-lifecycle.md
+- Agent Note: Web 详情栏遵循当前会话生命周期 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-29-web-details-session-lifecycle.zh.md
+- Agent Note: The approval takeover shares the composer's text cap — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-approval-panel-command-cap.md
+- Agent Note: 审批接管面板与输入框共用同一文本高度上限 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-approval-panel-command-cap.zh.md
+- Agent Note: Bound overwrite contextual-diff bases at the provider — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-bounded-overwrite-diff-basis.md
+- Agent Note: 在提供方限制覆写上下文 diff 基础 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-bounded-overwrite-diff-basis.zh.md
+- Agent Note: Composer context stack order — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-composer-context-stack-order.md
+- Agent Note: Composer 上下文堆栈顺序 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-composer-context-stack-order.zh.md
+- Agent Note: Hover popup pointer grace — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-hover-popup-pointer-grace.md
+- Agent Note: 悬浮弹层的指针宽限期 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-hover-popup-pointer-grace.zh.md
+- Agent Note: Multi-select custom answer composition — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-multi-select-custom-answer-composition.md
+- Agent Note: 多选题自定义答案组合 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-multi-select-custom-answer-composition.zh.md
+- Agent Note: Source checkout paths do not define working directories — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-source-checkout-workdir-distinction.md
+- Agent Note: 源码 checkout 路径不定义工作目录 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-source-checkout-workdir-distinction.zh.md
+- Agent Note: TUI model-context resolution defers on the adapter-registration race — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-tui-adapter-registration-race.md
+- Agent Note: TUI 模型上下文解析在适配器注册竞争时延后重试 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-tui-adapter-registration-race.zh.md
+- Agent Note: Web details default closed — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-web-details-default-closed.md
+- Agent Note: Web 详情栏默认关闭 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-web-details-default-closed.zh.md
+- Agent Note: The browser conversation is a log-ordered human transcript — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-web-transcript-log-ordered-projection.md
+- Agent Note: 浏览器会话是按日志顺序投影的人类对话记录 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-30-web-transcript-log-ordered-projection.zh.md
+- Agent Note: Settlement, framing, and lifecycle fixes in the CPython backend — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-code-runtime-python-settlement-fixes.md
+- Agent Note: CPython 后端中的结算、分帧与生命周期修复 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-code-runtime-python-settlement-fixes.zh.md
+- Agent Note: The composer's two text layers share one scrollport — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-composer-text-layers-share-one-scrollport.md
+- Agent Note: composer 的两层文本共用同一个滚动容器 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-composer-text-layers-share-one-scrollport.zh.md
+- Agent Note: Compaction checkpoints use an English engineering register — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-english-compaction-checkpoints.md
+- Agent Note: 压缩检查点使用英语工程文体 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-english-compaction-checkpoints.zh.md
+- Agent Note: fail-loud releases the terminal before exiting — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-fail-loud-releases-the-terminal.md
+- Agent Note: fail-loud 在退出前释放终端 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-fail-loud-releases-the-terminal.zh.md
+- Agent Note: Fork anchor floors to an event seq — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-fork-anchor-floors-to-event-seq.md
+- Agent Note: fork 锚点向下取整到事件 seq — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-fork-anchor-floors-to-event-seq.zh.md
+- Agent Note: Hero stays visible while a blank session opens — Status: implemented — .agents/notes/archived/bug-fix/2026-07-31-hero-visible-while-blank-session-opens.md

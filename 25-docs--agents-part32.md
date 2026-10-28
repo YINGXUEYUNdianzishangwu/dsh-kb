@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 32/66)
+
+- Agent Note: Web markdown 表格按列数填充消息列，宽表突破列宽 — Status: implemented — .agents/notes/archived/feature/2026-08-19-web-markdown-wide-table-view.zh.md
+- Agent Note: Multi-line answers in the question composer — Status: implemented — .agents/notes/archived/feature/2026-08-20-multiline-question-answer-field.md
+- Agent Note: Multi-line answers in the question composer — Status: implemented — .agents/notes/archived/feature/2026-08-20-multiline-question-answer-field.zh.md
+- Agent Note: Tool-card image results — Status: implemented — .agents/notes/archived/feature/2026-08-20-tool-card-image-results.md
+- Agent Note: 工具卡片的图像结果 — Status: implemented — .agents/notes/archived/feature/2026-08-20-tool-card-image-results.zh.md
+- Agent Note: Unified normalized attachments, request versions, and provider files — Status: implemented — .agents/notes/archived/feature/2026-08-20-unified-image-request-pipeline.md
+- Agent Note: 统一规范化附件、请求版本与提供方文件 — Status: implemented — .agents/notes/archived/feature/2026-08-20-unified-image-request-pipeline.zh.md
+- Agent Note: Streaming fences highlight incrementally — Status: implemented — .agents/notes/archived/feature/2026-08-20-web-streaming-fence-highlight.md
+- Agent Note: 流式围栏代码增量高亮 — Status: implemented — .agents/notes/archived/feature/2026-08-20-web-streaming-fence-highlight.zh.md
+- Agent Note: headless streams provider reasoning to stderr — Status: implemented — .agents/notes/archived/feature/2026-08-21-headless-reasoning-progress.md
+- Agent Note: headless 将提供方推理流式写入 stderr — Status: implemented — .agents/notes/archived/feature/2026-08-21-headless-reasoning-progress.zh.md
+- Agent Note: Execution-world image paths in model requests — Status: implemented — .agents/notes/archived/feature/2026-08-21-model-readable-image-paths.md
+- Agent Note: 在模型请求中提供执行环境图片路径 — Status: implemented — .agents/notes/archived/feature/2026-08-21-model-readable-image-paths.zh.md
+- Agent Note: Out-of-process subagents expose minimal actionable diagnostics — Status: implemented — .agents/notes/archived/feature/2026-08-21-out-of-process-subagent-minimal-diagnostics.md
+- Agent Note: 进程外 subagent 公开最小可行动诊断 — Status: implemented — .agents/notes/archived/feature/2026-08-21-out-of-process-subagent-minimal-diagnostics.zh.md
+- Agent Note: Fire-and-forget webhook Sessions — Status: implemented — .agents/notes/archived/feature/2026-08-22-fire-and-forget-webhook-sessions.md
+- Agent Note: Fire-and-forget webhook Session — Status: implemented — .agents/notes/archived/feature/2026-08-22-fire-and-forget-webhook-sessions.zh.md
+- Agent Note: Standard ACP v1 automation controls — Status: implemented — .agents/notes/archived/feature/2026-08-22-standard-acp-automation-controls.md
+- Agent Note: 标准 ACP v1 自动化控制 — Status: implemented — .agents/notes/archived/feature/2026-08-22-standard-acp-automation-controls.zh.md
+- Agent Note: The activity observation seam (`ctx.activities`) and live output streaming to the Web client — Status: implemented — .agents/notes/archived/feature/2026-08-24-activity-observation-seam.md
+- Agent Note：activity 观察 seam（`ctx.activities`）与 Web 客户端实时输出流 — Status: implemented — .agents/notes/archived/feature/2026-08-24-activity-observation-seam.zh.md
+- Agent Note: Folder references settle on pick; descent moves to an explicit drill verb — Status: implemented — .agents/notes/archived/feature/2026-08-24-folder-reference-pick-vs-drill.md
+- Agent Note: 文件夹引用 pick 即选定；下钻移交给显式 drill 动词 — Status: implemented — .agents/notes/archived/feature/2026-08-24-folder-reference-pick-vs-drill.zh.md
+- Agent Note: Route-priced image request pressure — Status: implemented — .agents/notes/archived/feature/2026-08-24-route-priced-image-request-pressure.md
+- Agent Note: 按路由定价的图片请求压力 — Status: implemented — .agents/notes/archived/feature/2026-08-24-route-priced-image-request-pressure.zh.md
+- Agent Note: Trajectory durable image attachments — Status: implemented — .agents/notes/archived/feature/2026-08-24-trajectory-image-attachments.md
+- Agent Note: Trajectory 持久化图片附件 — Status: implemented — .agents/notes/archived/feature/2026-08-24-trajectory-image-attachments.zh.md
+- Agent Note: Exact Web per-Turn token usage — Status: implemented — .agents/notes/archived/feature/2026-08-24-web-per-turn-token-usage.md
+- Agent Note: Web 单轮次精确 token 用量 — Status: implemented — .agents/notes/archived/feature/2026-08-24-web-per-turn-token-usage.zh.md
+- Agent Note: Feedback-gated session-telemetry default — Status: implemented — .agents/notes/archived/feature/2026-08-25-feedback-gated-telemetry-default.md
+- Agent Note: 反馈门控的会话遥测默认值 — Status: implemented — .agents/notes/archived/feature/2026-08-25-feedback-gated-telemetry-default.zh.md
+- Agent Note: Loaded-Turn chat navigation — Status: implemented — .agents/notes/archived/feature/2026-08-25-loaded-turn-chat-navigation.md
+- Agent Note: 已加载 Turn 的聊天导航 — Status: implemented — .agents/notes/archived/feature/2026-08-25-loaded-turn-chat-navigation.zh.md
+- Agent Note: Promote open-anywhere from community plugin to first-party package — Status: implemented — .agents/notes/archived/feature/2026-08-25-promote-open-anywhere-plugin.md
+- Agent Note: 将 open-anywhere 从社区插件转正为第一方包 — Status: implemented — .agents/notes/archived/feature/2026-08-25-promote-open-anywhere-plugin.zh.md
+- Agent Note: One session-header task list — jobs joined with activities in the UI projection only — Status: implemented — .agents/notes/archived/feature/2026-08-25-unified-task-list.md
+- Agent Note: 会话头部单一任务列表——jobs 与 activity 只在 UI 投影层合并 — Status: implemented — .agents/notes/archived/feature/2026-08-25-unified-task-list.zh.md
+- Agent Note: Human job kill — an unclaimed terminal report instead of a second cancellation path — Status: implemented — .agents/notes/archived/feature/2026-08-26-human-job-kill.md
+- Agent Note：人工任务终止——用「未认领的终态报告」而非第二条取消路径 — Status: implemented — .agents/notes/archived/feature/2026-08-26-human-job-kill.zh.md

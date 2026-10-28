@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 4/66)
+
+- Agent Note: 进程服务是 bash 执行器之下的独立 seam（`dsh-subprocess` / `dsh-subprocess-local`） — Status: implemented — .agents/notes/archived/architecture/2026-07-26-subprocess-seam.zh.md
+- Agent Note: The dispose ladder belongs to its consumer, not the subprocess seam — Status: implemented — .agents/notes/archived/architecture/2026-07-27-dispose-ladder-to-consumer.md
+- Agent Note: dispose 阶梯归其消费方所有，而非 subprocess seam — Status: implemented — .agents/notes/archived/architecture/2026-07-27-dispose-ladder-to-consumer.zh.md
+- Agent Note: dsh-tui chat channel module split — Status: implemented — .agents/notes/archived/architecture/2026-07-27-tui-chat-channel-module-split.md
+- Agent Note: dsh-tui 聊天通道模块拆分 — Status: implemented — .agents/notes/archived/architecture/2026-07-27-tui-chat-channel-module-split.zh.md
+- Agent Note: Consolidated TUI presentation and navigation — Status: implemented — .agents/notes/archived/architecture/2026-07-28-consolidated-tui-presentation.md
+- Agent Note: 统一的 TUI 呈现与导航 — Status: implemented — .agents/notes/archived/architecture/2026-07-28-consolidated-tui-presentation.zh.md
+- Agent Note: A capability-discriminated directory-picker seam for the web-GUI host — Status: implemented — .agents/notes/archived/architecture/2026-07-28-directory-picker-capability-seam.md
+- Agent Note: web GUI 宿主的能力可辨识目录选择 seam — Status: implemented — .agents/notes/archived/architecture/2026-07-28-directory-picker-capability-seam.zh.md
+- Agent Note: Native TypeScript source launch for dsh — Status: implemented — .agents/notes/archived/architecture/2026-07-28-dsh-native-typescript-source-launch.md
+- Agent Note: dsh 原生 TypeScript 源码启动 — Status: implemented — .agents/notes/archived/architecture/2026-07-28-dsh-native-typescript-source-launch.zh.md
+- Agent Note: user-settings seam (`ctx.settings`) and the file provider — Status: implemented — .agents/notes/archived/architecture/2026-07-28-user-settings-seam.md
+- Agent Note: 用户设置 seam（`ctx.settings`）与文件提供方 — Status: implemented — .agents/notes/archived/architecture/2026-07-28-user-settings-seam.zh.md
+- Agent Note: Regroup packages/ by measured clustering — Status: implemented — .agents/notes/archived/architecture/2026-07-29-package-regrouping.md
+- Agent Note: 按实测聚类重新划分 packages/ 分组 — Status: implemented — .agents/notes/archived/architecture/2026-07-29-package-regrouping.zh.md
+- Agent Note: request-level LLM configuration and the credential seam — Status: implemented — .agents/notes/archived/architecture/2026-07-29-request-level-llm-config-credentials.md
+- Agent Note: 请求级 LLM 配置与凭据 seam — Status: implemented — .agents/notes/archived/architecture/2026-07-29-request-level-llm-config-credentials.zh.md
+- Agent Note: Adapter-owned max-token defaults — Status: implemented — .agents/notes/archived/architecture/2026-07-30-adapter-owned-max-token-defaults.md
+- Agent Note: 适配器持有的最大 token 默认值 — Status: implemented — .agents/notes/archived/architecture/2026-07-30-adapter-owned-max-token-defaults.zh.md
+- Agent Note: Full client copy rollout onto the typed locale seat — Status: implemented — .agents/notes/archived/architecture/2026-07-30-client-locale-full-rollout.md
+- Agent Note: client 文案全量接入 typed locale 席位 — Status: implemented — .agents/notes/archived/architecture/2026-07-30-client-locale-full-rollout.zh.md
+- Agent Note: Command row copy is split between the row and the handler — Status: implemented — .agents/notes/archived/architecture/2026-07-30-command-row-copy-contract.md
+- Agent Note: 命令条目文案分别由条目与 handler 负责 — Status: implemented — .agents/notes/archived/architecture/2026-07-30-command-row-copy-contract.zh.md
+- Agent Note: what the configuration plane exposes, and who may overwrite what — Status: implemented — .agents/notes/archived/architecture/2026-07-30-config-plane-boundaries.md
+- Agent Note: 配置面暴露什么，以及谁有权覆盖什么 — Status: implemented — .agents/notes/archived/architecture/2026-07-30-config-plane-boundaries.zh.md
+- Agent Note: the end-seed log boundary — Status: implemented — .agents/notes/archived/architecture/2026-07-30-session-end-seed-log-boundary.md
+- Agent Note: 种子结束日志边界 — Status: implemented — .agents/notes/archived/architecture/2026-07-30-session-end-seed-log-boundary.zh.md
+- Agent Note: settings write-path integrity and observer lifecycle — Status: implemented — .agents/notes/archived/architecture/2026-07-30-settings-write-path-integrity.md
+- Agent Note: settings 写路径完整性与观察者生命周期 — Status: implemented — .agents/notes/archived/architecture/2026-07-30-settings-write-path-integrity.zh.md
+- Agent Note: the web configuration plane — Status: implemented — .agents/notes/archived/architecture/2026-07-30-web-config-plane.md
+- Agent Note: web 配置平面 — Status: implemented — .agents/notes/archived/architecture/2026-07-30-web-config-plane.zh.md
+- Agent Note: Claim inbox input before one pre-step decision — Status: implemented — .agents/notes/archived/architecture/2026-07-31-claimed-pre-step-inbox-lifecycle.md
+- Agent Note: 在单一 pre-step 决策前领取 inbox 输入 — Status: implemented — .agents/notes/archived/architecture/2026-07-31-claimed-pre-step-inbox-lifecycle.zh.md
+- Agent Note: the code-runtime seam owns portable-identifier exclusions — Status: implemented — .agents/notes/archived/architecture/2026-07-31-code-runtime-portable-identifier-seam.md
+- Agent Note: code-runtime seam 拥有可移植标识符排除集 — Status: implemented — .agents/notes/archived/architecture/2026-07-31-code-runtime-portable-identifier-seam.zh.md
+- Agent Note: Packaged ripgrep spawn for glob/grep — Status: implemented — .agents/notes/archived/architecture/2026-08-01-packaged-ripgrep-search.md
+- Agent Note: glob/grep 改用打包的 ripgrep 二进制直接 spawn — Status: implemented — .agents/notes/archived/architecture/2026-08-01-packaged-ripgrep-search.zh.md
+- Agent Note: A session's agent is composed from a preset cordis.yml — Status: implemented — .agents/notes/archived/architecture/2026-08-03-per-session-agent-presets.md
+- Agent Note: 会话的 agent 由一份 preset cordis.yml 组装而成 — Status: implemented — .agents/notes/archived/architecture/2026-08-03-per-session-agent-presets.zh.md

@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 7/66)
+
+- Agent Note: SQLite 物理分片行压缩 — Status: implemented — .agents/notes/archived/architecture/2026-08-18-sqlite-physical-chunk-row-compression.zh.md
+- Agent Note: Mark experimental packages in npm names — Status: implemented — .agents/notes/archived/architecture/2026-08-19-experimental-package-name-prefix.md
+- Agent Note: 在 npm 名中标记实验性包 — Status: implemented — .agents/notes/archived/architecture/2026-08-19-experimental-package-name-prefix.zh.md
+- Agent Note: Projection cache as per-session files — Status: implemented — .agents/notes/archived/architecture/2026-08-19-projection-cache-per-session-files.md
+- Agent Note: 投影缓存改为每会话文件 — Status: implemented — .agents/notes/archived/architecture/2026-08-19-projection-cache-per-session-files.zh.md
+- Agent Note: Separate session projection state from client views — Status: implemented — .agents/notes/archived/architecture/2026-08-19-session-projection-state-and-client-views.md
+- Agent Note: 拆分会话投影状态与客户端视图 — Status: implemented — .agents/notes/archived/architecture/2026-08-19-session-projection-state-and-client-views.zh.md
+- Agent Note: Windows sandbox process primitives have one low-level owner — Status: implemented — .agents/notes/archived/architecture/2026-08-19-shared-win32-process-primitives.md
+- Agent Note: Windows sandbox process primitives 只有一个低层 owner — Status: implemented — .agents/notes/archived/architecture/2026-08-19-shared-win32-process-primitives.zh.md
+- Agent Note: structured index injection table (webserver/index-inject) — Status: implemented — .agents/notes/archived/architecture/2026-08-19-web-index-injection-table.md
+- Agent Note: 结构化 index 注入表（webserver/index-inject 事件） — Status: implemented — .agents/notes/archived/architecture/2026-08-19-web-index-injection-table.zh.md
+- Agent Note: per-PR preview deployments on Cloudflare Pages — Status: implemented — .agents/notes/archived/architecture/2026-08-20-preview-cloudflare-pages-deploy.md
+- Agent Note: 每 PR 预览部署上 Cloudflare Pages — Status: implemented — .agents/notes/archived/architecture/2026-08-20-preview-cloudflare-pages-deploy.zh.md
+- Agent Note: Web composer as a Lexical editor (chips as atomic nodes) — Status: implemented — .agents/notes/archived/architecture/2026-08-20-web-composer-lexical-editor.md
+- Agent Note: Web 输入框改为 Lexical 编辑器（chip 为原子节点） — Status: implemented — .agents/notes/archived/architecture/2026-08-20-web-composer-lexical-editor.zh.md
+- Agent Note: the worker's Node face — builtins, VFS, and the shell process layer — Status: implemented — .agents/notes/archived/architecture/2026-08-20-webworker-node-face.md
+- Agent Note: worker 的 Node 面——builtin、VFS 与 shell 进程层 — Status: implemented — .agents/notes/archived/architecture/2026-08-20-webworker-node-face.zh.md
+- Agent Note: pack-time lowering and the single-build preview — Status: implemented — .agents/notes/archived/architecture/2026-08-20-webworker-pack-lowering-and-preview.md
+- Agent Note: pack 期 lowering 与单构建 preview — Status: implemented — .agents/notes/archived/architecture/2026-08-20-webworker-pack-lowering-and-preview.zh.md
+- Agent Note: Session log reads state their materialization cost — Status: implemented — .agents/notes/archived/architecture/2026-08-21-session-log-read-intent.md
+- Agent Note: 会话日志读取显式表达物化成本 — Status: implemented — .agents/notes/archived/architecture/2026-08-21-session-log-read-intent.zh.md
+- Agent Note: Cross-realm CDP inspector — Status: implemented — .agents/notes/archived/architecture/2026-08-23-cross-realm-cdp-inspector.md
+- Agent Note: 跨 realm CDP Inspector — Status: implemented — .agents/notes/archived/architecture/2026-08-23-cross-realm-cdp-inspector.zh.md
+- Agent Note: Python SDK runtime through the dsh profile launcher — Status: implemented — .agents/notes/archived/architecture/2026-08-23-python-sdk-dsh-profile-runtime.md
+- Agent Note: 通过 dsh profile 启动器运行 Python SDK 运行时 — Status: implemented — .agents/notes/archived/architecture/2026-08-23-python-sdk-dsh-profile-runtime.zh.md
+- Agent Note: Python SDK Windows x64 runtime — Status: implemented — .agents/notes/archived/architecture/2026-08-23-python-sdk-windows-x64-runtime.md
+- Agent Note: Python SDK Windows x64 运行时 — Status: implemented — .agents/notes/archived/architecture/2026-08-23-python-sdk-windows-x64-runtime.zh.md
+- Agent Note: Web Worker VFS watching and CLI-compatible confinement — Status: implemented — .agents/notes/archived/architecture/2026-08-23-webworker-vfs-watch-and-landlock.md
+- Agent Note: Web Worker VFS 监听与 CLI 兼容 confinement — Status: implemented — .agents/notes/archived/architecture/2026-08-23-webworker-vfs-watch-and-landlock.zh.md
+- Agent Note: Cordis runtime tree inspection — Status: implemented — .agents/notes/archived/architecture/2026-08-24-cordis-runtime-tree-inspection.md
+- Agent Note: Cordis 运行时树检查 — Status: implemented — .agents/notes/archived/architecture/2026-08-24-cordis-runtime-tree-inspection.zh.md
+- Agent Note: Standalone sdk-minimal profile under dsh — Status: implemented — .agents/notes/archived/architecture/2026-08-24-standalone-sdk-minimal-profile.md
+- Agent Note: dsh 下的独立 sdk-minimal profile — Status: implemented — .agents/notes/archived/architecture/2026-08-24-standalone-sdk-minimal-profile.zh.md
+- Agent Note: JSONL persistence compression latency — Status: implemented — .agents/notes/archived/architecture/2026-08-25-persistence-latency-and-page-size.md
+- Agent Note: JSONL 持久化压缩延迟 — Status: implemented — .agents/notes/archived/architecture/2026-08-25-persistence-latency-and-page-size.zh.md
+- Agent Note: Rename code-mode to ptc — the transport is named PTC, user-facing copy says PTC mode — Status: implemented — .agents/notes/archived/architecture/2026-08-25-rename-code-mode-to-ptc.md
+- Agent Note: 将 code-mode 重命名为 ptc——传输层命名为 PTC，用户文案使用 PTC mode — Status: implemented — .agents/notes/archived/architecture/2026-08-25-rename-code-mode-to-ptc.zh.md
+- Agent Note: Centralize sparse first-party prompt-section orders — Status: implemented — .agents/notes/archived/architecture/2026-08-25-sparse-first-party-prompt-section-orders.md
+- Agent Note: 集中管理稀疏的 first-party 提示词段顺序 — Status: implemented — .agents/notes/archived/architecture/2026-08-25-sparse-first-party-prompt-section-orders.zh.md

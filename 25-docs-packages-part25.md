@@ -1,0 +1,35 @@
+# docs: packages (830 篇, part 25/26)
+
+- @deepseek-ai/dsh-brand — description: "供拥有易混淆领域值的包使用的名义字符串与数字类型及无状态构造函数。" — packages/util/brand/README.zh.md
+- @deepseek-ai/dsh-chunked-list — description: "Immutable append-only lists for projection state, with bounded append copyin — packages/util/chunked-list/README.md
+- @deepseek-ai/dsh-chunked-list — description: "用于 projection state 的不可变的仅追加列表，提供有界追加复制、按插入顺序迭代和 Zod 检查点校验。" — packages/util/chunked-list/README.zh.md
+- dsh-util-code-language — description: "Single file-extension to syntax-highlighting language table shared by the Cl — packages/util/code-language/README.md
+- dsh-util-code-language — description: "Client 代码界面与 Host read 卡片共享的唯一「扩展名 → 语法高亮语言」表。" — packages/util/code-language/README.zh.md
+- dsh-util-crypto — description: "Cross-runtime UUID generation for maintainers replacing secure-context-only  — packages/util/crypto/README.md
+- dsh-util-crypto — description: "面向替换仅安全上下文可用的 crypto.randomUUID 调用的维护者，说明跨运行时 UUID 生成。" — packages/util/crypto/README.zh.md
+- @deepseek-ai/dsh-deque — description: "Circular deque for Host and browser packages that need amortized constant-ti — packages/util/deque/README.md
+- @deepseek-ai/dsh-deque — description: "供 Host 和浏览器包使用的环形双端队列，提供摊销常数时间的队列操作、已移除条目的即时释放和有界空闲存储。" — packages/util/deque/README.zh.md
+- @deepseek-ai/dsh-home-paths — description: "Shared resolution of the DeepSeek Harness home and the shared agent configur — packages/util/home-paths/README.md
+- @deepseek-ai/dsh-home-paths — description: "DeepSeek Harness 主目录与共享 agent 配置根目录的共享解析，以及用户数据路径、波浪号展开与稳定监听路径。" — packages/util/home-paths/README.zh.md
+- @deepseek-ai/dsh-http-proxy — description: "Outbound HTTP proxy support for the harness: how one policy resolved from th — packages/util/http-proxy/README.md
+- @deepseek-ai/dsh-http-proxy — description: "Harness 的出站 HTTP 代理支持：从启动环境解析出的一份策略，如何覆盖到 Node fetch 本来会直连的每一个请求。" — packages/util/http-proxy/README.zh.md
+- @deepseek-ai/dsh-launch-environment — description: "An immutable snapshot of this run's environment that remembers which layer s — packages/util/launch-environment/README.md
+- @deepseek-ai/dsh-launch-environment — description: "本次运行环境的不可变快照，记住每个值来自哪一层；供必须以不信任压平 process.env 的方式解析面向用户值的包使用。" — packages/util/launch-environment/README.zh.md
+- @deepseek-ai/dsh-lazy-require — description: "Caller-relative lazy loading for CommonJS-compatible Host dependencies whose — packages/util/lazy-require/README.md
+- @deepseek-ai/dsh-lazy-require — description: "按调用方解析并惰性加载 CommonJS 兼容的 Host 依赖，使应用启动时不初始化尚未使用的依赖。" — packages/util/lazy-require/README.zh.md
+- @deepseek-ai/dsh-native-command — description: "Host-native command and path-opening utilities with shell-free execution, ca — packages/util/native-command/README.md
+- @deepseek-ai/dsh-native-command — description: "宿主原生命令与路径打开工具，提供无 shell 执行、取消、桌面探测与 WSL 路径交接。" — packages/util/native-command/README.zh.md
+- @deepseek-ai/dsh-output-retention — description: "Bounded model-facing output for tools that must cap how much context they re — packages/util/output-retention/README.md
+- @deepseek-ai/dsh-output-retention — description: "为必须限制返回上下文量的工具提供有界的面向模型输出：项与文本 retainer，以及标准化的省略页脚。" — packages/util/output-retention/README.zh.md
+- @deepseek-ai/dsh-package-manifest — description: "Shared TypeScript declarations for package identity, runtime requirements, a — packages/util/package-manifest/README.md
+- @deepseek-ai/dsh-package-manifest — description: "包身份、运行时要求和 DSH 插件元数据的共享 TypeScript 声明。" — packages/util/package-manifest/README.zh.md
+- dsh-plugin-market-index — description: "Plugin market index format 1 validation and install arguments for DSH reader — packages/util/plugin-market-index/README.md
+- dsh-plugin-market-index — description: "供 DSH 读取器和索引生成器使用的插件市场索引格式 1 校验与安装参数。" — packages/util/plugin-market-index/README.zh.md
+- util/ — shared utilities — description: "Package map for shared utilities: atomic file writes, branded ids, deques, J — packages/util/README.md
+- util/：共享工具 — description: "共享工具家族的包映射：原子文件写入、品牌化 id、双端队列、JSON 值、harness 主目录路径、启动环境、原生命令、输出保留、时区与超时。" — packages/util/README.zh.md
+- dsh-util-time — description: "IANA time-zone validation and canonicalization for maintainers accepting a c — packages/util/time/README.md
+- dsh-util-time — description: "面向在协议边界接收调用方所报时区的维护者，说明 IANA 时区校验与规范化。" — packages/util/time/README.zh.md
+- @deepseek-ai/dsh-timeout — description: "Shared timeout arithmetic, deadline fusion, and timeout-versus-cancel classi — packages/util/timeout/README.md
+- @deepseek-ai/dsh-timeout — description: "共享超时运算、截止时间融合与超时和取消分类，供需要限制调用方超时提示、启动 deadline 并在之后区分二者的能力使用。" — packages/util/timeout/README.zh.md
+- @deepseek-ai/dsh-util-values — description: "Lossless JSON validation, detached snapshots, deep freezing, structural equa — packages/util/values/README.md
+- @deepseek-ai/dsh-util-values — description: "供运行时包使用的无损 JSON 校验、分离式快照、深度冻结、结构相等与穷尽联合类型辅助函数。" — packages/util/values/README.zh.md

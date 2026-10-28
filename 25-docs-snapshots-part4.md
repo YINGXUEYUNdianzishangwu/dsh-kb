@@ -1,0 +1,58 @@
+# docs: snapshots (276 篇, part 4/6)
+
+- snapshots/web/file-upload-round/ui.expected.md — - banner: — snapshots/web/file-upload-round/ui.expected.md
+- snapshots/web/fresh-round-trip/accepted-reconnect.expected.md — selected sidebar rows: 1 — snapshots/web/fresh-round-trip/accepted-reconnect.expected.md
+- snapshots/web/fresh-round-trip/blank-reload.expected.md — - banner: — snapshots/web/fresh-round-trip/blank-reload.expected.md
+- snapshots/web/fresh-round-trip/submission-echo.expected.md — echo: Use the bash tool to run exactly: echo WEBE2EOK. Then reply with the single word DON — snapshots/web/fresh-round-trip/submission-echo.expected.md
+- snapshots/web/fresh-round-trip/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/web/fresh-round-trip/system-prompt.expected.md
+- snapshots/web/fresh-round-trip/ui-expanded.expected.md — - banner: — snapshots/web/fresh-round-trip/ui-expanded.expected.md
+- snapshots/web/fresh-round-trip/ui.expected.md — - banner: — snapshots/web/fresh-round-trip/ui.expected.md
+- snapshots/web/fresh-round-trip/web-context.expected.md — The runtime context names the DeepSeek Harness implementation checkout. The checkout locat — snapshots/web/fresh-round-trip/web-context.expected.md
+- snapshots/web/goal-multi-turn-actions/ui-expanded.expected.md — - banner: — snapshots/web/goal-multi-turn-actions/ui-expanded.expected.md
+- snapshots/web/goal-multi-turn-actions/ui.expected.md — - banner: — snapshots/web/goal-multi-turn-actions/ui.expected.md
+- snapshots/web/interrupted-turn/ui.expected.md — - banner: — snapshots/web/interrupted-turn/ui.expected.md
+- snapshots/web/lifecycle-chrome/command-menu-fuzzy.expected.md — - listbox "Trigger suggestions": — snapshots/web/lifecycle-chrome/command-menu-fuzzy.expected.md
+- snapshots/web/lifecycle-chrome/command-menu-zh.expected.md — - listbox "触发候选建议": — snapshots/web/lifecycle-chrome/command-menu-zh.expected.md
+- snapshots/web/lifecycle-chrome/command-menu.expected.md — - listbox "Trigger suggestions": — snapshots/web/lifecycle-chrome/command-menu.expected.md
+- snapshots/web/lifecycle-chrome/connection-error.expected.md — - button "Account menu": More — snapshots/web/lifecycle-chrome/connection-error.expected.md
+- snapshots/web/lifecycle-chrome/hero.expected.md — - button "New session" — snapshots/web/lifecycle-chrome/hero.expected.md
+- snapshots/web/lifecycle-chrome/plan-active-zh.expected.md — - button "新建会话" — snapshots/web/lifecycle-chrome/plan-active-zh.expected.md
+- snapshots/web/lifecycle-chrome/plan-active.expected.md — - button "New session" — snapshots/web/lifecycle-chrome/plan-active.expected.md
+- snapshots/web/lifecycle-chrome/reloaded-expanded.expected.md — - banner: — snapshots/web/lifecycle-chrome/reloaded-expanded.expected.md
+- snapshots/web/lifecycle-chrome/reloaded.expected.md — - banner: — snapshots/web/lifecycle-chrome/reloaded.expected.md
+- snapshots/web/live-interactions/cancel-expanded.expected.md — - banner: — snapshots/web/live-interactions/cancel-expanded.expected.md
+- snapshots/web/live-interactions/cancel.expected.md — - banner: — snapshots/web/live-interactions/cancel.expected.md
+- snapshots/web/live-interactions/error-auth.expected.md — - banner: — snapshots/web/live-interactions/error-auth.expected.md
+- snapshots/web/live-interactions/loading.expected.md — - banner: — snapshots/web/live-interactions/loading.expected.md
+- snapshots/web/live-interactions/retry-exhausted.expected.md — - banner: — snapshots/web/live-interactions/retry-exhausted.expected.md
+- snapshots/web/live-interactions/retry-expanded.expected.md — - banner: — snapshots/web/live-interactions/retry-expanded.expected.md
+- Retrying request — - term: Status — snapshots/web/live-interactions/retry-request.expected.md
+- snapshots/web/live-interactions/retry.expected.md — - banner: — snapshots/web/live-interactions/retry.expected.md
+- snapshots/web/live-interactions/running-draft.expected.md — - banner: — snapshots/web/live-interactions/running-draft.expected.md
+- snapshots/web/markdown-file-links/links.expected.md — - paragraph: — snapshots/web/markdown-file-links/links.expected.md
+- snapshots/web/markdown-file-links/preview.expected.md — - text: {{cwd}}/other/example.txt — snapshots/web/markdown-file-links/preview.expected.md
+- snapshots/web/message-actions/compact.expected.md — - text: {{throughput}} tok/s Cache hit 98% — snapshots/web/message-actions/compact.expected.md
+- snapshots/web/message-actions/fork-unopened.expected.md — - alert: — snapshots/web/message-actions/fork-unopened.expected.md
+- snapshots/web/message-actions/fork.expected.md — - tree "Sessions": — snapshots/web/message-actions/fork.expected.md
+- snapshots/web/message-actions/ui.expected.md — - banner: — snapshots/web/message-actions/ui.expected.md
+- snapshots/web/minimal-compact/system-prompt.expected.md — You are a helpful software engineer assistant. — snapshots/web/minimal-compact/system-prompt.expected.md
+- snapshots/web/minimal-compact/ui.expected.md — - banner: — snapshots/web/minimal-compact/ui.expected.md
+- snapshots/web/minimal-preset/system-prompt.expected.md — You are a helpful software engineer assistant. — snapshots/web/minimal-preset/system-prompt.expected.md
+- snapshots/web/minimal-preset/ui.expected.md — - banner: — snapshots/web/minimal-preset/ui.expected.md
+- snapshots/web/minimal-read-image/system-prompt.expected.md — You are a helpful software engineer assistant. — snapshots/web/minimal-read-image/system-prompt.expected.md
+- snapshots/web/minimal-read-image/ui.expected.md — - banner: — snapshots/web/minimal-read-image/ui.expected.md
+- snapshots/web/navigation-panes/search-results.expected.md — - tree "Search results": — snapshots/web/navigation-panes/search-results.expected.md
+- snapshots/web/navigation-panes/terminal-card.expected.md — - text: Done {{workspace}} echo NAVIGATIONOK — snapshots/web/navigation-panes/terminal-card.expected.md
+- snapshots/web/navigation-panes/timing.expected.md — - tabpanel "Timing": — snapshots/web/navigation-panes/timing.expected.md
+- snapshots/web/navigation-panes/trajectory.expected.md — - toolbar "Trajectory toolbar": — snapshots/web/navigation-panes/trajectory.expected.md
+- snapshots/web/official-subagent-bundle/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/web/official-subagent-bundle/system-prompt.expected.md
+- snapshots/web/official-subagent-bundle/ui.expected.md — - text: Delegate a self-contained task to the official Claude Code subagent through its ge — snapshots/web/official-subagent-bundle/ui.expected.md
+- snapshots/web/open-in-app-ssh/header.expected.md — - banner: — snapshots/web/open-in-app-ssh/header.expected.md
+- snapshots/web/optional-string-editor/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/web/optional-string-editor/system-prompt.expected.md
+- snapshots/web/optional-string-editor/ui.expected.md — - text: Use the optional string editor from the generated tools SDK in one runcode program — snapshots/web/optional-string-editor/ui.expected.md
+- snapshots/web/plan-review/approved-expanded.expected.md — - banner: — snapshots/web/plan-review/approved-expanded.expected.md
+- snapshots/web/plan-review/approved.expected.md — - banner: — snapshots/web/plan-review/approved.expected.md
+- snapshots/web/plan-review/preview.expected.md — - 'region "Add --greeting flag to CLI"': — snapshots/web/plan-review/preview.expected.md
+- snapshots/web/plan-review/review.expected.md — - region "Approve this plan and leave plan mode?": — snapshots/web/plan-review/review.expected.md
+- snapshots/web/plan-review/sidebar.expected.md — - 'treeitem "Plan awaiting review Plan a small change: add" [selected]' — snapshots/web/plan-review/sidebar.expected.md
+- snapshots/web/present/ui.expected.md — - banner: — snapshots/web/present/ui.expected.md

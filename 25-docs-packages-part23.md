@@ -1,0 +1,34 @@
+# docs: packages (830 篇, part 23/26)
+
+- @deepseek-ai/dsh-subagent-dsh-sdk — description: "面向用户与维护者的进程外 SDK subagent 后端，用于选择委派提供方、配置子 Harness 运行时，或排查本地嵌套子 agent（智能体）的运 — packages/subagent/subagent-dsh-sdk/README.zh.md
+- @deepseek-ai/dsh-subagent-fork-in-process — description: "In-process fork subagent backend for users and maintainers choosing, configu — packages/subagent/subagent-fork-in-process/README.md
+- @deepseek-ai/dsh-subagent-fork-in-process — description: "面向用户与维护者的进程内 fork subagent 后端说明，用于选择、配置或排查以父级已完成轮次作初始内容的子 agent（智能体）。" — packages/subagent/subagent-fork-in-process/README.zh.md
+- @deepseek-ai/dsh-subagent-spawn-in-process — description: "In-process spawn subagent backend for users and maintainers choosing, config — packages/subagent/subagent-spawn-in-process/README.md
+- @deepseek-ai/dsh-subagent-spawn-in-process — description: "面向用户与维护者的进程内 spawn subagent 后端说明，用于选择、配置或排查全新子级委派。" — packages/subagent/subagent-spawn-in-process/README.zh.md
+- @deepseek-ai/dsh-tool-subagent — description: "Model-facing subagent delegation tool for users and maintainers configuring, — packages/subagent/tool-subagent/README.md
+- @deepseek-ai/dsh-tool-subagent — description: "面向模型的 subagent 委派工具，供用户与维护者配置、组合或排查基于 subagent 提供方的委派。" — packages/subagent/tool-subagent/README.zh.md
+- @deepseek-ai/dsh-tool-subagent-control — description: "Global sendmessage, interruptagent, and listagents tools for users and maint — packages/subagent/tool-subagent-control/README.md
+- @deepseek-ai/dsh-tool-subagent-control — description: "供用户与维护者在组合或调试可继续子级控制功能时使用的全局 sendmessage、interruptagent 与 listagents 工具。" — packages/subagent/tool-subagent-control/README.zh.md
+- subprocess/ — subprocess capability family — description: "The subprocess group map: the shared child-process service and its local hos — packages/subprocess/README.md
+- subprocess/：子进程能力家族 — description: "subprocess 组地图：共享的子进程服务及其本地宿主提供方，供浏览本组的用户与维护者阅读。" — packages/subprocess/README.zh.md
+- @deepseek-ai/dsh-subprocess — description: "The subprocess service (ctx.subprocess) for composition authors and capabili — packages/subprocess/subprocess/README.md
+- @deepseek-ai/dsh-subprocess — description: "面向组合作者与能力消费方的子进程服务（ctx.subprocess）说明：启动、观察并终止受管子进程与终端会话。" — packages/subprocess/subprocess/README.zh.md
+- @deepseek-ai/dsh-subprocess-local — description: "The local host provider for the subprocess service: run OS-owned managed ran — packages/subprocess/subprocess-local/README.md
+- @deepseek-ai/dsh-subprocess-local — description: "子进程服务的本地宿主提供方：在宿主机器上运行由 OS 所有的受管范围与真实终端会话，并明确披露较弱的 fallback。" — packages/subprocess/subprocess-local/README.zh.md
+- @deepseek-ai/dsh-win32-process — description: "Low-level Win32 process primitives for maintainers implementing or debugging — packages/subprocess/win32-process/README.md
+- @deepseek-ai/dsh-win32-process — description: "面向实现或排查 Windows ACL 沙箱与普通子进程 Job runner 的维护者，说明底层 Win32 进程原语。" — packages/subprocess/win32-process/README.zh.md
+- @deepseek-ai/dsh-otel — description: "Create independent OTLP reporting channels through the shared Cordis OTel se — packages/telemetry/otel/README.md
+- @deepseek-ai/dsh-otel — description: "通过共享 Cordis OTel 服务创建独立的 OTLP 上报通道。" — packages/telemetry/otel/README.zh.md
+- telemetry/ — shared reporting — description: "Shared telemetry transport plugins for business consumers." — packages/telemetry/README.md
+- telemetry/ — 共享上报 — description: "供业务调用方共享的遥测传输插件。" — packages/telemetry/README.zh.md
+- terminal/ — persistent PTY capability family — description: "Package map for the persistent terminal service and the shell backend that s — packages/terminal/README.md
+- terminal/：持久 PTY 能力家族 — description: "持久终端服务与启动交互式 bash 或 pwsh 的 shell 后端的包映射。" — packages/terminal/README.zh.md
+- @deepseek-ai/dsh-terminal — description: "Persistent terminal sessions for deployments and consumers choosing, composi — packages/terminal/terminal/README.md
+- @deepseek-ai/dsh-terminal — description: "面向部署方与消费方的持久终端会话说明，用于选择、组合或扩展限定所有者范围的 ctx.terminals 服务。" — packages/terminal/terminal/README.zh.md
+- @deepseek-ai/dsh-terminal-bash — description: "The shipped shell backend for persistent terminal sessions: interactive bash — packages/terminal/terminal-bash/README.md
+- @deepseek-ai/dsh-terminal-bash — description: "持久终端会话的随产品交付的 shell 后端：在共享沙箱策略下启动交互式 bash 或 pwsh，带就绪检测与有界逐行输出。" — packages/terminal/terminal-bash/README.zh.md
+- @deepseek-ai/dsh-agent-loop-testkit — description: "Prerequisite mounting, production AgentLoop drivers, and explicit Inbox stub — packages/test-support/agent-loop-testkit/README.md
+- @deepseek-ai/dsh-agent-loop-testkit — description: "为 agent-loop 测试提供先决依赖挂载、生产 AgentLoop 驱动与职责明确的 Inbox 桩。" — packages/test-support/agent-loop-testkit/README.zh.md
+- @deepseek-ai/dsh-client-test-runtime — description: "jsdom slot test runtime for browser feature specs, for test authors exercisi — packages/test-support/client-runtime/README.md
+- @deepseek-ai/dsh-client-test-runtime — description: "面向浏览器功能测试的 jsdom slot 测试运行时，供测试作者针对生产机制检验 slot、存储与渲染。" — packages/test-support/client-runtime/README.zh.md
+- @deepseek-ai/dsh-llm-mock-server — description: "Scriptable Messages-compatible fault server for testing LLM adapters and rec — packages/test-support/llm-mock-server/README.md

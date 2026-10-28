@@ -1,0 +1,52 @@
+# docs: snapshots (276 篇, part 3/6)
+
+- snapshots/session/subagent-acp-diagnostic/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/subagent-acp-diagnostic/system-prompt.expected.md
+- snapshots/session/subagent-agent-preset/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/subagent-agent-preset/system-prompt.1.expected.md
+- snapshots/session/subagent-no-message-tool/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/subagent-no-message-tool/system-prompt.1.expected.md
+- snapshots/session/subagent-structured-parent/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/subagent-structured-parent/system-prompt.1.expected.md
+- snapshots/session/subagent-tool-filter/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/subagent-tool-filter/system-prompt.1.expected.md
+- snapshots/session/system-prompt-in-history/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/system-prompt-in-history/system-prompt.expected.md
+- snapshots/session/team-targets/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/team-targets/system-prompt.expected.md
+- snapshots/session/text-turn/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/text-turn/system-prompt.expected.md
+- snapshots/session/web-fetch/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/web-fetch/system-prompt.expected.md
+- snapshots/session/workflow-confinement/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/workflow-confinement/system-prompt.expected.md
+- snapshots/session/workspace-dependencies/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/workspace-dependencies/system-prompt.expected.md
+- snapshots/session/worktree/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/worktree/system-prompt.expected.md
+- snapshots/web/approval-composer/ui.expected.md — - text: Waiting for approval — snapshots/web/approval-composer/ui.expected.md
+- snapshots/web/auto-review-approval/ui.expected.md — - banner: — snapshots/web/auto-review-approval/ui.expected.md
+- snapshots/web/auto-review-denial/ui.expected.md — - banner: — snapshots/web/auto-review-denial/ui.expected.md
+- snapshots/web/background-job-list/running.expected.md — - list "Background jobs": — snapshots/web/background-job-list/running.expected.md
+- snapshots/web/background-job-list/settled.expected.md — - list "Background jobs": — snapshots/web/background-job-list/settled.expected.md
+- snapshots/web/bash-abort-row/ui.expected.md — - banner: — snapshots/web/bash-abort-row/ui.expected.md
+- snapshots/web/changed-files-turn/hover.expected.md — - text: 1 1 start 2 + done — snapshots/web/changed-files-turn/hover.expected.md
+- snapshots/web/changed-files-turn/preparing-edit-content.expected.md — - text: 正在准备调用 编辑 intro.md 1KB — snapshots/web/changed-files-turn/preparing-edit-content.expected.md
+- snapshots/web/changed-files-turn/preparing-edit.expected.md — - text: 正在准备调用 编辑 intro.md — snapshots/web/changed-files-turn/preparing-edit.expected.md
+- snapshots/web/changed-files-turn/preparing-write-content.expected.md — - text: 正在准备调用 写入 src/util.ts 1KB — snapshots/web/changed-files-turn/preparing-write-content.expected.md
+- snapshots/web/changed-files-turn/preparing-write.expected.md — - text: 正在准备调用 写入 src/util.ts — snapshots/web/changed-files-turn/preparing-write.expected.md
+- snapshots/web/changed-files-turn/ui.expected.md — - text: 不用先查看目录，直接做四件事：把 intro.md 里的标题「示例项目」改成「项目说明」，新建 src/util.ts 导出一个两数相加的 add 函数，新建 ap — snapshots/web/changed-files-turn/ui.expected.md
+- 项目说明 — 一个用于演示的仓库。 — snapshots/web/changed-files-turn/workspace.expected/intro.md
+- snapshots/web/code-language/ui.expected.md — - button "Read sample.pyi" [expanded]: — snapshots/web/code-language/ui.expected.md
+- snapshots/web/collapse-timing/completion-restored.expected.md — - text: "Use the read tool twice in one assistant message: read a.txt and b.txt. Then repl — snapshots/web/collapse-timing/completion-restored.expected.md
+- snapshots/web/collapse-timing/completion.expected.md — - text: "Use the read tool twice in one assistant message: read a.txt and b.txt. Then repl — snapshots/web/collapse-timing/completion.expected.md
+- snapshots/web/collapse-timing/input-pending.expected.md — - text: "Use the read tool twice in one assistant message: read a.txt and b.txt. Then repl — snapshots/web/collapse-timing/input-pending.expected.md
+- snapshots/web/collapse-timing/next-input.expected.md — - text: "Use the read tool twice in one assistant message: read a.txt and b.txt. Then repl — snapshots/web/collapse-timing/next-input.expected.md
+- snapshots/web/collapse-timing/next-message.expected.md — - text: "Use the read tool twice in one assistant message: read a.txt and b.txt. Then repl — snapshots/web/collapse-timing/next-message.expected.md
+- snapshots/web/collapse-timing/verbose.expected.md — - text: "Use the read tool twice in one assistant message: read a.txt and b.txt. Then repl — snapshots/web/collapse-timing/verbose.expected.md
+- Dynamic Cordis Plugins — You are an AI agent powered by DeepSeek Harness. — snapshots/web/cordis-tool-round/system-prompt.expected.md
+- snapshots/web/deepseek-messages-chat/ui.expected.md — - banner: — snapshots/web/deepseek-messages-chat/ui.expected.md
+- snapshots/web/default-workspace/ui.expected.md — - banner: — snapshots/web/default-workspace/ui.expected.md
+- Blank Session workspace sidebar — - No selected Session: expand control absent — snapshots/web/details-session-lifecycle/blank-session.expected.md
+- AppFrame drag handles — - hit strip present: true — snapshots/web/details-session-lifecycle/handles.expected.md
+- Recorded-session Sidebar states — json — snapshots/web/details-session-lifecycle/sidebar.expected.md
+- snapshots/web/diff-bounded/ui.expected.md — - button "Edit large.txt 4KB +130 -130" [expanded]: — snapshots/web/diff-bounded/ui.expected.md
+- snapshots/web/diff-context/ui.expected.md — - button "Edit config.txt 1KB +1 -1" [expanded]: — snapshots/web/diff-context/ui.expected.md
+- snapshots/web/document-preview/applications-no-default.expected.md — - button "Open" — snapshots/web/document-preview/applications-no-default.expected.md
+- snapshots/web/document-preview/applications.expected.md — - menu: — snapshots/web/document-preview/applications.expected.md
+- Document preview — - Default tab: Files — snapshots/web/document-preview/document.expected.md
+- Independent-writer Excel previews — - comments.xlsx: 数据 opened; Item copied — snapshots/web/excel-opc/excel.expected.md
+- snapshots/web/feedback-command/ack-expanded.expected.md — - banner: — snapshots/web/feedback-command/ack-expanded.expected.md
+- snapshots/web/feedback-command/ack.expected.md — - banner: — snapshots/web/feedback-command/ack.expected.md
+- snapshots/web/feedback-release/ack-expanded.expected.md — - banner: — snapshots/web/feedback-release/ack-expanded.expected.md
+- snapshots/web/feedback-release/ack.expected.md — - banner: — snapshots/web/feedback-release/ack.expected.md
+- Loading — - list "Attachments": — snapshots/web/file-upload-round/trajectory-status.expected.md
+- Ledger — - row "USER, Images ×1 · Files ×1 · Read the attached file with the read tool, reply with  — snapshots/web/file-upload-round/trajectory.expected.md

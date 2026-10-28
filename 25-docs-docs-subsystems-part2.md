@@ -1,0 +1,66 @@
+# docs: docs/subsystems (134 篇, part 2/2)
+
+- Session Query — English | [中文](session-query.zh.md) — docs/subsystems/session-query.md
+- 会话查询 — [English](session-query.md) | 中文 — docs/subsystems/session-query.zh.md
+- Session References — English | [中文](session-reference.zh.md) — docs/subsystems/session-reference.md
+- 会话引用 — [English](session-reference.md) | 中文 — docs/subsystems/session-reference.zh.md
+- SessionTelemetryBackend — English | [中文](session-telemetry.zh.md) — docs/subsystems/session-telemetry.md
+- 遥测（telemetry） — [English](session-telemetry.md) | 中文 — docs/subsystems/session-telemetry.zh.md
+- Session Titles — English | [中文](session-title.zh.md) — docs/subsystems/session-title.md
+- 会话标题 — [English](session-title.md) | 中文 — docs/subsystems/session-title.zh.md
+- Sessions — English | [中文](session.zh.md) — docs/subsystems/session.md
+- 会话 — [English](session.md) | 中文 — docs/subsystems/session.zh.md
+- Plugin Configuration Forms — English | [中文](settings.zh.md) — docs/subsystems/settings.md
+- 插件配置表单 — [English](settings.md) | 中文 — docs/subsystems/settings.zh.md
+- Shell Executor — English | [中文](shell.zh.md) — docs/subsystems/shell.md
+- Shell 执行器 — [English](shell.md) | 中文 — docs/subsystems/shell.zh.md
+- Right Sidebar — English | [中文](sidebar-right.zh.md) — docs/subsystems/sidebar-right.md
+- 右侧 Sidebar — [English](sidebar-right.md) | 中文 — docs/subsystems/sidebar-right.zh.md
+- Skills — English | [中文](skills.zh.md) — docs/subsystems/skills.md
+- Skills — [English](skills.md) | 中文 — docs/subsystems/skills.zh.md
+- Web Client Slots — English | [中文](slots.zh.md) — docs/subsystems/slots.md
+- Web Client Slots — [English](slots.md) | 中文 — docs/subsystems/slots.zh.md
+- Spill Storage — English | [中文](spill.zh.md) — docs/subsystems/spill.md
+- spill 存储 — [English](spill.md) | 中文 — docs/subsystems/spill.zh.md
+- SSH — English | [中文](ssh.zh.md) — docs/subsystems/ssh.md
+- SSH — [English](ssh.md) | 中文 — docs/subsystems/ssh.zh.md
+- Storage — English | [中文](storage.zh.md) — docs/subsystems/storage.md
+- 存储 — [English](storage.md) | 中文 — docs/subsystems/storage.zh.md
+- Subagents — English | [中文](subagent.zh.md) — docs/subsystems/subagent.md
+- 子代理 — [English](subagent.md) | 中文 — docs/subsystems/subagent.zh.md
+- Subprocess — English | [中文](subprocess.zh.md) — docs/subsystems/subprocess.md
+- 子进程 — [English](subprocess.md) | 中文 — docs/subsystems/subprocess.zh.md
+- System Prompt Assembly — English | [中文](system-prompt.zh.md) — docs/subsystems/system-prompt.md
+- 系统提示词组装 — [English](system-prompt.md) | 中文 — docs/subsystems/system-prompt.zh.md
+- Persistent PTY Sessions — English | [中文](terminal.zh.md) — docs/subsystems/terminal.md
+- 持久 PTY 会话 — [English](terminal.md) | 中文 — docs/subsystems/terminal.zh.md
+- Todo — English | [中文](todo.zh.md) — docs/subsystems/todo.md
+- Todo — [English](todo.md) | 中文 — docs/subsystems/todo.zh.md
+- Token Meter — English | [中文](token-meter.zh.md) — docs/subsystems/token-meter.md
+- Token 计量 — [English](token-meter.md) | 中文 — docs/subsystems/token-meter.zh.md
+- Tools — English | [中文](tools.zh.md) — docs/subsystems/tools.md
+- 工具 — [English](tools.md) | 中文 — docs/subsystems/tools.zh.md
+- Text translation — English | [中文](translation.zh.md) — docs/subsystems/translation.md
+- 文本翻译 — [English](translation.md) | 中文 — docs/subsystems/translation.zh.md
+- Typert remote calls — English | [中文](typert.zh.md) — docs/subsystems/typert.md
+- Typert 远程调用 — [English](typert.md) | 中文 — docs/subsystems/typert.zh.md
+- User Interaction — English | [中文](user-questions.zh.md) — docs/subsystems/user-questions.md
+- 用户交互 — [English](user-questions.md) | 中文 — docs/subsystems/user-questions.zh.md
+- Voice input — English | [中文](voice-input.zh.md) — docs/subsystems/voice-input.md
+- 语音输入 — [English](voice-input.md) | 中文 — docs/subsystems/voice-input.zh.md
+- Web Client architecture — English | [中文](web-client.zh.md) — docs/subsystems/web-client.md
+- Web Client 架构 — [English](web-client.md) | 中文 — docs/subsystems/web-client.zh.md
+- HTTP Server — English | [中文](web-server.zh.md) — docs/subsystems/web-server.md
+- HTTP 服务器 — [English](web-server.md) | 中文 — docs/subsystems/web-server.zh.md
+- Web Access — English | [中文](web.zh.md) — docs/subsystems/web.md
+- Web 访问 — [English](web.md) | 中文 — docs/subsystems/web.zh.md
+- Webhook runtime — English | [中文](webhook.zh.md) — docs/subsystems/webhook.md
+- Webhook runtime — [English](webhook.md) | 中文 — docs/subsystems/webhook.zh.md
+- Workflow — English | [中文](workflow.zh.md) — docs/subsystems/workflow.md
+- 工作流 — [English](workflow.md) | 中文 — docs/subsystems/workflow.zh.md
+- Working Directory — English | [中文](working-directory.zh.md) — docs/subsystems/working-directory.md
+- 工作目录 — [English](working-directory.md) | 中文 — docs/subsystems/working-directory.zh.md
+- Workspaces — English | [中文](workspace.zh.md) — docs/subsystems/workspace.md
+- 工作区 — [English](workspace.md) | 中文 — docs/subsystems/workspace.zh.md
+- Git Worktrees — English | [中文](worktrees.zh.md) — docs/subsystems/worktrees.md
+- Git 工作树 — [English](worktrees.md) | 中文 — docs/subsystems/worktrees.zh.md

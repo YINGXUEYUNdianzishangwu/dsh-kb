@@ -1,0 +1,27 @@
+# 插件 bundle（含 cordis.patch.yml） (25, part 1/1)
+
+- @deepseek-ai/dsh-acp-app 0.2.1-rc.3 — The dsh ACP profile bundle: automation-only JSON-RPC stdio and process lifecycle over dsh-base — packages/bundle/acp-app
+- @deepseek-ai/dsh-base 0.2.1-rc.3 — The shared dsh core as a profile bundle: the first patch layer of base-backed profiles, inserting core rows ov — packages/bundle/base
+- @deepseek-ai/dsh-experimental-agent-team-profile 0.2.1-rc.3 — Agent Teams collaboration, tools, and Web UI in one experimental bundle — packages/experimental/agent-team-profile
+- @deepseek-ai/dsh-experimental-auto-review 0.2.1-rc.3 — Per-tool LLM authorization review for the DeepSeek Harness Auto permission preset — packages/experimental/auto-review
+- @deepseek-ai/dsh-experimental-badge-skill-bundle 0.2.1-rc.3 — Let agents add a “powered by dsh” badge to documents, pull requests, and other outputs. — packages/experimental/badge-skill-bundle
+- @deepseek-ai/dsh-experimental-cot-translation-bundle 0.2.1-rc.3 — Experimental machine translation of expanded reasoning — packages/experimental/cot-translation-bundle
+- @deepseek-ai/dsh-experimental-inspector-profile 0.2.1-rc.3 — Optional Web bundle for raw Session logs and Chat node inspection — packages/experimental/inspector-profile
+- @deepseek-ai/dsh-experimental-plugin-market-bundle 0.2.1-rc.3 — Experimental custom plugin markets: a Discover tab that browses and installs bundles from plugin market indexe — packages/experimental/plugin-market-bundle
+- @deepseek-ai/dsh-experimental-ralph-bundle 0.2.1-rc.3 — Run explicitly requested repeated work with fresh agents. — packages/experimental/ralph-bundle
+- @deepseek-ai/dsh-experimental-session-search 0.2.1-rc.3 — Give Agents tools to search and read earlier sessions from the current workspace. — packages/experimental/session-search
+- @deepseek-ai/dsh-experimental-session-titles-bundle 0.2.1-rc.3 — Refresh session titles as new human prompts arrive. — packages/experimental/session-titles-bundle
+- @deepseek-ai/dsh-experimental-terminal-bundle 0.2.1-rc.3 — Keep shell processes alive across tool calls. — packages/experimental/terminal-bundle
+- @deepseek-ai/dsh-experimental-tool-worktree 0.2.1-rc.3 — Model tool that creates and enters a new Git worktree — packages/experimental/tool-worktree
+- @deepseek-ai/dsh-experimental-voice-input-bundle 0.2.1-rc.3 — Experimental voice input with local SenseVoice; downloads its runtime on first use — packages/experimental/voice-input-bundle
+- @deepseek-ai/dsh-headless 0.2.1-rc.3 — The dsh one-shot bundle: a direct core Agent/Session runner over dsh-base with no Host, HTTP, or browser layer — packages/bundle/headless
+- @deepseek-ai/dsh-sdk-app 0.2.1-rc.3 — The dsh SDK profile bundle: stdio JSON-RPC serving and process lifecycle over dsh-base — packages/bundle/sdk-app
+- @deepseek-ai/dsh-sdk-minimal 0.2.1-rc.3 — The standalone minimal SDK profile bundle: JSON-RPC, one DeepSeek adapter, persistent shell, and JSONL session — packages/bundle/sdk-minimal
+- @deepseek-ai/dsh-subagent-claude-code 0.2.1-rc.3 — One-shot Claude Code subagent provider over the official Agent SDK — packages/subagent/subagent-claude-code
+- @deepseek-ai/dsh-subagent-codex 0.2.1-rc.3 — One-shot Codex subagent provider over the official app-server protocol — packages/subagent/subagent-codex
+- @deepseek-ai/dsh-web-app 0.2.1-rc.3 — The dsh browser-surface bundle: the web patch layer over dsh-base plus the runtime glue plugin (frontend dist  — packages/bundle/web-app
+- @fixture/bundle 0.0.1 — Registry description for the fixture bundle. — apps/web/tests/fixtures/plugins/fixture-bundle
+- @fixture/input-extension 0.0.1 —  — apps/web/tests/fixtures/plugins/fixture-input-extension
+- @fixture/live-client 0.0.1 —  — apps/web/tests/fixtures/plugins/fixture-live-client
+- @local/demo-mcp 1.0.0 —  — packages/preset/agent-preset/skills/cordis-plugin-development/templates/mcp
+- @local/my-decoration 1.0.0 —  — packages/preset/agent-preset/skills/cordis-plugin-development/templates/decoration

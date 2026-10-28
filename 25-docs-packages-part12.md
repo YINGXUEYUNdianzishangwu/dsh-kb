@@ -1,0 +1,35 @@
+# docs: packages (830 篇, part 12/26)
+
+- @deepseek-ai/dsh-experimental-terminal-bundle — description: "Keep shell processes alive across tool calls." — packages/experimental/terminal-bundle/README.md
+- @deepseek-ai/dsh-experimental-terminal-bundle — description: "让 shell 进程在多次工具调用之间保持运行。" — packages/experimental/terminal-bundle/README.zh.md
+- @deepseek-ai/dsh-experimental-tool-agent-team — description: "Nine tools that let the model create, message, and coordinate teammates, for — packages/experimental/tool-agent-team/README.md
+- @deepseek-ai/dsh-experimental-tool-agent-team — description: "九个让模型创建、发消息与协调 teammate 的工具，供挂载实验性 Team 插件的组合使用。" — packages/experimental/tool-agent-team/README.zh.md
+- @deepseek-ai/dsh-tool-ralph — description: "The model-facing ralph tool: a fixed foreground fresh-agent loop toward one  — packages/experimental/tool-ralph/README.md
+- @deepseek-ai/dsh-tool-ralph — description: "面向模型的 ralph 工具：固定前台 agent loop（智能体循环），让全新 agent 围绕一个不可变目标迭代，供选择或配置此类迭代的用户与维护 — packages/experimental/tool-ralph/README.zh.md
+- @deepseek-ai/dsh-tool-session-query — description: "Workspace-authorized model-facing session history tools for agent developers — packages/experimental/tool-session-query/README.md
+- @deepseek-ai/dsh-tool-session-query — description: "面向 agent（智能体）开发者与维护者、经工作区授权且面向模型的会话历史工具，用于选择、配置或排查既往会话搜索、追踪与事件读取。" — packages/experimental/tool-session-query/README.zh.md
+- @deepseek-ai/dsh-tool-terminal — description: "Six model-facing persistent terminal tools with owner isolation, bounded res — packages/experimental/tool-terminal/README.md
+- @deepseek-ai/dsh-tool-terminal — description: "面向需要跨调用终端状态的 agent（智能体）的 6 个持久终端工具，带所有者隔离、有界结果与可选后台发送。" — packages/experimental/tool-terminal/README.zh.md
+- @deepseek-ai/dsh-experimental-tool-worktree — description: "Model tool that creates a new local Git worktree and changes the current Ses — packages/experimental/tool-worktree/README.md
+- @deepseek-ai/dsh-experimental-tool-worktree — description: "创建新的本地 Git 工作树并改变当前 Session 目录的模型工具。" — packages/experimental/tool-worktree/README.zh.md
+- @deepseek-ai/dsh-experimental-translator — description: "Machine translation through anonymous endpoints or optional native Flash, wi — packages/experimental/translator/README.md
+- @deepseek-ai/dsh-experimental-translator — description: "通过匿名端点或可选的原生 Flash 进行机器翻译，并复用 Session 中保存的结果。" — packages/experimental/translator/README.zh.md
+- @deepseek-ai/dsh-experimental-voice-input-bundle — description: "Enable experimental speech input from the plugin manager." — packages/experimental/voice-input-bundle/README.md
+- @deepseek-ai/dsh-experimental-voice-input-bundle — description: "从插件管理页启用实验性语音输入。" — packages/experimental/voice-input-bundle/README.zh.md
+- @deepseek-ai/dsh-webhook — description: "Webhook rule runtime for maintainers registering trusted external-event poli — packages/experimental/webhook/README.md
+- @deepseek-ai/dsh-webhook — description: "面向注册可信外部事件策略并创建 Workspace 会话的维护者，说明 webhook 规则运行时。" — packages/experimental/webhook/README.zh.md
+- @deepseek-ai/dsh-webhook-github — description: "Signed GitHub webhook adapter for deployments routing authenticated JSON eve — packages/experimental/webhook-github/README.md
+- @deepseek-ai/dsh-webhook-github — description: "面向把已认证 JSON 事件路由到 webhook 运行时的部署，说明带签名的 GitHub webhook 适配器。" — packages/experimental/webhook-github/README.zh.md
+- `@deepseek-ai/dsh-experimental-webworker-packer` — description: "Browser-worker VFS image packaging for maintainers building or debugging the — packages/experimental/webworker-packer/README.md
+- `@deepseek-ai/dsh-experimental-webworker-packer` — description: "面向构建或排查实验性预览部署的维护者，说明浏览器 worker 虚拟文件系统（VFS）镜像打包。" — packages/experimental/webworker-packer/README.zh.md
+- `@deepseek-ai/dsh-experimental-webworker-runtime` — description: "Browser-worker harness hosting for maintainers building or debugging the exp — packages/experimental/webworker-runtime/README.md
+- `@deepseek-ai/dsh-experimental-webworker-runtime` — description: "面向构建或排查实验性 Web 预览运行时的维护者，说明浏览器 worker 中的 harness 托管。" — packages/experimental/webworker-runtime/README.zh.md
+- Preview tour — name: preview-tour — packages/experimental/webworker-runtime/tests/fixtures/vfs-example/workspace/.agents/skills/preview-tour/SKILL.md
+- Preview Workspace — This deterministic workspace is bundled with the browser-only preview. — packages/experimental/webworker-runtime/tests/fixtures/vfs-example/workspace/PREVIEW.md
+- @deepseek-ai/dsh-experimental-worktree — description: "Create and enter a retained Git worktree under the calling Session file poli — packages/experimental/worktree/README.md
+- @deepseek-ai/dsh-experimental-worktree — description: "按照调用 Session 的文件策略创建并进入保留的 Git 工作树。" — packages/experimental/worktree/README.zh.md
+- @deepseek-ai/dsh-cordis-client-runner — description: "Browser half of dynamic Cordis packages for users and maintainers choosing,  — packages/extensions/cordis-client-runner/README.md
+- @deepseek-ai/dsh-cordis-client-runner — description: "动态 Cordis 包的浏览器半说明，供选择、组合或排查页面如何应答运行请求并装载浏览器半代码的用户与维护者阅读。" — packages/extensions/cordis-client-runner/README.zh.md
+- @deepseek-ai/dsh-cordis-host-runner — description: "Host half of dynamic Cordis packages for agents and maintainers choosing, co — packages/extensions/cordis-host-runner/README.md
+- @deepseek-ai/dsh-cordis-host-runner — description: "动态 Cordis 包的 host 半说明，供选择、组合或排查注册表、沙箱与运行往返的 agent（智能体）与维护者阅读。" — packages/extensions/cordis-host-runner/README.zh.md
+- packages/extensions — description: "Runtime API inspection, process-local runners, and historical Cordis cards." — packages/extensions/README.md

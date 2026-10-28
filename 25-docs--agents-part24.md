@@ -1,0 +1,40 @@
+# docs: .agents (2583 篇, part 24/66)
+
+- Agent Note: Web todo 展示——快照副作用通道 + 两个渲染面 — Status: implemented — .agents/notes/archived/feature/2026-07-23-web-todo-display.zh.md
+- Agent Note: TUI prompt themes compose mutable plugin values — Status: implemented — .agents/notes/archived/feature/2026-07-24-configurable-tui-prompt-theme.md
+- Agent Note: TUI 提示符主题组合可变的插件值 — Status: implemented — .agents/notes/archived/feature/2026-07-24-configurable-tui-prompt-theme.zh.md
+- Agent Note: Model-facing session query tools — Status: implemented — .agents/notes/archived/feature/2026-07-24-model-facing-session-query-tools.md
+- Agent Note: 面向模型的会话查询工具 — Status: implemented — .agents/notes/archived/feature/2026-07-24-model-facing-session-query-tools.zh.md
+- Agent Note: New Session clears onto the empty-state launch — Status: implemented — .agents/notes/archived/feature/2026-07-24-new-session-clears-to-empty-state.md
+- Agent Note: New Session clears onto the empty-state launch — Status: implemented — .agents/notes/archived/feature/2026-07-24-new-session-clears-to-empty-state.zh.md
+- Agent Note: Per-provider request retry policies — Status: implemented — .agents/notes/archived/feature/2026-07-24-provider-retry-policies.md
+- Agent Note: 逐提供方请求重试策略 — Status: implemented — .agents/notes/archived/feature/2026-07-24-provider-retry-policies.zh.md
+- Agent Note: TUI QuestionDialog renders options across multiple lines — Status: implemented — .agents/notes/archived/feature/2026-07-24-tui-question-dialog-multiline.md
+- Agent Note: TUI QuestionDialog 以多行方式渲染选项 — Status: implemented — .agents/notes/archived/feature/2026-07-24-tui-question-dialog-multiline.zh.md
+- Agent Note: TUI shell-prompt editor — Status: implemented — .agents/notes/archived/feature/2026-07-24-tui-shell-prompt-editor.md
+- Agent Note: TUI shell 提示符编辑器 — Status: implemented — .agents/notes/archived/feature/2026-07-24-tui-shell-prompt-editor.zh.md
+- Agent Note: Session model selection in the Web composer — Status: implemented — .agents/notes/archived/feature/2026-07-24-web-session-model-selector.md
+- Agent Note: Web 对话输入区的会话模型选择 — Status: implemented — .agents/notes/archived/feature/2026-07-24-web-session-model-selector.zh.md
+- Agent Note: Session List Browsing and Manual Workspace Order — Status: implemented — .agents/notes/archived/feature/2026-07-25-session-list-browsing-and-manual-order.md
+- Agent Note: Session 列表浏览与 Workspace 手动排序 — Status: implemented — .agents/notes/archived/feature/2026-07-25-session-list-browsing-and-manual-order.zh.md
+- Agent Note: In-process subagent policy inheritance — the child starts under the parent's sandbox override — Status: implemented — .agents/notes/archived/feature/2026-07-25-subagent-policy-inheritance.md
+- Agent Note: 进程内 subagent 策略继承——子 agent 在父级的沙箱覆盖项下启动 — Status: implemented — .agents/notes/archived/feature/2026-07-25-subagent-policy-inheritance.zh.md
+- Agent Note: Workspace UI Complete Product Flow — Status: implemented — .agents/notes/archived/feature/2026-07-25-workspace-ui-product-flow.md
+- Agent Note: Workspace UI 完整产品动线 — Status: implemented — .agents/notes/archived/feature/2026-07-25-workspace-ui-product-flow.zh.md
+- Agent Note: Code Mode sub-calls in the trajectory and waterfall views — Status: implemented — .agents/notes/archived/feature/2026-07-26-code-mode-trajectory-waterfall-spans.md
+- Agent Note: trajectory 与 waterfall 视图中的 Code Mode 子调用 — Status: implemented — .agents/notes/archived/feature/2026-07-26-code-mode-trajectory-waterfall-spans.zh.md
+- Agent Note: PTC mode chat rendering — sub-calls as native rows under the parent — Status: implemented — .agents/notes/archived/feature/2026-07-26-ptc-chat-subcall-rows.md
+- Agent Note: PTC mode 的 chat 渲染——子调用作为父行之下的原生行 — Status: implemented — .agents/notes/archived/feature/2026-07-26-ptc-chat-subcall-rows.zh.md
+- Agent Note: Spilling the durable copy of PTC mode sub-dispatch results — Status: implemented — .agents/notes/archived/feature/2026-07-26-ptc-dispatch-log-spill.md
+- Agent Note: 将 PTC mode 子分发结果的持久化副本纳入 spill 机制 — Status: implemented — .agents/notes/archived/feature/2026-07-26-ptc-dispatch-log-spill.zh.md
+- Agent Note: PTC mode UI foundation — run_code description and native-parity dispatch logging — Status: implemented — .agents/notes/archived/feature/2026-07-26-ptc-dispatch-ui-foundation.md
+- Agent Note: PTC mode 的 UI 基础——run_code 的 description 参数，以及与原生同等保真的分发日志 — Status: implemented — .agents/notes/archived/feature/2026-07-26-ptc-dispatch-ui-foundation.zh.md
+- Agent Note: PTC mode live dispatch lifecycle and native-contract parallelism — Status: implemented — .agents/notes/archived/feature/2026-07-26-ptc-live-parallel-dispatch.md
+- Agent Note: PTC mode 的实时分发生命周期，以及复用原生约定的并行执行 — Status: implemented — .agents/notes/archived/feature/2026-07-26-ptc-live-parallel-dispatch.zh.md
+- Agent Note: Allow several `in_progress` todos at once — Status: implemented — .agents/notes/archived/feature/2026-07-26-todo-parallel-in-progress.md
+- Agent Note: 允许同时存在多个 `in_progress` todo — Status: implemented — .agents/notes/archived/feature/2026-07-26-todo-parallel-in-progress.zh.md
+- Agent Note: Assistant timing line renders after the message body — Status: implemented — .agents/notes/archived/feature/2026-07-27-assistant-timing-header-trailing.md
+- Agent Note: Assistant timing line renders after the message body — Status: implemented — .agents/notes/archived/feature/2026-07-27-assistant-timing-header-trailing.zh.md
+- Agent Note: Native workspace directory picker — Status: implemented — .agents/notes/archived/feature/2026-07-27-native-workspace-directory-picker.md
+- Agent Note: 原生工作区目录选择器 — Status: implemented — .agents/notes/archived/feature/2026-07-27-native-workspace-directory-picker.zh.md
+- Agent Note: Skill catalog hot refresh — Status: implemented — .agents/notes/archived/feature/2026-07-27-skill-catalog-hot-refresh.md

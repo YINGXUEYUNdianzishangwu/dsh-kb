@@ -1,0 +1,45 @@
+# docs: snapshots (276 篇, part 2/6)
+
+- snapshots/session/deepseek-messages-system-prompt/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/deepseek-messages-system-prompt/system-prompt.expected.md
+- snapshots/session/deepseek-protocol-system-prompt/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/deepseek-protocol-system-prompt/system-prompt.expected.md
+- snapshots/session/dynamic-tool-prompt-updates/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/dynamic-tool-prompt-updates/system-prompt.expected.md
+- snapshots/session/dynamic-tool-updates/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/dynamic-tool-updates/system-prompt.expected.md
+- snapshots/session/foreground-confinement-timeout/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/foreground-confinement-timeout/system-prompt.expected.md
+- snapshots/session/fs-glob-sampling/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/fs-glob-sampling/system-prompt.expected.md
+- snapshots/session/lsp-definition/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/lsp-definition/system-prompt.expected.md
+- snapshots/session/mcp-resources/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/mcp-resources/system-prompt.expected.md
+- snapshots/session/mcp-resources-ptc/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/mcp-resources-ptc/system-prompt.expected.md
+- snapshots/session/model-switch-notice/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/model-switch-notice/system-prompt.expected.md
+- snapshots/session/multimodal-spill-ends/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/multimodal-spill-ends/system-prompt.expected.md
+- snapshots/session/office-authoring-checker/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/office-authoring-checker/system-prompt.expected.md
+- snapshots/session/office-progressive-native/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/office-progressive-native/system-prompt.expected.md
+- snapshots/session/office-progressive-ptc/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/office-progressive-ptc/system-prompt.expected.md
+- snapshots/session/office-sidecar-instructions/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/office-sidecar-instructions/system-prompt.expected.md
+- snapshots/session/office-skills/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/office-skills/system-prompt.expected.md
+- snapshots/session/persistent-pwsh-tool-turn/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/persistent-pwsh-tool-turn/system-prompt.expected.md
+- snapshots/session/pi-ai-conversation-updates/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/pi-ai-conversation-updates/system-prompt.expected.md
+- snapshots/session/plugin-manager/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/plugin-manager/system-prompt.expected.md
+- snapshots/session/plugin-manager-mcp/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/plugin-manager-mcp/system-prompt.expected.md
+- snapshots/session/product-subagent-both/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/product-subagent-both/system-prompt.expected.md
+- snapshots/session/product-subagent-codex/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/product-subagent-codex/system-prompt.expected.md
+- snapshots/session/product-subagent-result-diagnostic/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/product-subagent-result-diagnostic/system-prompt.expected.md
+- snapshots/session/provider-cwd/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/provider-cwd/system-prompt.expected.md
+- snapshots/session/ptc-node-read-only/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/ptc-node-read-only/system-prompt.expected.md
+- snapshots/session/ptc-node-workspace/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/ptc-node-workspace/system-prompt.expected.md
+- snapshots/session/ptc-persistent/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/ptc-persistent/system-prompt.expected.md
+- snapshots/session/ptc-policy-change/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/ptc-policy-change/system-prompt.expected.md
+- snapshots/session/ptc-python-turn/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/ptc-python-turn/system-prompt.expected.md
+- snapshots/session/ptc-read-image/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/ptc-read-image/system-prompt.expected.md
+- snapshots/session/ptc-turn/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/ptc-turn/system-prompt.expected.md
+- snapshots/session/ptc-workspace-context/workspace/AGENTS.md — Workspace snapshot root instruction. — snapshots/session/ptc-workspace-context/workspace/AGENTS.md
+- snapshots/session/ptc-workspace-context/workspace/nested/AGENTS.md — When asked for the Code Mode workspace handshake, answer exactly CODEMODECONTEXTOK and not — snapshots/session/ptc-workspace-context/workspace/nested/AGENTS.md
+- snapshots/session/pty-tools-sandbox-backend/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/pty-tools-sandbox-backend/system-prompt.expected.md
+- snapshots/session/pwsh-tool-turn/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/pwsh-tool-turn/system-prompt.expected.md
+- snapshots/session/ralph-loop/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/ralph-loop/system-prompt.1.expected.md
+- snapshots/session/ralph-loop/system-prompt.2.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/ralph-loop/system-prompt.2.expected.md
+- snapshots/session/ralph-loop/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/ralph-loop/system-prompt.expected.md
+- snapshots/session/read-image/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/read-image/system-prompt.expected.md
+- snapshots/session/session-query-spill/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/session-query-spill/system-prompt.expected.md
+- snapshots/session/skill-load/workspace/.dsh/skills/model-only-skill/SKILL.md — name: model-only-skill — snapshots/session/skill-load/workspace/.dsh/skills/model-only-skill/SKILL.md
+- snapshots/session/skill-load/workspace/.dsh/skills/snapshot-skill/SKILL.md — name: snapshot-skill — snapshots/session/skill-load/workspace/.dsh/skills/snapshot-skill/SKILL.md
+- snapshots/session/skill-load/workspace/.dsh/skills/user-only-skill/SKILL.md — name: user-only-skill — snapshots/session/skill-load/workspace/.dsh/skills/user-only-skill/SKILL.md

@@ -1,0 +1,39 @@
+# docs: .agents (2583 篇, part 43/66)
+
+- Agent Note: Remove the stdio and Echo agents — Status: implemented — .agents/notes/archived/simplification/2026-07-20-remove-stdio-and-echo-agents.md
+- Agent Note: 移除 stdio 和 Echo agent — Status: implemented — .agents/notes/archived/simplification/2026-07-20-remove-stdio-and-echo-agents.zh.md
+- Agent Note: Retire the readline front door and the repl-agent example — Status: implemented — .agents/notes/archived/simplification/2026-07-20-retire-readline-front-door.md
+- Agent Note: 退役 readline 前端与 repl-agent 示例 — Status: implemented — .agents/notes/archived/simplification/2026-07-20-retire-readline-front-door.zh.md
+- Agent Note: Project injected content verbatim, dropping the XML envelopes — Status: implemented — .agents/notes/archived/simplification/2026-07-20-unwrap-injected-content-envelopes.md
+- Agent Note: 注入内容逐字投影，去除 XML 封套 — Status: implemented — .agents/notes/archived/simplification/2026-07-20-unwrap-injected-content-envelopes.zh.md
+- Agent Note: Drop the TUI `/cancel` slash command — Status: implemented — .agents/notes/archived/simplification/2026-07-21-tui-remove-cancel-command.md
+- Agent Note: Drop the TUI `/cancel` slash command — Status: implemented — .agents/notes/archived/simplification/2026-07-21-tui-remove-cancel-command.zh.md
+- Agent Note: Ship the TUI without `todo_write`; keep it a one-line opt-in — Status: implemented — .agents/notes/archived/simplification/2026-07-21-tui-todo-write-opt-in.md
+- Agent Note: Ship the TUI without `todo_write`; keep it a one-line opt-in — Status: implemented — .agents/notes/archived/simplification/2026-07-21-tui-todo-write-opt-in.zh.md
+- Agent Note: Plan-specific collaboration state — Status: implemented — .agents/notes/archived/simplification/2026-07-22-plan-specific-collaboration-state.md
+- Agent Note: plan 专用协作状态 — Status: implemented — .agents/notes/archived/simplification/2026-07-22-plan-specific-collaboration-state.zh.md
+- Agent Note: TUI titles come from the session-title service — Status: implemented — .agents/notes/archived/simplification/2026-07-22-tui-titles-from-session-title-service.md
+- Agent Note: TUI 标题来自 session-title 服务 — Status: implemented — .agents/notes/archived/simplification/2026-07-22-tui-titles-from-session-title-service.zh.md
+- Agent Note: Collapse live persistence into one flush controller — Status: implemented — .agents/notes/archived/simplification/2026-07-23-collapse-persistence-flush-state.md
+- Agent Note: 将实时持久化归并到单个刷写控制器 — Status: implemented — .agents/notes/archived/simplification/2026-07-23-collapse-persistence-flush-state.zh.md
+- Agent Note: Collapse agent-loop events around the observable state machine — Status: implemented — .agents/notes/archived/simplification/2026-07-24-agent-loop-observable-state-machine.md
+- Agent Note: 围绕可观察状态机收拢 agent loop 事件 — Status: implemented — .agents/notes/archived/simplification/2026-07-24-agent-loop-observable-state-machine.zh.md
+- Agent Note: Consolidate gate scripts on already-present deps and builtins — Status: implemented — .agents/notes/archived/simplification/2026-07-26-consolidate-gate-scripts-on-existing-deps.md
+- Agent Note: 把门禁脚本统一到已有依赖与内置模块上 — Status: implemented — .agents/notes/archived/simplification/2026-07-26-consolidate-gate-scripts-on-existing-deps.zh.md
+- Agent Note: Replace the hand-rolled SSE parser in llm-deepseek with eventsource-parser — Status: implemented — .agents/notes/archived/simplification/2026-07-26-eventsource-parser-for-deepseek-sse.md
+- Agent Note: 用 eventsource-parser 替换 llm-deepseek 中手写的 SSE 解析器 — Status: implemented — .agents/notes/archived/simplification/2026-07-26-eventsource-parser-for-deepseek-sse.zh.md
+- Agent Note: Merge subagent control into the subagent service — Status: implemented — .agents/notes/archived/simplification/2026-07-26-merge-subagent-control-service.md
+- Agent Note: 将 subagent 控制合并到 subagent 服务 — Status: implemented — .agents/notes/archived/simplification/2026-07-26-merge-subagent-control-service.zh.md
+- Agent Note: Replace tool-web's regex HTML-to-markdown converter with turndown — Status: implemented — .agents/notes/archived/simplification/2026-07-26-turndown-for-tool-web-html-markdown.md
+- Agent Note: 用 turndown 替换 tool-web 的正则 HTML 转 markdown 转换器 — Status: implemented — .agents/notes/archived/simplification/2026-07-26-turndown-for-tool-web-html-markdown.zh.md
+- Agent Note: Copyable TUI transcript without gutter bars — Status: implemented — .agents/notes/archived/simplification/2026-07-27-copyable-transcript-no-gutter-bar.md
+- Agent Note: 无 gutter bar 的可复制 TUI transcript — Status: implemented — .agents/notes/archived/simplification/2026-07-27-copyable-transcript-no-gutter-bar.zh.md
+- Agent Note: Intent-named subagent continuation operations — Status: implemented — .agents/notes/archived/simplification/2026-07-27-intent-named-subagent-continuation-operations.md
+- Agent Note: 按意图命名的 subagent 继续执行操作 — Status: implemented — .agents/notes/archived/simplification/2026-07-27-intent-named-subagent-continuation-operations.zh.md
+- Agent Note: Request-error retry action — Status: implemented — .agents/notes/archived/simplification/2026-07-27-request-error-retry-action.md
+- Agent Note: 请求错误重试动作 — Status: implemented — .agents/notes/archived/simplification/2026-07-27-request-error-retry-action.zh.md
+- Agent Note: Local JSON tree renderer — Status: implemented — .agents/notes/archived/simplification/2026-07-28-local-json-tree-renderer.md
+- Agent Note: 本地 JSON 树渲染器 — Status: implemented — .agents/notes/archived/simplification/2026-07-28-local-json-tree-renderer.zh.md
+- Agent Note: One shared base config with per-surface overlays — Status: implemented — .agents/notes/archived/simplification/2026-07-29-shared-base-config-overlays.md
+- Agent Note: 一份共享 base 配置加各 surface 的 overlay — Status: implemented — .agents/notes/archived/simplification/2026-07-29-shared-base-config-overlays.zh.md
+- Agent Note: Simplify Web image input version one — Status: implemented — .agents/notes/archived/simplification/2026-07-29-simplify-web-image-input-v1.md

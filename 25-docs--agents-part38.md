@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 38/66)
+
+- Agent Note: Dependabot 版本更新采用 30 天冷却期 — Status: implemented — .agents/notes/archived/process/2026-07-27-dependabot-version-updates.zh.md
+- Agent Note: Report an explicit repository change scope — Status: implemented — .agents/notes/archived/process/2026-07-27-explicit-change-scope-report.md
+- Agent Note: 显式报告仓库变更范围 — Status: implemented — .agents/notes/archived/process/2026-07-27-explicit-change-scope-report.zh.md
+- Agent Note: Wine-run Windows blocking gates on Linux runners — Status: implemented — .agents/notes/archived/process/2026-07-27-wine-windows-gates-experiment.md
+- Agent Note: 在 Linux runner 上用 Wine 运行 Windows 阻断门禁 — Status: implemented — .agents/notes/archived/process/2026-07-27-wine-windows-gates-experiment.zh.md
+- Agent Note: Per-subsystem generated cordis-surface regions — Status: implemented — .agents/notes/archived/process/2026-07-28-per-subsystem-cordis-surface-regions.md
+- Agent Note: 按子系统生成的 cordis-surface 区块 — Status: implemented — .agents/notes/archived/process/2026-07-28-per-subsystem-cordis-surface-regions.zh.md
+- Agent Note: Oxlint as the repository linter — Status: implemented — .agents/notes/archived/process/2026-07-29-oxlint-linter.md
+- Agent Note: 使用 Oxlint 作为仓库 linter — Status: implemented — .agents/notes/archived/process/2026-07-29-oxlint-linter.zh.md
+- Agent Note: verify-cordis-config gates source-plane resolution of configured plugins — Status: implemented — .agents/notes/archived/process/2026-07-30-cordis-config-source-plane-resolution-gate.md
+- Agent Note: verify-cordis-config 对配置中插件的源码面解析实施门禁 — Status: implemented — .agents/notes/archived/process/2026-07-30-cordis-config-source-plane-resolution-gate.zh.md
+- Agent Note: Independent CI consumer build — Status: implemented — .agents/notes/archived/process/2026-07-30-independent-ci-consumer-build.md
+- Agent Note: CI 消费方独立构建 — Status: implemented — .agents/notes/archived/process/2026-07-30-independent-ci-consumer-build.zh.md
+- Agent Note: Coverage-exempt heavy suites — Status: implemented — .agents/notes/archived/process/2026-07-31-coverage-exempt-heavy-suites.md
+- Agent Note: 覆盖率豁免重型套件 — Status: implemented — .agents/notes/archived/process/2026-07-31-coverage-exempt-heavy-suites.zh.md
+- Agent Note: the installer adopts an existing checkout into the managed layout — Status: implemented — .agents/notes/archived/process/2026-07-31-installer-adopts-existing-checkout.md
+- Agent Note: 安装器把已有检出接管进受管布局 — Status: implemented — .agents/notes/archived/process/2026-07-31-installer-adopts-existing-checkout.zh.md
+- Agent Note: Package-anchored subsystem pages and thin group READMEs — Status: implemented — .agents/notes/archived/process/2026-08-03-package-anchored-subsystem-pages.md
+- Agent Note: 按包锚定的子系统页面与精简的分组 README — Status: implemented — .agents/notes/archived/process/2026-08-03-package-anchored-subsystem-pages.zh.md
+- Agent Note: Forward-only PR-to-Issue status projection — Status: implemented — .agents/notes/archived/process/2026-08-04-forward-only-pr-issue-status.md
+- Agent Note: PR 到 Issue 的状态仅向前投射 — Status: implemented — .agents/notes/archived/process/2026-08-04-forward-only-pr-issue-status.zh.md
+- Agent Note: Exact uncovered locations on coverage failure — Status: implemented — .agents/notes/archived/process/2026-08-06-coverage-uncovered-locations.md
+- Agent Note: 覆盖率未达标时输出精确未覆盖位置 — Status: implemented — .agents/notes/archived/process/2026-08-06-coverage-uncovered-locations.zh.md
+- Agent Note: The documentation site carries its own images — Status: implemented — .agents/notes/archived/process/2026-08-06-doc-site-carries-its-images.md
+- Agent Note: 文档站点自带图片 — Status: implemented — .agents/notes/archived/process/2026-08-06-doc-site-carries-its-images.zh.md
+- Agent Note: In-repository Landlock release — Status: implemented — .agents/notes/archived/process/2026-08-06-in-repository-landlock-release.md
+- Agent Note: 仓库内 Landlock 发布 — Status: implemented — .agents/notes/archived/process/2026-08-06-in-repository-landlock-release.zh.md
+- Agent Note: Ordered Build for API Remotes Generated Contracts — Status: implemented — .agents/notes/archived/process/2026-08-08-api-remotes-generated-contract-build.md
+- Agent Note: API Remotes 生成约定的有序构建 — Status: implemented — .agents/notes/archived/process/2026-08-08-api-remotes-generated-contract-build.zh.md
+- Agent Note: Automatically compose translation pairing records — Status: implemented — .agents/notes/archived/process/2026-08-08-automatic-translation-pairing-merges.md
+- Agent Note: 自动组合翻译配对记录 — Status: implemented — .agents/notes/archived/process/2026-08-08-automatic-translation-pairing-merges.zh.md
+- Agent Note: Browser GIFs preserve one evidence chain — Status: implemented — .agents/notes/archived/process/2026-08-08-browser-gif-evidence-chain.md
+- Agent Note: 浏览器 GIF 保留单一证据链 — Status: implemented — .agents/notes/archived/process/2026-08-08-browser-gif-evidence-chain.zh.md
+- Agent Note: Lightweight routine documentation translation — Status: implemented — .agents/notes/archived/process/2026-08-08-lightweight-routine-documentation-translation.md
+- Agent Note: 轻量化日常文档翻译 — Status: implemented — .agents/notes/archived/process/2026-08-08-lightweight-routine-documentation-translation.zh.md
+- Agent Note: Review-driven Issue lifecycle triggers — Status: implemented — .agents/notes/archived/process/2026-08-08-review-driven-issue-lifecycle-triggers.md
+- Agent Note: 由评审驱动的 Issue 生命周期触发器 — Status: implemented — .agents/notes/archived/process/2026-08-08-review-driven-issue-lifecycle-triggers.zh.md
+- Agent Note: Standardize Chinese contract terminology on 约定 — Status: implemented — .agents/notes/archived/process/2026-08-09-chinese-contract-terminology.md
+- Agent Note: 将中文 contract 术语统一为「约定」 — Status: implemented — .agents/notes/archived/process/2026-08-09-chinese-contract-terminology.zh.md
+- Agent Note: Cite committed artifacts, never design-session ordinals — Status: implemented — .agents/notes/archived/process/2026-08-09-committed-artifact-citations.md

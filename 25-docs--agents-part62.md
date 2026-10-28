@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 62/66)
+
+- Agent Note: Explicit Schedule time-zone boundary — Status: implemented — .agents/notes/implemented/simplification/2026-08-09-explicit-schedule-time-zone.md
+- Agent Note: 显式 Schedule 时区边界 — Status: implemented — .agents/notes/implemented/simplification/2026-08-09-explicit-schedule-time-zone.zh.md
+- Agent Note: JSONL-only first-party Session persistence — Status: implemented — .agents/notes/implemented/simplification/2026-08-30-jsonl-only-session-persistence.md
+- Agent Note: JSONL-only first-party Session persistence — Status: implemented — .agents/notes/implemented/simplification/2026-08-30-jsonl-only-session-persistence.zh.md
+- Agent Note: Keep Loader mutations non-transactional — Status: implemented — .agents/notes/implemented/simplification/2026-09-09-nontransactional-loader.md
+- Agent Note: 保持 Loader 更改非事务化 — Status: implemented — .agents/notes/implemented/simplification/2026-09-09-nontransactional-loader.zh.md
+- Agent Note: Remove the E2B execution providers — Status: implemented — .agents/notes/implemented/simplification/2026-09-11-remove-e2b-providers.md
+- Agent Note: 移除 E2B 执行提供方 — Status: implemented — .agents/notes/implemented/simplification/2026-09-11-remove-e2b-providers.zh.md
+- Agent Note: Unified subagent activations — Status: implemented — .agents/notes/implemented/simplification/2026-09-17-unified-subagent-activations.md
+- Agent Note: 统一 subagent activation — Status: implemented — .agents/notes/implemented/simplification/2026-09-17-unified-subagent-activations.zh.md
+- Agent Note: Remove the Desktop production profile core-package cleanup — Status: implemented — .agents/notes/implemented/simplification/2026-09-19-remove-desktop-profile-core-cleanup.md
+- Agent Note: 移除 Desktop 生产启动前的核心包清理 — Status: implemented — .agents/notes/implemented/simplification/2026-09-19-remove-desktop-profile-core-cleanup.zh.md
+- Agent Note: Team messages use the target inbox — Status: implemented — .agents/notes/implemented/simplification/2026-09-26-team-direct-inbox.md
+- Agent Note: Team 消息使用目标 inbox — Status: implemented — .agents/notes/implemented/simplification/2026-09-26-team-direct-inbox.zh.md
+- Agent Note: One tool invocation form per agent — Status: implemented — .agents/notes/implemented/simplification/2026-10-05-native-or-ptc-presentation.md
+- Agent Note: 每个 agent 使用一种工具调用形式 — Status: implemented — .agents/notes/implemented/simplification/2026-10-05-native-or-ptc-presentation.zh.md
+- Agent Note: Preset-owned subagent composition — Status: implemented — .agents/notes/implemented/simplification/2026-10-09-preset-owned-subagent-composition.md
+- Agent Note: 由 preset 拥有 subagent 组装 — Status: implemented — .agents/notes/implemented/simplification/2026-10-09-preset-owned-subagent-composition.zh.md
+- Agent Note: Real-API e2e in CI against the external DeepSeek API — Status: implemented — .agents/notes/implemented/testing/2026-06-19-real-api-e2e-ci.md
+- Agent Note: 在 CI 中对外部 DeepSeek API 运行真实 API e2e 测试 — Status: implemented — .agents/notes/implemented/testing/2026-06-19-real-api-e2e-ci.zh.md
+- Agent Note: Keyless browser e2e lane for the web GUI — Status: implemented — .agents/notes/implemented/testing/2026-07-24-web-gui-browser-e2e-lane.md
+- Agent Note: Web GUI 的无密钥浏览器 e2e 车道 — Status: implemented — .agents/notes/implemented/testing/2026-07-24-web-gui-browser-e2e-lane.zh.md
+- Agent Note: Frame-coalesced reasoning-chunk publication and browser stress validation — Status: implemented — .agents/notes/implemented/testing/2026-08-03-opt-in-reasoning-chunk-browser-stress.md
+- Agent Note: 推理（reasoning）分片的逐帧累计发布与浏览器压力验证 — Status: implemented — .agents/notes/implemented/testing/2026-08-03-opt-in-reasoning-chunk-browser-stress.zh.md
+- Agent Note: Installed-wheel Python runtime pull-request validation — Status: implemented — .agents/notes/implemented/testing/2026-08-23-installed-python-wheel-black-box-ci.md
+- Agent Note: 安装后 Python wheel 黑盒拉取请求验证 — Status: implemented — .agents/notes/implemented/testing/2026-08-23-installed-python-wheel-black-box-ci.zh.md
+- Agent Note: Session-log snapshot corpus — Status: implemented — .agents/notes/implemented/testing/2026-08-24-session-log-snapshot-corpus.md
+- Agent Note: Session-log snapshot corpus — Status: implemented — .agents/notes/implemented/testing/2026-08-24-session-log-snapshot-corpus.zh.md
+- Agent Note: Required CI performance gate for opening large Sessions — Status: implemented — .agents/notes/implemented/testing/2026-09-04-session-open-performance-gate.md
+- Agent Note: 打开大型 Session 的必需 CI 性能 gate — Status: implemented — .agents/notes/implemented/testing/2026-09-04-session-open-performance-gate.zh.md
+- Agent Note: Performance baselines for tool-heavy backend continuation — Status: implemented — .agents/notes/implemented/testing/2026-09-06-backend-continuation-performance.md
+- Agent Note: 工具密集后端续聊的性能基线 — Status: implemented — .agents/notes/implemented/testing/2026-09-06-backend-continuation-performance.zh.md
+- Agent Note: Frontend large-session performance budgets — Status: implemented — .agents/notes/implemented/testing/2026-09-06-frontend-performance-budgets.md
+- Agent Note: 前端长 Session 性能预算 — Status: implemented — .agents/notes/implemented/testing/2026-09-06-frontend-performance-budgets.zh.md
+- Agent Note: Qualify Desktop update downloads with an isolated local server — Status: implemented — .agents/notes/implemented/testing/2026-09-10-desktop-local-updater-qualification.md
+- Agent Note: 使用隔离的本地服务器验证 Desktop 更新下载 — Status: implemented — .agents/notes/implemented/testing/2026-09-10-desktop-local-updater-qualification.zh.md
+- Agent Note: Preserve installed Desktop update evidence across restarts — Status: implemented — .agents/notes/implemented/testing/2026-09-14-desktop-installed-update-journal.md
+- Agent Note: 跨重启保留已安装 Desktop 的更新证据 — Status: implemented — .agents/notes/implemented/testing/2026-09-14-desktop-installed-update-journal.zh.md
+- Agent Note: Isolate installed-update materials from releases and user data — Status: implemented — .agents/notes/implemented/testing/2026-09-14-desktop-installed-update-materials.md
+- Agent Note: 将安装版更新物料与发布及用户数据隔离 — Status: implemented — .agents/notes/implemented/testing/2026-09-14-desktop-installed-update-materials.zh.md

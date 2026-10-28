@@ -1,0 +1,35 @@
+# docs: packages (830 篇, part 11/26)
+
+- @deepseek-ai/dsh-hook-protocol — description: "The shared hook rules behind the Claude Code and Codex bridges — what a hook — packages/experimental/hook-protocol/README.md
+- @deepseek-ai/dsh-hook-protocol — description: "Claude Code 与 Codex 桥接背后的共享钩子规则——钩子能做什么、运行时会发生什么——供 hooks 子系统的用户与维护者阅读。" — packages/experimental/hook-protocol/README.zh.md
+- @deepseek-ai/dsh-hooks-claude-code — description: "Run your existing Claude Code hooks.json or settings hook config during agen — packages/experimental/hooks-claude-code/README.md
+- @deepseek-ai/dsh-hooks-claude-code — description: "在 agent 运行期间使用你现有的 Claude Code hooks.json 或 settings 钩子配置——阻塞提示词与工具、附加上下文或强制 — packages/experimental/hooks-claude-code/README.zh.md
+- @deepseek-ai/dsh-hooks-codex — description: "Run your existing Codex hooks.json hook config during agent runs — block pro — packages/experimental/hooks-codex/README.md
+- @deepseek-ai/dsh-hooks-codex — description: "在 agent 运行期间使用你现有的 Codex hooks.json 钩子配置——阻塞提示词与工具、附加上下文或强制继续——供本桥接的用户与维护者阅读 — packages/experimental/hooks-codex/README.zh.md
+- @deepseek-ai/dsh-experimental-inspector — description: "Experimental Chrome DevTools inspection for Host and browser Client Cordis r — packages/experimental/inspector/README.md
+- @deepseek-ai/dsh-experimental-inspector — description: "面向 Host 与浏览器 Client Cordis 运行时的实验性 Chrome DevTools 检查，包括 Console 求值、Sources、 — packages/experimental/inspector/README.zh.md
+- @deepseek-ai/dsh-experimental-inspector-profile — description: "Optional Web profile layer for raw Session logs and Chat node inspection." — packages/experimental/inspector-profile/README.md
+- @deepseek-ai/dsh-experimental-inspector-profile — description: "用于原始 Session 日志与聊天节点检查的可选 Web profile 层。" — packages/experimental/inspector-profile/README.zh.md
+- @deepseek-ai/dsh-experimental-plugin-market-bundle — description: "Enable experimental custom plugin markets from the plugin manager." — packages/experimental/plugin-market-bundle/README.md
+- @deepseek-ai/dsh-experimental-plugin-market-bundle — description: "从插件管理页启用实验性的自定义插件市场。" — packages/experimental/plugin-market-bundle/README.zh.md
+- @deepseek-ai/dsh-experimental-ptc-runtime-python — description: "Run Python model code in fresh CPython processes under the shared filesystem — packages/experimental/ptc-runtime-python/README.md
+- @deepseek-ai/dsh-experimental-ptc-runtime-python — description: "在共享文件系统沙箱下以全新 CPython 进程运行 Python 模型代码，提供可配置的资源预算与异步宿主绑定。" — packages/experimental/ptc-runtime-python/README.zh.md
+- @deepseek-ai/dsh-experimental-ralph-bundle — description: "Run explicitly requested repeated work with fresh agents." — packages/experimental/ralph-bundle/README.md
+- @deepseek-ai/dsh-experimental-ralph-bundle — description: "使用新智能体执行用户明确要求的循环工作。" — packages/experimental/ralph-bundle/README.zh.md
+- packages/experimental — description: "The experimental group map: publicly installable pre-stable prototypes." — packages/experimental/README.md
+- packages/experimental — description: "实验组地图：可公开安装的预稳定原型。" — packages/experimental/README.zh.md
+- @deepseek-ai/dsh-experimental-session-inspector — description: "Virtualized raw Session log and Chat group/node tables with streamed delta r — packages/experimental/session-inspector/README.md
+- @deepseek-ai/dsh-experimental-session-inspector — description: "原始 Session 日志与 Chat group/node 虚拟表格，支持流式分片子行、分页和更新高亮。" — packages/experimental/session-inspector/README.zh.md
+- @deepseek-ai/dsh-experimental-session-search — description: "Give Agents tools to search and read earlier sessions from the current works — packages/experimental/session-search/README.md
+- @deepseek-ai/dsh-experimental-session-search — description: "为智能体提供搜索和读取当前工作区历史会话的工具。" — packages/experimental/session-search/README.zh.md
+- @deepseek-ai/dsh-session-title-all-prompts-llm — description: "All-messages LLM session-title provider for users and maintainers choosing a — packages/experimental/session-title-all-prompts-llm/README.md
+- @deepseek-ai/dsh-session-title-all-prompts-llm — description: "面向用户与维护者的全消息 LLM（大语言模型）会话标题提供方说明，用于选择标题策略或排查自动标题生成。" — packages/experimental/session-title-all-prompts-llm/README.zh.md
+- @deepseek-ai/dsh-experimental-session-titles-bundle — description: "Refresh session titles as new human prompts arrive." — packages/experimental/session-titles-bundle/README.md
+- @deepseek-ai/dsh-experimental-session-titles-bundle — description: "在收到新的用户提示时更新会话标题。" — packages/experimental/session-titles-bundle/README.zh.md
+- dsh Badge — Add the official “powered by dsh” badge without recreating or restyling it. — packages/experimental/skill-badge/assets/dsh-badge.md
+- @deepseek-ai/dsh-skill-badge — description: "The bundled 'powered by dsh' badge skill for users and maintainers enabling, — packages/experimental/skill-badge/README.md
+- @deepseek-ai/dsh-skill-badge — description: "随包附带的「powered by dsh」徽章 skill（技能），供启用、使用或排查该可选徽章提供方的用户与维护者阅读。" — packages/experimental/skill-badge/README.zh.md
+- @deepseek-ai/dsh-experimental-speech-to-text — description: "Named experimental transcription providers and cancellation ownership." — packages/experimental/speech-to-text/README.md
+- @deepseek-ai/dsh-experimental-speech-to-text — description: "具名实验性转写 Provider 及取消操作的所有权。" — packages/experimental/speech-to-text/README.zh.md
+- @deepseek-ai/dsh-experimental-speech-to-text-sensevoice — description: "Prepare and operate a local CPU SenseVoice worker on demand." — packages/experimental/speech-to-text-sensevoice/README.md
+- @deepseek-ai/dsh-experimental-speech-to-text-sensevoice — description: "按需准备和运行本地 CPU SenseVoice 工作进程。" — packages/experimental/speech-to-text-sensevoice/README.zh.md

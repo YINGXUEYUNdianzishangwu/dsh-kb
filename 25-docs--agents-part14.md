@@ -1,0 +1,38 @@
+# docs: .agents (2583 篇, part 14/66)
+
+- Agent Note: 将 bwrap 与宿主 PID 命名空间隔离 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-bwrap-private-pid-namespace.zh.md
+- Agent Note: Persist Web user preferences through Host settings — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-host-backed-web-preferences.md
+- Agent Note: 通过 Host settings 持久化 Web 用户偏好 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-host-backed-web-preferences.zh.md
+- Agent Note: `list_agents` uses `ready` for resumable children — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-list-agents-residency-vocabulary.md
+- Agent Note: `list_agents` uses `ready` for resumable children — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-list-agents-residency-vocabulary.zh.md
+- Agent Note: onboarding takeover chrome moves into the step — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-onboarding-step-owned-takeover-chrome.md
+- Agent Note: 首次使用引导的接管界面框架移入步骤自身 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-onboarding-step-owned-takeover-chrome.zh.md
+- Agent Note: narrow-viewport plan chip click-area regression test — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-plan-narrow-viewport-regression.md
+- Agent Note: 窄视口下 Plan chip 点击区域回归测试 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-plan-narrow-viewport-regression.zh.md
+- Agent Note: Recoverable provider credential lifecycle — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-provider-credential-lifecycle.md
+- Agent Note: 可恢复的提供方凭据生命周期 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-provider-credential-lifecycle.zh.md
+- Agent Note: Reader scroll attribution through the observed-top ledger — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-reader-scroll-attribution-observed-top-ledger.md
+- Agent Note: 经由 observed-top ledger 的读者滚动归因 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-reader-scroll-attribution-observed-top-ledger.zh.md
+- Agent Note: unpriced surface replacements fold neutrally — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-token-surface-unpriced-replace-compatibility.md
+- Agent Note: 未计价的表层替换以中性方式折叠 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-06-token-surface-unpriced-replace-compatibility.zh.md
+- Agent Note: Latch wake-ups that land in the cancel-convergence window — Status: implemented — .agents/notes/archived/bug-fix/2026-08-07-cancel-convergence-wake-latch.md
+- Agent Note: 锁存取消收敛窗口内到达的唤醒请求 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-07-cancel-convergence-wake-latch.zh.md
+- Agent Note: PTC mode collapses the executor, not just the wire — Status: implemented — .agents/notes/archived/bug-fix/2026-08-07-ptc-executor-collapse.md
+- Agent Note: PTC mode 塌缩执行器而非仅通告面 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-07-ptc-executor-collapse.zh.md
+- Agent Note: Broken presets are roster rows, not gaps — Status: implemented — .agents/notes/archived/bug-fix/2026-08-09-broken-preset-roster-rows.md
+- Agent Note: 损坏的 preset 是名单行，不是空缺 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-09-broken-preset-roster-rows.zh.md
+- Agent Note: Filesystem absence is an observation and guarded creation never replaces — Status: implemented — .agents/notes/archived/bug-fix/2026-08-09-filesystem-absence-observation.md
+- Agent Note: 文件系统中的缺失是一种观测，带防护的创建绝不执行替换 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-09-filesystem-absence-observation.zh.md
+- Agent Note: Child agents join their parent's preset composition — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-child-agents-join-their-parent-preset.md
+- Agent Note: Child agents join their parent's preset composition — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-child-agents-join-their-parent-preset.zh.md
+- Agent Note: The minimal preset owns the complete RL agent composition — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-minimal-preset-owns-rl-composition.md
+- Agent Note: minimal preset 拥有完整的 RL agent 组合 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-minimal-preset-owns-rl-composition.zh.md
+- Agent Note: Pre-Plugin Theme Bootstrap — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-pre-plugin-theme-bootstrap.md
+- Agent Note: 插件激活前的主题引导 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-pre-plugin-theme-bootstrap.zh.md
+- Agent Note: The session-row identity guard covers the preset — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-session-row-identity-covers-the-preset.md
+- Agent Note: 会话行的标识判定纳入 preset — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-session-row-identity-covers-the-preset.zh.md
+- Agent Note: The slash catalog follows a blank session's preset switch — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-slash-catalog-follows-preset-switch.md
+- Agent Note: 斜杠目录跟随空会话的 preset 切换 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-slash-catalog-follows-preset-switch.zh.md
+- Agent Note: One selection rule keeps subagent output past an empty terminal message — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-subagent-empty-terminal-message-output.md
+- Agent Note: 用同一条选取规则在空终止消息后保留子代理输出 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-subagent-empty-terminal-message-output.zh.md
+- Agent Note: Web favicon follows the color scheme — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-web-favicon-dark-mode.md

@@ -1,0 +1,44 @@
+# docs: .agents (2583 篇, part 59/66)
+
+- Agent Note: In-history system prompt replacement for cache-stable prompt changes — Status: implemented — .agents/notes/implemented/feature/2026-09-02-in-history-system-prompt-replacement.md
+- Agent Note: 历史内系统提示词替换，实现缓存稳定的提示词变更 — Status: implemented — .agents/notes/implemented/feature/2026-09-02-in-history-system-prompt-replacement.zh.md
+- Agent Note: Right Sidebar docking infrastructure — Status: implemented — .agents/notes/implemented/feature/2026-09-04-right-sidebar-docking-infrastructure.md
+- Agent Note: 右侧 Sidebar 停靠基础设施 — Status: implemented — .agents/notes/implemented/feature/2026-09-04-right-sidebar-docking-infrastructure.zh.md
+- Agent Note: DeepSeek through the Anthropic Messages protocol — Status: implemented — .agents/notes/implemented/feature/2026-09-07-deepseek-messages-adapter.md
+- Agent Note: 通过 Anthropic Messages 协议调用 DeepSeek — Status: implemented — .agents/notes/implemented/feature/2026-09-07-deepseek-messages-adapter.zh.md
+- Agent Note: Present declares workspace source files — Status: implemented — .agents/notes/implemented/feature/2026-09-08-present-workspace-source-files.md
+- Agent Note：Present 声明交付工作区源文件 — Status: implemented — .agents/notes/implemented/feature/2026-09-08-present-workspace-source-files.zh.md
+- Agent Note: Web sidebar terminals — Status: implemented — .agents/notes/implemented/feature/2026-09-09-web-sidebar-terminal.md
+- Agent Note: Web sidebar terminals — Status: implemented — .agents/notes/implemented/feature/2026-09-09-web-sidebar-terminal.zh.md
+- Agent Note: Explicit worktree creation — Status: implemented — .agents/notes/implemented/feature/2026-09-13-explicit-worktree-creation.md
+- Agent Note: 显式创建工作树 — Status: implemented — .agents/notes/implemented/feature/2026-09-13-explicit-worktree-creation.zh.md
+- Agent Note: Desktop primary runtime — Status: implemented — .agents/notes/implemented/feature/2026-09-14-desktop-primary-runtime.md
+- Agent Note: Desktop 第一方 Runtime — Status: implemented — .agents/notes/implemented/feature/2026-09-14-desktop-primary-runtime.zh.md
+- Agent Note: Two-hour reclamation of unattended browser terminals — Status: implemented — .agents/notes/implemented/feature/2026-09-14-unattended-browser-terminal-reclamation.md
+- Agent Note: Two-hour reclamation of unattended browser terminals — Status: implemented — .agents/notes/implemented/feature/2026-09-14-unattended-browser-terminal-reclamation.zh.md
+- Agent Note: Browser Excel preview with saved formula results — Status: implemented — .agents/notes/implemented/feature/2026-09-16-browser-excel-preview.md
+- Agent Note: 显示已保存公式结果的浏览器 Excel 预览 — Status: implemented — .agents/notes/implemented/feature/2026-09-16-browser-excel-preview.zh.md
+- Agent Note: Sandboxed Sidebar browser — Status: implemented — .agents/notes/implemented/feature/2026-09-16-sidebar-browser.md
+- Agent Note: 沙箱化 Sidebar 浏览器 — Status: implemented — .agents/notes/implemented/feature/2026-09-16-sidebar-browser.zh.md
+- Agent Note: On-demand watching and automatic refresh for Sidebar previews and file trees — Status: implemented — .agents/notes/implemented/feature/2026-09-17-sidebar-file-and-directory-auto-refresh.md
+- Agent Note: Sidebar 文件预览与目录树按需监听并自动刷新 — Status: implemented — .agents/notes/implemented/feature/2026-09-17-sidebar-file-and-directory-auto-refresh.zh.md
+- Agent Note: Windows sandbox delete confinement: mandatory integrity plus an ambient-delete deny — Status: implemented — .agents/notes/implemented/feature/2026-09-19-windows-acl-mandatory-integrity-confinement.md
+- Agent Note: Windows 沙箱删除约束：强制完整性 + 环境性删除拒绝 — Status: implemented — .agents/notes/implemented/feature/2026-09-19-windows-acl-mandatory-integrity-confinement.zh.md
+- Agent Note: Config schema dump validation policy — Status: implemented — .agents/notes/implemented/feature/2026-09-20-config-schema-dump-validation-policy.md
+- Agent Note: 配置 schema dump 的验证策略 — Status: implemented — .agents/notes/implemented/feature/2026-09-20-config-schema-dump-validation-policy.zh.md
+- Agent Note: Retained Desktop browser webviews — Status: implemented — .agents/notes/implemented/feature/2026-09-20-desktop-browser-webview.md
+- Agent Note: 保持页面实例的 Desktop 浏览器 webview — Status: implemented — .agents/notes/implemented/feature/2026-09-20-desktop-browser-webview.zh.md
+- Agent Note: Independent spawn preset selection and restoration — Status: implemented — .agents/notes/implemented/feature/2026-09-20-spawn-agent-preset-selection.md
+- Agent Note: 独立 spawn preset 选择与恢复 — Status: implemented — .agents/notes/implemented/feature/2026-09-20-spawn-agent-preset-selection.zh.md
+- Agent Note: Archiving a Session with running work — Status: implemented — .agents/notes/implemented/feature/2026-09-21-archive-stops-running-session-work.md
+- Agent Note：归档仍有工作在跑的 Session — 状态：implemented — .agents/notes/implemented/feature/2026-09-21-archive-stops-running-session-work.zh.md
+- Agent Note: Archive admission reads the stored tasks — Status: implemented — .agents/notes/implemented/feature/2026-09-22-archive-admission-reads-stored-tasks.md
+- Agent Note：归档准入读取已存储的任务 — 状态：implemented — .agents/notes/implemented/feature/2026-09-22-archive-admission-reads-stored-tasks.zh.md
+- Agent Note: Auto review asks the user after a denial — Status: implemented — .agents/notes/implemented/feature/2026-09-24-auto-review-user-approval-fallback.md
+- Agent Note: Auto review 拒绝后请求用户审批 — Status: implemented — .agents/notes/implemented/feature/2026-09-24-auto-review-user-approval-fallback.zh.md
+- Agent Note: Session Inspector data ownership and navigation — Status: implemented — .agents/notes/implemented/feature/2026-09-24-session-inspector.md
+- Agent Note: Session Inspector 数据所有权与导航 — Status: implemented — .agents/notes/implemented/feature/2026-09-24-session-inspector.zh.md
+- Agent Note: Plugin market Discover page and index reader — Status: implemented — .agents/notes/implemented/feature/2026-10-02-plugin-market-discover.md
+- Agent Note: 插件市场发现页与索引读取器 — Status: implemented — .agents/notes/implemented/feature/2026-10-02-plugin-market-discover.zh.md
+- Agent Note: Plugin market index format — Status: implemented — .agents/notes/implemented/feature/2026-10-02-plugin-market-index-format.md
+- Agent Note: 插件市场索引格式 — Status: implemented — .agents/notes/implemented/feature/2026-10-02-plugin-market-index-format.zh.md

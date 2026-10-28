@@ -1,0 +1,45 @@
+# docs: .agents (2583 篇, part 35/66)
+
+- Agent Note: 重复沙箱模式无需审批 — Status: implemented — .agents/notes/archived/feature/2026-09-16-sandbox-same-mode.zh.md
+- Agent Note: Unified model input controls — Status: implemented — .agents/notes/archived/feature/2026-09-16-unified-model-input-controls.md
+- Agent Note：统一模型输入控件 — Status: implemented — .agents/notes/archived/feature/2026-09-16-unified-model-input-controls.zh.md
+- Agent Note: Windows desktop caption and application menus — Status: implemented — .agents/notes/archived/feature/2026-09-16-windows-desktop-titlebar.md
+- Agent Note: Windows 桌面顶栏与应用菜单 — Status: implemented — .agents/notes/archived/feature/2026-09-16-windows-desktop-titlebar.zh.md
+- Agent Note: Shared developer-tool settings — Status: implemented — .agents/notes/archived/feature/2026-09-17-developer-tools-settings.md
+- Agent Note: 共享开发者工具设置 — Status: implemented — .agents/notes/archived/feature/2026-09-17-developer-tools-settings.zh.md
+- Agent Note: Persistent plan cards and sidebar reading — Status: implemented — .agents/notes/archived/feature/2026-09-17-persistent-plan-cards.md
+- Agent Note: 常驻计划卡片与侧边栏阅读 — Status: implemented — .agents/notes/archived/feature/2026-09-17-persistent-plan-cards.zh.md
+- Agent Note: Account quota top-up action — Status: implemented — .agents/notes/archived/feature/2026-09-18-account-quota-top-up.md
+- Agent Note: 账号欠费充值操作 — Status: implemented — .agents/notes/archived/feature/2026-09-18-account-quota-top-up.zh.md
+- Agent Note: Session pinning and the sidebar archived filter — Status: implemented — .agents/notes/archived/feature/2026-09-18-session-pin-and-sidebar-archive.md
+- Agent Note: Session pinning and the sidebar archived filter — Status: implemented — .agents/notes/archived/feature/2026-09-18-session-pin-and-sidebar-archive.zh.md
+- Agent Note: First-use default Workspace — Status: implemented — .agents/notes/archived/feature/2026-09-20-default-workspace.md
+- Agent Note: 首次使用默认 Workspace — Status: implemented — .agents/notes/archived/feature/2026-09-20-default-workspace.zh.md
+- Agent Note: Developer tools default on after preference resolution — Status: implemented — .agents/notes/archived/feature/2026-09-20-developer-tools-default-on.md
+- Agent Note: 偏好解析后默认开启开发者工具 — Status: implemented — .agents/notes/archived/feature/2026-09-20-developer-tools-default-on.zh.md
+- Agent Note: One keyboard-focus colour for every control — Status: implemented — .agents/notes/archived/feature/2026-09-20-focus-ring-brand-primary.md
+- Agent Note：所有控件共用一个键盘焦点颜色 — Status: implemented — .agents/notes/archived/feature/2026-09-20-focus-ring-brand-primary.zh.md
+- Agent Note: Background job completion wakes are unbounded by default — Status: implemented — .agents/notes/archived/feature/2026-09-22-unbounded-completion-wakes-by-default.md
+- Agent Note: Background job completion wakes are unbounded by default — Status: implemented — .agents/notes/archived/feature/2026-09-22-unbounded-completion-wakes-by-default.zh.md
+- Agent Note: Language-neutral default Workspace naming — Status: implemented — .agents/notes/archived/feature/2026-09-23-language-neutral-default-workspace-naming.md
+- Agent Note: 语言中立的默认工作区命名 — Status: implemented — .agents/notes/archived/feature/2026-09-23-language-neutral-default-workspace-naming.zh.md
+- Agent Note: One-minute fixed-rate floor — Status: implemented — .agents/notes/archived/feature/2026-09-24-fixed-rate-floor-one-minute.md
+- Agent Note: 固定速率下限改为 1 分钟 — Status: implemented — .agents/notes/archived/feature/2026-09-24-fixed-rate-floor-one-minute.zh.md
+- Agent Note: Desktop-installed CLI runtime — Status: implemented — .agents/notes/archived/feature/2026-09-27-desktop-cli-runtime.md
+- Agent Note: Desktop 安装的 CLI 运行时 — Status: implemented — .agents/notes/archived/feature/2026-09-27-desktop-cli-runtime.zh.md
+- Agent Note: Desktop reads the login-shell environment once — Status: implemented — .agents/notes/archived/feature/2026-09-28-desktop-login-shell-environment.md
+- Agent Note: Desktop 一次性读取登录 shell 环境 — Status: implemented — .agents/notes/archived/feature/2026-09-28-desktop-login-shell-environment.zh.md
+- Agent Note: Doc-sync enforcement — Status: implemented — .agents/notes/archived/process/2026-06-11-doc-sync-enforcement.md
+- Agent Note: Doc-sync 强制 — Status: implemented — .agents/notes/archived/process/2026-06-11-doc-sync-enforcement.zh.md
+- Agent Note: Mechanical quality gates over prose guidelines — Status: implemented — .agents/notes/archived/process/2026-06-11-quality-gates.md
+- Agent Note: 以机械质量门禁取代行文约定 — Status: implemented — .agents/notes/archived/process/2026-06-11-quality-gates.zh.md
+- Agent Note: tsdown for JS bundling instead of dumble — Status: implemented — .agents/notes/archived/process/2026-06-11-tsdown-over-dumble.md
+- Agent Note: 使用 tsdown 替代 dumble 进行 JS 打包 — Status: implemented — .agents/notes/archived/process/2026-06-11-tsdown-over-dumble.zh.md
+- Agent Note: Vendor Cordis as source, not npm dependencies — Status: implemented — .agents/notes/archived/process/2026-06-11-vendor-cordis-as-source.md
+- Agent Note: 将 Cordis 以源码形式收录，而非作为 NPM 依赖 — Status: implemented — .agents/notes/archived/process/2026-06-11-vendor-cordis-as-source.zh.md
+- Agent Note: pnpm as the package manager instead of Yarn 4 — Status: implemented — .agents/notes/archived/process/2026-06-16-pnpm-over-yarn.md
+- Agent Note: 使用 pnpm 替代 Yarn 4 作为包管理器 — Status: implemented — .agents/notes/archived/process/2026-06-16-pnpm-over-yarn.zh.md
+- Agent Note: TSC-first build and one compiler ownership — Status: implemented — .agents/notes/archived/process/2026-06-17-ts-build-config.md
+- Agent Note: TSC 优先构建与编译器单一归属 — Status: implemented — .agents/notes/archived/process/2026-06-17-ts-build-config.zh.md
+- Agent Note: Markdown cross-link validity linting — Status: implemented — .agents/notes/archived/process/2026-06-18-markdown-cross-link-lint.md
+- Agent Note: Markdown 交叉链接有效性检查 — Status: implemented — .agents/notes/archived/process/2026-06-18-markdown-cross-link-lint.zh.md

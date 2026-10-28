@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 1/66)
+
+- AGENTS.md — Agent Notes — Agent Notes are effectively RFCs written by agents: durable proposals and decision records — .agents/notes/AGENTS.md
+- AGENTS.md — Archived Agent Notes — Archived Agent Note triplets under the kind directories are frozen historical snapshots, n — .agents/notes/archived/AGENTS.md
+- Agent Note: Provider-neutral content-block vocabulary owned by dsh-llm — Status: implemented — .agents/notes/archived/architecture/2026-06-11-content-block-vocabulary.md
+- Agent Note: 由 dsh-llm 拥有的提供方无关内容块词汇 — Status: implemented — .agents/notes/archived/architecture/2026-06-11-content-block-vocabulary.zh.md
+- Agent Note: Custom typed tool-schema DSL instead of schemastery — Status: implemented — .agents/notes/archived/architecture/2026-06-11-custom-schema-dsl.md
+- Agent Note: 使用自定义类型化工具 schema DSL 替代 schemastery — Status: implemented — .agents/notes/archived/architecture/2026-06-11-custom-schema-dsl.zh.md
+- Agent Note: Microkernel — extension via Cordis event taxonomy, one concrete loop — Status: implemented — .agents/notes/archived/architecture/2026-06-11-microkernel-event-taxonomy.md
+- Agent Note: 微内核——通过 Cordis 事件分类体系实现扩展，唯一具体循环 — Status: implemented — .agents/notes/archived/architecture/2026-06-11-microkernel-event-taxonomy.zh.md
+- Agent Note: Runtime arg validation at the model boundary — Status: implemented — .agents/notes/archived/architecture/2026-06-11-runtime-arg-validation.md
+- Agent Note: 模型边界处的运行时参数校验 — Status: implemented — .agents/notes/archived/architecture/2026-06-11-runtime-arg-validation.zh.md
+- Agent Note: Structured error taxonomy — Status: implemented — .agents/notes/archived/architecture/2026-06-11-structured-error-taxonomy.md
+- Agent Note: 结构化错误分类体系 — Status: implemented — .agents/notes/archived/architecture/2026-06-11-structured-error-taxonomy.zh.md
+- Agent Note: Tool schemas are part of the system-prompt assembly — Status: implemented — .agents/notes/archived/architecture/2026-06-11-tool-schemas-in-prompt-assembly.md
+- Agent Note: 工具 schema 是系统提示词组装的一部分 — Status: implemented — .agents/notes/archived/architecture/2026-06-11-tool-schemas-in-prompt-assembly.zh.md
+- Agent Note: Session persistence as an abstract service over the existing `SessionEvent` — Status: implemented — .agents/notes/archived/architecture/2026-06-14-session-persistence.md
+- Agent Note: 会话持久化作为基于现有 `SessionEvent` 的抽象服务 — Status: implemented — .agents/notes/archived/architecture/2026-06-14-session-persistence.zh.md
+- Agent Note: Every session event is enclosed in a turn — Status: implemented — .agents/notes/archived/architecture/2026-06-15-turn-enclosure-invariant.md
+- Agent Note: 每个会话事件都封闭在一个轮次内 — Status: implemented — .agents/notes/archived/architecture/2026-06-15-turn-enclosure-invariant.zh.md
+- Agent Note: Filesystem capability seam — ctx.fs, local backend, and model-facing filesystem tools — Status: implemented — .agents/notes/archived/architecture/2026-06-17-filesystem-capability-seam.md
+- Agent Note: 文件系统能力 seam——ctx.fs、本地后端与面向模型的文件系统工具 — Status: implemented — .agents/notes/archived/architecture/2026-06-17-filesystem-capability-seam.zh.md
+- Agent Note: Agent lifecycle and ownership contracts — Status: implemented — .agents/notes/archived/architecture/2026-06-18-agent-lifecycle-and-ownership-contracts.md
+- Agent Note: Agent 生命周期与所有权约定 — Status: implemented — .agents/notes/archived/architecture/2026-06-18-agent-lifecycle-and-ownership-contracts.zh.md
+- Agent Note: Shared persistence write coordinator — Status: implemented — .agents/notes/archived/architecture/2026-06-18-shared-persistence-write-coordinator.md
+- Agent Note: 共享持久化写入协调器 — Status: implemented — .agents/notes/archived/architecture/2026-06-18-shared-persistence-write-coordinator.zh.md
+- Agent Note: Branded IDs everywhere they belong — Status: implemented — .agents/notes/archived/architecture/2026-06-20-branded-ids.md
+- Agent Note: 在所有应有之处使用 branded ID — Status: implemented — .agents/notes/archived/architecture/2026-06-20-branded-ids.zh.md
+- Agent Note: Extract example apps into packages — Status: implemented — .agents/notes/archived/architecture/2026-06-20-extract-example-app-packages.md
+- Agent Note: 将示例应用提取为独立包 — Status: implemented — .agents/notes/archived/architecture/2026-06-20-extract-example-app-packages.zh.md
+- Agent Note: The background job runtime (`ctx.jobs`) and generic task control tools — Status: implemented — .agents/notes/archived/architecture/2026-06-20-generic-long-running-tool-runtime.md
+- Agent Note: 后台任务运行时（`ctx.jobs`）与通用任务控制工具 — Status: implemented — .agents/notes/archived/architecture/2026-06-20-generic-long-running-tool-runtime.zh.md
+- Agent Note: Reorganize packages into a modular hierarchy — Status: implemented — .agents/notes/archived/architecture/2026-06-20-package-hierarchy.md
+- Agent Note: 将包重组为模块化层级结构 — Status: implemented — .agents/notes/archived/architecture/2026-06-20-package-hierarchy.zh.md
+- Agent Note: Mandatory `User-Agent` attribution for provider requests — Status: implemented — .agents/notes/archived/architecture/2026-06-21-mandatory-app-attribution-headers.md
+- Agent Note: 对提供方请求强制携带 `User-Agent` 归属标识 — Status: implemented — .agents/notes/archived/architecture/2026-06-21-mandatory-app-attribution-headers.zh.md
+- Agent Note: Make `dsh-fs-observation-policy` an event-gate plugin, not a method interface — Status: implemented — .agents/notes/archived/architecture/2026-06-26-file-context-as-event-gate.md
+- Agent Note: 将 `dsh-fs-observation-policy` 改为事件门禁插件，而非方法接口 — Status: implemented — .agents/notes/archived/architecture/2026-06-26-file-context-as-event-gate.zh.md
+- Agent Note: stdin + extra env on the bash seam — Status: implemented — .agents/notes/archived/architecture/2026-06-30-bash-stdin-env-trusted-plugin-api.md
+- Agent Note: 在 bash seam 上支持 stdin 与额外 env — Status: implemented — .agents/notes/archived/architecture/2026-06-30-bash-stdin-env-trusted-plugin-api.zh.md
+- Agent Note: Resolve filesystem paths against the caller's session cwd — Status: implemented — .agents/notes/archived/architecture/2026-07-02-fs-per-session-cwd.md

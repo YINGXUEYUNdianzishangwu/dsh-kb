@@ -1,0 +1,67 @@
+# L1 域索引（先读这里；按域读 20-packages-*.md）
+
+| 域 | 包数 | 文件 |
+|---|---|---|
+| apps/cli | 1 | 20-packages-apps-cli.md |
+| apps/desktop | 1 | 20-packages-apps-desktop.md |
+| apps/desktop-host | 1 | 20-packages-apps-desktop-host.md |
+| apps/plugin-market-generator | 1 | 20-packages-apps-plugin-market-generator.md |
+| apps/web | 6 | 20-packages-apps-web.md |
+| benchmarks | 1 | 20-packages-benchmarks.md |
+| native | 6 | 20-packages-native.md |
+| packages/acp | 1 | 20-packages-packages-acp.md |
+| packages/api | 10 | 20-packages-packages-api.md |
+| packages/attachment | 2 | 20-packages-packages-attachment.md |
+| packages/boot | 6 | 20-packages-packages-boot.md |
+| packages/browser-use | 1 | 20-packages-packages-browser-use.md |
+| packages/bundle | 6 | 20-packages-packages-bundle.md |
+| packages/client | 67 | 20-packages-packages-client-part1.md 20-packages-packages-client-part2.md |
+| packages/compaction | 5 | 20-packages-packages-compaction.md |
+| packages/computer-use | 1 | 20-packages-packages-computer-use.md |
+| packages/context | 7 | 20-packages-packages-context.md |
+| packages/core | 8 | 20-packages-packages-core.md |
+| packages/credentials | 5 | 20-packages-packages-credentials.md |
+| packages/deliverables | 2 | 20-packages-packages-deliverables.md |
+| packages/document | 1 | 20-packages-packages-document.md |
+| packages/experimental | 47 | 20-packages-packages-experimental-part1.md 20-packages-packages-experimental-part2.md |
+| packages/extensions | 4 | 20-packages-packages-extensions.md |
+| packages/feedback | 2 | 20-packages-packages-feedback.md |
+| packages/fs | 7 | 20-packages-packages-fs.md |
+| packages/goal | 4 | 20-packages-packages-goal.md |
+| packages/guard | 2 | 20-packages-packages-guard.md |
+| packages/host | 9 | 20-packages-packages-host.md |
+| packages/identity | 1 | 20-packages-packages-identity.md |
+| packages/interaction | 5 | 20-packages-packages-interaction.md |
+| packages/jobs | 3 | 20-packages-packages-jobs.md |
+| packages/llm | 9 | 20-packages-packages-llm.md |
+| packages/lsp | 3 | 20-packages-packages-lsp.md |
+| packages/mcp | 2 | 20-packages-packages-mcp.md |
+| packages/plan | 1 | 20-packages-packages-plan.md |
+| packages/preset | 5 | 20-packages-packages-preset.md |
+| packages/ptc-runtime | 2 | 20-packages-packages-ptc-runtime.md |
+| packages/sandbox | 4 | 20-packages-packages-sandbox.md |
+| packages/schedule | 2 | 20-packages-packages-schedule.md |
+| packages/sdk | 3 | 20-packages-packages-sdk.md |
+| packages/session | 21 | 20-packages-packages-session.md |
+| packages/session-query | 3 | 20-packages-packages-session-query.md |
+| packages/settings | 1 | 20-packages-packages-settings.md |
+| packages/shell | 10 | 20-packages-packages-shell.md |
+| packages/skill | 5 | 20-packages-packages-skill.md |
+| packages/spill | 3 | 20-packages-packages-spill.md |
+| packages/ssh | 5 | 20-packages-packages-ssh.md |
+| packages/storage | 4 | 20-packages-packages-storage.md |
+| packages/subagent | 9 | 20-packages-packages-subagent.md |
+| packages/subprocess | 3 | 20-packages-packages-subprocess.md |
+| packages/telemetry | 1 | 20-packages-packages-telemetry.md |
+| packages/terminal | 2 | 20-packages-packages-terminal.md |
+| packages/test-support | 7 | 20-packages-packages-test-support.md |
+| packages/todo | 1 | 20-packages-packages-todo.md |
+| packages/typert | 11 | 20-packages-packages-typert.md |
+| packages/util | 18 | 20-packages-packages-util.md |
+| packages/web | 7 | 20-packages-packages-web.md |
+| packages/workflow | 3 | 20-packages-packages-workflow.md |
+| packages/workspace | 1 | 20-packages-packages-workspace.md |
+| python | 1 | 20-packages-python.md |
+| root | 1 | 20-packages-root.md |
+| vendor | 9 | 20-packages-vendor.md |
+| website | 1 | 20-packages-website.md |

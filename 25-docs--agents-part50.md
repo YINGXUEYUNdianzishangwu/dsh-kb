@@ -1,0 +1,40 @@
+# docs: .agents (2583 篇, part 50/66)
+
+- Agent Note: dsh 通过 tsx ESM 钩子源码启动 — Status: implemented — .agents/notes/implemented/architecture/2026-07-29-dsh-source-launch-tsx-esm.zh.md
+- Agent Note: Projected token usage and context occupancy — Status: implemented — .agents/notes/implemented/architecture/2026-07-29-projected-token-usage-and-request-context.md
+- Agent Note: token 用量投影与上下文占用率 — Status: implemented — .agents/notes/implemented/architecture/2026-07-29-projected-token-usage-and-request-context.zh.md
+- Agent Note: Terminal LLM stream failures — Status: implemented — .agents/notes/implemented/architecture/2026-07-29-terminal-llm-stream-failures.md
+- Agent Note: LLM 流的终止失败 — Status: implemented — .agents/notes/implemented/architecture/2026-07-29-terminal-llm-stream-failures.zh.md
+- Agent Note: credential boundaries, whole-snapshot requests, and atomic route registration — Status: implemented — .agents/notes/implemented/architecture/2026-07-30-credential-boundaries-and-atomic-registration.md
+- Agent Note: 凭据边界、按整份快照发起的请求与原子路由注册 — Status: implemented — .agents/notes/implemented/architecture/2026-07-30-credential-boundaries-and-atomic-registration.zh.md
+- Agent Note: Follow-up enqueue and owned run boundaries — Status: implemented — .agents/notes/implemented/architecture/2026-07-30-followup-enqueue-and-owned-runs.md
+- Agent Note: follow-up 入队与自有运行边界 — Status: implemented — .agents/notes/implemented/architecture/2026-07-30-followup-enqueue-and-owned-runs.zh.md
+- Agent Note: Goal-owned durable events — Status: implemented — .agents/notes/implemented/architecture/2026-07-31-goal-owned-durable-events.md
+- Agent Note: Goal 自有的持久事件 — Status: implemented — .agents/notes/implemented/architecture/2026-07-31-goal-owned-durable-events.zh.md
+- Agent Note: the ptc-runtime-python fd-3 frame protocol — Status: implemented — .agents/notes/implemented/architecture/2026-07-31-ptc-runtime-python-fd3-protocol.md
+- Agent Note: the ptc-runtime-python fd-3 frame protocol — Status: implemented — .agents/notes/implemented/architecture/2026-07-31-ptc-runtime-python-fd3-protocol.zh.md
+- Agent Note: Typert Gateway Targeted Method Calls — Status: implemented — .agents/notes/implemented/architecture/2026-08-02-typert-remote-method-calls.md
+- Agent Note: Typert Gateway 定向方法调用 — Status: implemented — .agents/notes/implemented/architecture/2026-08-02-typert-remote-method-calls.zh.md
+- Agent Note: One ordering for configuration sources, and what a discovered file may not decide — Status: implemented — .agents/notes/implemented/architecture/2026-08-04-configuration-source-ownership.md
+- Agent Note: 配置来源的统一顺序，以及被发现的文件不得决定什么 — Status: implemented — .agents/notes/implemented/architecture/2026-08-04-configuration-source-ownership.zh.md
+- Agent Note: Profile plugin bundles replace the fixed surface overlays — Status: implemented — .agents/notes/implemented/architecture/2026-08-05-profile-plugin-bundles.md
+- Agent Note: profile 插件组合包取代固定的表层 overlay — Status: implemented — .agents/notes/implemented/architecture/2026-08-05-profile-plugin-bundles.zh.md
+- Agent Note: Client Conversation business-node assembly and keyed Chat snapshots — Status: implemented — .agents/notes/implemented/architecture/2026-08-09-client-conversation-node-assembly.md
+- Agent Note: Client Conversation 业务节点组装与 Chat keyed snapshot — Status: implemented — .agents/notes/implemented/architecture/2026-08-09-client-conversation-node-assembly.zh.md
+- Agent Note: Cancelled streams finalize their delivered prefix — Status: implemented — .agents/notes/implemented/architecture/2026-08-10-cancelled-stream-prefix-finalize.md
+- Agent Note: 被取消的流定稿其已送达前缀 — Status: implemented — .agents/notes/implemented/architecture/2026-08-10-cancelled-stream-prefix-finalize.zh.md
+- Agent Note: Forked children preserve the parent request prefix — Status: implemented — .agents/notes/implemented/architecture/2026-08-10-fork-children-stay-one-shot.md
+- Agent Note: Fork child 保留 parent 请求前缀 — Status: implemented — .agents/notes/implemented/architecture/2026-08-10-fork-children-stay-one-shot.zh.md
+- Agent Note: What stays host-plane once presets own the agent plane — Status: implemented — .agents/notes/implemented/architecture/2026-08-10-host-plane-ownership-after-presets.md
+- Agent Note: What stays host-plane once presets own the agent plane — Status: implemented — .agents/notes/implemented/architecture/2026-08-10-host-plane-ownership-after-presets.zh.md
+- Agent Note: Session log versioning — one integer, an upgrade chain, and a per-event ignorable marker — Status: implemented — .agents/notes/implemented/architecture/2026-08-10-session-log-version-mechanism.md
+- Agent Note: Session log 版本机制：单调整数、升级器链、逐事件可忽略标记 — Status: implemented — .agents/notes/implemented/architecture/2026-08-10-session-log-version-mechanism.zh.md
+- Agent Note: Credential records and authorization flows — Status: implemented — .agents/notes/implemented/architecture/2026-08-13-credential-records-and-authorization-flows.md
+- Agent Note: 凭据记录与授权 flow — Status: implemented — .agents/notes/implemented/architecture/2026-08-13-credential-records-and-authorization-flows.zh.md
+- Agent Note: Client shell layering and dynamic package boundaries — Status: implemented — .agents/notes/implemented/architecture/2026-08-15-client-shells-and-dynamic-packages.md
+- Agent Note: 客户端壳分层与动态包边界 — Status: implemented — .agents/notes/implemented/architecture/2026-08-15-client-shells-and-dynamic-packages.zh.md
+- Agent Note: Session history, control state, and Remote event transport — Status: implemented — .agents/notes/implemented/architecture/2026-08-18-session-history-and-event-transport.md
+- Agent Note: 会话历史、控制状态与 Remote 事件传输 — Status: implemented — .agents/notes/implemented/architecture/2026-08-18-session-history-and-event-transport.zh.md
+- Agent Note: Session projections as a required reader seam — Status: implemented — .agents/notes/implemented/architecture/2026-08-19-session-projection-mandatory-seam.md
+- Agent Note: 会话投影作为必需的读取 seam — Status: implemented — .agents/notes/implemented/architecture/2026-08-19-session-projection-mandatory-seam.zh.md
+- Agent Note: Client Session, Conversation, and UI ownership layers — Status: implemented — .agents/notes/implemented/architecture/2026-08-20-client-session-conversation-ownership.md

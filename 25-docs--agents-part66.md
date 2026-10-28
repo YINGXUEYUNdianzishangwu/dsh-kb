@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 66/66)
+
+- Agent Note: 用 node:timers/promises 替代手写的可取消休眠 — Status: rejected — 实现（PR #679）证伪了行为等价前提：vitest 的假时钟不拦截 node:timers/promises，这次替换用确定性的快速测试换 — .agents/notes/rejected/simplification/2026-07-26-builtin-timer-promises-for-hand-rolled-sleeps.zh.md
+- Agent Note: Dependency swaps rejected by the 2026-07 NIH audit — Status: rejected — every swap below fails the net-simplification bar on evidence; recorded — .agents/notes/rejected/simplification/2026-07-26-dependency-swaps-rejected-by-nih-audit.md
+- Agent Note: 2026-07 NIH 审计否决的依赖替换 — Status: rejected — 下列每一项替换在证据上都未达到净简化门槛；记录在案，以免这轮普查日后从零重来 — .agents/notes/rejected/simplification/2026-07-26-dependency-swaps-rejected-by-nih-audit.zh.md
+- .agents/skills/agent-experience/SKILL.md — ../../../packages/preset/agent-preset/skills/agent-experience/SKILL.md — .agents/skills/agent-experience/SKILL.md
+- Cordis Ownership and Lifecycle Audit — name: cordis-styling-nitpicking — .agents/skills/cordis-styling-nitpicking/SKILL.md
+- Archive DeepSeek Harness Agent Notes — name: dsh-archive-agent-notes — .agents/skills/dsh-archive-agent-notes/SKILL.md
+- CI flake diagnosis — Use this workflow only when the task is to investigate an existing probabilistic test or C — .agents/skills/dsh-ci-test-reliability/references/ci-flake-diagnosis.md
+- Reliable DSH CI tests — name: dsh-ci-test-reliability — .agents/skills/dsh-ci-test-reliability/SKILL.md
+- DeepSeek Harness Client UI/UX — name: dsh-client-ui-ux — .agents/skills/dsh-client-ui-ux/SKILL.md
+- Reviewing a DeepSeek-Harness PR — name: dsh-code-review — .agents/skills/dsh-code-review/SKILL.md
+- DSH Create Upgrade Guide — name: dsh-create-upgrade-guide — .agents/skills/dsh-create-upgrade-guide/SKILL.md
+- Metadata, links, and bilingual pairs — README metadata is a retrieval and template-selection interface, not a miniature report or — .agents/skills/dsh-doc/references/metadata-links-i18n.md
+- Review criteria — Review documentation by whether a reader completes an outcome, not by whether every templa — .agents/skills/dsh-doc/references/review.md
+- Page structure and hierarchy — Each page gives a newcomer a short front door before it exposes operational or implementat — .agents/skills/dsh-doc/references/structure-hierarchy.md
+- Page style — Page-level style preferences that make DSH pages scannable and difficult to misread: a sho — .agents/skills/dsh-doc/references/style.md
+- Website publication — The documentation website is a tested projection of repository Markdown, never a second co — .agents/skills/dsh-doc/references/website-sync.md
+- DeepSeek Harness documentation — name: dsh-doc — .agents/skills/dsh-doc/SKILL.md
+- Template: package-bundle — Use this template for a package whose manifest declares dsh.bundle.patch — an installable  — .agents/skills/dsh-doc/templates/package-bundle.md
+- Template: package-group — Use this template for packages/README.md and every packages/<group>/README.md. The page is — .agents/skills/dsh-doc/templates/package-group.md
+- Template: package-library — Use this template for a package with no plugin surface: its entry exports a plain module A — .agents/skills/dsh-doc/templates/package-library.md
+- Template: package-reference — Use this template for a package whose entry is a Cordis plugin — a service default export  — .agents/skills/dsh-doc/templates/package-reference.md
+- Template: persistence-change — Use this template for docs/persistence-changes/YYYY-MM-DD-slug.md and its Chinese sibling. — .agents/skills/dsh-doc/templates/persistence-change.md
+- Template: persistence-format — Use this kind for docs/persistence-changes/historical-formats/vN.md and its Chinese siblin — .agents/skills/dsh-doc/templates/persistence-format.md
+- Template: persistence-release — Use this kind for docs/persistence-changes/releases/dsh-v<version>.md and its Chinese sibl — .agents/skills/dsh-doc/templates/persistence-release.md
+- Template: upgrade-guide — Use this kind for docs/upgrade-guide/v<version>/<item>/guide.md and its Chinese sibling gu — .agents/skills/dsh-doc/templates/upgrade-guide.md
+- DeepSeek Harness Error Handling — name: dsh-error-handling — .agents/skills/dsh-error-handling/SKILL.md
+- Historical simplification patterns — Use these examples to calibrate a candidate whose value is not established by an unused-sy — .agents/skills/dsh-find-simplifications/references/historical-patterns.md
+- Finding DeepSeek Harness Simplifications — name: dsh-find-simplifications — .agents/skills/dsh-find-simplifications/SKILL.md
+- Landing an official GitHub PR stack — name: dsh-merging-stacked-prs — .agents/skills/dsh-merging-stacked-prs/SKILL.md
+- Official plugin artwork — name: dsh-official-plugin-artwork — .agents/skills/dsh-official-plugin-artwork/SKILL.md
+- DSH Pre-Push Checks — name: dsh-pre-push-checks — .agents/skills/dsh-pre-push-checks/SKILL.md
+- Distilled prose examples — Use these examples to identify the governing principle, not as text templates. “Balanced”  — .agents/skills/dsh-prose-standard/references/examples.md
+- DeepSeek Harness Prose Standard — name: dsh-prose-standard — .agents/skills/dsh-prose-standard/SKILL.md
+- Responsive client UI — name: dsh-responsive-ui — .agents/skills/dsh-responsive-ui/SKILL.md
+- Speed Up DeepSeek Harness — name: dsh-speed-up-perf — .agents/skills/dsh-speed-up-perf/SKILL.md
+- Translating DeepSeek-Harness docs — name: dsh-translate-docs — .agents/skills/dsh-translate-docs/SKILL.md
+- Few-shot leakage examples — Distilled from the 2026-08 repo-wide purge and its review rounds. Use them to identify the — .agents/skills/dsh-trim-cot-leakage/references/examples.md
+- Recall batteries — Probes for [the taxonomy](../SKILL.md#taxonomy), tuned during the 2026-08 purge. Every hit — .agents/skills/dsh-trim-cot-leakage/references/recall-batteries.md
+- Trimming Chain-of-Thought Leakage — name: dsh-trim-cot-leakage — .agents/skills/dsh-trim-cot-leakage/SKILL.md
+- Record Browser GIF — name: record-browser-gif — .agents/skills/record-browser-gif/SKILL.md

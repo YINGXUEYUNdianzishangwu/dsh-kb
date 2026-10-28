@@ -1,0 +1,32 @@
+# docs: packages (830 篇, part 7/26)
+
+- @deepseek-ai/dsh-client-ui-tool — description: "Client Tool presentation plugin for the dsh web client: whole-call tree comp — packages/client/ui-tool/README.md
+- @deepseek-ai/dsh-client-ui-tool — description: "dsh Web 客户端的 Client 工具展示插件：完整调用树的组合、按工具名称键控的视图 slot，以及内置原子工具卡片。" — packages/client/ui-tool/README.zh.md
+- @deepseek-ai/dsh-client-ui-trajectory — description: "Trajectory view for the dsh web client: a turn-aware event ledger with an in — packages/client/ui-trajectory/README.md
+- @deepseek-ai/dsh-client-ui-trajectory — description: "dsh Web 客户端的 Trajectory 视图：按轮次组织的事件记录表加交互式时间概览，注册进对话视图环。" — packages/client/ui-trajectory/README.zh.md
+- @deepseek-ai/dsh-client-ui-user-questions — description: "Web askuserquestion feature for the dsh web client: the attached question ca — packages/client/ui-user-questions/README.md
+- @deepseek-ai/dsh-client-ui-user-questions — description: "dsh Web 客户端的 askuserquestion 功能：附着式提问卡片、计时等待、草稿、迟到回复与 plan-review 审批卡片。" — packages/client/ui-user-questions/README.zh.md
+- @deepseek-ai/dsh-client-ui-workflow-run — description: "Durable workflow-run Conversation Node for the dsh web client: reconstructs  — packages/client/ui-workflow-run/README.md
+- @deepseek-ai/dsh-client-ui-workflow-run — description: "dsh Web 客户端的持久化工作流运行 Conversation Node：把顶层工作流运行重建为带嵌套成员折叠的独立聊天节点。" — packages/client/ui-workflow-run/README.zh.md
+- @deepseek-ai/dsh-client-ui-workspace — description: "Shared Workspace browser and picker plugin for the dsh web client: grouped o — packages/client/ui-workspace/README.md
+- @deepseek-ai/dsh-client-ui-workspace — description: "dsh Web 客户端的共享 Workspace 浏览器与选择器插件：分组或扁平的会话行、管理操作、由 slot 组合的 Session 行 actio — packages/client/ui-workspace/README.zh.md
+- @deepseek-ai/dsh-client-web — description: "Web boot kernel for the web GUI: two-stage boot of the client plugin tree, t — packages/client/web/README.md
+- @deepseek-ai/dsh-client-web — description: "面向用户与维护者的 web GUI 启动内核说明：客户端插件树的两阶段启动、无框架启动页与共享模块表，用于组合或排查浏览器应用。" — packages/client/web/README.zh.md
+- @deepseek-ai/dsh-command-compact — description: "The on-demand /compact command for interactive compositions: what it does, w — packages/compaction/command-compact/README.md
+- @deepseek-ai/dsh-command-compact — description: "面向交互式组合的按需 /compact 命令：它做什么、你会看到什么，以及如何挂载。" — packages/compaction/command-compact/README.zh.md
+- @deepseek-ai/dsh-compaction — description: "Shared compaction contract for backend implementers and deployers: what conv — packages/compaction/compaction/README.md
+- @deepseek-ai/dsh-compaction — description: "面向后端实现者与部署方的共享压缩约定：会话压缩做什么、何时使用，以及如何实现后端。" — packages/compaction/compaction/README.zh.md
+- @deepseek-ai/dsh-compaction-basic — description: "Automatic conversation condensation for deployments choosing, tuning, or deb — packages/compaction/compaction-basic/README.md
+- @deepseek-ai/dsh-compaction-basic — description: "面向部署场景的自动会话压缩（compaction）：用于选择、调优或排查随 token 压力上升对较早历史进行摘要的方式。" — packages/compaction/compaction-basic/README.zh.md
+- @deepseek-ai/dsh-compaction-image-offload — description: "The image offload executor for deployments composing compaction: what happen — packages/compaction/compaction-image-offload/README.md
+- @deepseek-ai/dsh-compaction-image-offload — description: "面向组合 compaction 的部署的图片省略执行器说明：支持图片的路由以请求超出图片预算拒绝时会发生什么。" — packages/compaction/compaction-image-offload/README.zh.md
+- @deepseek-ai/dsh-compaction-tool-result-pruner — description: "Tool-output trimming for deployments composing compaction: choosing size lim — packages/compaction/compaction-tool-result-pruner/README.md
+- @deepseek-ai/dsh-compaction-tool-result-pruner — description: "面向组合压缩（compaction）部署场景的工具输出修剪：选择大小限制或排查超大工具结果为何被缩短。" — packages/compaction/compaction-tool-result-pruner/README.zh.md
+- compaction/ — compaction capability family — description: "Package map for the conversation-condensing feature family: automatic compac — packages/compaction/README.md
+- compaction/ — 压缩能力家族 — description: "会话压缩（compaction）功能家族的包映射：自动压缩、按需 /compact 命令与工具输出修剪。" — packages/compaction/README.zh.md
+- @deepseek-ai/dsh-computer-use — description: "Computer-use provider registration for deployments that enable one desktop d — packages/computer-use/computer-use/README.md
+- @deepseek-ai/dsh-computer-use — description: "计算机操作提供方注册：供每次启用一个桌面驱动的部署使用。" — packages/computer-use/computer-use/README.zh.md
+- packages/computer-use — description: "Computer-use capability packages for selecting and registering one desktop p — packages/computer-use/README.md
+- packages/computer-use — description: "用于选择并注册一个桌面提供方的计算机操作能力包。" — packages/computer-use/README.zh.md
+- @deepseek-ai/dsh-agent-instructions — description: "Workspace-instruction context for users and maintainers enabling, sizing, or — packages/context/agent-instructions/README.md
+- @deepseek-ai/dsh-agent-instructions — description: "面向用户与维护者的工作区指令上下文说明，用于启用、设置预算或排查 AGENTS.md/CLAUDE.md 的加载与刷新。" — packages/context/agent-instructions/README.zh.md

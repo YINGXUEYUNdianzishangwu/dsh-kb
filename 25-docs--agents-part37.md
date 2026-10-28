@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 37/66)
+
+- Agent Note: 每项实质性变更都必须附带 Agent Note — Status: implemented — .agents/notes/archived/process/2026-07-19-require-agent-notes-for-non-trivial-changes.zh.md
+- Agent Note: Web styling system — the token framework and engineering constraints — Status: implemented — .agents/notes/archived/process/2026-07-19-web-styling-system.md
+- Agent Note: Web 样式体系——token 框架与工程约束 — Status: implemented — .agents/notes/archived/process/2026-07-19-web-styling-system.zh.md
+- Agent Note: Generate the Cordis core API reference — Status: implemented — .agents/notes/archived/process/2026-07-20-generated-cordis-core-api.md
+- Agent Note: 生成 Cordis 核心 API 参考文档 — Status: implemented — .agents/notes/archived/process/2026-07-20-generated-cordis-core-api.zh.md
+- Agent Note: GUI testing system — the three-tier structure — Status: implemented — .agents/notes/archived/process/2026-07-20-gui-testing-system.md
+- Agent Note: GUI 测试体系——三层结构 — Status: implemented — .agents/notes/archived/process/2026-07-20-gui-testing-system.zh.md
+- Agent Note: doc-sync through the gate scheduler — Status: implemented — .agents/notes/archived/process/2026-07-21-doc-sync-through-gate-scheduler.md
+- Agent Note: doc-sync 走门禁调度器 — Status: implemented — .agents/notes/archived/process/2026-07-21-doc-sync-through-gate-scheduler.zh.md
+- Agent Note: Tutorial-style Cordis docs under docs/cordis-tutorial — Status: implemented — .agents/notes/archived/process/2026-07-22-cordis-tutorial-docs.md
+- Agent Note: `docs/cordis-tutorial` 下的 Cordis 实操教程文档 — Status: implemented — .agents/notes/archived/process/2026-07-22-cordis-tutorial-docs.zh.md
+- Agent Note: Evidence-based larger hosted runners — Status: implemented — .agents/notes/archived/process/2026-07-22-evidence-based-larger-hosted-runners.md
+- Agent Note: 基于实证选用 GitHub 托管大型运行器 — Status: implemented — .agents/notes/archived/process/2026-07-22-evidence-based-larger-hosted-runners.zh.md
+- Agent Note: Fast local Git hooks — Status: implemented — .agents/notes/archived/process/2026-07-22-fast-local-git-hooks.md
+- Agent Note: 快速本地 Git 钩子 — Status: implemented — .agents/notes/archived/process/2026-07-22-fast-local-git-hooks.zh.md
+- Agent Note: installer skips the clone when run from inside a checkout — Status: implemented — .agents/notes/archived/process/2026-07-22-installer-in-repo-skip-clone.md
+- Agent Note: 在检出目录内运行时安装脚本跳过克隆 — Status: implemented — .agents/notes/archived/process/2026-07-22-installer-in-repo-skip-clone.zh.md
+- Agent Note: Product-first root README — Status: implemented — .agents/notes/archived/process/2026-07-22-product-first-root-readme.md
+- Agent Note: 产品优先的根 README — Status: implemented — .agents/notes/archived/process/2026-07-22-product-first-root-readme.zh.md
+- Agent Note: Solution root over two aggregate programs — Status: implemented — .agents/notes/archived/process/2026-07-22-tsconfig-solution-root-two-aggregates.md
+- Agent Note: 以 solution 根文件统辖两个聚合 program — Status: implemented — .agents/notes/archived/process/2026-07-22-tsconfig-solution-root-two-aggregates.zh.md
+- Agent Note: Browser demo GIF recording — Status: implemented — .agents/notes/archived/process/2026-07-23-browser-demo-gif-recording.md
+- Agent Note: 浏览器演示 GIF 录制 — Status: implemented — .agents/notes/archived/process/2026-07-23-browser-demo-gif-recording.zh.md
+- Agent Note: Personal staging maintenance skills — Status: implemented — .agents/notes/archived/process/2026-07-23-personal-staging-maintenance-skills.md
+- Agent Note: 个人集成分支维护 skill — Status: implemented — .agents/notes/archived/process/2026-07-23-personal-staging-maintenance-skills.zh.md
+- Agent Note: Portable pull-request CI recovery boundary — Status: implemented — .agents/notes/archived/process/2026-07-23-portable-required-pull-request-ci.md
+- Agent Note: 拉取请求 CI 的可移植恢复边界 — Status: implemented — .agents/notes/archived/process/2026-07-23-portable-required-pull-request-ci.zh.md
+- Agent Note: Calibrated translation prompt v4 contract — Status: implemented — .agents/notes/archived/process/2026-07-23-translation-prompt-v4-contract.md
+- Agent Note: 经校准的翻译提示词 v4 约定 — Status: implemented — .agents/notes/archived/process/2026-07-23-translation-prompt-v4-contract.zh.md
+- Agent Note: Briefed minimal translation updates — Status: implemented — .agents/notes/archived/process/2026-07-26-briefed-minimal-translation-updates.md
+- Agent Note: 基于简报的最小化翻译更新 — Status: implemented — .agents/notes/archived/process/2026-07-26-briefed-minimal-translation-updates.zh.md
+- Agent Note: GUI pull request GIF evidence and assets-branch publication — Status: implemented — .agents/notes/archived/process/2026-07-26-gui-pr-gif-evidence-and-assets-branch.md
+- Agent Note: GUI PR 的 GIF 证据与 assets 分支发布 — Status: implemented — .agents/notes/archived/process/2026-07-26-gui-pr-gif-evidence-and-assets-branch.zh.md
+- Agent Note: Retarget PR bases incrementally — Status: implemented — .agents/notes/archived/process/2026-07-26-incremental-pr-base-retargeting.md
+- Agent Note: 增量更新 PR 的 base 分支 — Status: implemented — .agents/notes/archived/process/2026-07-26-incremental-pr-base-retargeting.zh.md
+- Agent Note: Provision CI pnpm via pnpm/action-setup — Status: implemented — .agents/notes/archived/process/2026-07-26-pnpm-action-setup-for-symmetric-ci-caching.md
+- Agent Note: 经由 pnpm/action-setup 提供 CI 的 pnpm — Status: implemented — .agents/notes/archived/process/2026-07-26-pnpm-action-setup-for-symmetric-ci-caching.zh.md
+- Agent Note: Web client syntax highlighting — synchronous fine-grained shiki — Status: implemented — .agents/notes/archived/process/2026-07-26-web-syntax-highlighting-shiki.md
+- Agent Note: web client 的语法高亮——同步细粒度的 shiki — Status: implemented — .agents/notes/archived/process/2026-07-26-web-syntax-highlighting-shiki.zh.md
+- Agent Note: Dependabot version updates with a 30-day cooldown — Status: implemented — .agents/notes/archived/process/2026-07-27-dependabot-version-updates.md

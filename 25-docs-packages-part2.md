@@ -1,0 +1,37 @@
+# docs: packages (830 篇, part 2/26)
+
+- @deepseek-ai/dsh-cmdline — description: "dsh app bin 的应用自有命令行：应用从启动器剩余参数中解析自己的 flag、--help 与退出行为。" — packages/boot/cmdline/README.zh.md
+- @deepseek-ai/dsh-config-editor — description: "Save active profile configuration and apply it through Loader." — packages/boot/config-editor/README.md
+- @deepseek-ai/dsh-config-editor — description: "保存当前 profile 配置，并通过 Loader 应用。" — packages/boot/config-editor/README.zh.md
+- @deepseek-ai/dsh-hmr — description: "Reload plugin code and profile configuration through one coordinated queue." — packages/boot/hmr/README.md
+- @deepseek-ai/dsh-hmr — description: "通过统一协调队列热重载插件代码和 profile 配置。" — packages/boot/hmr/README.zh.md
+- @deepseek-ai/dsh-plugin-manager — description: "Enable profile plugins and install, remove or select bundles from the Web si — packages/boot/plugin-manager/README.md
+- @deepseek-ai/dsh-plugin-manager — description: "通过 Web 侧边栏或 agent 启停 profile 插件，并安装、删除或选择组合包。" — packages/boot/plugin-manager/README.zh.md
+- @deepseek-ai/dsh-plugin-market — description: "Host reader of the plugin market indexes a user configures, with installatio — packages/boot/plugin-market/README.md
+- @deepseek-ai/dsh-plugin-market — description: "读取用户配置的插件市场索引的 Host 服务，提供安装状态、兼容性以及只读的 pluginmarket 工具。" — packages/boot/plugin-market/README.zh.md
+- boot/ — shared app-bin boot glue — description: "The boot package group: how dsh app bins start — environment loading, profil — packages/boot/README.md
+- boot/：共享的 app bin 启动粘合层 — description: "boot 包组：dsh app bin 如何启动——环境加载、profile 与 patch 层、清晰的启动失败信息，以及由应用持有的命令行。" — packages/boot/README.zh.md
+- @deepseek-ai/dsh-browser-use — description: "Browser-use provider registration for deployments that enable one browser ba — packages/browser-use/browser-use/README.md
+- @deepseek-ai/dsh-browser-use — description: "浏览器操作 提供方 注册服务，供一次启用一个浏览器后端的部署使用。" — packages/browser-use/browser-use/README.zh.md
+- packages/browser-use — description: "Browser-use capability packages for selecting and registering one browser ba — packages/browser-use/README.md
+- packages/browser-use — description: "浏览器操作能力包，用于选择与注册一个浏览器后端。" — packages/browser-use/README.zh.md
+- `@deepseek-ai/dsh-acp-app` — description: "Automation-only ACP stdio application profile for users and maintainers laun — packages/bundle/acp-app/README.md
+- `@deepseek-ai/dsh-acp-app` — description: "面向启动持久 harness agent（智能体）的用户与维护者，说明纯自动化 ACP（Agent Client Protocol）stdio 应用 p — packages/bundle/acp-app/README.zh.md
+- @deepseek-ai/dsh-base — description: "The shared dsh core: model access, tools, durable sessions, and safety defau — packages/bundle/base/README.md
+- @deepseek-ai/dsh-base — description: "共享的 dsh 核心：为每个 dsh --profile 表层提供模型访问、工具、持久会话与安全默认值，供用户组合或定制 profile。" — packages/bundle/base/README.zh.md
+- @deepseek-ai/dsh-headless — description: "One-shot task mode for dsh: run a single task from the command line and get  — packages/bundle/headless/README.md
+- @deepseek-ai/dsh-headless — description: "dsh 的一次性任务模式：从命令行运行单个任务并打印最终答案，供用户脚本化或自动化 dsh。" — packages/bundle/headless/README.zh.md
+- bundle/ — profile plugin bundles — description: "Ready-made dsh profile bundles for the shared core, browser GUI, one-shot ta — packages/bundle/README.md
+- bundle/：profile 插件组合包 — description: "共享核心、浏览器 GUI、一次性任务、ACP（Agent Client Protocol）与 SDK 应用表层的现成 dsh profile 组合包。" — packages/bundle/README.zh.md
+- `@deepseek-ai/dsh-sdk-app` — description: "SDK stdio application profile for users and maintainers launching a JSON-RPC — packages/bundle/sdk-app/README.md
+- `@deepseek-ai/dsh-sdk-app` — description: "面向启动 JSON-RPC harness 运行时的用户与维护者，说明 SDK stdio 应用 profile。" — packages/bundle/sdk-app/README.zh.md
+- `@deepseek-ai/dsh-sdk-minimal` — description: "Standalone SDK profile with a persistent shell, image reading, automatic con — packages/bundle/sdk-minimal/README.md
+- `@deepseek-ai/dsh-sdk-minimal` — description: "独立 SDK profile，提供持久 shell、图片读取、自动上下文压缩和 Session 工作目录工具，用于不含共享 base bundle 的极 — packages/bundle/sdk-minimal/README.zh.md
+- @deepseek-ai/dsh-web-app — description: "The browser GUI for dsh: interactive chat, model and settings management, an — packages/bundle/web-app/README.md
+- @deepseek-ai/dsh-web-app — description: "dsh 的浏览器 GUI：交互式聊天、模型与设置管理、会话历史，供运行 dsh web 表层的用户使用。" — packages/bundle/web-app/README.zh.md
+- packages/CLAUDE.md — AGENTS.md — packages/CLAUDE.md
+- AGENTS.md — Web client stack — Rules for packages/client/ (the browser side of the dsh web GUI) plus its build entry apps — packages/client/AGENTS.md
+- @deepseek-ai/dsh-client-connection — description: "Browser-host wire layer for the web GUI: Remote RPC, event-stream delivery w — packages/client/connection/README.md
+- @deepseek-ai/dsh-client-connection — description: "Web GUI 的浏览器与 Host 之间的协议层：Remote RPC、带重连的事件流投递、精确 Fetch 路由、/api HTTP 桥与浏览器信任 — packages/client/connection/README.zh.md
+- @deepseek-ai/dsh-client-file-upload — description: "Session-addressed browser file uploads with streaming intake, progress, canc — packages/client/file-upload/README.md
+- @deepseek-ai/dsh-client-file-upload — description: "按 Session 寻址上传浏览器文件，提供流式接收、进度、取消和供后续 prompt 使用的暂存凭证。" — packages/client/file-upload/README.zh.md

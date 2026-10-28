@@ -1,0 +1,44 @@
+# docs: .agents (2583 篇, part 9/66)
+
+- Agent Note: 响应式 Sidebar 与注入的标签信息 — Status: implemented — .agents/notes/archived/architecture/2026-09-07-sidebar-responsive-tab-info.zh.md
+- Agent Note: Workspace files as one dual-face API package — Status: implemented — .agents/notes/archived/architecture/2026-09-07-workspace-files-dual-face-package.md
+- Agent Note: 工作区文件统一为 API 双面包 — Status: implemented — .agents/notes/archived/architecture/2026-09-07-workspace-files-dual-face-package.zh.md
+- Agent Note: Global main panels without default UI additions — Status: implemented — .agents/notes/archived/architecture/2026-09-08-global-main-panels.md
+- Agent Note: 不增加默认界面的全局主面板 — Status: implemented — .agents/notes/archived/architecture/2026-09-08-global-main-panels.zh.md
+- Agent Note: Verify Desktop release compatibility during packaging — Status: implemented — .agents/notes/archived/architecture/2026-09-09-desktop-build-release-validation.md
+- Agent Note: 在打包时验证 Desktop 发布兼容性 — Status: implemented — .agents/notes/archived/architecture/2026-09-09-desktop-build-release-validation.zh.md
+- Agent Note: Show the Desktop window before starting the Host — Status: implemented — .agents/notes/archived/architecture/2026-09-09-desktop-immediate-window-and-direct-start.md
+- Agent Note: Show the Desktop window before starting the Host — Status: implemented — .agents/notes/archived/architecture/2026-09-09-desktop-immediate-window-and-direct-start.zh.md
+- Agent Note: Modify the Desktop profile in place — Status: implemented — .agents/notes/archived/architecture/2026-09-09-desktop-in-place-profile.md
+- Agent Note: 直接修改 Desktop profile — Status: implemented — .agents/notes/archived/architecture/2026-09-09-desktop-in-place-profile.zh.md
+- Agent Note: Plugin management moves to the Web sidebar — Status: implemented — .agents/notes/archived/architecture/2026-09-09-plugin-management-in-the-web-sidebar.md
+- Agent Note: 插件管理移到 Web 侧栏 — Status: implemented — .agents/notes/archived/architecture/2026-09-09-plugin-management-in-the-web-sidebar.zh.md
+- Agent Note: Command identities and composer-owned File action — Status: implemented — .agents/notes/archived/architecture/2026-09-10-command-identities-and-composer-file-action.md
+- Agent Note: 命令标识与输入框拥有的文件动作 — Status: implemented — .agents/notes/archived/architecture/2026-09-10-command-identities-and-composer-file-action.zh.md
+- Agent Note: Local Office preview through WASM PDF bytes — Status: implemented — .agents/notes/archived/architecture/2026-09-10-local-office-preview.md
+- Agent Note: 通过 WASM PDF 字节进行本地 Office 预览 — Status: implemented — .agents/notes/archived/architecture/2026-09-10-local-office-preview.zh.md
+- Agent Note: Native Windows installer pages — Status: implemented — .agents/notes/archived/architecture/2026-09-10-windows-native-installer-pages.md
+- Agent Note: 原生 Windows 安装页面 — Status: implemented — .agents/notes/archived/architecture/2026-09-10-windows-native-installer-pages.zh.md
+- Agent Note: Use Electron as the Desktop Node runtime — Status: implemented — .agents/notes/archived/architecture/2026-09-11-desktop-electron-node-runtime.md
+- Agent Note: 使用 Electron 作为 Desktop 的 Node 运行时 — Status: implemented — .agents/notes/archived/architecture/2026-09-11-desktop-electron-node-runtime.zh.md
+- Agent Note: Node Office conversion with independently packaged engines — Status: implemented — .agents/notes/archived/architecture/2026-09-11-node-office-kit.md
+- Agent Note: 独立打包引擎的 Node Office 转换 — Status: implemented — .agents/notes/archived/architecture/2026-09-11-node-office-kit.zh.md
+- Agent Note: Font reuse and image resolution in WASM previews — Status: implemented — .agents/notes/archived/architecture/2026-09-11-wasm-preview-font-and-image-budgets.md
+- Agent Note: WASM 预览的字体复用与图像分辨率 — Status: implemented — .agents/notes/archived/architecture/2026-09-11-wasm-preview-font-and-image-budgets.zh.md
+- Agent Note: Replace Windows application directories after staging — Status: implemented — .agents/notes/archived/architecture/2026-09-11-windows-directory-installation.md
+- Agent Note: 暂存完成后替换 Windows 应用目录 — Status: implemented — .agents/notes/archived/architecture/2026-09-11-windows-directory-installation.zh.md
+- Agent Note: PTC runtime vocabulary — Status: implemented — .agents/notes/archived/architecture/2026-09-12-ptc-runtime-vocabulary.md
+- Agent Note: PTC 运行时词汇 — Status: implemented — .agents/notes/archived/architecture/2026-09-12-ptc-runtime-vocabulary.zh.md
+- Agent Note: Sidebar layout persistence and provider recovery — Status: implemented — .agents/notes/archived/architecture/2026-09-14-sidebar-layout-provider-recovery.md
+- Agent Note: 侧栏布局持久化与 provider 恢复 — Status: implemented — .agents/notes/archived/architecture/2026-09-14-sidebar-layout-provider-recovery.zh.md
+- Agent Note: Narrow pi-ai runtime imports — Status: implemented — .agents/notes/archived/architecture/2026-09-15-narrow-pi-ai-runtime-imports.md
+- Agent Note：收窄 pi-ai 运行时 import — Status: implemented — .agents/notes/archived/architecture/2026-09-15-narrow-pi-ai-runtime-imports.zh.md
+- Agent Note: One Office engine per platform — Status: implemented — .agents/notes/archived/architecture/2026-09-15-platform-office-engines.md
+- Agent Note: 每个平台使用一个 Office 引擎 — Status: implemented — .agents/notes/archived/architecture/2026-09-15-platform-office-engines.zh.md
+- Agent Note: Upload Desktop releases through the Tencent COS SDK — Status: implemented — .agents/notes/archived/architecture/2026-09-16-desktop-cos-upload-transport.md
+- Agent Note: 通过腾讯 COS SDK 上传 Desktop 发布产物 — Status: implemented — .agents/notes/archived/architecture/2026-09-16-desktop-cos-upload-transport.zh.md
+- Agent Note: Plugin configuration on the Plugins page — Status: implemented — .agents/notes/archived/architecture/2026-09-16-plugin-configuration-on-the-plugins-page.md
+- Agent Note: 插件页上的插件配置 — Status: implemented — .agents/notes/archived/architecture/2026-09-16-plugin-configuration-on-the-plugins-page.zh.md
+- Agent Note: Plugin detail pages as an extension point — Status: implemented — .agents/notes/archived/architecture/2026-09-17-plugin-detail-page-extension-slots.md
+- Agent Note：插件详情页作为扩展点 — Status: implemented — .agents/notes/archived/architecture/2026-09-17-plugin-detail-page-extension-slots.zh.md
+- Agent Note: Session row actions as slot lists — Status: implemented — .agents/notes/archived/architecture/2026-09-17-session-row-menu-actions-slot.md

@@ -1,0 +1,39 @@
+# docs: .agents (2583 篇, part 20/66)
+
+- Agent Note: Multimodal tool-result retention — Status: implemented — .agents/notes/archived/bug-fix/2026-09-21-multimodal-tool-result-retention.md
+- Agent Note: 工具结果的图文保留 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-21-multimodal-tool-result-retention.zh.md
+- Agent Note: Persistent pwsh keeps the backend's controlled prompt — Status: implemented — .agents/notes/archived/bug-fix/2026-09-21-persistent-pwsh-keeps-controlled-prompt.md
+- Agent Note: 持久 pwsh 保留后端的受控提示符 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-21-persistent-pwsh-keeps-controlled-prompt.zh.md
+- Agent Note: Separate Chat clipping and independent follow intent — Status: implemented — .agents/notes/archived/bug-fix/2026-09-22-chat-scroll-follow-and-footer-geometry.md
+- Agent Note: 分离 Chat 裁剪与独立滚动跟随意图 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-22-chat-scroll-follow-and-footer-geometry.zh.md
+- Agent Note: Input echoes retain display ownership through admission — Status: implemented — .agents/notes/archived/bug-fix/2026-09-22-input-echo-admission-ownership.md
+- Agent Note: 输入回显在入档期间保持展示归属 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-22-input-echo-admission-ownership.zh.md
+- Agent Note: Windows opens go through explorer.exe — Status: implemented — .agents/notes/archived/bug-fix/2026-09-22-windows-open-through-shell-resolution.md
+- Agent Note: Windows 打开经 explorer.exe 完成 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-22-windows-open-through-shell-resolution.zh.md
+- Agent Note: Bounding a pnpm run that stops progressing — Status: implemented — .agents/notes/archived/bug-fix/2026-09-23-bounded-pnpm-runs.md
+- Agent Note: 为停止推进的 pnpm 运行设界 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-23-bounded-pnpm-runs.zh.md
+- Agent Note: Taking over a writer lock whose holder exited — Status: implemented — .agents/notes/archived/bug-fix/2026-09-24-exited-holder-lock-takeover.md
+- Agent Note: 接管持有者已退出的写锁 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-24-exited-holder-lock-takeover.zh.md
+- Agent Note: Agent Client Protocol (ACP) support — drive the coding agent from external editors — Status: implemented — .agents/notes/archived/feature/2026-06-14-acp-agent-client-protocol.md
+- Agent Note: Agent Client Protocol（ACP）支持——从外部编辑器驱动编码 agent — Status: implemented — .agents/notes/archived/feature/2026-06-14-acp-agent-client-protocol.zh.md
+- Agent Note: Multiplex concurrent ACP sessions over one connection — Status: implemented — .agents/notes/archived/feature/2026-06-14-acp-multi-session.md
+- Agent Note: 在单个连接上多路复用并发 ACP 会话 — Status: implemented — .agents/notes/archived/feature/2026-06-14-acp-multi-session.zh.md
+- Agent Note: Filesystem tool schemas — model-facing read/write/edit shapes — Status: implemented — .agents/notes/archived/feature/2026-06-17-filesystem-tool-schemas.md
+- Agent Note: 文件系统工具 schema——面向模型的读/写/编辑接口形状 — Status: implemented — .agents/notes/archived/feature/2026-06-17-filesystem-tool-schemas.zh.md
+- Agent Note: Rich ACP bash rendering — the terminal card via the `_meta` convention — Status: implemented — .agents/notes/archived/feature/2026-06-18-acp-terminal-and-tool-rendering.md
+- Agent Note: 富 ACP bash 渲染——通过 `_meta` 约定实现终端卡片 — Status: implemented — .agents/notes/archived/feature/2026-06-18-acp-terminal-and-tool-rendering.zh.md
+- Agent Note: Compaction as a capability seam (abstract contract + basic backend) — Status: implemented — .agents/notes/archived/feature/2026-06-18-compaction-capability-seam.md
+- Agent Note: 压缩作为能力 seam（抽象约定 + 基础后端） — Status: implemented — .agents/notes/archived/feature/2026-06-18-compaction-capability-seam.zh.md
+- Agent Note: Subagent capability seam — Status: implemented — .agents/notes/archived/feature/2026-06-21-subagent-capability-seam.md
+- Agent Note: subagent 能力 seam — Status: implemented — .agents/notes/archived/feature/2026-06-21-subagent-capability-seam.zh.md
+- Agent Note: ACP subagent backend (out-of-process delegation) — Status: implemented — .agents/notes/archived/feature/2026-06-22-acp-subagent-backend.md
+- Agent Note: ACP subagent 后端（进程外委派） — Status: implemented — .agents/notes/archived/feature/2026-06-22-acp-subagent-backend.zh.md
+- Agent Note: Workspace context instruction files — Status: implemented — .agents/notes/archived/feature/2026-06-24-workspace-context.md
+- Agent Note: 工作区上下文指令文件 — Status: implemented — .agents/notes/archived/feature/2026-06-24-workspace-context.zh.md
+- Agent Note: Ask-user question capability — Status: implemented — .agents/notes/archived/feature/2026-06-25-ask-user-question.md
+- Agent Note: ask-user 提问能力 — Status: implemented — .agents/notes/archived/feature/2026-06-25-ask-user-question.zh.md
+- Agent Note: The `todo_write` tool — model task list as event-sourced session state — Status: implemented — .agents/notes/archived/feature/2026-06-29-todo-write-tool.md
+- Agent Note: `todo_write` 工具——将模型任务列表作为事件溯源的会话状态 — Status: implemented — .agents/notes/archived/feature/2026-06-29-todo-write-tool.zh.md
+- Agent Note: dsh-hooks-claude-code + dsh-hooks-codex — the Claude Code / Codex hook bridges — Status: implemented — .agents/notes/archived/feature/2026-06-30-hook-bridges.md
+- Agent Note: dsh-hooks-claude-code + dsh-hooks-codex —— Claude Code / Codex 钩子桥接插件 — Status: implemented — .agents/notes/archived/feature/2026-06-30-hook-bridges.zh.md
+- Agent Note: dsh-hook-protocol — the shared Claude Code / Codex hook wire-protocol core — Status: implemented — .agents/notes/archived/feature/2026-06-30-hook-protocol-lib.md

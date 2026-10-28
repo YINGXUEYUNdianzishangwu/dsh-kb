@@ -1,0 +1,30 @@
+# docs: docs/persistence-changes (98 篇, part 2/4)
+
+- Session V0 持久化格式 — description: "完整的 Session V0 持久化类型、来源证据与物理编码参考。" — docs/persistence-changes/historical-formats/v0.zh.md
+- Session V1 persistence format — description: "Complete Session V1 persistence types, source evidence, and physical encodin — docs/persistence-changes/historical-formats/v1.md
+- Session V1 持久化格式 — description: "完整的 Session V1 持久化类型、来源证据与物理编码参考。" — docs/persistence-changes/historical-formats/v1.zh.md
+- Session V2 persistence format — description: "Complete Session V2 persistence types, source evidence, and physical encodin — docs/persistence-changes/historical-formats/v2.md
+- Session V2 持久化格式 — description: "完整的 Session V2 持久化类型、来源证据与物理编码参考。" — docs/persistence-changes/historical-formats/v2.zh.md
+- Session V3 persistence format — description: "Complete Session V3 persistence types, source evidence, and physical encodin — docs/persistence-changes/historical-formats/v3.md
+- Session V3 持久化格式 — description: "完整的 Session V3 持久化类型、来源证据与物理编码参考。" — docs/persistence-changes/historical-formats/v3.zh.md
+- Persistence-type change records — description: "Review and maintain recorded Session persistence-type changes, their schema  — docs/persistence-changes/README.md
+- 持久化类型变更记录 — description: "审阅和维护已记录的会话持久化类型变更、对应 schema 快照以及兼容性决策。" — docs/persistence-changes/README.zh.md
+- Persistence release: dsh-v0.0.1-rc.1 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.0.1-rc.1.md
+- 持久化版本回溯: dsh-v0.0.1-rc.1 — description: "回溯 dsh-v0.0.1-rc.1 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.0.1-rc.1.zh.md
+- Persistence release: dsh-v0.0.1-rc.2 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.0.1-rc.2.md
+- 持久化版本回溯: dsh-v0.0.1-rc.2 — description: "回溯 dsh-v0.0.1-rc.2 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.0.1-rc.2.zh.md
+- Persistence release: dsh-v0.0.1-rc.3 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.0.1-rc.3.md
+- 持久化版本回溯: dsh-v0.0.1-rc.3 — description: "回溯 dsh-v0.0.1-rc.3 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.0.1-rc.3.zh.md
+- Persistence release: dsh-v0.0.1-rc.4 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.0.1-rc.4.md
+- 持久化版本回溯: dsh-v0.0.1-rc.4 — description: "回溯 dsh-v0.0.1-rc.4 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.0.1-rc.4.zh.md
+- Persistence release: dsh-v0.0.1-rc.5 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.0.1-rc.5.md
+- 持久化版本回溯: dsh-v0.0.1-rc.5 — description: "回溯 dsh-v0.0.1-rc.5 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.0.1-rc.5.zh.md
+- Persistence release: dsh-v0.1.0-rc.1 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.0-rc.1.md
+- 持久化版本回溯: dsh-v0.1.0-rc.1 — description: "回溯 dsh-v0.1.0-rc.1 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.0-rc.1.zh.md
+- Persistence release: dsh-v0.1.0-rc.2 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.0-rc.2.md
+- 持久化版本回溯: dsh-v0.1.0-rc.2 — description: "回溯 dsh-v0.1.0-rc.2 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.0-rc.2.zh.md
+- Persistence release: dsh-v0.1.0-rc.3 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.0-rc.3.md
+- 持久化版本回溯: dsh-v0.1.0-rc.3 — description: "回溯 dsh-v0.1.0-rc.3 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.0-rc.3.zh.md
+- Persistence release: dsh-v0.1.0-rc.5 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.0-rc.5.md
+- 持久化版本回溯: dsh-v0.1.0-rc.5 — description: "回溯 dsh-v0.1.0-rc.5 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.0-rc.5.zh.md
+- Persistence release: dsh-v0.1.0-rc.6 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.0-rc.6.md

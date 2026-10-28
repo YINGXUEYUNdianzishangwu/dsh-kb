@@ -1,0 +1,38 @@
+# docs: .agents (2583 篇, part 3/66)
+
+- Agent Note: 包拥有的不变式服务约定 — Status: implemented — .agents/notes/archived/architecture/2026-07-19-package-owned-invariant-service.zh.md
+- Agent Note: Zstandard JSONL session logs — Status: implemented — .agents/notes/archived/architecture/2026-07-19-zstandard-jsonl-session-logs.md
+- Agent Note: Zstandard JSONL 会话日志 — Status: implemented — .agents/notes/archived/architecture/2026-07-19-zstandard-jsonl-session-logs.zh.md
+- Agent Note: Canonical tool output contract — Status: implemented — .agents/notes/archived/architecture/2026-07-20-canonical-tool-output-contract.md
+- Agent Note: 规范工具输出约定 — Status: implemented — .agents/notes/archived/architecture/2026-07-20-canonical-tool-output-contract.zh.md
+- Agent Note: todo event types belong to their producer — Status: implemented — .agents/notes/archived/architecture/2026-07-20-todo-event-ownership.md
+- Agent Note: todo 事件类型归其生产方所有 — Status: implemented — .agents/notes/archived/architecture/2026-07-20-todo-event-ownership.zh.md
+- Agent Note: Unified JSON-value schema DSL — Status: implemented — .agents/notes/archived/architecture/2026-07-20-unified-json-value-schema-dsl.md
+- Agent Note: 统一 JSON 值 schema DSL — Status: implemented — .agents/notes/archived/architecture/2026-07-20-unified-json-value-schema-dsl.zh.md
+- Agent Note: Effect-owned TUI interactive extensions — Status: implemented — .agents/notes/archived/architecture/2026-07-22-tui-interactive-extension-service.md
+- Agent Note: 由 effect 持有的 TUI 交互扩展 — Status: implemented — .agents/notes/archived/architecture/2026-07-22-tui-interactive-extension-service.zh.md
+- Agent Note: Unify agent delivery on send(target × wakeup) and coalesce injected context into user/message — Status: implemented — .agents/notes/archived/architecture/2026-07-22-unified-send-and-coalesced-user-messages.md
+- Agent Note: 将 agent 投递统一到 send(target × wakeup) 并把注入的上下文合并进 user/message — Status: implemented — .agents/notes/archived/architecture/2026-07-22-unified-send-and-coalesced-user-messages.zh.md
+- Agent Note: Toolview dissolution — tool rows are per-view keyed slots — Status: implemented — .agents/notes/archived/architecture/2026-07-23-toolview-dissolution.md
+- Agent Note: toolview 溶解——工具行即 per-view keyed slot — Status: implemented — .agents/notes/archived/architecture/2026-07-23-toolview-dissolution.zh.md
+- Agent Note: Unified session query service — Status: implemented — .agents/notes/archived/architecture/2026-07-23-unified-session-query-service.md
+- Agent Note: 统一会话查询服务 — Status: implemented — .agents/notes/archived/architecture/2026-07-23-unified-session-query-service.zh.md
+- Agent Note: Adapter-owned reasoning effort capabilities — Status: implemented — .agents/notes/archived/architecture/2026-07-24-adapter-owned-reasoning-effort-capabilities.md
+- Agent Note: 适配器持有的推理强度能力 — Status: implemented — .agents/notes/archived/architecture/2026-07-24-adapter-owned-reasoning-effort-capabilities.zh.md
+- Agent Note: Parse `dsh` argv through one Commander adapter — Status: implemented — .agents/notes/archived/architecture/2026-07-24-dsh-commander-argument-adapter.md
+- Agent Note: 通过单个 Commander 适配器解析 `dsh` 的 argv — Status: implemented — .agents/notes/archived/architecture/2026-07-24-dsh-commander-argument-adapter.zh.md
+- Agent Note: Project-grouped session directories — Status: implemented — .agents/notes/archived/architecture/2026-07-24-project-session-directories.md
+- Agent Note: 按项目分组的会话目录 — Status: implemented — .agents/notes/archived/architecture/2026-07-24-project-session-directories.zh.md
+- Agent Note: dsh web config-tree boot and the web transport layering — Status: implemented — .agents/notes/archived/architecture/2026-07-24-web-config-tree-boot-and-transport-layering.md
+- Agent Note: dsh web 的 config-tree boot 与 web 传输分层 — Status: implemented — .agents/notes/archived/architecture/2026-07-24-web-config-tree-boot-and-transport-layering.zh.md
+- Agent Note: Web client Agent-scope parity model and the provisioning channel (agents/scope / blank reuse / provide) — Status: implemented — .agents/notes/archived/architecture/2026-07-25-web-client-session-scope-and-provide-channel.md
+- Agent Note: Web client Agent-scope 对等模型与供数通道（agents/scope / blank 复用 / provide） — Status: implemented — .agents/notes/archived/architecture/2026-07-25-web-client-session-scope-and-provide-channel.zh.md
+- Agent Note: Web command business surfaces and assembly (ui-commands / ui-skill / ui-subagent) — Status: implemented — .agents/notes/archived/architecture/2026-07-25-web-command-surfaces-and-assembly.md
+- Agent Note: Web 命令业务面与装配（ui-commands / ui-skill / ui-subagent） — Status: implemented — .agents/notes/archived/architecture/2026-07-25-web-command-surfaces-and-assembly.zh.md
+- Agent Note: Web input state machine, composer slots, and the slash pipeline (ui-conversation input / ui-input-trigger) — Status: implemented — .agents/notes/archived/architecture/2026-07-25-web-input-machine-and-slash-pipeline.md
+- Agent Note: Web 输入状态机、composer slot 与 slash 流水线（ui-conversation input / ui-input-trigger） — Status: implemented — .agents/notes/archived/architecture/2026-07-25-web-input-machine-and-slash-pipeline.zh.md
+- Agent Note: The job registry is a capability seam (`dsh-jobs` / `dsh-jobs-local`) — Status: implemented — .agents/notes/archived/architecture/2026-07-26-job-registry-seam.md
+- Agent Note: 任务注册表是一个能力 seam（`dsh-jobs` / `dsh-jobs-local`） — Status: implemented — .agents/notes/archived/architecture/2026-07-26-job-registry-seam.zh.md
+- Agent Note: Make packed chunk rows the default JSONL layout — Status: implemented — .agents/notes/archived/architecture/2026-07-26-packed-chunk-rows-by-default.md
+- Agent Note: 将打包分片行设为默认 JSONL 布局 — Status: implemented — .agents/notes/archived/architecture/2026-07-26-packed-chunk-rows-by-default.zh.md
+- Agent Note: The subprocess service is its own seam under the bash executors (`dsh-subprocess` / `dsh-subprocess-local`) — Status: implemented — .agents/notes/archived/architecture/2026-07-26-subprocess-seam.md

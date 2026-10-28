@@ -1,0 +1,43 @@
+# docs: .agents (2583 篇, part 58/66)
+
+- Agent Note: Persist owned job lifecycle facts — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-30-job-session-lifecycle.md
+- Agent Note: 持久化有所有者 job 的生命周期事实 — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-30-job-session-lifecycle.zh.md
+- Agent Note: Time-sliced Session-list work — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-30-session-list-host-fairness.md
+- Agent Note: 按时间片执行 Session 列表工作 — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-30-session-list-host-fairness.zh.md
+- Agent Note: Separate background Shell command display from job state — Status: implemented — .agents/notes/implemented/bug-fix/2026-10-10-background-shell-command-display.md
+- Agent Note: 主动后台 Shell 的命令展示与任务状态分离 — Status: implemented — .agents/notes/implemented/bug-fix/2026-10-10-background-shell-command-display.zh.md
+- Agent Note: Process-specific checkout path and Web URL move to runtime context — Status: implemented — .agents/notes/implemented/bug-fix/2026-10-11-process-specific-prompt-values-in-runtime-context.md
+- Agent Note: 进程相关的 checkout 路径与 Web URL 改走运行时上下文 — Status: implemented — .agents/notes/implemented/bug-fix/2026-10-11-process-specific-prompt-values-in-runtime-context.zh.md
+- .agents/notes/implemented/CLAUDE.md — AGENTS.md — .agents/notes/implemented/CLAUDE.md
+- Agent Note: PTC mode — the model writes TypeScript against the tool registry — Status: implemented — .agents/notes/implemented/feature/2026-06-15-ptc.md
+- Agent Note: PTC mode——模型针对工具注册表编写 TypeScript — Status: implemented — .agents/notes/implemented/feature/2026-06-15-ptc.zh.md
+- Agent Note: The approval seam — one-shot permission decisions over a waterfall of answerers — Status: implemented — .agents/notes/implemented/feature/2026-07-06-approval-seam.md
+- Agent Note: 审批 seam——基于 waterfall（瀑布式事件）应答者的一次性权限决策 — Status: implemented — .agents/notes/implemented/feature/2026-07-06-approval-seam.zh.md
+- Agent Note: Parallel tool-call execution by per-call safety — Status: implemented — .agents/notes/implemented/feature/2026-07-10-parallel-tool-call-execution.md
+- Agent Note: 按单次调用安全性并行执行工具调用 — Status: implemented — .agents/notes/implemented/feature/2026-07-10-parallel-tool-call-execution.zh.md
+- Agent Note: Configure subagent persona, tool visibility, and depth — Status: implemented — .agents/notes/implemented/feature/2026-07-12-subagent-persona-tool-filter-and-depth.md
+- Agent Note: 配置 subagent 的人设、工具可见性与深度 — Status: implemented — .agents/notes/implemented/feature/2026-07-12-subagent-persona-tool-filter-and-depth.zh.md
+- Agent Note: persistent PTY sessions — Status: implemented — .agents/notes/implemented/feature/2026-07-16-persistent-pty-sessions.md
+- Agent Note: 持久化 PTY 会话 — Status: implemented — .agents/notes/implemented/feature/2026-07-16-persistent-pty-sessions.zh.md
+- Agent Note: Model-facing same-session goal tools — Status: implemented — .agents/notes/implemented/feature/2026-07-19-model-facing-goal-tools.md
+- Agent Note: 面向模型的同会话目标工具 — Status: implemented — .agents/notes/implemented/feature/2026-07-19-model-facing-goal-tools.zh.md
+- Agent Note: Typed tool returns in PTC mode — Status: implemented — .agents/notes/implemented/feature/2026-07-20-ptc-typed-tool-returns.md
+- Agent Note: PTC mode 的类型化工具返回值 — Status: implemented — .agents/notes/implemented/feature/2026-07-20-ptc-typed-tool-returns.zh.md
+- Agent Note: Continuable subagents — Status: implemented — .agents/notes/implemented/feature/2026-07-28-continuable-subagent-conversations.md
+- Agent Note: 可继续的 subagent — Status: implemented — .agents/notes/implemented/feature/2026-07-28-continuable-subagent-conversations.zh.md
+- Agent Note: Durable Agent Teams over continuable children — Status: implemented — .agents/notes/implemented/feature/2026-08-05-agent-teams.md
+- Agent Note: Durable Agent Teams over continuable children — Status: implemented — .agents/notes/implemented/feature/2026-08-05-agent-teams.zh.md
+- Agent Note: Producer-declared context forms — Status: implemented — .agents/notes/implemented/feature/2026-08-05-context-form-vocabulary.md
+- Agent Note: 由生产方声明的上下文形态 — Status: implemented — .agents/notes/implemented/feature/2026-08-05-context-form-vocabulary.zh.md
+- Agent Note: Windows sandbox rung: raw ACL restricted tokens over mxc and AppContainer — Status: implemented — .agents/notes/implemented/feature/2026-08-08-windows-acl-restricted-token-sandbox.md
+- Agent Note: Windows sandbox rung: raw ACL restricted tokens over mxc and AppContainer — Status: implemented — .agents/notes/implemented/feature/2026-08-08-windows-acl-restricted-token-sandbox.zh.md
+- Agent Note: Product subagents use Profile-selected non-interactive permissions — Status: implemented — .agents/notes/implemented/feature/2026-08-15-product-subagent-noninteractive-permissions.md
+- Agent Note: 产品 subagent 使用 Profile 选择的非交互权限 — Status: implemented — .agents/notes/implemented/feature/2026-08-15-product-subagent-noninteractive-permissions.zh.md
+- Agent Note: User-authorized subagent model routes — Status: implemented — .agents/notes/implemented/feature/2026-08-24-user-authorized-subagent-model-routes.md
+- Agent Note: 用户授权的 subagent 模型路由 — Status: implemented — .agents/notes/implemented/feature/2026-08-24-user-authorized-subagent-model-routes.zh.md
+- Agent Note: Generic file upload — Status: implemented — .agents/notes/implemented/feature/2026-08-26-generic-file-upload.md
+- Agent Note: 通用文件上传 — Status: implemented — .agents/notes/implemented/feature/2026-08-26-generic-file-upload.zh.md
+- Agent Note: Experimental Auto review before each tool call — Status: implemented — .agents/notes/implemented/feature/2026-08-28-auto-review.md
+- Agent Note: 每次工具调用前的实验性 Auto review — Status: implemented — .agents/notes/implemented/feature/2026-08-28-auto-review.zh.md
+- Agent Note: cross-process session write lease — Status: implemented — .agents/notes/implemented/feature/2026-08-31-cross-process-session-write-lease.md
+- Agent Note: 跨进程会话写租约 — Status: implemented — .agents/notes/implemented/feature/2026-08-31-cross-process-session-write-lease.zh.md

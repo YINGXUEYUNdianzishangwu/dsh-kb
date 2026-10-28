@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 44/66)
+
+- Agent Note: 简化 Web 图片输入第一版 — Status: implemented — .agents/notes/archived/simplification/2026-07-29-simplify-web-image-input-v1.zh.md
+- Agent Note: Keep agent routing private — Status: implemented — .agents/notes/archived/simplification/2026-07-30-private-agent-send.md
+- Agent Note: 将 agent 路由保留为私有实现 — Status: implemented — .agents/notes/archived/simplification/2026-07-30-private-agent-send.zh.md
+- Agent Note: Sidebar resize without a visible pill — Status: implemented — .agents/notes/archived/simplification/2026-07-30-sidebar-resize-without-visible-pill.md
+- Agent Note: 侧边栏缩放不显示胶囊 — Status: implemented — .agents/notes/archived/simplification/2026-07-30-sidebar-resize-without-visible-pill.zh.md
+- Agent Note: Capability-neutral sandbox policy context — Status: implemented — .agents/notes/archived/simplification/2026-07-31-capability-neutral-sandbox-policy-context.md
+- Agent Note: 不依赖具体能力的沙箱策略上下文 — Status: implemented — .agents/notes/archived/simplification/2026-07-31-capability-neutral-sandbox-policy-context.zh.md
+- Agent Note: Drop the user-message edit stub — Status: implemented — .agents/notes/archived/simplification/2026-07-31-drop-user-message-edit-stub.md
+- Agent Note: 移除 user 消息的编辑存根 — Status: implemented — .agents/notes/archived/simplification/2026-07-31-drop-user-message-edit-stub.zh.md
+- Agent Note: One route to add a Workspace — Status: implemented — .agents/notes/archived/simplification/2026-07-31-one-route-to-add-a-workspace.md
+- Agent Note: 添加 Workspace 的唯一路径 — Status: implemented — .agents/notes/archived/simplification/2026-07-31-one-route-to-add-a-workspace.zh.md
+- Agent Note: Web UI drops steer entry and interjection chrome — Status: implemented — .agents/notes/archived/simplification/2026-07-31-web-ui-no-steer-entry-or-interjection-chrome.md
+- Agent Note: Web UI 去掉 steer 入口与插话 chrome — Status: implemented — .agents/notes/archived/simplification/2026-07-31-web-ui-no-steer-entry-or-interjection-chrome.zh.md
+- Agent Note: Explicit-config dsh entrypoint — Status: implemented — .agents/notes/archived/simplification/2026-08-03-explicit-config-dsh-entrypoint.md
+- Agent Note: 显式配置的 dsh 入口 — Status: implemented — .agents/notes/archived/simplification/2026-08-03-explicit-config-dsh-entrypoint.zh.md
+- Agent Note: Omit runtime invariants from shipped dsh config — Status: implemented — .agents/notes/archived/simplification/2026-08-03-omit-invariants-from-shipped-config.md
+- Agent Note: 从交付的 dsh 配置中省略运行时不变式 — Status: implemented — .agents/notes/archived/simplification/2026-08-03-omit-invariants-from-shipped-config.zh.md
+- Agent Note: Drop the Windows PowerShell picker fallback — Status: implemented — .agents/notes/archived/simplification/2026-08-04-drop-windows-powershell-picker-fallback.md
+- Agent Note: 删除 Windows PowerShell 选择器回退 — Status: implemented — .agents/notes/archived/simplification/2026-08-04-drop-windows-powershell-picker-fallback.zh.md
+- Agent Note: Remove the TUI package — Status: implemented — .agents/notes/archived/simplification/2026-08-04-remove-tui-package.md
+- Agent Note: 移除 TUI 包 — Status: implemented — .agents/notes/archived/simplification/2026-08-04-remove-tui-package.zh.md
+- Agent Note: Buffer-free feedback telemetry — Status: implemented — .agents/notes/archived/simplification/2026-08-06-buffer-free-feedback-telemetry.md
+- Agent Note: 无缓冲反馈遥测 — Status: implemented — .agents/notes/archived/simplification/2026-08-06-buffer-free-feedback-telemetry.zh.md
+- Agent Note: User and steering bubbles drop the branch action — Status: implemented — .agents/notes/archived/simplification/2026-08-06-user-bubbles-drop-the-branch-action.md
+- Agent Note: user 与 steering 气泡移除分支操作 — Status: implemented — .agents/notes/archived/simplification/2026-08-06-user-bubbles-drop-the-branch-action.zh.md
+- Agent Note: Copy-only preset authoring, and the way into a preset's files — Status: implemented — .agents/notes/archived/simplification/2026-08-08-copy-only-preset-authoring.md
+- Agent Note: 仅复制的 preset 创作，与通往 preset 文件的入口 — Status: implemented — .agents/notes/archived/simplification/2026-08-08-copy-only-preset-authoring.zh.md
+- Agent Note: Remove the separate CLI demo — Status: implemented — .agents/notes/archived/simplification/2026-08-08-remove-cli-demo.md
+- Agent Note: 移除独立的 CLI demo — Status: implemented — .agents/notes/archived/simplification/2026-08-08-remove-cli-demo.zh.md
+- Agent Note: Bounded fixed-rate Schedule — Status: implemented — .agents/notes/archived/simplification/2026-08-09-bounded-fixed-rate-schedule.md
+- Agent Note: 有界固定速率 Schedule — Status: implemented — .agents/notes/archived/simplification/2026-08-09-bounded-fixed-rate-schedule.zh.md
+- Agent Note: Conversational Schedule delivery — Status: implemented — .agents/notes/archived/simplification/2026-08-09-conversational-schedule-delivery.md
+- Agent Note: 对话式 Schedule 交付 — Status: implemented — .agents/notes/archived/simplification/2026-08-09-conversational-schedule-delivery.zh.md
+- Agent Note: Remove the dedicated repository Plugin path — Status: implemented — .agents/notes/archived/simplification/2026-08-09-remove-repository-plugin.md
+- Agent Note: 移除专用 repository 插件路径 — Status: implemented — .agents/notes/archived/simplification/2026-08-09-remove-repository-plugin.zh.md
+- Agent Note: One editor family in general-purpose presets — Status: implemented — .agents/notes/archived/simplification/2026-08-10-default-presets-single-editor.md
+- Agent Note: 通用 preset 只提供一套编辑工具 — Status: implemented — .agents/notes/archived/simplification/2026-08-10-default-presets-single-editor.zh.md
+- Agent Note: Source run without a managed installer — Status: implemented — .agents/notes/archived/simplification/2026-08-10-source-run-without-managed-installer.md
+- Agent Note: 无需托管安装器的源码运行 — Status: implemented — .agents/notes/archived/simplification/2026-08-10-source-run-without-managed-installer.zh.md
+- Agent Note: Remove the steering interjection caption — Status: implemented — .agents/notes/archived/simplification/2026-08-10-web-remove-steering-interjection-caption.md

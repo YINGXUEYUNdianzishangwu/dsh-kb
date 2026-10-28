@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 30/66)
+
+- Agent Note: Per-Model Reasoning Declarations in llm-pi-ai — Status: implemented — .agents/notes/archived/feature/2026-08-08-pi-ai-per-model-reasoning-declarations.md
+- Agent Note: llm-pi-ai 的按模型推理声明 — Status: implemented — .agents/notes/archived/feature/2026-08-08-pi-ai-per-model-reasoning-declarations.zh.md
+- Agent Note: User-explicit skill invocation at the pre-step gesture boundary — Status: implemented — .agents/notes/archived/feature/2026-08-08-user-explicit-skill-invocation.md
+- Agent Note: pre-step 手势边界上的用户显式 skill 调用 — Status: implemented — .agents/notes/archived/feature/2026-08-08-user-explicit-skill-invocation.zh.md
+- Agent Note: Web background-job display — Status: implemented — .agents/notes/archived/feature/2026-08-08-web-background-job-display.md
+- Agent Note: Web 后台任务展示 — Status: implemented — .agents/notes/archived/feature/2026-08-08-web-background-job-display.zh.md
+- Agent Note: Parallel subagent delegations — Status: implemented — .agents/notes/archived/feature/2026-08-09-parallel-subagent-delegations.md
+- Agent Note: 并行 subagent 委派 — Status: implemented — .agents/notes/archived/feature/2026-08-09-parallel-subagent-delegations.zh.md
+- Agent Note: Continuable subagent policy inheritance — the durable child log owns the delegation-time snapshot — Status: implemented — .agents/notes/archived/feature/2026-08-10-continuable-subagent-policy-inheritance.md
+- Agent Note: 可继续 subagent 策略继承——持久化子日志拥有委派时快照 — Status: implemented — .agents/notes/archived/feature/2026-08-10-continuable-subagent-policy-inheritance.zh.md
+- Agent Note: Creator guidance lands as an introduce cue on the preset chip — Status: implemented — .agents/notes/archived/feature/2026-08-10-creator-guidance-introduce-cue.md
+- Agent Note: 创造模式引导以介绍动效落在预设 chip 上 — Status: implemented — .agents/notes/archived/feature/2026-08-10-creator-guidance-introduce-cue.zh.md
+- Agent Note: Durable workflow runs in Chat — Status: implemented — .agents/notes/archived/feature/2026-08-10-durable-workflow-runs-in-chat.md
+- Agent Note: Chat 中的持久工作流运行 — Status: implemented — .agents/notes/archived/feature/2026-08-10-durable-workflow-runs-in-chat.zh.md
+- Agent Note: A minimal read_image tool over existing seams — Status: implemented — .agents/notes/archived/feature/2026-08-10-minimal-read-image-tool.md
+- Agent Note: 基于既有 seam 的最小 read_image 工具 — Status: implemented — .agents/notes/archived/feature/2026-08-10-minimal-read-image-tool.zh.md
+- Agent Note: Delegated subagents run with approvals pinned to `'never'` — Status: implemented — .agents/notes/archived/feature/2026-08-10-subagent-approval-pinned-never.md
+- Agent Note: 被委派的 subagent 以钉定为 `'never'` 的审批策略运行 — Status: implemented — .agents/notes/archived/feature/2026-08-10-subagent-approval-pinned-never.zh.md
+- Agent Note: SessionTelemetryBackend requires explicit opt-in — Status: implemented — .agents/notes/archived/feature/2026-08-10-telemetry-default-off.md
+- Agent Note: 遥测必须显式启用 — Status: implemented — .agents/notes/archived/feature/2026-08-10-telemetry-default-off.zh.md
+- Agent Note: Plugin configuration in the web settings page — Status: implemented — .agents/notes/archived/feature/2026-08-10-web-plugin-configuration.md
+- Agent Note: Plugin configuration in the web settings page — Status: implemented — .agents/notes/archived/feature/2026-08-10-web-plugin-configuration.zh.md
+- Agent Note: Web session-log export as a host-streamed ZIP download — Status: implemented — .agents/notes/archived/feature/2026-08-10-web-session-log-export.md
+- Agent Note: Web 会话日志导出——宿主流式 ZIP 下载 — Status: implemented — .agents/notes/archived/feature/2026-08-10-web-session-log-export.zh.md
+- Agent Note: Continuable delegation is background-first — Status: implemented — .agents/notes/archived/feature/2026-08-11-background-first-continuable-delegation.md
+- Agent Note: 可继续委派采用后台优先 — Status: implemented — .agents/notes/archived/feature/2026-08-11-background-first-continuable-delegation.zh.md
+- Agent Note: Background job completion wakes an idle owner — Status: implemented — .agents/notes/archived/feature/2026-08-11-background-job-completion-wakes-an-idle-owner.md
+- Agent Note: Background job completion wakes an idle owner — Status: implemented — .agents/notes/archived/feature/2026-08-11-background-job-completion-wakes-an-idle-owner.zh.md
+- Agent Note: Collapsible Ask-User Question Card — Status: implemented — .agents/notes/archived/feature/2026-08-11-collapsible-ask-user-question-card.md
+- Agent Note: 可收起的提问卡片 — Status: implemented — .agents/notes/archived/feature/2026-08-11-collapsible-ask-user-question-card.zh.md
+- Agent Note: DeepSeek request user and session identity headers — Status: implemented — .agents/notes/archived/feature/2026-08-11-deepseek-request-user-id-header.md
+- Agent Note: DeepSeek 请求用户与会话身份头部 — Status: implemented — .agents/notes/archived/feature/2026-08-11-deepseek-request-user-id-header.zh.md
+- Agent Note: Web surface for message feedback — Status: implemented — .agents/notes/archived/feature/2026-08-11-message-feedback-web-surface.md
+- Agent Note: 消息反馈的 Web 界面 — Status: implemented — .agents/notes/archived/feature/2026-08-11-message-feedback-web-surface.zh.md
+- Agent Note: Minimal profiles use a bare runtime — Status: implemented — .agents/notes/archived/feature/2026-08-11-minimal-profiles-bare-two-tool-runtime.md
+- Agent Note: minimal profile 使用裸运行时 — Status: implemented — .agents/notes/archived/feature/2026-08-11-minimal-profiles-bare-two-tool-runtime.zh.md
+- Agent Note: Web attachment display aligns with DeepSeek Chat via attachment atoms — Status: implemented — .agents/notes/archived/feature/2026-08-11-web-attachment-display-alignment.md
+- Agent Note: Web 附件展示经附件原子组件对齐 DeepSeek Chat — Status: implemented — .agents/notes/archived/feature/2026-08-11-web-attachment-display-alignment.zh.md
+- Agent Note: Web `/export` shares the streamed Session ZIP download — Status: implemented — .agents/notes/archived/feature/2026-08-11-web-export-command-and-dialog.md

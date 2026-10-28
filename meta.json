@@ -1,0 +1,16 @@
+{
+ "repo": "F:\\OAuth\\deepseek\\repos\\deepseek-harness-0.2.1-rc.3\\deepseek-harness-dsh-v0.2.1-rc.3",
+ "slug": "deepseek-harness-0.2.1-rc.3",
+ "tag": "dsh-v0.2.1-rc.3",
+ "commit": "1f81c047fc48fa190a683e469daa699857e9afe8",
+ "generator": "kb-gen v3",
+ "generatedAt": "2026-10-28T22:47:41.340Z",
+ "files": 16347,
+ "dirs": 2468,
+ "packages": 381,
+ "areas": 63,
+ "docFiles": 4517,
+ "docGroups": 23,
+ "symbols": 12608,
+ "installVersionNote": "本机 DSH 安装版本 0.2.1-rc.3；索引 tag dsh-v0.2.1-rc.3"
+}

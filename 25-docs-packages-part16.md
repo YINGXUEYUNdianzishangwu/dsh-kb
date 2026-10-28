@@ -1,0 +1,31 @@
+# docs: packages (830 篇, part 16/26)
+
+- @deepseek-ai/dsh-llm-deepseek-account — description: "DeepSeek 账号鉴权、模型列表与模型门控。" — packages/llm/llm-deepseek-account/README.zh.md
+- @deepseek-ai/dsh-llm-deepseek-api-key — description: "DeepSeek API-key authentication, model discovery, and the official model lis — packages/llm/llm-deepseek-api-key/README.md
+- @deepseek-ai/dsh-llm-deepseek-api-key — description: "DeepSeek API-key authentication, model discovery, and the official model lis — packages/llm/llm-deepseek-api-key/README.zh.md
+- @deepseek-ai/dsh-llm-pi-ai — description: "The pi-ai-backed multi-provider adapter for users and maintainers routing th — packages/llm/llm-pi-ai/README.md
+- @deepseek-ai/dsh-llm-pi-ai — description: "面向用户与维护者的 pi-ai 多提供方适配器说明：通过 pi-ai 目录与手工声明网关路由 harness LLM（大语言模型）服务。" — packages/llm/llm-pi-ai/README.zh.md
+- @deepseek-ai/dsh-llm-retry — description: "The retry executor for users and maintainers configuring provider-routed mod — packages/llm/llm-retry/README.md
+- @deepseek-ai/dsh-llm-retry — description: "面向用户与维护者的重试执行器说明：在持久 agent（智能体）步骤边界上配置按提供方路由的模型请求恢复。" — packages/llm/llm-retry/README.zh.md
+- @deepseek-ai/dsh-plugin-package-inventory-deepseek — description: "Active Loader package inventory metadata for deployments sending official De — packages/llm/plugin-package-inventory-deepseek/README.md
+- @deepseek-ai/dsh-plugin-package-inventory-deepseek — description: "面向发送官方 DeepSeek 请求的部署，说明活跃 Loader 包清单元数据。" — packages/llm/plugin-package-inventory-deepseek/README.zh.md
+- llm/ — LLM capability family — description: "The LLM capability group: a provider-neutral model-call service, the DeepSee — packages/llm/README.md
+- llm/ — LLM 能力家族 — description: "LLM（大语言模型）能力包组：一个提供方无关的模型调用服务、DeepSeek 与 pi-ai 提供方适配器、请求重试执行，以及具备回放感知的 token — packages/llm/README.zh.md
+- @deepseek-ai/dsh-token-meter — description: "Replay-aware token and context-pressure measurement for users and maintainer — packages/llm/token-meter/README.md
+- @deepseek-ai/dsh-token-meter — description: "面向用户与维护者的具备回放感知的 token 与上下文压力计量说明：评估提示词规模或构建压缩（compaction）与占用显示。" — packages/llm/token-meter/README.zh.md
+- @deepseek-ai/dsh-lsp — description: "The LSP capability seam (ctx.lsp): provider selection by file extension, fou — packages/lsp/lsp/README.md
+- @deepseek-ai/dsh-lsp — description: "LSP 能力 seam（ctx.lsp）：按文件扩展名选择提供方、四种规范化的代码导航操作与结构化错误，供组合或扩展代码导航的用户与维护者阅读。" — packages/lsp/lsp/README.zh.md
+- @deepseek-ai/dsh-lsp-stdio — description: "The stdio language-server provider for ctx.lsp: configured server commands,  — packages/lsp/lsp-stdio/README.md
+- @deepseek-ai/dsh-lsp-stdio — description: "ctx.lsp 的 stdio 语言服务器提供方：配置好的服务器命令、扩展名映射与有边界的临时打开查询，供组合本地代码导航的用户与维护者阅读。" — packages/lsp/lsp-stdio/README.zh.md
+- lsp/ — Language-server code navigation — description: "The lsp group map: language-server code navigation through the LSP seam, its — packages/lsp/README.md
+- lsp/：语言服务器代码导航 — description: "lsp 组地图：通过 LSP seam、其 stdio 提供方与面向模型的 lsp 工具实现的语言服务器代码导航，供浏览本组的用户与维护者阅读。" — packages/lsp/README.zh.md
+- @deepseek-ai/dsh-tool-lsp — description: "The model-facing lsp tool: four read-only code-navigation operations with on — packages/lsp/tool-lsp/README.md
+- @deepseek-ai/dsh-tool-lsp — description: "面向模型的 lsp 工具：四种只读代码导航操作、从 1 开始的 UTF-16 光标坐标、有边界的结果与悬停文本，供组合模型代码导航的用户与维护者阅读。" — packages/lsp/tool-lsp/README.zh.md
+- @deepseek-ai/dsh-mcp-client — description: "MCP client bridge for deployments and maintainers choosing, configuring, or  — packages/mcp/mcp-client/README.md
+- @deepseek-ai/dsh-mcp-client — description: "面向部署方与维护者的 MCP 客户端桥接说明，用于选择、配置或排查连接到外部 MCP 服务器、并将其工具注册到 ctx.tools 的插件。" — packages/mcp/mcp-client/README.zh.md
+- @deepseek-ai/dsh-mcp-resources — description: "Discover and read MCP resources on demand with shared tools, explicit server — packages/mcp/mcp-resources/README.md
+- @deepseek-ai/dsh-mcp-resources — description: "通过共享工具、显式服务器选择和 agent 作用域访问，按需发现与读取 MCP 资源。" — packages/mcp/mcp-resources/README.zh.md
+- MCP — Model Context Protocol — description: "The MCP package group: connect external Model Context Protocol servers, call — packages/mcp/README.md
+- MCP — 模型上下文协议 — description: "MCP 包组：连接外部 Model Context Protocol 服务器，调用其工具并读取其资源。" — packages/mcp/README.zh.md
+- @deepseek-ai/dsh-plan-mode — description: "Plan mode for users and maintainers choosing, configuring, or debugging the  — packages/plan/plan-mode/README.md
+- @deepseek-ai/dsh-plan-mode — description: "面向用户与维护者的计划模式说明：用于选择、配置或排查带部署引导、/plan 命令与经用户评审退出的逐 agent（智能体）规划功能。" — packages/plan/plan-mode/README.zh.md

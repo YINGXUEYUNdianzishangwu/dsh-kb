@@ -1,0 +1,45 @@
+# docs: .agents (2583 篇, part 52/66)
+
+- Agent Note: Canonical feedback log and request delivery — Status: implemented — .agents/notes/implemented/architecture/2026-09-05-canonical-feedback-log.md
+- Agent Note: 权威反馈日志与请求投递 — Status: implemented — .agents/notes/implemented/architecture/2026-09-05-canonical-feedback-log.zh.md
+- Agent Note: Client resource model — Status: implemented — .agents/notes/implemented/architecture/2026-09-05-client-resource-model.md
+- Agent Note: 客户端资源模型 — Status: implemented — .agents/notes/implemented/architecture/2026-09-05-client-resource-model.zh.md
+- Agent Note: Explicit-feedback-only upload through OpenTelemetry — Status: implemented — .agents/notes/implemented/architecture/2026-09-05-nonofficial-feedback-otel.md
+- Agent Note: 仅在显式反馈后通过 OpenTelemetry 上传 — Status: implemented — .agents/notes/implemented/architecture/2026-09-05-nonofficial-feedback-otel.zh.md
+- Agent Note: Historical Session reads prepare before write publication — Status: implemented — .agents/notes/implemented/architecture/2026-09-05-read-only-session-migration-preparation.md
+- Agent Note: 历史 Session 在写入发布前提供只读迁移结果 — Status: implemented — .agents/notes/implemented/architecture/2026-09-05-read-only-session-migration-preparation.zh.md
+- Agent Note: Workspace file service — Status: implemented — .agents/notes/implemented/architecture/2026-09-05-workspace-files-service.md
+- Agent Note: 工作区文件服务 — Status: implemented — .agents/notes/implemented/architecture/2026-09-05-workspace-files-service.zh.md
+- Agent Note: Canonical V3 Session event envelopes — Status: implemented — .agents/notes/implemented/architecture/2026-09-06-v3-canonical-session-envelopes.md
+- Agent Note: 规范的 V3 Session 事件信封 — Status: implemented — .agents/notes/implemented/architecture/2026-09-06-v3-canonical-session-envelopes.zh.md
+- Agent Note: Prebuilt system primitives — Status: implemented — .agents/notes/implemented/architecture/2026-09-07-prebuilt-system-primitives.md
+- Agent Note: 预编译系统原语 — Status: implemented — .agents/notes/implemented/architecture/2026-09-07-prebuilt-system-primitives.zh.md
+- Agent Note: Bundle the Desktop runtime and retain external plugins — Status: implemented — .agents/notes/implemented/architecture/2026-09-08-desktop-bundled-runtime-and-external-plugins.md
+- Agent Note: 内置 Desktop 运行时并保留外部插件 — Status: implemented — .agents/notes/implemented/architecture/2026-09-08-desktop-bundled-runtime-and-external-plugins.zh.md
+- Agent Note: Desktop welcome window material — Status: implemented — .agents/notes/implemented/architecture/2026-09-08-desktop-welcome-window-material.md
+- Agent Note: 桌面欢迎窗口材质 — Status: implemented — .agents/notes/implemented/architecture/2026-09-08-desktop-welcome-window-material.zh.md
+- Agent Note: Document preview and file addresses — Status: implemented — .agents/notes/implemented/architecture/2026-09-08-document-preview-operations.md
+- Agent Note: 文档预览与文件地址 — Status: implemented — .agents/notes/implemented/architecture/2026-09-08-document-preview-operations.zh.md
+- Agent Note: Awaited per-agent initialization — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-awaited-agent-creation.md
+- Agent Note: 可等待的单个 agent 初始化 — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-awaited-agent-creation.zh.md
+- Agent Note: Consumer-owned startup strictness — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-consumer-owned-startup-strictness.md
+- Agent Note：由 consumer 持有启动严格语义 — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-consumer-owned-startup-strictness.zh.md
+- Agent Note: Deprecate synchronous reads of arbitrary Session events — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-deprecate-synchronous-session-event-reads.md
+- Agent Note: 弃用对会话任意位置事件的同步读取 — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-deprecate-synchronous-session-event-reads.zh.md
+- Agent Note: Producer-owned message sources at the V4 edge — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-producer-owned-message-sources.md
+- Agent Note: V4 边缘上的生产者归属消息源 — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-producer-owned-message-sources.zh.md
+- Agent Note: Add immutable profile resolution generations — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-profile-resolution-generations.md
+- Agent Note: 增加不可变 profile 解析代际 — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-profile-resolution-generations.zh.md
+- Agent Note: Workspace file read authority — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-workspace-file-read-authority.md
+- Agent Note: 工作区文件读取权限 — Status: implemented — .agents/notes/implemented/architecture/2026-09-09-workspace-file-read-authority.zh.md
+- Agent Note: Reusable component factories with local slots — Status: implemented — .agents/notes/implemented/architecture/2026-09-10-component-factories-and-local-slots.md
+- Agent Note: 带局部 slot 的可复用组件 Factory — Status: implemented — .agents/notes/implemented/architecture/2026-09-10-component-factories-and-local-slots.zh.md
+- Agent Note: Run Desktop through the shared Web application — Status: implemented — .agents/notes/implemented/architecture/2026-09-10-desktop-web-wrapper.md
+- Agent Note: 通过共享 Web 应用运行 Desktop — Status: implemented — .agents/notes/implemented/architecture/2026-09-10-desktop-web-wrapper.zh.md
+- Agent Note: Durable image offload events — Status: implemented — .agents/notes/implemented/architecture/2026-09-10-image-offload-events.md
+- Agent Note：持久图片省略事件 — Status: implemented — .agents/notes/implemented/architecture/2026-09-10-image-offload-events.zh.md
+- Agent Note: Public package manifest fields — Status: implemented — .agents/notes/implemented/architecture/2026-09-10-public-package-manifest.md
+- Agent Note: 公共 package manifest 字段 — Status: implemented — .agents/notes/implemented/architecture/2026-09-10-public-package-manifest.zh.md
+- Agent Note: Plugin-owned message projections — Status: implemented — .agents/notes/implemented/architecture/2026-09-11-plugin-owned-message-projections.md
+- Agent Note: 插件拥有消息投影 — Status: implemented — .agents/notes/implemented/architecture/2026-09-11-plugin-owned-message-projections.zh.md
+- Agent Note: POSIX SSH execution providers — Status: implemented — .agents/notes/implemented/architecture/2026-09-11-posix-ssh-runtime.md

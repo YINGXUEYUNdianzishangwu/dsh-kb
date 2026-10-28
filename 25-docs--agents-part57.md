@@ -1,0 +1,39 @@
+# docs: .agents (2583 篇, part 57/66)
+
+- Agent Note: Conversation 独占匹配 — Status: implemented — .agents/notes/implemented/architecture/2026-10-12-exclusive-conversation-matches.zh.md
+- Agent Note: Headless jobs omit the interactive credential store — Status: implemented — .agents/notes/implemented/architecture/2026-10-12-headless-environment-auth.md
+- Agent Note: Headless 任务不挂载交互式凭据存储 — Status: implemented — .agents/notes/implemented/architecture/2026-10-12-headless-environment-auth.zh.md
+- Agent Note: Peer principals and method-level Remote access control — Status: implemented — .agents/notes/implemented/architecture/2026-10-12-peer-principal-and-remote-access.md
+- Agent Note: Peer 身份属性与 Remote 方法级访问控制 — Status: implemented — .agents/notes/implemented/architecture/2026-10-12-peer-principal-and-remote-access.zh.md
+- Agent Note: One fold motion for collapsing on the next message — Status: implemented — .agents/notes/implemented/architecture/2026-10-13-chat-single-fold-motion.md
+- Agent Note: 「下条消息时收起」只用一条折叠动画 — Status: implemented — .agents/notes/implemented/architecture/2026-10-13-chat-single-fold-motion.zh.md
+- Agent Note: Context breakdown retains only system prompts — Status: implemented — .agents/notes/implemented/architecture/2026-10-13-context-breakdown-system-prompt-state.md
+- Agent Note: 上下文构成只保留系统提示词 — Status: implemented — .agents/notes/implemented/architecture/2026-10-13-context-breakdown-system-prompt-state.zh.md
+- Agent Note: Continuous CUA hover without cross-call ownership — Status: implemented — .agents/notes/implemented/architecture/2026-10-13-cua-continuous-hover.md
+- Agent Note: CUA 连续悬停不分配跨调用所有权 — Status: implemented — .agents/notes/implemented/architecture/2026-10-13-cua-continuous-hover.zh.md
+- Agent Note: Background hover and screenshot coordinates — Status: implemented — .agents/notes/implemented/architecture/2026-10-13-cua-hover-routes-and-coordinates.md
+- Agent Note: 后台悬停与截图坐标 — Status: implemented — .agents/notes/implemented/architecture/2026-10-13-cua-hover-routes-and-coordinates.zh.md
+- Agent Note: Team identity in required runtime context — Status: implemented — .agents/notes/implemented/architecture/2026-10-13-team-identity-runtime-context.md
+- Agent Note: 必需 runtime context 中的 Team 身份 — Status: implemented — .agents/notes/implemented/architecture/2026-10-13-team-identity-runtime-context.zh.md
+- Agent Note: Plugin entry customization: region-owned pins and More menus — Status: implemented — .agents/notes/implemented/architecture/2026-10-14-plugin-entry-customization.md
+- Agent Note: 插件入口自定义：区域自管的 Pin 与“更多”菜单 — Status: implemented — .agents/notes/implemented/architecture/2026-10-14-plugin-entry-customization.zh.md
+- Agent Note: Boot the Preview Worker from the shipped profile and fetch lazy chunks on demand — Status: implemented — .agents/notes/implemented/architecture/2026-10-14-webworker-preview-profile-parity.md
+- Agent Note: Preview Worker 按正式 profile 启动，懒加载 chunk 按需拉取 — Status: implemented — .agents/notes/implemented/architecture/2026-10-14-webworker-preview-profile-parity.zh.md
+- Agent Note: New Session reuses a blank Session, matching a requested preset — Status: implemented — .agents/notes/implemented/architecture/2026-10-20-new-session-blank-reuse-by-preset.md
+- Agent Note: 新会话复用空白会话，指定预设时按预设匹配 — Status: implemented — .agents/notes/implemented/architecture/2026-10-20-new-session-blank-reuse-by-preset.zh.md
+- Agent Note: The official DeepSeek route follows the official model listing until its catalog is customized — Status: implemented — .agents/notes/implemented/architecture/2026-10-22-deepseek-official-model-listing.md
+- Agent Note: DeepSeek 官方路由在目录未自定义时跟随官方模型列表 — Status: implemented — .agents/notes/implemented/architecture/2026-10-22-deepseek-official-model-listing.zh.md
+- Agent Note: Packed-install verification owns its npm cache — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-06-packed-install-private-npm-cache.md
+- Agent Note: 打包安装验证拥有独立 npm 缓存 — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-06-packed-install-private-npm-cache.zh.md
+- Agent Note: Share Host preferences with every authenticated browser — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-15-authenticated-browser-host-preferences.md
+- Agent Note: 每个已认证浏览器共用 Host 偏好 — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-15-authenticated-browser-host-preferences.zh.md
+- Agent Note: Keep accepted Session presentation across list refreshes — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-15-client-session-blank-reconciliation.md
+- Agent Note: 在列表刷新后保留已受理会话的展示状态 — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-15-client-session-blank-reconciliation.zh.md
+- Agent Note: Session opening cache identity and read ordering — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-20-session-open-read-coordination.md
+- Agent Note: 会话首帧读取的缓存身份与调用时序 — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-20-session-open-read-coordination.zh.md
+- Agent Note: A seen prompt marker keeps its own tail grace — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-27-pwsh-prompt-tail-grace.md
+- Agent Note: 已看到的提示符标记保留自己的尾部宽限 — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-27-pwsh-prompt-tail-grace.zh.md
+- Agent Note: Windows persistent PTYs use the console host node-pty ships — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-28-pty-bundled-console-host.md
+- Agent Note: Windows 持久 PTY 使用 node-pty 自带的控制台宿主 — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-28-pty-bundled-console-host.zh.md
+- Agent Note: A reused blank Session runs the requested preset — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-29-reused-blank-runs-requested-preset.md
+- Agent Note: 被复用的空白会话运行请求的 preset — Status: implemented — .agents/notes/implemented/bug-fix/2026-09-29-reused-blank-runs-requested-preset.zh.md

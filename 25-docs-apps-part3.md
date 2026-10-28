@@ -1,0 +1,50 @@
+# docs: apps (260 篇, part 3/6)
+
+- apps/web/tests/expected/github-ready-review/conversation.expected.md — - tree "Sessions": — apps/web/tests/expected/github-ready-review/conversation.expected.md
+- apps/web/tests/expected/goal-bar/active.expected.md — - text: Ongoing Goal guard rapid clear clicks — apps/web/tests/expected/goal-bar/active.expected.md
+- apps/web/tests/expected/goal-bar/inactive.expected.md — - text: Inactive Goal guard rapid clear clicks — apps/web/tests/expected/goal-bar/inactive.expected.md
+- apps/web/tests/expected/goal-command-presentation/ui.expected.md — - banner: — apps/web/tests/expected/goal-command-presentation/ui.expected.md
+- apps/web/tests/expected/input-plugin-extensions.expected.md — - textbox "Describe what you want to build, / commands, @ files or sessions": — apps/web/tests/expected/input-plugin-extensions.expected.md
+- Background jobs above the Browser dock — json — apps/web/tests/expected/jobs-menu-layering/geometry.expected.md
+- apps/web/tests/expected/layout-bottom/geometry.expected.md — empty: {"bottom":{"top":800,"height":0,"bottom":800},"main":{"top":0,"height":800,"bottom" — apps/web/tests/expected/layout-bottom/geometry.expected.md
+- apps/web/tests/expected/markdown-cjk-strong/ui.expected.md — - banner: — apps/web/tests/expected/markdown-cjk-strong/ui.expected.md
+- apps/web/tests/expected/markdown-images/ui.expected.md — - banner: — apps/web/tests/expected/markdown-images/ui.expected.md
+- apps/web/tests/expected/markdown-inline-code-links/ui.expected.md — - banner: — apps/web/tests/expected/markdown-inline-code-links/ui.expected.md
+- Markdown wide-table relations — | viewport | table | fills the column | scrolls | breaks out past the column | — apps/web/tests/expected/markdown-wide-table/geometry.expected.md
+- apps/web/tests/expected/math-rendering/ui.expected.md — - banner: — apps/web/tests/expected/math-rendering/ui.expected.md
+- apps/web/tests/expected/menu-material/session-menu.expected.md — - menu: — apps/web/tests/expected/menu-material/session-menu.expected.md
+- apps/web/tests/expected/models-settings/catalog-inputs.expected.md — - dialog "设置": — apps/web/tests/expected/models-settings/catalog-inputs.expected.md
+- apps/web/tests/expected/models-settings/configured.expected.md — - dialog "设置": — apps/web/tests/expected/models-settings/configured.expected.md
+- apps/web/tests/expected/models-settings/declared-edit.expected.md — - dialog "设置": — apps/web/tests/expected/models-settings/declared-edit.expected.md
+- apps/web/tests/expected/models-settings/declared.expected.md — - dialog "设置": — apps/web/tests/expected/models-settings/declared.expected.md
+- apps/web/tests/expected/models-settings/delete.expected.md — - dialog "删除 minimax-cn？": — apps/web/tests/expected/models-settings/delete.expected.md
+- apps/web/tests/expected/models-settings/empty.expected.md — - dialog "设置": — apps/web/tests/expected/models-settings/empty.expected.md
+- apps/web/tests/expected/models-settings/image-only.expected.md — - dialog "设置": — apps/web/tests/expected/models-settings/image-only.expected.md
+- apps/web/tests/expected/models-settings/model-picker.expected.md — - dialog "选择要添加的模型": — apps/web/tests/expected/models-settings/model-picker.expected.md
+- apps/web/tests/expected/models-settings/native-delete.expected.md — - dialog "删除 minimax-cn？": — apps/web/tests/expected/models-settings/native-delete.expected.md
+- apps/web/tests/expected/models-settings/native-keyless.expected.md — - dialog "设置": — apps/web/tests/expected/models-settings/native-keyless.expected.md
+- apps/web/tests/expected/models-settings/refreshing.expected.md — - dialog "设置": — apps/web/tests/expected/models-settings/refreshing.expected.md
+- apps/web/tests/expected/models-settings-recovery/stored-error.expected.md — - dialog "设置": — apps/web/tests/expected/models-settings-recovery/stored-error.expected.md
+- apps/web/tests/expected/navigation-panes/code-card.expected.md — - text: Code block — apps/web/tests/expected/navigation-panes/code-card.expected.md
+- apps/web/tests/expected/navigation-panes/command-wrap.expected.md — [ — apps/web/tests/expected/navigation-panes/command-wrap.expected.md
+- apps/web/tests/expected/new-session-refused/notice.expected.md — - alert: "新建会话失败：agent-preset/invalid: ghost (@deepseek-ai/dsh-no-such-plugin): never star — apps/web/tests/expected/new-session-refused/notice.expected.md
+- Office font warning — - Document preparation: centered 28px spinner with visible rendering status in both themes — apps/web/tests/expected/office-font-notice.md
+- apps/web/tests/expected/onboarding-deepseek-config/default-models.expected.md — - dialog "设置": — apps/web/tests/expected/onboarding-deepseek-config/default-models.expected.md
+- apps/web/tests/expected/onboarding-deepseek-config/empty.expected.md — - group "模型与推理等级": — apps/web/tests/expected/onboarding-deepseek-config/empty.expected.md
+- apps/web/tests/expected/onboarding-deepseek-config/missing.expected.md — - dialog "添加一个 API Key 开始使用": — apps/web/tests/expected/onboarding-deepseek-config/missing.expected.md
+- apps/web/tests/expected/onboarding-deepseek-config/models.expected.md — - dialog "设置": — apps/web/tests/expected/onboarding-deepseek-config/models.expected.md
+- apps/web/tests/expected/onboarding-deepseek-config/sign-in.expected.md — - dialog "开始使用": — apps/web/tests/expected/onboarding-deepseek-config/sign-in.expected.md
+- apps/web/tests/expected/onboarding-deepseek-config/welcome.expected.md — - dialog "预览版说明": — apps/web/tests/expected/onboarding-deepseek-config/welcome.expected.md
+- apps/web/tests/expected/onboarding-native/models.expected.md — - dialog "设置": — apps/web/tests/expected/onboarding-native/models.expected.md
+- apps/web/tests/expected/onboarding-native/signed-out-menu.expected.md — - menu: — apps/web/tests/expected/onboarding-native/signed-out-menu.expected.md
+- apps/web/tests/expected/onboarding-usable-provider/dismissed.expected.md — - dialog "设置": — apps/web/tests/expected/onboarding-usable-provider/dismissed.expected.md
+- Composer control layout — - Plan chip fully in viewport: true — apps/web/tests/expected/plan-narrow-viewport/layout.expected.md
+- apps/web/tests/expected/plan-review/temporary.expected.md — - region "Temporary review": — apps/web/tests/expected/plan-review/temporary.expected.md
+- apps/web/tests/expected/plugin-config/bundle.expected.md — - button "返回插件": 插件 — apps/web/tests/expected/plugin-config/bundle.expected.md
+- apps/web/tests/expected/plugin-config/official.expected.md — - heading "插件" [level=1] — apps/web/tests/expected/plugin-config/official.expected.md
+- apps/web/tests/expected/plugin-config/row.expected.md — - button "返回 @fixture/live-client": "@fixture/live-client" — apps/web/tests/expected/plugin-config/row.expected.md
+- apps/web/tests/expected/plugin-config/subagent.expected.md — - button "返回插件": 插件 — apps/web/tests/expected/plugin-config/subagent.expected.md
+- apps/web/tests/expected/plugin-config/web-search.expected.md — - button "返回插件": 插件 — apps/web/tests/expected/plugin-config/web-search.expected.md
+- apps/web/tests/expected/plugin-install-approve/blocked.expected.md — - dialog "插件安装失败": — apps/web/tests/expected/plugin-install-approve/blocked.expected.md
+- apps/web/tests/expected/plugin-install-cancel/cancelled.expected.md — - dialog "添加插件": — apps/web/tests/expected/plugin-install-cancel/cancelled.expected.md
+- apps/web/tests/expected/plugin-install-cancel/highlight.expected.md — - listitem: — apps/web/tests/expected/plugin-install-cancel/highlight.expected.md

@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 28/66)
+
+- Agent Note: Default session-telemetry mount (OTel reporting) in the dsh web composition — Status: implemented — .agents/notes/archived/feature/2026-07-31-web-telemetry-default-mount.md
+- Agent Note: dsh web 组合默认挂载会话遥测（OTel 上报） — Status: implemented — .agents/notes/archived/feature/2026-07-31-web-telemetry-default-mount.zh.md
+- Agent Note: opening a produced file from the web UI — Status: implemented — .agents/notes/archived/feature/2026-07-31-web-workspace-file-links.md
+- Agent Note: 从 web UI 打开产出的文件 — Status: implemented — .agents/notes/archived/feature/2026-07-31-web-workspace-file-links.zh.md
+- Agent Note: Workspace-write defaults for shipped surfaces — Status: implemented — .agents/notes/archived/feature/2026-07-31-workspace-write-surface-default.md
+- Agent Note: 已交付界面的 workspace-write 默认值 — Status: implemented — .agents/notes/archived/feature/2026-07-31-workspace-write-surface-default.zh.md
+- Agent Note: Goal command input projection — Status: implemented — .agents/notes/archived/feature/2026-08-01-goal-command-input-projection.md
+- Agent Note: Goal 命令输入投影 — Status: implemented — .agents/notes/archived/feature/2026-08-01-goal-command-input-projection.zh.md
+- Agent Note: PowerShell executor and pwsh tool — Status: implemented — .agents/notes/archived/feature/2026-08-01-pwsh-tool-and-executor.md
+- Agent Note: PowerShell 执行器与 pwsh 工具 — Status: implemented — .agents/notes/archived/feature/2026-08-01-pwsh-tool-and-executor.zh.md
+- Agent Note: Windows defaults to pwsh — Status: implemented — .agents/notes/archived/feature/2026-08-01-windows-pwsh-default.md
+- Agent Note: Windows 默认改用 pwsh — Status: implemented — .agents/notes/archived/feature/2026-08-01-windows-pwsh-default.zh.md
+- Agent Note: pwsh tool bash parity — Status: implemented — .agents/notes/archived/feature/2026-08-02-pwsh-tool-bash-parity.md
+- Agent Note: pwsh 工具与 bash 对齐 — Status: implemented — .agents/notes/archived/feature/2026-08-02-pwsh-tool-bash-parity.zh.md
+- Agent Note: Session search tools are not a shipped default — Status: implemented — .agents/notes/archived/feature/2026-08-02-session-search-not-shipped-default.md
+- Agent Note: 会话搜索工具不是交付默认项 — Status: implemented — .agents/notes/archived/feature/2026-08-02-session-search-not-shipped-default.zh.md
+- Agent Note: Web thinking tail scroll — collapsed reasoning follows live output — Status: implemented — .agents/notes/archived/feature/2026-08-02-web-thinking-tail-scroll.md
+- Agent Note: Web 思考尾部滚动 —— 折叠态 reasoning 跟随实时输出 — Status: implemented — .agents/notes/archived/feature/2026-08-02-web-thinking-tail-scroll.zh.md
+- Agent Note: Win32 folder picker moves to koffi in a child process — Status: implemented — .agents/notes/archived/feature/2026-08-02-win32-in-process-folder-dialog.md
+- Agent Note: Win32 文件夹选择器迁至 koffi 子进程 — Status: implemented — .agents/notes/archived/feature/2026-08-02-win32-in-process-folder-dialog.zh.md
+- Agent Note: Stale-version errors append the recovery instruction at the model boundary — Status: implemented — .agents/notes/archived/feature/2026-08-03-fs-tool-error-remedy.md
+- Agent Note: 陈旧版本错误在模型边界追加恢复指令 — Status: implemented — .agents/notes/archived/feature/2026-08-03-fs-tool-error-remedy.zh.md
+- Agent Note: Web search source card scrolls instead of collapsing — Status: implemented — .agents/notes/archived/feature/2026-08-03-web-search-source-scroll.md
+- Agent Note: Web search 来源卡片改为滚动而非折叠 — Status: implemented — .agents/notes/archived/feature/2026-08-03-web-search-source-scroll.zh.md
+- Agent Note: Web turn run time and hover-revealed time chrome — Status: implemented — .agents/notes/archived/feature/2026-08-03-web-turn-run-time.md
+- Agent Note: Web 轮次运行时长与悬停显示的时间附属元素 — Status: implemented — .agents/notes/archived/feature/2026-08-03-web-turn-run-time.zh.md
+- Agent Note: Claude Code and Codex subagent backends — Status: implemented — .agents/notes/archived/feature/2026-08-04-claude-code-and-codex-subagent-backends.md
+- Agent Note: Claude Code 与 Codex subagent 后端 — Status: implemented — .agents/notes/archived/feature/2026-08-04-claude-code-and-codex-subagent-backends.zh.md
+- Agent Note: The sidebar's scrollbars follow the pointer — Status: implemented — .agents/notes/archived/feature/2026-08-04-pointer-revealed-sidebar-scrollbars.md
+- Agent Note: 侧边栏的滚动条跟随指针 — Status: implemented — .agents/notes/archived/feature/2026-08-04-pointer-revealed-sidebar-scrollbars.zh.md
+- Agent Note: Web composer shared width axis and control-row polish — Status: implemented — .agents/notes/archived/feature/2026-08-04-web-composer-shared-width-axis.md
+- Agent Note: Web 输入区共享宽度轴与控制行打磨 — Status: implemented — .agents/notes/archived/feature/2026-08-04-web-composer-shared-width-axis.zh.md
+- Agent Note: Web transcript marks context source, recall, and steering — Status: implemented — .agents/notes/archived/feature/2026-08-04-web-context-source-and-steer-marks.md
+- Agent Note: Web transcript 标出上下文来源、召回与 steering — Status: implemented — .agents/notes/archived/feature/2026-08-04-web-context-source-and-steer-marks.zh.md
+- Agent Note: Web turn and window latency/throughput metrics — Status: implemented — .agents/notes/archived/feature/2026-08-04-web-latency-throughput-metrics.md
+- Agent Note: Web 轮次与窗口级延迟/吞吐指标 — Status: implemented — .agents/notes/archived/feature/2026-08-04-web-latency-throughput-metrics.zh.md
+- Agent Note: Web slash-command fuzzy discovery — Status: implemented — .agents/notes/archived/feature/2026-08-04-web-slash-command-fuzzy-discovery.md
+- Agent Note: Web 斜杠命令模糊发现 — Status: implemented — .agents/notes/archived/feature/2026-08-04-web-slash-command-fuzzy-discovery.zh.md
+- Agent Note: Composer context meter with heuristic composition breakdown — Status: implemented — .agents/notes/archived/feature/2026-08-05-composer-context-meter-breakdown.md

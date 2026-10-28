@@ -1,0 +1,35 @@
+# docs: packages (830 篇, part 3/26)
+
+- @deepseek-ai/dsh-client-hmr — description: "Live graph synchronization and development bundle reloads for Web client plu — packages/client/hmr/README.md
+- @deepseek-ai/dsh-client-hmr — description: "Web 客户端插件的动态图同步与开发时 bundle 重载。" — packages/client/hmr/README.zh.md
+- @deepseek-ai/dsh-client-locale — description: "Localization for the web GUI: the zh/en preference, browser-derived fallback — packages/client/locale/README.md
+- @deepseek-ai/dsh-client-locale — description: "面向用户与插件作者的 web GUI 本地化说明：zh/en 偏好、浏览器派生回退、类型化命名空间字典与框架翻译席位。" — packages/client/locale/README.zh.md
+- @deepseek-ai/dsh-client-modules — description: "Client module system for the web GUI: the host composes the boot graph and s — packages/client/modules/README.md
+- @deepseek-ai/dsh-client-modules — description: "面向用户与维护者的 web GUI 客户端模块系统说明：宿主侧组合启动图并提供插件 bundle，浏览器侧按需加载，用于组合或排查客户端插件。" — packages/client/modules/README.zh.md
+- @deepseek-ai/dsh-client-product-analytics — description: "Configure Desktop product analytics, identity fields, and event timing witho — packages/client/product-analytics/README.md
+- @deepseek-ai/dsh-client-product-analytics — description: "配置桌面端产品埋点、身份字段和事件时机，不采集 Web 使用情况。" — packages/client/product-analytics/README.zh.md
+- client/ — web-GUI browser half — description: "Package map for the web GUI browser half: shell boot, browser-host communica — packages/client/README.md
+- client/ — Web GUI 浏览器侧 — description: "web GUI 浏览器侧的包映射：外壳启动、浏览器与宿主通信、共享客户端服务、本地化、开发重载与 UI 功能插件。" — packages/client/README.zh.md
+- @deepseek-ai/dsh-client-resources — description: "Client resource model: protocol-registered providers turn URL addresses into — packages/client/resources/README.md
+- @deepseek-ai/dsh-client-resources — description: "客户端资源模型：按协议注册的提供方把 URL 地址解析为实时值，任何 slot 组件都通过 useResource 标准钩子读取。" — packages/client/resources/README.zh.md
+- @deepseek-ai/dsh-client-shortcuts — description: "Customize application keyboard commands for each device" — packages/client/shortcuts/README.md
+- @deepseek-ai/dsh-client-shortcuts — description: "为每台设备自定义应用键盘命令" — packages/client/shortcuts/README.zh.md
+- @deepseek-ai/dsh-client-store — description: "Observable browser state stores with explicit snapshots, subscriptions, and  — packages/client/store/README.md
+- @deepseek-ai/dsh-client-store — description: "具有显式快照、订阅与生命周期所有权的浏览器可观察状态存储。" — packages/client/store/README.zh.md
+- @deepseek-ai/dsh-client-ui-agent-preset — description: "Choose Agent presets and the new-task default in Web, read what each mode do — packages/client/ui-agent-preset/README.md
+- @deepseek-ai/dsh-client-ui-agent-preset — description: "在 Web 中选择 Agent preset 和新任务默认值，查看各模式的说明与声明的配置。创建与修改引导至创造模式。" — packages/client/ui-agent-preset/README.zh.md
+- @deepseek-ai/dsh-client-ui-approval — description: "Browser approval UI that answers Host permission requests through the scoped — packages/client/ui-approval/README.md
+- @deepseek-ai/dsh-client-ui-approval — description: "通过作用域交互路径响应 Host 权限请求的浏览器批准界面。" — packages/client/ui-approval/README.zh.md
+- @deepseek-ai/dsh-client-ui-attachment — description: "Attachment presentation for the conversation UI: mixed draft-attachment rail — packages/client/ui-attachment/README.md
+- @deepseek-ai/dsh-client-ui-attachment — description: "对话 UI 的附件呈现：混合草稿附件栏、文档拖放目标、历史图片画廊与原图灯箱；供 Web 附件体验的用户与维护者阅读。" — packages/client/ui-attachment/README.zh.md
+- @deepseek-ai/dsh-client-ui-brand-official — description: "Official DeepSeek Harness brand occupants for the sidebar, active only in of — packages/client/ui-brand-official/README.md
+- @deepseek-ai/dsh-client-ui-brand-official — description: "面向侧栏的官方 DeepSeek Harness 品牌填充，仅在官方构建中生效；供选择或替换品牌呈现的用户与维护者阅读。" — packages/client/ui-brand-official/README.zh.md
+- @deepseek-ai/dsh-client-ui-chat — description: "Browser Chat target that renders Session conversation nodes, historical imag — packages/client/ui-chat/README.md
+- @deepseek-ai/dsh-client-ui-chat — description: "渲染会话对话节点、历史图片、操作、本地化和滚动状态的浏览器 Chat target。" — packages/client/ui-chat/README.zh.md
+- Chat conversation node rules — description: "Detailed business rules for Chat process grouping and activity summaries." — packages/client/ui-chat/src/client/conversation-nodes/README.md
+- Chat 节点业务规则 — description: "Chat 过程分组与活动摘要的明细业务规则。" — packages/client/ui-chat/src/client/conversation-nodes/README.zh.md
+- @deepseek-ai/dsh-client-ui-commands — description: "Client command API for the Web GUI: the / command source, three dispatch kin — packages/client/ui-commands/README.md
+- @deepseek-ai/dsh-client-ui-commands — description: "Web GUI 的客户端命令 API：/ 命令 source、三类派发、会话级命令目录，以及面向业务包的 popupSelect 与 action 注册 — packages/client/ui-commands/README.zh.md
+- @deepseek-ai/dsh-client-ui-conversation — description: "Target-neutral conversation assembly and browser shell: event and view regis — packages/client/ui-conversation/README.md
+- @deepseek-ai/dsh-client-ui-conversation — description: "Target-neutral 对话装配与浏览器 shell：事件和视图注册表、逐会话 binding、输入状态、slot 与临时 composer ta — packages/client/ui-conversation/README.zh.md
+- @deepseek-ai/dsh-client-ui-deepseek-model-label-1017 — description: "Show a temporary 1017 badge beside DeepSeek Flash in the composer model sele — packages/client/ui-deepseek-model-label-1017/README.md

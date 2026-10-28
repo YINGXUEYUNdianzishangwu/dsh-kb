@@ -1,0 +1,27 @@
+# docs: snapshots (276 篇, part 6/6)
+
+- snapshots/web/subagent-conversation/ui.expected.md — - banner: — snapshots/web/subagent-conversation/ui.expected.md
+- snapshots/web/subagent-interrupt/image-queue.expected.md — - banner: — snapshots/web/subagent-interrupt/image-queue.expected.md
+- snapshots/web/subagent-interrupt/offline-composer.expected.md — - banner: — snapshots/web/subagent-interrupt/offline-composer.expected.md
+- snapshots/web/tool-details/ui.expected.md — - button "Create goal Ship compact tool cards" [expanded] — snapshots/web/tool-details/ui.expected.md
+- snapshots/web/turn-tail-actions/completed.expected.md — - banner: — snapshots/web/turn-tail-actions/completed.expected.md
+- snapshots/web/turn-tail-actions/focused.expected.md — - banner: — snapshots/web/turn-tail-actions/focused.expected.md
+- snapshots/web/turn-tail-actions/running.expected.md — - banner: — snapshots/web/turn-tail-actions/running.expected.md
+- snapshots/web/turn-tail-actions/settled.expected.md — - banner: — snapshots/web/turn-tail-actions/settled.expected.md
+- snapshots/web/turn-tail-actions/usage-expanded.expected.md — - banner: — snapshots/web/turn-tail-actions/usage-expanded.expected.md
+- snapshots/web/user-text-secret-mask/bubble.expected.md — - text: sk-01234 — snapshots/web/user-text-secret-mask/bubble.expected.md
+- snapshots/web/voice-input/device-long.expected.md — - text: Input device — snapshots/web/voice-input/device-long.expected.md
+- snapshots/web/voice-input/device-missing.expected.md — - text: Input device — snapshots/web/voice-input/device-missing.expected.md
+- snapshots/web/voice-input/device.expected.md — - text: Input device — snapshots/web/voice-input/device.expected.md
+- snapshots/web/voice-input/interrupted.expected.md — - textbox "Message or run a task, / commands, @ files or sessions" — snapshots/web/voice-input/interrupted.expected.md
+- snapshots/web/voice-input/recording.expected.md — - textbox "Describe what you want to build, / commands, @ files or sessions": — snapshots/web/voice-input/recording.expected.md
+- snapshots/web/voice-input/setup.expected.md — - dialog "Set up voice input before recording": — snapshots/web/voice-input/setup.expected.md
+- snapshots/web/voice-input/ui.expected.md — - banner: — snapshots/web/voice-input/ui.expected.md
+- snapshots/web/voice-input/unavailable.expected.md — - dialog "Speech recognition is not ready": — snapshots/web/voice-input/unavailable.expected.md
+- snapshots/web/web-search-round/ui.expected.md — - banner: — snapshots/web/web-search-round/ui.expected.md
+- snapshots/web/workflow-run/ui-live.expected.md — - button "snapshot-flow 1 member Running" [expanded] — snapshots/web/workflow-run/ui-live.expected.md
+- snapshots/web/workflow-run/ui.expected.md — - text: "Use the workflow tool exactly once, with args omitted, meta set to { \"name\": \" — snapshots/web/workflow-run/ui.expected.md
+- snapshots/web/workspace-management/directory-browser.expected.md — - dialog "Select Workspace Directory": — snapshots/web/workspace-management/directory-browser.expected.md
+- snapshots/web/workspace-management/new-session.expected.md — Before New Session — snapshots/web/workspace-management/new-session.expected.md
+- snapshots/web/workspace-recency/manual-blank.expected.md — - tree "Sessions": — snapshots/web/workspace-recency/manual-blank.expected.md
+- snapshots/web/workspace-recency/sidebar.expected.md — - tree "Sessions": — snapshots/web/workspace-recency/sidebar.expected.md

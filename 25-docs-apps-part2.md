@@ -1,0 +1,45 @@
+# docs: apps (260 篇, part 2/6)
+
+- apps/web/tests/expected/clickable-links-gallery/ui.expected.md — - banner: — apps/web/tests/expected/clickable-links-gallery/ui.expected.md
+- apps/web/tests/expected/client-plugin-live/bootstrap-rebuild.expected.md — - alert: 本页面的插件未能完成同步；服务端的启用状态保持不变。 — apps/web/tests/expected/client-plugin-live/bootstrap-rebuild.expected.md
+- apps/web/tests/expected/client-plugin-live/enabled.expected.md — - text: 动态插件已启用 — apps/web/tests/expected/client-plugin-live/enabled.expected.md
+- apps/web/tests/expected/client-plugin-live/recovered.expected.md — - text: 动态插件 r1 已启用 — apps/web/tests/expected/client-plugin-live/recovered.expected.md
+- apps/web/tests/expected/client-plugin-live/session-actions.expected.md — - menu: — apps/web/tests/expected/client-plugin-live/session-actions.expected.md
+- apps/web/tests/expected/cold-blank-session/queue.expected.md — - list: — apps/web/tests/expected/cold-blank-session/queue.expected.md
+- Composer draft scrolling (14-line cap, one editable surface, one scrollport) — - draft overflows the capped box: true — apps/web/tests/expected/composer-draft-scroll/geometry.expected.md
+- Composer whitespace focus — - top padding: focused; selection "beta" (10 → 6) — apps/web/tests/expected/composer-focus/focus.expected.md
+- apps/web/tests/expected/composer-placeholder/visibility.expected.md — - Empty draft: placeholder visible — apps/web/tests/expected/composer-placeholder/visibility.expected.md
+- Input card position across the Chat and Trajectory tabs — - Chat: scrollbar-gutter stable, overflow auto/auto — apps/web/tests/expected/composer-tab-geometry/geometry.expected.md
+- apps/web/tests/expected/cordis-history/ui.expected.md — - banner: — apps/web/tests/expected/cordis-history/ui.expected.md
+- apps/web/tests/expected/cot-translation/bing.expected.md — - button "思考" [expanded] — apps/web/tests/expected/cot-translation/bing.expected.md
+- apps/web/tests/expected/cot-translation/failure.expected.md — - button "思考" [expanded] — apps/web/tests/expected/cot-translation/failure.expected.md
+- apps/web/tests/expected/cot-translation/preferences.expected.md — - button "返回 实验性插件": 实验性插件 — apps/web/tests/expected/cot-translation/preferences.expected.md
+- apps/web/tests/expected/cot-translation-paid/paid-choices.expected.md — - button "返回 实验性插件": 实验性插件 — apps/web/tests/expected/cot-translation-paid/paid-choices.expected.md
+- apps/web/tests/expected/cot-translation-paid/paid-result.expected.md — - button "思考" [expanded] — apps/web/tests/expected/cot-translation-paid/paid-result.expected.md
+- apps/web/tests/expected/declared-reasoning/pointer-menu.expected.md — - group "模型与推理等级": — apps/web/tests/expected/declared-reasoning/pointer-menu.expected.md
+- apps/web/tests/expected/declared-reasoning/ui.expected.md — - menu "模型与推理等级": — apps/web/tests/expected/declared-reasoning/ui.expected.md
+- apps/web/tests/expected/deepseek-messages-settings/cards.expected.md — - dialog "设置": — apps/web/tests/expected/deepseek-messages-settings/cards.expected.md
+- apps/web/tests/expected/deepseek-messages-settings/picker.expected.md — - group "模型与推理等级": — apps/web/tests/expected/deepseek-messages-settings/picker.expected.md
+- apps/web/tests/expected/deepseek-model-label-1017/models.expected.md — - menu "模型": — apps/web/tests/expected/deepseek-model-label-1017/models.expected.md
+- apps/web/tests/expected/default-model/background-save.expected.md — - textbox "描述你想要构建的内容, / 调用指令, @ 文件或对话" — apps/web/tests/expected/default-model/background-save.expected.md
+- apps/web/tests/expected/default-model/command-picker.expected.md — - textbox "筛选选项": — apps/web/tests/expected/default-model/command-picker.expected.md
+- apps/web/tests/expected/default-model/model-labels.expected.md — [ — apps/web/tests/expected/default-model/model-labels.expected.md
+- apps/web/tests/expected/default-model/search.expected.md — - group "模型与推理等级": — apps/web/tests/expected/default-model/search.expected.md
+- apps/web/tests/expected/default-model/unselected.expected.md — - textbox "描述你想要构建的内容, / 调用指令, @ 文件或对话" — apps/web/tests/expected/default-model/unselected.expected.md
+- apps/web/tests/expected/default-workspace/failure.expected.md — - alert: 无法创建默认工作区，请通过“选择工作区”选择文件夹 — apps/web/tests/expected/default-workspace/failure.expected.md
+- apps/web/tests/expected/desktop-locale/automatic.expected.md — - dialog "设置": — apps/web/tests/expected/desktop-locale/automatic.expected.md
+- apps/web/tests/expected/desktop-locale/selected.expected.md — - dialog "Settings": — apps/web/tests/expected/desktop-locale/selected.expected.md
+- apps/web/tests/expected/desktop-onboarding/bonus-after-onboarding.expected.md — initial.onboarding notice=false acks=0 — apps/web/tests/expected/desktop-onboarding/bonus-after-onboarding.expected.md
+- apps/web/tests/expected/desktop-onboarding/credit-en-dark.expected.md — - region "Add credits": — apps/web/tests/expected/desktop-onboarding/credit-en-dark.expected.md
+- apps/web/tests/expected/desktop-onboarding/credit-funded-en-dark.expected.md — - region "Add credits": — apps/web/tests/expected/desktop-onboarding/credit-funded-en-dark.expected.md
+- apps/web/tests/expected/desktop-onboarding/credit.expected.md — - region "准备可用额度": — apps/web/tests/expected/desktop-onboarding/credit.expected.md
+- apps/web/tests/expected/desktop-onboarding/process-en-dark.expected.md — - region "How much detail would you like to see?": — apps/web/tests/expected/desktop-onboarding/process-en-dark.expected.md
+- apps/web/tests/expected/desktop-onboarding/process.expected.md — - region "你希望看到多少工作过程？": — apps/web/tests/expected/desktop-onboarding/process.expected.md
+- apps/web/tests/expected/desktop-onboarding/purpose-en-dark.expected.md — - region "What would you like DeepSeek Harness to help with?": — apps/web/tests/expected/desktop-onboarding/purpose-en-dark.expected.md
+- apps/web/tests/expected/desktop-onboarding/purpose.expected.md — - region "你希望 DeepSeek Harness 帮你做什么？": — apps/web/tests/expected/desktop-onboarding/purpose.expected.md
+- apps/web/tests/expected/desktop-onboarding/welcome-en-dark.expected.md — - region "Welcome to DeepSeek Harness": — apps/web/tests/expected/desktop-onboarding/welcome-en-dark.expected.md
+- apps/web/tests/expected/desktop-onboarding/welcome.expected.md — - region "欢迎使用 DeepSeek Harness": — apps/web/tests/expected/desktop-onboarding/welcome.expected.md
+- Mixed composer attachment rail — - selection order: poem.txt > reference-1.png > reference-2.png > reference-3.png > refere — apps/web/tests/expected/file-upload-round/draft.expected.md
+- Mixed history attachment flow — - source order: poem.txt > reference-1.png — apps/web/tests/expected/file-upload-round/history.expected.md
+- apps/web/tests/expected/fork-mid-turn/ui.expected.md — - text: "Use the read tool twice in one assistant message: read a.txt and b.txt. Then repl — apps/web/tests/expected/fork-mid-turn/ui.expected.md
+- apps/web/tests/expected/github-ready-review/conversation-expanded.expected.md — - tree "Sessions": — apps/web/tests/expected/github-ready-review/conversation-expanded.expected.md

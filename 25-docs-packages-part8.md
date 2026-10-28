@@ -1,0 +1,33 @@
+# docs: packages (830 篇, part 8/26)
+
+- @deepseek-ai/dsh-file-reference — description: "File-reference discovery and @file mention grammar for host-backed UIs, for  — packages/context/file-reference/README.md
+- @deepseek-ai/dsh-file-reference — description: "面向宿主驱动 UI 的文件引用发现与 @file mention 语法，供选择该 seam 或为其搭配提供方的用户与维护者阅读。" — packages/context/file-reference/README.zh.md
+- @deepseek-ai/dsh-file-reference-local — description: "Local-workspace @file completion provider for users and maintainers enabling — packages/context/file-reference-local/README.md
+- @deepseek-ai/dsh-file-reference-local — description: "面向用户与维护者的本地工作区 @file 补全提供方，用于启用、调整规模或排查 ctx.fileReferences 的发现能力。" — packages/context/file-reference-local/README.zh.md
+- @deepseek-ai/dsh-harness-dev-context — description: "Model context for users and maintainers of the Web GUI that names the DeepSe — packages/context/harness-dev-context/README.md
+- @deepseek-ai/dsh-harness-dev-context — description: "面向 Web GUI 用户与维护者的模型上下文：给出 DeepSeek Harness checkout 与 GUI URL，且两者都不会改变系统提示词 — packages/context/harness-dev-context/README.zh.md
+- context/ — Request-context plugins — description: "The context group map: request-context plugins that add durable, model-visib — packages/context/README.md
+- context/ — 请求上下文插件 — description: "context 组概览：不定义工具、为每次请求添加持久且模型可见上下文的插件，供浏览本组的用户与维护者阅读。" — packages/context/README.zh.md
+- @deepseek-ai/dsh-session-reference — description: "Cross-session snapshot references and durable untrusted model context, for u — packages/context/session-reference/README.md
+- @deepseek-ai/dsh-session-reference — description: "跨会话快照引用与持久的不受信任模型上下文，供启用或排查 ctx.sessionReferenceResolver 的用户与维护者阅读。" — packages/context/session-reference/README.zh.md
+- @deepseek-ai/dsh-time-context — description: "Per-step clock context with the current time, browser zone, and elapsed time — packages/context/time-context/README.md
+- @deepseek-ai/dsh-time-context — description: "按步骤提供时钟上下文，包含当前时间、浏览器时区与经过时长，供调优本插件的用户与维护者阅读。" — packages/context/time-context/README.zh.md
+- @deepseek-ai/dsh-tmux-context — description: "Opt-in per-turn tmux location context for users and maintainers enabling or  — packages/context/tmux-context/README.md
+- @deepseek-ai/dsh-tmux-context — description: "可选的按轮次 tmux 位置上下文，供启用或调优 agent（智能体）的会话、window 与 pane 感知的用户与维护者阅读。" — packages/context/tmux-context/README.zh.md
+- @deepseek-ai/dsh-agent — description: "The Agent handle, live registry, process-local initiator scope, and agent/ e — packages/core/agent/README.md
+- @deepseek-ai/dsh-agent — description: "面向插件、UI 与编排器的 Agent 句柄、实时注册表、进程本地发起方作用域，以及 agent/ 事件词汇。" — packages/core/agent/README.zh.md
+- @deepseek-ai/dsh-agent-default-model — description: "The deployment default model selection for users and maintainers choosing, c — packages/core/agent-default-model/README.md
+- @deepseek-ai/dsh-agent-default-model — description: "面向用户与维护者的部署默认模型选择说明，用于选择、配置或调试新创建的 agent（智能体）初始使用哪个模型。" — packages/core/agent-default-model/README.zh.md
+- @deepseek-ai/dsh-agent-loop — description: "The default agent driver for users and maintainers choosing, configuring, or — packages/core/agent-loop/README.md
+- @deepseek-ai/dsh-agent-loop — description: "面向用户与维护者的默认 agent（智能体）驱动器说明，用于选择、配置或调试 agent 的创建方式以及轮次与步骤的运行方式。" — packages/core/agent-loop/README.zh.md
+- @deepseek-ai/dsh-agent-tool-presentation — description: "The agent-plane presentation selector for users and maintainers choosing, co — packages/core/agent-tool-presentation/README.md
+- @deepseek-ai/dsh-agent-tool-presentation — description: "面向用户与维护者的 agent（智能体）平面呈现选择器说明，用于选择、配置或调试 agent preset 的模型看到其工具的哪种形态。" — packages/core/agent-tool-presentation/README.zh.md
+- packages/core — description: "The core group map: the session log, system-prompt assembly, tool registry,  — packages/core/README.md
+- packages/core — description: "core 分组地图：构成产品 API 主干的会话日志、系统提示词组装、工具注册表、agent（智能体）词汇与默认循环。" — packages/core/README.zh.md
+- @deepseek-ai/dsh-scope — description: "The scoped-registration library for plugin authors and maintainers building  — packages/core/scope/README.md
+- @deepseek-ai/dsh-scope — description: "面向插件作者与维护者的作用域注册库，用于构建按 agent（智能体）或按分组隔离贡献的注册表或事件接口。" — packages/core/scope/README.zh.md
+- @deepseek-ai/dsh-session — description: "The event-sourced session log and in-memory store for users and maintainers  — packages/core/session/README.md
+- @deepseek-ai/dsh-session — description: "面向用户与维护者的事件溯源会话日志与内存存储说明，用于构建、检查或扩展每个 agent（智能体）交互背后的持久记录。" — packages/core/session/README.zh.md
+- @deepseek-ai/dsh-system-prompt — description: "System-prompt assembly for users and maintainers adding prompt sections, var — packages/core/system-prompt/README.md
+- @deepseek-ai/dsh-system-prompt — description: "面向用户与维护者的系统提示词组装说明，用于添加提示词段、变量、工具 schema 来源或配置面向模型的提示词。" — packages/core/system-prompt/README.zh.md
+- @deepseek-ai/dsh-tools — description: "The tool registry and execution pipeline for tool authors and maintainers re — packages/core/tools/README.md

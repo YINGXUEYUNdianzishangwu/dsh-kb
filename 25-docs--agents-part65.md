@@ -1,0 +1,33 @@
+# docs: .agents (2583 篇, part 65/66)
+
+- Agent Note: Prune unused stream visibility helpers — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-prune-stream-visibility-helpers.md
+- Agent Note: 精简未使用的流可见性辅助函数 — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-prune-stream-visibility-helpers.zh.md
+- Agent Note: Remove the Python SDK's unused reverse RPC direction — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-python-sdk-directional-client.md
+- Agent Note: 删除 Python SDK 未使用的反向 RPC — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-python-sdk-directional-client.zh.md
+- Agent Note: Retire app-boot helpers used only by fixtures — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-retire-app-bin-boot-helpers.md
+- Agent Note: 删除仅供 fixture 使用的 app-boot 辅助函数 — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-retire-app-bin-boot-helpers.zh.md
+- Agent Note: Retire the prompt registry change event — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-retire-prompt-registry-change-event.md
+- Agent Note: 停用提示词注册表变更事件 — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-retire-prompt-registry-change-event.zh.md
+- Agent Note: Keep shell-environment declarations focused on key ownership — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-shell-env-key-declarations.md
+- Agent Note: 让 shell 环境声明只负责键所有权 — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-shell-env-key-declarations.zh.md
+- Agent Note: Trim unused SessionQuery convenience methods — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-trim-session-query-convenience-api.md
+- Agent Note: 精简未使用的 SessionQuery 便利方法 — Status: proposed — .agents/notes/proposed/simplification/2026-09-19-trim-session-query-convenience-api.zh.md
+- Agent Note: Deterministic tests, the replay invariant fixture, and race stress — Status: proposed — .agents/notes/proposed/testing/2026-06-11-deterministic-and-stress-testing.md
+- Agent Note: 确定性测试、回放不变式 fixture 与竞态压力测试 — Status: proposed — .agents/notes/proposed/testing/2026-06-11-deterministic-and-stress-testing.zh.md
+- Agent Note: Mutation testing as the coverage counterweight — Status: proposed — .agents/notes/proposed/testing/2026-06-11-mutation-testing.md
+- Agent Note: 变异测试作为覆盖率的制衡手段 — Status: proposed — .agents/notes/proposed/testing/2026-06-11-mutation-testing.zh.md
+- Agent Notes — English | [中文](README.zh.md) — .agents/notes/README.md
+- Agent Notes — [English](README.md) | 中文 — .agents/notes/README.zh.md
+- Agent Note: Runtime schemas for the event vocabulary (Zod vs the merge-extensible-map pattern) — Status: rejected — runtime event-schema registry declined; event maps stay compile-time, Z — .agents/notes/rejected/architecture/2026-06-16-typed-event-schemas.md
+- Agent Note: 事件词汇的运行时 schema（Zod 与 merge-extensible-map 模式之辩） — Status: rejected — runtime event-schema registry declined; event maps stay compile-time, Z — .agents/notes/rejected/architecture/2026-06-16-typed-event-schemas.zh.md
+- Agent Note: Drop durable step boundary events — Status: rejected — step/end is the durable indication that a model step finished, and keep — .agents/notes/rejected/simplification/2026-06-20-drop-durable-step-boundaries.md
+- Agent Note: 移除持久化的步骤边界事件 — Status: rejected — step/end 是模型步骤已完成的持久信号；保留对称的 step/start / step/end 对，比从相邻的步骤级事件推断完成状态更便 — .agents/notes/rejected/simplification/2026-06-20-drop-durable-step-boundaries.zh.md
+- Agent Note: Fold the persistence interface into dsh-session — Status: rejected — the separate persistence Service Definition package is the intended mod — .agents/notes/rejected/simplification/2026-06-20-fold-session-persistence-interface.md
+- Agent Note: 将持久化接口合并进 dsh-session — Status: rejected — 独立的持久化 Service Definition 包是持久化能力 seam 预期的模块化角色拆分。将其折叠进 dsh-session 虽能减 — .agents/notes/rejected/simplification/2026-06-20-fold-session-persistence-interface.zh.md
+- Agent Note: Truncate interrupted final turns on load — Status: rejected — a single turn can contain substantial real work, including many steps a — .agents/notes/rejected/simplification/2026-06-20-truncate-interrupted-turns.md
+- Agent Note: 加载时截断被中断的最终轮次 — Status: rejected — 单个轮次可以包含大量真实工作，包括多个步骤和大量工具输出。保留被中断的轮次，优于在加载时静默丢弃这段尾部。 — .agents/notes/rejected/simplification/2026-06-20-truncate-interrupted-turns.zh.md
+- Agent Note: Prune unused skill registry API — Status: rejected — Direct runtime skill registration is an intentional extension path for  — .agents/notes/rejected/simplification/2026-07-12-prune-unused-skill-registry-api.md
+- Agent Note: 裁剪 skill 注册表中未使用的接口 — Status: rejected — 直接在运行时注册 skill 是为第三方插件保留的有意扩展路径。 — .agents/notes/rejected/simplification/2026-07-12-prune-unused-skill-registry-api.zh.md
+- Agent Note: Fold the single compaction backend into its service package — Status: rejected — More compaction backends are planned, so the Service Definition and bas — .agents/notes/rejected/simplification/2026-07-19-fold-compaction-package-split.md
+- Agent Note: 将唯一的压缩后端并入服务包 — Status: rejected — 计划增加更多压缩后端，因此 Service Definition 包与 basic 提供方包继续分离。 — .agents/notes/rejected/simplification/2026-07-19-fold-compaction-package-split.zh.md
+- Agent Note: Use node:timers/promises for hand-rolled cancellable sleeps — Status: rejected — implementation (PR #679) falsified the parity premise: vitest's fake cl — .agents/notes/rejected/simplification/2026-07-26-builtin-timer-promises-for-hand-rolled-sleeps.md

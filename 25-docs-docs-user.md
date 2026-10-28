@@ -1,0 +1,42 @@
+# docs: docs/user (40 篇, part 1/1)
+
+- Plugin configuration — English | [中文](config.zh.md) — docs/user/develop/basic/config.md
+- 插件配置 — [English](config.md) | 中文 — docs/user/develop/basic/config.zh.md
+- Your first plugin — English | [中文](index.zh.md) — docs/user/develop/basic/index.md
+- 第一个插件 — [English](index.md) | 中文 — docs/user/develop/basic/index.zh.md
+- Package and install a plugin — English | [中文](publish.zh.md) — docs/user/develop/basic/publish.md
+- 打包与安装插件 — [English](publish.md) | 中文 — docs/user/develop/basic/publish.zh.md
+- Build a tool — English | [中文](tool.zh.md) — docs/user/develop/basic/tool.md
+- 开发一个工具 — [English](tool.md) | 中文 — docs/user/develop/basic/tool.zh.md
+- Event system — English | [中文](events.zh.md) — docs/user/develop/framework/events.md
+- 事件系统 — [English](events.md) | 中文 — docs/user/develop/framework/events.zh.md
+- Plugins and lifecycle — English | [中文](index.zh.md) — docs/user/develop/framework/index.md
+- 插件与生命周期 — [English](index.md) | 中文 — docs/user/develop/framework/index.zh.md
+- Services and dependencies — English | [中文](service.zh.md) — docs/user/develop/framework/service.md
+- 服务与依赖 — [English](service.md) | 中文 — docs/user/develop/framework/service.zh.md
+- Configure persistent plugins from a prompt — English | [中文](dynamic-cordis.zh.md) — docs/user/develop/practice/dynamic-cordis.md
+- 通过提示词配置持久化插件 — [English](dynamic-cordis.md) | 中文 — docs/user/develop/practice/dynamic-cordis.zh.md
+- Three-role capability design — English | [中文](index.zh.md) — docs/user/develop/practice/index.md
+- 能力的三种角色设计 — [English](index.md) | 中文 — docs/user/develop/practice/index.zh.md
+- LLM adapters — English | [中文](llm-adapter.zh.md) — docs/user/develop/practice/llm-adapter.md
+- LLM 适配器 — [English](llm-adapter.md) | 中文 — docs/user/develop/practice/llm-adapter.zh.md
+- Create review Sessions from GitHub webhooks — English | [中文](github-review.zh.md) — docs/user/guide/github-review.md
+- 通过 GitHub Webhook 创建评审会话 — [English](github-review.md) | 中文 — docs/user/guide/github-review.zh.md
+- Use the Web UI — English | [中文](index.zh.md) — docs/user/guide/index.md
+- 使用 Web UI — [English](index.md) | 中文 — docs/user/guide/index.zh.md
+- Connect a third-party memory MCP server — English | [中文](mcp-memory.zh.md) — docs/user/guide/mcp-memory.md
+- 连接第三方记忆 MCP 服务 — [English](mcp-memory.md) | 中文 — docs/user/guide/mcp-memory.zh.md
+- Run DSH behind a network proxy — English | [中文](network-proxy.zh.md) — docs/user/guide/network-proxy.md
+- 在网络代理后面运行 DSH — [English](network-proxy.md) | 中文 — docs/user/guide/network-proxy.zh.md
+- Plugin markets — English | [中文](plugin-market.zh.md) — docs/user/guide/plugin-market.md
+- 插件市场 — [English](plugin-market.md) | 中文 — docs/user/guide/plugin-market.zh.md
+- Configure models — English | [中文](providers.zh.md) — docs/user/guide/providers.md
+- 配置模型 — [English](providers.md) | 中文 — docs/user/guide/providers.zh.md
+- Publish the Web UI behind a reverse proxy — English | [中文](public-deployments.zh.md) — docs/user/guide/public-deployments.md
+- 在反向代理之后发布 Web UI — [English](public-deployments.md) | 中文 — docs/user/guide/public-deployments.zh.md
+- Get started with the Python SDK — English | [中文](python-sdk.zh.md) — docs/user/guide/python-sdk.md
+- Python SDK 入门 — [English](python-sdk.md) | 中文 — docs/user/guide/python-sdk.zh.md
+- Schedule reminders — English | [中文](schedule.zh.md) — docs/user/guide/schedule.md
+- Schedule 提醒 — [English](schedule.md) | 中文 — docs/user/guide/schedule.zh.md
+- DeepSeek Harness — layout: false — docs/user/index.md
+- DeepSeek Harness — layout: false — docs/user/index.zh.md

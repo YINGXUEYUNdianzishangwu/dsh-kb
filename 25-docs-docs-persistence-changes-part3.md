@@ -1,0 +1,27 @@
+# docs: docs/persistence-changes (98 篇, part 3/4)
+
+- 持久化版本回溯: dsh-v0.1.0-rc.6 — description: "回溯 dsh-v0.1.0-rc.6 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.0-rc.6.zh.md
+- Persistence release: dsh-v0.1.0-rc.7 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.0-rc.7.md
+- 持久化版本回溯: dsh-v0.1.0-rc.7 — description: "回溯 dsh-v0.1.0-rc.7 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.0-rc.7.zh.md
+- Persistence release: dsh-v0.1.0-rc.8 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.0-rc.8.md
+- 持久化版本回溯: dsh-v0.1.0-rc.8 — description: "回溯 dsh-v0.1.0-rc.8 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.0-rc.8.zh.md
+- Persistence release: dsh-v0.1.1-rc.1 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.1-rc.1.md
+- 持久化版本回溯: dsh-v0.1.1-rc.1 — description: "回溯 dsh-v0.1.1-rc.1 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.1-rc.1.zh.md
+- Persistence release: dsh-v0.1.1-rc.2 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.1-rc.2.md
+- 持久化版本回溯: dsh-v0.1.1-rc.2 — description: "回溯 dsh-v0.1.1-rc.2 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.1-rc.2.zh.md
+- Persistence release: dsh-v0.1.2-alpha.1 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.2-alpha.1.md
+- 持久化版本回溯: dsh-v0.1.2-alpha.1 — description: "回溯 dsh-v0.1.2-alpha.1 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.2-alpha.1.zh.md
+- Persistence release: dsh-v0.1.2-alpha.2 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.2-alpha.2.md
+- 持久化版本回溯: dsh-v0.1.2-alpha.2 — description: "回溯 dsh-v0.1.2-alpha.2 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.2-alpha.2.zh.md
+- Persistence release: dsh-v0.1.2-alpha.3 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.2-alpha.3.md
+- 持久化版本回溯: dsh-v0.1.2-alpha.3 — description: "回溯 dsh-v0.1.2-alpha.3 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.2-alpha.3.zh.md
+- Persistence release: dsh-v0.1.2-alpha.4 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.2-alpha.4.md
+- 持久化版本回溯: dsh-v0.1.2-alpha.4 — description: "回溯 dsh-v0.1.2-alpha.4 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.2-alpha.4.zh.md
+- Persistence release: dsh-v0.1.2-alpha.5 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.2-alpha.5.md
+- 持久化版本回溯: dsh-v0.1.2-alpha.5 — description: "回溯 dsh-v0.1.2-alpha.5 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.2-alpha.5.zh.md
+- Persistence release: dsh-v0.1.2-rc.1 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.2-rc.1.md
+- 持久化版本回溯: dsh-v0.1.2-rc.1 — description: "回溯 dsh-v0.1.2-rc.1 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.2-rc.1.zh.md
+- Persistence release: dsh-v0.1.3-alpha.1 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.3-alpha.1.md
+- 持久化版本回溯: dsh-v0.1.3-alpha.1 — description: "回溯 dsh-v0.1.3-alpha.1 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.3-alpha.1.zh.md
+- Persistence release: dsh-v0.1.3-alpha.2 — description: "Retrospective Session persistence types and adjacent-release changes for dsh — docs/persistence-changes/releases/dsh-v0.1.3-alpha.2.md
+- 持久化版本回溯: dsh-v0.1.3-alpha.2 — description: "回溯 dsh-v0.1.3-alpha.2 的已声明 Session 持久化类型及相邻版本变化。" — docs/persistence-changes/releases/dsh-v0.1.3-alpha.2.zh.md

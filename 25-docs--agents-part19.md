@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 19/66)
+
+- Agent Note: 增量终端保留策略 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-11-incremental-terminal-retention.zh.md
+- Agent Note: Session Controller forks stop at the selected turn end — Status: implemented — .agents/notes/archived/bug-fix/2026-09-11-session-controller-fork-turn-cut.md
+- Agent Note: Session Controller 分叉截到选中轮次的结束事件 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-11-session-controller-fork-turn-cut.zh.md
+- Agent Note: Join direct termination before rejecting Linux scope cleanup — Status: implemented — .agents/notes/archived/bug-fix/2026-09-12-linux-scope-direct-kill-settlement.md
+- Agent Note: 等待直接进程终止后再判定 Linux scope 清理失败 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-12-linux-scope-direct-kill-settlement.zh.md
+- Agent Note: Canonicalize partition coverage locations before the blob merge — Status: implemented — .agents/notes/archived/bug-fix/2026-09-13-partitioned-coverage-location-canonicalization.md
+- Agent Note: 在 blob 合并前规范化分区覆盖率位置 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-13-partitioned-coverage-location-canonicalization.zh.md
+- Agent Note: Web diff cards compare contextual content — Status: implemented — .agents/notes/archived/bug-fix/2026-09-14-web-diff-context.md
+- Agent Note: Web diff 卡片比较含上下文的内容 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-14-web-diff-context.zh.md
+- Agent Note: Windows lock release before contention probing — Status: implemented — .agents/notes/archived/bug-fix/2026-09-14-windows-lock-release-probe.md
+- Agent Note: Windows 锁在竞争探测前释放 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-14-windows-lock-release-probe.zh.md
+- Agent Note: Linear Session list cache reconciliation — Status: implemented — .agents/notes/archived/bug-fix/2026-09-15-linear-session-list-cache.md
+- Agent Note: Session 列表缓存的线性对账 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-15-linear-session-list-cache.zh.md
+- Agent Note: Exact v1 recognition for Messages base URLs — Status: implemented — .agents/notes/archived/bug-fix/2026-09-15-messages-v1-base-url.md
+- Agent Note: Messages 基址严格识别 v1 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-15-messages-v1-base-url.zh.md
+- Agent Note: Replay malformed historical tool input through Messages — Status: implemented — .agents/notes/archived/bug-fix/2026-09-16-messages-historical-tool-input.md
+- Agent Note: 通过 Messages 回放非法历史工具输入 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-16-messages-historical-tool-input.zh.md
+- Agent Note: Movable mandatory-update window — Status: implemented — .agents/notes/archived/bug-fix/2026-09-16-movable-mandatory-update-window.md
+- Agent Note: 可移动的强更窗口 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-16-movable-mandatory-update-window.zh.md
+- Agent Note: Session writer contention feedback — Status: implemented — .agents/notes/archived/bug-fix/2026-09-16-session-writer-held-feedback.md
+- Agent Note: 会话写句柄占用反馈 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-16-session-writer-held-feedback.zh.md
+- Agent Note: Hide Windows subprocess console windows at creation — Status: implemented — .agents/notes/archived/bug-fix/2026-09-16-windows-subprocess-console-visibility.md
+- Agent Note: 在创建时隐藏 Windows 子进程控制台窗口 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-16-windows-subprocess-console-visibility.zh.md
+- Agent Note: Replay assistant blocks in Messages user input — Status: implemented — .agents/notes/archived/bug-fix/2026-09-18-messages-input-history-compatibility.md
+- Agent Note: 回放 Messages 用户输入中的助手块 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-18-messages-input-history-compatibility.zh.md
+- Agent Note: Task tab recovery after a reload — Status: implemented — .agents/notes/archived/bug-fix/2026-09-18-schedule-task-tab-restore.md
+- Agent Note: 刷新后任务标签页的恢复 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-18-schedule-task-tab-restore.zh.md
+- Agent Note: List directory links in the workspace file tree — Status: implemented — .agents/notes/archived/bug-fix/2026-09-18-windows-directory-junction-listing.md
+- Agent Note: 列举工作区文件树中的目录链接 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-18-windows-directory-junction-listing.zh.md
+- Agent Note: Declared Session attachment carriers — Status: implemented — .agents/notes/archived/bug-fix/2026-09-19-declared-session-attachment-carriers.md
+- Agent Note: Session 声明的附件载体 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-19-declared-session-attachment-carriers.zh.md
+- Agent Note: Record unanswered tool results before closing a failed step — Status: implemented — .agents/notes/archived/bug-fix/2026-09-19-failed-step-tool-results.md
+- Agent Note: 在关闭失败步骤前补齐工具结果 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-19-failed-step-tool-results.zh.md
+- Agent Note: Complete parent catalogs without migrating child catalogs — Status: implemented — .agents/notes/archived/bug-fix/2026-09-19-session-local-subagent-migration.md
+- Agent Note：补齐父目录而不迁移子目录 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-19-session-local-subagent-migration.zh.md
+- Agent Note: Preserve V3 Sessions with incomplete child catalog evidence — Status: implemented — .agents/notes/archived/bug-fix/2026-09-19-v3-incomplete-child-catalog-evidence.md
+- Agent Note: 保留子目录证据不完整的 V3 Session — Status: implemented — .agents/notes/archived/bug-fix/2026-09-19-v3-incomplete-child-catalog-evidence.zh.md
+- Agent Note: Windows embedded mandatory update — Status: implemented — .agents/notes/archived/bug-fix/2026-09-20-windows-embedded-mandatory-update.md
+- Agent Note: Windows 内嵌强更弹窗 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-20-windows-embedded-mandatory-update.zh.md

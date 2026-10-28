@@ -1,0 +1,38 @@
+# docs: packages (830 篇, part 1/26)
+
+- @deepseek-ai/dsh-acp — description: "Automation-only ACP (Agent Client Protocol) server for programmatic clients  — packages/acp/acp/README.md
+- @deepseek-ai/dsh-acp — description: "面向程序化客户端与维护者的仅自动化 ACP（Agent Client Protocol）服务器，用于通过 JSON-RPC stdio 驱动 DeepS — packages/acp/acp/README.zh.md
+- acp/ — Agent Client Protocol automation — description: "The Agent Client Protocol package group: the automation-only server that exp — packages/acp/README.md
+- acp/：Agent Client Protocol 自动化 — description: "ACP（Agent Client Protocol）包组：通过 JSON-RPC stdio 将全新 harness agent（智能体）暴露给程序化客 — packages/acp/README.zh.md
+- AGENTS.md — Harness Packages — These package-specific rules supplement the repo-wide [conventions](../AGENTS.md#conventio — packages/AGENTS.md
+- @deepseek-ai/dsh-api-account-controller — description: "Account screens use authenticated Remote commands and a snapshot stream. The — packages/api/account-controller/README.md
+- @deepseek-ai/dsh-api-account-controller — description: "账号页面使用经过认证的 Remote 操作和快照流。控制器提供登录状态，不返回 token 或 PKCE 私密数据。" — packages/api/account-controller/README.zh.md
+- @deepseek-ai/dsh-api-gateway — description: "Typed Client-to-Host calls and streams: dispatch, validation, cancellation,  — packages/api/gateway/README.md
+- @deepseek-ai/dsh-api-gateway — description: "带类型的 Client 到 Host 调用与流：分派、校验、取消、重连与转发的 Host 事件。" — packages/api/gateway/README.zh.md
+- Job Controller — description: "Host and Client job control: the roster one session can see and one job's re — packages/api/job-controller/README.md
+- Job Controller — description: "Host 与 Client 的 job 控制：把一个会话看得到的名册与一个 job 的保留输出镜像到浏览器，不触碰模型的消耗型游标，并代人类停止一个 j — packages/api/job-controller/README.zh.md
+- api/ — Remote API layers — description: "Package map for the application's Remote layer: typed Client-to-Host capabil — packages/api/README.md
+- api/ — Remote API 层 — description: "应用 Remote 层的包映射：类型化的 Client 到 Host 能力调用、结果与转发事件，供用户与维护者浏览该组。" — packages/api/README.zh.md
+- @deepseek-ai/dsh-api-remote-access — description: "Method-level Remote access control for non-owner Peers: role-based policy de — packages/api/remote-access/README.md
+- @deepseek-ai/dsh-api-remote-access — description: "非 owner Peer 的 Remote 方法级访问控制：基于角色的 policy 判定、列表过滤与每个 Peer 的访问快照。" — packages/api/remote-access/README.zh.md
+- @deepseek-ai/dsh-api-remotes — description: "Application Remote assembly: selects typed Host capabilities and forwarded e — packages/api/remotes/README.md
+- @deepseek-ai/dsh-api-remotes — description: "应用 Remote 装配：为 Client 消费方选择带类型的 Host 能力与转发事件。" — packages/api/remotes/README.zh.md
+- Session Controller — description: "Host and Client session control: create, resume, prompt, follow history, and — packages/api/session-controller/README.md
+- Session Controller — description: "Host 与 Client 会话控制：创建、恢复、提示、跟随历史并投影实时会话状态。" — packages/api/session-controller/README.zh.md
+- Settings Controller — description: "Host Remote owner for settings and credential configuration surfaces, includ — packages/api/settings-controller/README.md
+- Settings Controller — description: "settings 与凭据配置界面的 Host Remote owner，涵盖脱敏读取、写入、凭据引用与原生文档打开。" — packages/api/settings-controller/README.zh.md
+- @deepseek-ai/dsh-api-terminal-controller — description: "Interactive user terminals with execution-environment shell defaults, bounde — packages/api/terminal-controller/README.md
+- @deepseek-ai/dsh-api-terminal-controller — description: "用户交互式终端：执行环境默认 shell、有界屏幕恢复和类型化 Remote 控制。" — packages/api/terminal-controller/README.zh.md
+- Workspace Controller — description: "Host and Client workspace control: mutate workspace navigation and follow it — packages/api/workspace-controller/README.md
+- Workspace Controller — description: "Host 与 Client 工作区控制：修改工作区导航并跟随其完整投影。" — packages/api/workspace-controller/README.zh.md
+- @deepseek-ai/dsh-api-workspace-files — description: "Workspace file service for the web GUI: bounded reads and target-scoped file — packages/api/workspace-files/README.md
+- @deepseek-ai/dsh-api-workspace-files — description: "面向 Web GUI 的工作区文件服务：有界文件读取、按目标监听文件系统变化，以及 Session 工作区根内的目录列举。" — packages/api/workspace-files/README.zh.md
+- @deepseek-ai/dsh-attachment — description: "Durable image and file attachments for users and maintainers attaching, reus — packages/attachment/attachment/README.md
+- @deepseek-ai/dsh-attachment — description: "持久图片与文件附件，供用户与维护者在提示词与命令中附加、复用或排查上传内容。" — packages/attachment/attachment/README.zh.md
+- @deepseek-ai/dsh-attachment-local — description: "Local storage for your attached images below DSHHOME, for users and maintain — packages/attachment/attachment-local/README.md
+- @deepseek-ai/dsh-attachment-local — description: "DSHHOME 下附加图片的本地存储，供用户与维护者选择或排查图片附件的存放位置。" — packages/attachment/attachment-local/README.zh.md
+- attachment/ — durable attachment capability family — description: "Package map for the durable image attachment capability family: what you can — packages/attachment/README.md
+- attachment/：持久附件能力族 — description: "持久图片附件能力族的包映射：你可以用图片附件做什么，以及你的图片存放在哪里。" — packages/attachment/README.zh.md
+- @deepseek-ai/dsh-app-boot — description: "Shared Loader boot support for dsh profiles and the temporary Python SDK run — packages/boot/app-boot/README.md
+- @deepseek-ai/dsh-app-boot — description: "dsh profile 与临时 Python SDK 运行时的共享 Loader 启动支持：环境层、patch、诊断与配置预览。" — packages/boot/app-boot/README.zh.md
+- @deepseek-ai/dsh-cmdline — description: "App-owned command lines for dsh app bins: your app parses its own flags, --h — packages/boot/cmdline/README.md

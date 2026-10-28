@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 8/66)
+
+- Agent Note: Inspector execution realms and protocol planes — Status: implemented — .agents/notes/archived/architecture/2026-08-26-inspector-execution-realms-and-protocol-planes.md
+- Agent Note: Inspector 执行环境与协议平面 — Status: implemented — .agents/notes/archived/architecture/2026-08-26-inspector-execution-realms-and-protocol-planes.zh.md
+- Agent Note: Local submission echoes over the prompt rpcId — Status: implemented — .agents/notes/archived/architecture/2026-08-26-local-submission-echoes.md
+- Agent Note: 基于 prompt rpcId 的本地提交回显 — Status: implemented — .agents/notes/archived/architecture/2026-08-26-local-submission-echoes.zh.md
+- Agent Note: Models-page extension slots — Status: implemented — .agents/notes/archived/architecture/2026-08-26-models-page-extension-slots.md
+- Agent Note: Models 页扩展插槽 — Status: implemented — .agents/notes/archived/architecture/2026-08-26-models-page-extension-slots.zh.md
+- Agent Note: Preset health resolves the rows it can prove will start — Status: implemented — .agents/notes/archived/architecture/2026-08-26-preset-health-resolves-rows.md
+- Agent Note: Preset health resolves the rows it can prove will start — Status: implemented — .agents/notes/archived/architecture/2026-08-26-preset-health-resolves-rows.zh.md
+- Agent Note: Inspector development mount — Status: implemented — .agents/notes/archived/architecture/2026-08-27-inspector-development-mount.md
+- Agent Note: Inspector 开发挂载 — Status: implemented — .agents/notes/archived/architecture/2026-08-27-inspector-development-mount.zh.md
+- Agent Note: Process-table snapshots replace per-question inspector reads — Status: implemented — .agents/notes/archived/architecture/2026-08-27-process-table-snapshots.md
+- Agent Note: Process-table snapshots replace per-question inspector reads — Status: implemented — .agents/notes/archived/architecture/2026-08-27-process-table-snapshots.zh.md
+- Agent Note: Native owners contain escaped subprocess descendants — Status: implemented — .agents/notes/archived/architecture/2026-08-28-subprocess-native-containment.md
+- Agent Note: 原生 owner 收容逃逸的 subprocess 后代 — Status: implemented — .agents/notes/archived/architecture/2026-08-28-subprocess-native-containment.zh.md
+- Agent Note: The plugin inventory carries every agent preset's composition — Status: implemented — .agents/notes/archived/architecture/2026-08-29-plugin-inventory-agent-preset-scopes.md
+- Agent Note: 插件清单携带每个 Agent 预设的组合 — Status: implemented — .agents/notes/archived/architecture/2026-08-29-plugin-inventory-agent-preset-scopes.zh.md
+- Agent Note: Live assistant stream frames remain separate from the session log — Status: implemented — .agents/notes/archived/architecture/2026-08-31-live-assistant-stream-frames.md
+- Agent Note: 实时 assistant 流帧与 Session log 保持分离 — Status: implemented — .agents/notes/archived/architecture/2026-08-31-live-assistant-stream-frames.zh.md
+- Agent Note: Distinguish Session event identities from log offsets — Status: implemented — .agents/notes/archived/architecture/2026-08-31-session-sequence-and-log-offset-brands.md
+- Agent Note: 区分 Session 事件身份与日志偏移 — Status: implemented — .agents/notes/archived/architecture/2026-08-31-session-sequence-and-log-offset-brands.zh.md
+- Agent Note: Viewport-activated syntax highlighting — Status: implemented — .agents/notes/archived/architecture/2026-08-31-viewport-activated-syntax-highlighting.md
+- Agent Note: 视口激活的语法高亮 — Status: implemented — .agents/notes/archived/architecture/2026-08-31-viewport-activated-syntax-highlighting.zh.md
+- Agent Note: The job registry absorbs the observation record; the standalone activity seam is removed — Status: implemented — .agents/notes/archived/architecture/2026-09-01-jobs-absorb-activity-record.md
+- Agent Note：job 注册表吸收观测 record；独立的 activity seam 被移除 — Status: implemented — .agents/notes/archived/architecture/2026-09-01-jobs-absorb-activity-record.zh.md
+- Agent Note: Streamed tool-call identity survives empty continuation deltas — Status: implemented — .agents/notes/archived/architecture/2026-09-01-streamed-tool-call-identity.md
+- Agent Note: 流式工具调用身份不被空续传分片抹除 — Status: implemented — .agents/notes/archived/architecture/2026-09-01-streamed-tool-call-identity.zh.md
+- Agent Note: Durable image offload by surface replacement — Status: implemented — .agents/notes/archived/architecture/2026-09-02-durable-image-offload.md
+- Agent Note: 以表层替换实现持久的图片 offload — Status: implemented — .agents/notes/archived/architecture/2026-09-02-durable-image-offload.zh.md
+- Agent Note: Projection-cache predecessor recovery and Session-format binding (session_projcache v3-v6 → v7) — Status: implemented — .agents/notes/archived/architecture/2026-09-02-projcache-cross-version-read-compat.md
+- Agent Note: 投影缓存前代恢复与 Session 格式绑定（session_projcache v3-v6 → v7） — Status: implemented — .agents/notes/archived/architecture/2026-09-02-projcache-cross-version-read-compat.zh.md
+- Agent Note: Reading protocol-specific model listings — Status: implemented — .agents/notes/archived/architecture/2026-09-02-protocol-specific-model-listing-discovery.md
+- Agent Note: 读取协议特定的模型列表 — Status: implemented — .agents/notes/archived/architecture/2026-09-02-protocol-specific-model-listing-discovery.zh.md
+- Agent Note: Package manifest declaration ownership — Status: implemented — .agents/notes/archived/architecture/2026-09-05-package-manifest-types.md
+- Agent Note: Package manifest 声明归属 — Status: implemented — .agents/notes/archived/architecture/2026-09-05-package-manifest-types.zh.md
+- Agent Note: Right Sidebar tab types and navigation — Status: implemented — .agents/notes/archived/architecture/2026-09-05-sidebar-tab-types-and-navigation.md
+- Agent Note: 右侧 Sidebar 的 tab 类型与导航 — Status: implemented — .agents/notes/archived/architecture/2026-09-05-sidebar-tab-types-and-navigation.zh.md
+- Agent Note: Embedded Assistant stream consumers read compact records — Status: implemented — .agents/notes/archived/architecture/2026-09-06-embedded-stream-record-readers.md
+- Agent Note: 内嵌 Assistant 流的消费方直接读取紧凑记录 — Status: implemented — .agents/notes/archived/architecture/2026-09-06-embedded-stream-record-readers.zh.md
+- Agent Note: Responsive Sidebar and injected tab information — Status: implemented — .agents/notes/archived/architecture/2026-09-07-sidebar-responsive-tab-info.md

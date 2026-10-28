@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 33/66)
+
+- Agent Note: One shell execute() — foreground as a projection, timeout as a bounded wait on the job — Status: implemented — .agents/notes/archived/feature/2026-08-26-shell-execute-projection-and-jobs-at-start.md
+- Agent Note：唯一的 shell execute()——前台是投影，超时是对 job 的有界等待 — Status: implemented — .agents/notes/archived/feature/2026-08-26-shell-execute-projection-and-jobs-at-start.zh.md
+- Agent Note: Web trigger menu presentation polish — Status: implemented — .agents/notes/archived/feature/2026-08-26-web-trigger-menu-presentation-polish.md
+- Agent Note: Web 触发菜单呈现打磨 — Status: implemented — .agents/notes/archived/feature/2026-08-26-web-trigger-menu-presentation-polish.zh.md
+- Agent Note: Human inbox controls for continuable subagents — Status: implemented — .agents/notes/archived/feature/2026-08-27-continuable-subagent-human-inbox-control.md
+- Agent Note: 可继续 subagent 的人类 inbox 控制 — Status: implemented — .agents/notes/archived/feature/2026-08-27-continuable-subagent-human-inbox-control.zh.md
+- Agent Note: Web @ mention discovery cost and row content — Status: implemented — .agents/notes/archived/feature/2026-08-27-web-at-mention-discovery-and-row-content.md
+- Agent Note: Web @ mention 的发现成本与行内容 — Status: implemented — .agents/notes/archived/feature/2026-08-27-web-at-mention-discovery-and-row-content.zh.md
+- Agent Note: Web connection recovery control — Status: implemented — .agents/notes/archived/feature/2026-08-28-web-connection-recovery-control.md
+- Agent Note: Web 连接恢复控件 — Status: implemented — .agents/notes/archived/feature/2026-08-28-web-connection-recovery-control.zh.md
+- Agent Note: Turn-tail stat pills with anchored dialogs — Status: implemented — .agents/notes/archived/feature/2026-08-28-web-turn-stat-pills.md
+- Agent Note: Turn 尾部统计 pill 与锚定弹层 — Status: implemented — .agents/notes/archived/feature/2026-08-28-web-turn-stat-pills.zh.md
+- Agent Note: Full-session turn rail with outline projection and jump paging — Status: implemented — .agents/notes/archived/feature/2026-08-30-web-turn-rail-outline-jump.md
+- Agent Note: 基于大纲投影与跳转分页的整会话轮次导航栏 — Status: implemented — .agents/notes/archived/feature/2026-08-30-web-turn-rail-outline-jump.zh.md
+- Agent Note: Shared-base Web fetch default — Status: implemented — .agents/notes/archived/feature/2026-09-01-shared-base-web-fetch-default.md
+- Agent Note: 共享 base 的 Web 抓取默认值 — Status: implemented — .agents/notes/archived/feature/2026-09-01-shared-base-web-fetch-default.zh.md
+- Agent Note: Web elevation — hairline stroke drawn in shadow — Status: implemented — .agents/notes/archived/feature/2026-09-01-web-elevation-stroke-shadows.md
+- Agent Note: Web elevation — hairline stroke drawn in shadow — Status: implemented — .agents/notes/archived/feature/2026-09-01-web-elevation-stroke-shadows.zh.md
+- Agent Note: Web superellipse corner smoothing — Status: implemented — .agents/notes/archived/feature/2026-09-01-web-superellipse-corner-smoothing.md
+- Agent Note: Web superellipse corner smoothing — Status: implemented — .agents/notes/archived/feature/2026-09-01-web-superellipse-corner-smoothing.zh.md
+- Agent Note: Workflow runs gain `run_in_background` over the job registry — Status: implemented — .agents/notes/archived/feature/2026-09-01-workflow-run-in-background.md
+- Agent Note：workflow 运行经任务注册表获得 `run_in_background` — Status: implemented — .agents/notes/archived/feature/2026-09-01-workflow-run-in-background.zh.md
+- Agent Note: Sidebar text preview and file tree — Status: implemented — .agents/notes/archived/feature/2026-09-05-sidebar-text-preview-and-file-tree.md
+- Agent Note: Sidebar 文本预览与文件树 — Status: implemented — .agents/notes/archived/feature/2026-09-05-sidebar-text-preview-and-file-tree.zh.md
+- Agent Note: Model-visible route-change notices — Status: implemented — .agents/notes/archived/feature/2026-09-07-model-switch-notice.md
+- Agent Note: 模型可见的路由切换提示 — Status: implemented — .agents/notes/archived/feature/2026-09-07-model-switch-notice.zh.md
+- Agent Note: Advertised public HTTP(S) Web roots — Status: implemented — .agents/notes/archived/feature/2026-09-07-public-web-deployments.md
+- Agent Note: 对外公告的公开 HTTP(S) Web 根 — Status: implemented — .agents/notes/archived/feature/2026-09-07-public-web-deployments.zh.md
+- Agent Note: Session prose local media paths display through a same-origin file route — Status: implemented — .agents/notes/archived/feature/2026-09-07-session-prose-local-media-display.md
+- Agent Note: 会话正文本地媒体路径通过同源文件路由显示 — Status: implemented — .agents/notes/archived/feature/2026-09-07-session-prose-local-media-display.zh.md
+- Agent Note: Windows uninstall retains the Harness home — Status: implemented — .agents/notes/archived/feature/2026-09-08-desktop-uninstall-preserve-dsh-home.md
+- Agent Note: Windows 卸载保留 Harness 主目录 — Status: implemented — .agents/notes/archived/feature/2026-09-08-desktop-uninstall-preserve-dsh-home.zh.md
+- Agent Note: Feedback dialog, categories, and the acknowledgement toast — Status: implemented — .agents/notes/archived/feature/2026-09-08-feedback-dialog-and-categories.md
+- Agent Note: 反馈弹窗、分类与确认 toast — Status: implemented — .agents/notes/archived/feature/2026-09-08-feedback-dialog-and-categories.zh.md
+- Agent Note: Authenticated file display reuses filesystem byte reads — Status: implemented — .agents/notes/archived/feature/2026-09-08-file-display-through-filesystem.md
+- Agent Note: 鉴权文件展示复用文件系统字节读取 — Status: implemented — .agents/notes/archived/feature/2026-09-08-file-display-through-filesystem.zh.md
+- Agent Note: Web delivers explicit file snapshots — Status: implemented — .agents/notes/archived/feature/2026-09-08-web-explicit-file-delivery.md
+- Agent Note: Web 显式交付文件快照 — Status: implemented — .agents/notes/archived/feature/2026-09-08-web-explicit-file-delivery.zh.md
+- Agent Note: Headless machine-readable run surface — Status: implemented — .agents/notes/archived/feature/2026-09-09-headless-machine-readable-run-surface.md
+- Agent Note: Headless 的机器可读运行接口 — Status: implemented — .agents/notes/archived/feature/2026-09-09-headless-machine-readable-run-surface.zh.md

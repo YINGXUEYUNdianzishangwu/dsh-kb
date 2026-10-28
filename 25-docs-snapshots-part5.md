@@ -1,0 +1,59 @@
+# docs: snapshots (276 篇, part 5/6)
+
+- snapshots/web/present-svg/ui.expected.md — - text: 简单画一个 SVG 表示冯诺依曼架构, 保存为 von-neumann.svg {{clock}} — snapshots/web/present-svg/ui.expected.md
+- snapshots/web/ptc-escalation-approved/approval.expected.md — - text: Waiting for approval — snapshots/web/ptc-escalation-approved/approval.expected.md
+- snapshots/web/ptc-round/code.expected.md — - tabpanel "Code": — snapshots/web/ptc-round/code.expected.md
+- snapshots/web/ptc-round/preparing.expected.md — - 'button "Think The user wants me to write a single runcode program that:"' — snapshots/web/ptc-round/preparing.expected.md
+- Waiting for output — - term: Status — snapshots/web/ptc-round/request-lifecycle.expected.md
+- snapshots/web/ptc-round/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/web/ptc-round/system-prompt.expected.md
+- snapshots/web/ptc-round/trajectory.expected.md — - heading "Code typescript Wrap lines Copy code" [level=3]: — snapshots/web/ptc-round/trajectory.expected.md
+- snapshots/web/ptc-round/ui.expected.md — - banner: — snapshots/web/ptc-round/ui.expected.md
+- snapshots/web/pwsh-terminal/terminal-card.expected.md — - text: Failed {{workspace}} Get-Item missing.txt exit code 1 — snapshots/web/pwsh-terminal/terminal-card.expected.md
+- snapshots/web/question-composer/answered-expanded.expected.md — - banner: — snapshots/web/question-composer/answered-expanded.expected.md
+- snapshots/web/question-composer/answered.expected.md — - banner: — snapshots/web/question-composer/answered.expected.md
+- snapshots/web/question-composer/cancelled.expected.md — - banner: — snapshots/web/question-composer/cancelled.expected.md
+- snapshots/web/question-composer/composed.expected.md — - region "Which color do you prefer?": — snapshots/web/question-composer/composed.expected.md
+- snapshots/web/question-composer/late-answered.expected.md — - banner: — snapshots/web/question-composer/late-answered.expected.md
+- snapshots/web/question-composer/queued.expected.md — - banner: — snapshots/web/question-composer/queued.expected.md
+- snapshots/web/question-composer/sidebar.expected.md — - treeitem "Waiting for answer Use the askuserquestion tool to" [selected] — snapshots/web/question-composer/sidebar.expected.md
+- snapshots/web/question-composer/ui.expected.md — - region "Which color do you prefer?": — snapshots/web/question-composer/ui.expected.md
+- snapshots/web/queue-actions/collapsed.expected.md — - banner: — snapshots/web/queue-actions/collapsed.expected.md
+- snapshots/web/queue-actions/editing.expected.md — - banner: — snapshots/web/queue-actions/editing.expected.md
+- snapshots/web/queue-actions/failed.expected.md — - alert: Queue submission failed (session/agent-busy) — snapshots/web/queue-actions/failed.expected.md
+- snapshots/web/queue-actions/goal-stop.expected.md — - banner: — snapshots/web/queue-actions/goal-stop.expected.md
+- snapshots/web/queue-actions/layout.expected.md — - banner: — snapshots/web/queue-actions/layout.expected.md
+- snapshots/web/queue-actions/preserved-expanded.expected.md — - banner: — snapshots/web/queue-actions/preserved-expanded.expected.md
+- snapshots/web/queue-actions/preserved.expected.md — - banner: — snapshots/web/queue-actions/preserved.expected.md
+- snapshots/web/queue-actions/sending.expected.md — - banner: — snapshots/web/queue-actions/sending.expected.md
+- snapshots/web/queue-actions/ui.expected.md — - banner: — snapshots/web/queue-actions/ui.expected.md
+- snapshots/web/queue-actions/writer-held.expected.md — - alert: This session is already in use, possibly by another running DSH instance (such as — snapshots/web/queue-actions/writer-held.expected.md
+- snapshots/web/queued-image/delivered.expected.md — - banner: — snapshots/web/queued-image/delivered.expected.md
+- snapshots/web/queued-image/queued.expected.md — - banner: — snapshots/web/queued-image/queued.expected.md
+- snapshots/web/schedule-catalog/catalog.expected.md — - list "Active reminders": — snapshots/web/schedule-catalog/catalog.expected.md
+- snapshots/web/schedule-catalog/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/web/schedule-catalog/system-prompt.expected.md
+- snapshots/web/seeded-history/command-row.expected.md — - banner: — snapshots/web/seeded-history/command-row.expected.md
+- snapshots/web/seeded-history/feedback-row.expected.md — - banner: — snapshots/web/seeded-history/feedback-row.expected.md
+- snapshots/web/seeded-history/file-preview.expected.md — - text: {{cwd}}/a.txt — snapshots/web/seeded-history/file-preview.expected.md
+- Compaction marker sticky header (pinned over a code-block summary) — - header is not sticky: true — snapshots/web/seeded-history/sticky-geometry.expected.md
+- snapshots/web/seeded-history/thinking-expanded.expected.md — - button "Think" [expanded] — snapshots/web/seeded-history/thinking-expanded.expected.md
+- snapshots/web/seeded-history/ui-expanded.expected.md — - banner: — snapshots/web/seeded-history/ui-expanded.expected.md
+- snapshots/web/seeded-history/ui.expected.md — - banner: — snapshots/web/seeded-history/ui.expected.md
+- snapshots/web/session-inspector/array-details.expected.md — - group: — snapshots/web/session-inspector/array-details.expected.md
+- snapshots/web/session-inspector/groups.expected.md — - system-prompt — snapshots/web/session-inspector/groups.expected.md
+- snapshots/web/session-inspector/log.expected.md — - table "Raw Log": — snapshots/web/session-inspector/log.expected.md
+- snapshots/web/session-inspector/navigation.expected.md — - selected: tool/call — snapshots/web/session-inspector/navigation.expected.md
+- snapshots/web/session-inspector/raw-data.expected.md — - $:  Object: expanded — snapshots/web/session-inspector/raw-data.expected.md
+- Sidebar Browser — - HTTPS sandbox: allow-scripts allow-forms allow-same-origin allow-popups allow-popups-to- — snapshots/web/sidebar-browser/browser.expected.md
+- Sidebar session list scrollbar — - --dsh-scrollbar-thumb, pointer outside the sidebar: rgba(0, 0, 0, 0) — snapshots/web/sidebar-scrollbar/geometry.expected.md
+- snapshots/web/skill-tool-row/ui.expected.md — - banner: — snapshots/web/skill-tool-row/ui.expected.md
+- snapshots/web/steering/mid-steer.expected.md — - banner: — snapshots/web/steering/mid-steer.expected.md
+- snapshots/web/steering/settled-expanded.expected.md — - banner: — snapshots/web/steering/settled-expanded.expected.md
+- snapshots/web/steering/settled.expected.md — - banner: — snapshots/web/steering/settled.expected.md
+- snapshots/web/subagent-conversation/branchless.expected.md — - tree "Subagent sessions": — snapshots/web/subagent-conversation/branchless.expected.md
+- snapshots/web/subagent-conversation/catalog-push.expected.md — - button "2 subagents" — snapshots/web/subagent-conversation/catalog-push.expected.md
+- snapshots/web/subagent-conversation/fork.expected.md — - tree "Sessions": — snapshots/web/subagent-conversation/fork.expected.md
+- snapshots/web/subagent-conversation/nested.expected.md — - banner: — snapshots/web/subagent-conversation/nested.expected.md
+- snapshots/web/subagent-conversation/sidebar-chat.expected.md — - text: "Explain event sourcing in one sentence.Your parent agent id is \"session-{{uuid}} — snapshots/web/subagent-conversation/sidebar-chat.expected.md
+- snapshots/web/subagent-conversation/sidebar.expected.md — - tree "Sessions": — snapshots/web/subagent-conversation/sidebar.expected.md
+- snapshots/web/subagent-conversation/tree.expected.md — - tree "Subagent sessions": — snapshots/web/subagent-conversation/tree.expected.md
+- snapshots/web/subagent-conversation/ui-expanded.expected.md — - banner: — snapshots/web/subagent-conversation/ui-expanded.expected.md

@@ -1,0 +1,40 @@
+# packages/client (67 packages, part 1/2)
+
+- @deepseek-ai/dsh-client-connection 0.2.1-rc.3 — Authenticated RPC transport and generation lifecycle — packages/client/connection
+- @deepseek-ai/dsh-client-file-upload 0.2.1-rc.3 — Agent-scoped browser file upload, streaming intake, and staged receipt service — packages/client/file-upload
+- @deepseek-ai/dsh-client-hmr 0.2.1-rc.3 — Web client graph synchronization and rebuilt-bundle reload transport — packages/client/hmr
+- @deepseek-ai/dsh-client-locale 0.2.1-rc.3 — Locale plugin: Host-backed preference, extensible language catalog, browser fallback, and typed built-in dicti — packages/client/locale
+- @deepseek-ai/dsh-client-modules 0.2.1-rc.3 — Client module system, dual-face: node half composes the __DSH_BOOT__ entry graph (incremental dsh.client scan, — packages/client/modules
+- @deepseek-ai/dsh-client-product-analytics 0.2.1-rc.3 — Desktop product event collection and authenticated Host reporting — packages/client/product-analytics
+- @deepseek-ai/dsh-client-resources 0.2.1-rc.3 — Unified client resource model: protocol-registered providers turn URL addresses into live values, consumed thr — packages/client/resources
+- @deepseek-ai/dsh-client-shortcuts 0.2.1-rc.3 — Application keyboard command registry and physical-key routing — packages/client/shortcuts
+- @deepseek-ai/dsh-client-store 0.2.1-rc.3 — React-free observable and snapshot-store contracts with the shared Zustand/Immer engine — packages/client/store
+- @deepseek-ai/dsh-client-ui-agent-preset 0.2.1-rc.3 — Agent-preset surfaces: the default for later sessions, this session's seat, and the composition editor — packages/client/ui-agent-preset
+- @deepseek-ai/dsh-client-ui-approval 0.2.1-rc.3 — Approval composer takeover over the scoped Remote Event waterfall — packages/client/ui-approval
+- @deepseek-ai/dsh-client-ui-attachment 0.2.1-rc.3 — Dynamic attachment presentation plugin for conversation input, message-image, and trajectory image slots — packages/client/ui-attachment
+- @deepseek-ai/dsh-client-ui-brand-official 0.2.1-rc.3 — Official DeepSeek Harness brand occupants for the Web client's sidebar slots — packages/client/ui-brand-official
+- @deepseek-ai/dsh-client-ui-chat 0.2.1-rc.3 — Chat Conversation target, node definitions, renderers, and details surface — packages/client/ui-chat
+- @deepseek-ai/dsh-client-ui-commands 0.2.1-rc.3 — Client command surface: global directory cache, '/' source, three command UI kinds, popupSelect registry — packages/client/ui-commands
+- @deepseek-ai/dsh-client-ui-conversation 0.2.1-rc.3 — Target-neutral Conversation assembly, shell, composer, queue, and view navigation — packages/client/ui-conversation
+- @deepseek-ai/dsh-client-ui-deepseek-model-label-1017 0.2.1-rc.3 — Temporary 1017 release badge for official DeepSeek Flash model labels — packages/client/ui-deepseek-model-label-1017
+- @deepseek-ai/dsh-client-ui-deliverables 0.2.1-rc.3 — Changed-files card with per-file comparison tabs, delivery cards, and clickable final-response file references — packages/client/ui-deliverables
+- @deepseek-ai/dsh-client-ui-directory-picker-browse 0.2.1-rc.3 — In-app directory browsing surface: the workspace directory-flow owner rendering the host's listing and creatio — packages/client/ui-directory-picker-browse
+- @deepseek-ai/dsh-client-ui-directory-picker-native 0.2.1-rc.3 — Native directory-picker surface: the renderless workspace directory-flow occupant driving the local Desktop or — packages/client/ui-directory-picker-native
+- @deepseek-ai/dsh-client-ui-dockkit 0.2.1-rc.3 — Docking layout kit: split-tree engine with invertible operations, and the React components that render and dri — packages/client/ui-dockkit
+- @deepseek-ai/dsh-client-ui-entry-customization 0.2.1-rc.3 — Customize plugin entries in the left sidebar, conversation views, and right sidebar, and quickly create new pl — packages/client/ui-entry-customization
+- @deepseek-ai/dsh-client-ui-goal 0.2.1-rc.3 — Session goal surface: GoalBar docked above the composer, read from the goal session projection — packages/client/ui-goal
+- @deepseek-ai/dsh-client-ui-input-trigger 0.2.1-rc.3 — Input trigger pipeline: '/' and '@' detection, candidate menu, pick routing to registered sources — packages/client/ui-input-trigger
+- @deepseek-ai/dsh-client-ui-jobs 0.2.1-rc.3 — Session-header background-job list with on-demand streaming record panels — packages/client/ui-jobs
+- @deepseek-ai/dsh-client-ui-layout 0.2.1-rc.3 — Shell plugin: three-column AppFrame with drag handles, ctx.layout viewing-state service (navigation + panels) — packages/client/ui-layout
+- @deepseek-ai/dsh-client-ui-message-feedback 0.2.1-rc.3 — The Web feedback surface: per-message Like/Dislike in the assistant-message action strip and the feedback dial — packages/client/ui-message-feedback
+- @deepseek-ai/dsh-client-ui-model-selection 0.2.1-rc.3 — Model selection over the shared model catalog, Session projection, and session.selectModel — packages/client/ui-model-selection
+- @deepseek-ai/dsh-client-ui-open-in-app 0.2.1-rc.3 — Web "Open In..." controls: the Session-header split button opening the workspace directory in an installed app — packages/client/ui-open-in-app
+- @deepseek-ai/dsh-client-ui-permission-presets 0.2.1-rc.3 — Permission surfaces: a new-session default in General settings and a current-session /permission popup over th — packages/client/ui-permission-presets
+- @deepseek-ai/dsh-client-ui-plan 0.2.1-rc.3 — Plan mode controls, persistent transcript plan cards, and sidebar Markdown previews — packages/client/ui-plan
+- @deepseek-ai/dsh-client-ui-plugin-manager 0.2.1-rc.3 — Plugin management for the dsh web client: the sidebar Plugins panel installs, enables, disables, retries, and  — packages/client/ui-plugin-manager
+- @deepseek-ai/dsh-client-ui-plugin-market 0.2.1-rc.3 — Discover tab of the dsh web Plugins page: browse configured plugin market indexes and install their bundles — packages/client/ui-plugin-market
+- @deepseek-ai/dsh-client-ui-primitives 0.2.1-rc.3 — Pure React atoms for the dsh web UI: controls, icons, markdown, and JSON inspectors (zero cordis) — packages/client/ui-primitives
+- @deepseek-ai/dsh-client-ui-reference 0.2.1-rc.3 — Unified Web @file and @session reference source — packages/client/ui-reference
+- @deepseek-ai/dsh-client-ui-renderer 0.2.1-rc.3 — Browser UI renderer: React slot bindings, ctx.uiRenderer, and the assembled application root — packages/client/ui-renderer
+- @deepseek-ai/dsh-client-ui-schedule 0.2.1-rc.3 — Host task management page and Session reminder catalog — packages/client/ui-schedule
+- @deepseek-ai/dsh-client-ui-secret-mask 0.2.1-rc.3 — Web display masking for recognized credentials in sent user text — packages/client/ui-secret-mask

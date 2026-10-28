@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 54/66)
+
+- Agent Note：使用 developer 消息记录增量 Session 变更 — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-developer-session-changes.zh.md
+- Agent Note: Native CUA objects independent of evaluator ownership — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-experimental-cua-object-api.md
+- Agent Note：独立于执行器管理的原生 CUA 对象 — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-experimental-cua-object-api.zh.md
+- Agent Note: Mandatory native V4 relationship validation — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-native-v4-read-validation.md
+- Agent Note: 原生 V4 关系的强制校验 — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-native-v4-read-validation.zh.md
+- Agent Note: Recorded user-source attribution compatibility — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-persistence-attribution-policy.md
+- Agent Note：已记录的 user-source 归属兼容性 — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-persistence-attribution-policy.zh.md
+- Agent Note: Writer acquisition for blank Session reuse — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-process-local-blank-sessions.md
+- Agent Note: 复用空白 Session 时获取写锁 — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-process-local-blank-sessions.zh.md
+- Agent Note: Binary workspace file transfer — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-workspace-file-binary-transfer.md
+- Agent Note: 工作区文件二进制传输 — Status: implemented — .agents/notes/implemented/architecture/2026-09-17-workspace-file-binary-transfer.zh.md
+- Agent Note: Declarative Agent presets and retained revisions — Status: implemented — .agents/notes/implemented/architecture/2026-09-18-declarative-agent-presets.md
+- Agent Note: 声明式 Agent preset 与保留代际 — Status: implemented — .agents/notes/implemented/architecture/2026-09-18-declarative-agent-presets.zh.md
+- Agent Note: Plugin install registries — Status: implemented — .agents/notes/implemented/architecture/2026-09-18-plugin-install-registries.md
+- Agent Note: 插件安装的注册表 — Status: implemented — .agents/notes/implemented/architecture/2026-09-18-plugin-install-registries.zh.md
+- Agent Note: Volatile configuration references — Status: implemented — .agents/notes/implemented/architecture/2026-09-18-volatile-config-references.md
+- Agent Note: Volatile 配置引用 — Status: implemented — .agents/notes/implemented/architecture/2026-09-18-volatile-config-references.zh.md
+- Agent Note: Bind one concrete Web address — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-concrete-web-bind-address.md
+- Agent Note: 绑定一个具体的 Web 地址 — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-concrete-web-bind-address.zh.md
+- Agent Note: Keep live configuration in the owning profile — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-profile-owned-live-configuration.md
+- Agent Note: 将实时配置保存在所属 profile 中 — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-profile-owned-live-configuration.zh.md
+- Agent Note: Resolve profile modules along the ancestor chain with an interception layer — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-profile-resolution-lookup-order.md
+- Agent Note: profile 解析的主线祖先链与拦截层 — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-profile-resolution-lookup-order.zh.md
+- Agent Note: Projection cache read-only face matches the lifecycle identity; the client store separates cached and sequenced rows — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-projection-cache-listing-identity-and-cached-rows.md
+- Agent Note: Projection cache 只读面按 lifecycle 身份匹配，客户端 store 区分 cached 与 sequenced 行 — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-projection-cache-listing-identity-and-cached-rows.zh.md
+- Agent Note: Remote duplex stream: one kind of stream, an uplink channel, and an invocation context — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-remote-duplex-stream.md
+- Agent Note: Remote 双工流：一种流、上行通道与调用上下文 — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-remote-duplex-stream.zh.md
+- Agent Note: Timed user questions as two settlements — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-timed-user-question-two-settlements.md
+- Agent Note: 计时用户提问的两次结算 — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-timed-user-question-two-settlements.zh.md
+- Agent Note: Window drag coverage as a contract — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-window-drag-coverage-contract.md
+- Agent Note: 把窗口拖拽覆盖变成契约 — Status: implemented — .agents/notes/implemented/architecture/2026-09-19-window-drag-coverage-contract.zh.md
+- Agent Note: Keep shortcut preferences device-local and commit before activation — Status: implemented — .agents/notes/implemented/architecture/2026-09-20-device-local-shortcut-preferences.md
+- Agent Note: 快捷键偏好按设备保存，提交后才激活 — Status: implemented — .agents/notes/implemented/architecture/2026-09-20-device-local-shortcut-preferences.zh.md
+- Agent Note: Active tool headers and stateful request projection — Status: implemented — .agents/notes/implemented/architecture/2026-09-20-dynamic-tool-updates.md
+- Agent Note: 有效工具请求头与有状态请求投影 — Status: implemented — .agents/notes/implemented/architecture/2026-09-20-dynamic-tool-updates.zh.md
+- Agent Note: Stable Sidebar tab mounting and Session retention — Status: implemented — .agents/notes/implemented/architecture/2026-09-20-sidebar-retained-tab-layout.md
+- Agent Note: Sidebar 的稳定 Tab 挂载与会话保活 — Status: implemented — .agents/notes/implemented/architecture/2026-09-20-sidebar-retained-tab-layout.zh.md
+- Agent Note: Definition-owned grouping with generic Node/Group assembly — Status: implemented — .agents/notes/implemented/architecture/2026-09-21-conversation-build-groups.md
+- Agent Note: Definition 拥有分组业务，框架统一调度 Node／Group 输出 — Status: implemented — .agents/notes/implemented/architecture/2026-09-21-conversation-build-groups.zh.md
+- Agent Note: Desktop close shortcuts follow page focus — Status: implemented — .agents/notes/implemented/architecture/2026-09-21-desktop-page-close-shortcuts.md

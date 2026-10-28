@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 18/66)
+
+- Agent Note: Normalized unread filesystem tool diagnostic — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-normalized-unread-fs-tool-diagnostic.md
+- Agent Note: 统一未读取文件系统工具诊断 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-normalized-unread-fs-tool-diagnostic.zh.md
+- Agent Note: Root marker metadata failures — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-root-marker-metadata-failures.md
+- Agent Note: 根标记元数据故障 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-root-marker-metadata-failures.zh.md
+- Agent Note: Session search result reveal — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-session-search-result-reveal.md
+- Agent Note: Session 搜索结果显露 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-session-search-result-reveal.zh.md
+- Agent Note: User-owned goal pause exposes live activation — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-user-owned-goal-pause-activation.md
+- Agent Note: 用户独占的 goal 暂停并暴露实时激活态 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-03-user-owned-goal-pause-activation.zh.md
+- Agent Note: Continuous Client connection recovery — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-continuous-client-recovery.md
+- Agent Note: Client 连接持续恢复 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-continuous-client-recovery.zh.md
+- Agent Note: Nested terminal cards — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-nested-terminal-cards.md
+- Agent Note: 嵌套 terminal 卡片 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-nested-terminal-cards.zh.md
+- Agent Note: File URLs for inserted patch plugins — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-patch-plugin-file-urls.md
+- Agent Note: 插入补丁插件的文件 URL — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-patch-plugin-file-urls.zh.md
+- Agent Note: pi-ai upgrade compatibility — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-pi-ai-upgrade-compatibility.md
+- Agent Note: pi-ai 升级兼容性 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-pi-ai-upgrade-compatibility.zh.md
+- Agent Note: Model-relative session-reference budgets — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-session-reference-model-budget.md
+- Agent Note: 模型相对会话引用预算 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-session-reference-model-budget.zh.md
+- Agent Note: Reuse spill storage for truncated session references — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-session-reference-spill-reuse.md
+- Agent Note: 为截断的会话引用复用 spill 存储 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-05-session-reference-spill-reuse.zh.md
+- Agent Note: Environment facts follow reusable prompt instructions — Status: implemented — .agents/notes/archived/bug-fix/2026-09-06-environment-prompt-suffix.md
+- Agent Note: 环境事实位于可复用提示词指令之后 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-06-environment-prompt-suffix.zh.md
+- Agent Note: Wait for the Windows Python console runtime — Status: implemented — .agents/notes/archived/bug-fix/2026-09-06-windows-python-console-spawn-wait.md
+- Agent Note: 等待 Windows Python 控制台运行时 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-06-windows-python-console-spawn-wait.zh.md
+- Agent Note: Repairable pi-ai settings after catalog changes — Status: implemented — .agents/notes/archived/bug-fix/2026-09-07-pi-ai-settings-catalog-recovery.md
+- Agent Note: pi-ai 目录变化后可修复的设置 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-07-pi-ai-settings-catalog-recovery.zh.md
+- Agent Note: Follow package-local forwarding modules in Typert references — Status: implemented — .agents/notes/archived/bug-fix/2026-09-07-typert-package-local-forwarding-imports.md
+- Agent Note: Typert 引用追踪包内转发模块 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-07-typert-package-local-forwarding-imports.zh.md
+- Agent Note: Foreground activation for the Win32 picker via a synthesized Alt press — Status: implemented — .agents/notes/archived/bug-fix/2026-09-07-win32-picker-foreground-alt-key.md
+- Agent Note: 通过合成的 Alt 按键让 Win32 选择器获得前台激活 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-07-win32-picker-foreground-alt-key.zh.md
+- Agent Note: Content-sized diagram previews — Status: implemented — .agents/notes/archived/bug-fix/2026-09-09-content-sized-diagram-previews.md
+- Agent Note: 按内容定高的图表预览 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-09-content-sized-diagram-previews.zh.md
+- Agent Note: Built-bundle exemption for a failing stylesheet — Status: implemented — .agents/notes/archived/bug-fix/2026-09-10-built-bundle-css-exemption.md
+- Agent Note: 构建产物豁免以失败的样式表为准 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-10-built-bundle-css-exemption.zh.md
+- Agent Note: DeepSeek image-token estimator on the v41 calculator — Status: implemented — .agents/notes/archived/bug-fix/2026-09-10-deepseek-image-token-calculator-v41.md
+- Agent Note: DeepSeek 图片 token 估算器改用 v41 计算器 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-10-deepseek-image-token-calculator-v41.zh.md
+- Agent Note: DeepSeek request images on the published token grid — Status: implemented — .agents/notes/archived/bug-fix/2026-09-10-deepseek-v41-request-image-projection.md
+- Agent Note: DeepSeek 请求图片按官方 token 网格投影 — Status: implemented — .agents/notes/archived/bug-fix/2026-09-10-deepseek-v41-request-image-projection.zh.md
+- Agent Note: incremental terminal retention — Status: implemented — .agents/notes/archived/bug-fix/2026-09-11-incremental-terminal-retention.md

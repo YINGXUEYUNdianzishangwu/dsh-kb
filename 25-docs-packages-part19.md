@@ -1,0 +1,31 @@
+# docs: packages (830 篇, part 19/26)
+
+- @deepseek-ai/dsh-session-format-v1-to-v2 — description: "冻结的已发布 v1 Session 读取器，以及把 Assistant 流嵌入已发布 v2 事件的基数变化迁移。" — packages/session/session-format-v1-to-v2/README.zh.md
+- @deepseek-ai/dsh-session-format-v2-to-v3 — description: "The complete V2-to-V3 Session conversion: system heads, audited references,  — packages/session/session-format-v2-to-v3/README.md
+- @deepseek-ai/dsh-session-format-v2-to-v3 — description: "完整的 V2 到 V3 会话转换：系统头节点、经过审计的引用、PTC 与预设名称、规范信封、保留与拒绝规则。" — packages/session/session-format-v2-to-v3/README.zh.md
+- @deepseek-ai/dsh-session-format-v3-to-v4 — description: "Complete V3-to-V4 Session conversion and native admission: tool-role results — packages/session/session-format-v3-to-v4/README.md
+- @deepseek-ai/dsh-session-format-v3-to-v4 — description: "完整的 V3 到 V4 Session 转换与原生接纳：工具角色结果、生产者来源、父目录、引用重映射及拒绝规则。" — packages/session/session-format-v3-to-v4/README.zh.md
+- @deepseek-ai/dsh-session-log-deepseek — description: "Incremental canonical session-log upload for deployments enabling official D — packages/session/session-log-deepseek/README.md
+- @deepseek-ai/dsh-session-log-deepseek — description: "面向启用官方 DeepSeek 请求元数据的部署，增量上传规范会话日志。" — packages/session/session-log-deepseek/README.zh.md
+- @deepseek-ai/dsh-session-persistence — description: "The durable session-storage seam for users and maintainers choosing a persis — packages/session/session-persistence/README.md
+- @deepseek-ai/dsh-session-persistence — description: "面向用户与维护者的持久会话存储 seam 说明，用于选择持久化后端、恢复会话，或按共享服务约定构建后端。" — packages/session/session-persistence/README.zh.md
+- @deepseek-ai/dsh-session-persistence-jsonl — description: "The shipped JSONL session-persistence backend for deployments and maintainer — packages/session/session-persistence-jsonl/README.md
+- @deepseek-ai/dsh-session-persistence-jsonl — description: "面向部署方与维护者的随产品交付 JSONL 会话持久化后端说明，用于选择、配置或排查带可选 Zstandard 压缩的逐会话持久日志。" — packages/session/session-persistence-jsonl/README.zh.md
+- @deepseek-ai/dsh-session-projection — description: "The session-projection registry for developers serving whole current values  — packages/session/session-projection/README.md
+- @deepseek-ai/dsh-session-projection — description: "面向开发者与维护者的会话投影注册表说明，用于向客户端载体提供日志派生逐会话状态的完整当前值，或维护驱动约定。" — packages/session/session-projection/README.zh.md
+- @deepseek-ai/dsh-session-projection-cache — description: "The persisted session-projection cache for deployments and maintainers choos — packages/session/session-projection-cache/README.md
+- @deepseek-ai/dsh-session-projection-cache — description: "面向部署方与维护者的持久会话投影缓存说明，用于选择、配置或排查持久检查点、零 I/O 列表读取与加速的冷投影折叠。" — packages/session/session-projection-cache/README.zh.md
+- @deepseek-ai/dsh-session-stats — description: "Whole-log conversation counts and wall times for clients and maintainers cho — packages/session/session-stats/README.md
+- @deepseek-ai/dsh-session-stats — description: "面向客户端与维护者的全日志会话计数与墙钟时间说明，用于选择、组合或排查 sessionStats 投影单元。" — packages/session/session-stats/README.zh.md
+- @deepseek-ai/dsh-session-telemetry — description: "Session-telemetry capture seam for deployments and backend authors choosing  — packages/session/session-telemetry/README.md
+- @deepseek-ai/dsh-session-telemetry — description: "面向部署方与后端作者的会话遥测捕获 seam 说明，用于选择上报后端、挂载脱敏规则或实现后端约定。" — packages/session/session-telemetry/README.zh.md
+- @deepseek-ai/dsh-session-telemetry-otel — description: "OpenTelemetry session-telemetry backend for deployments choosing a mode, con — packages/session/session-telemetry-otel/README.md
+- @deepseek-ai/dsh-session-telemetry-otel — description: "面向部署方的 OpenTelemetry 会话遥测后端说明，用于选择模式、配置导出器或排查哪些数据离开本机。" — packages/session/session-telemetry-otel/README.zh.md
+- @deepseek-ai/dsh-session-title — description: "Log-backed session titles for users and maintainers choosing a title source, — packages/session/session-title/README.md
+- @deepseek-ai/dsh-session-title — description: "面向用户与维护者的日志支持型会话标题说明，用于选择标题来源、配置服务或排查标题状态。" — packages/session/session-title/README.zh.md
+- @deepseek-ai/dsh-session-title-first-prompt-llm — description: "First-message LLM session-title provider for users and maintainers choosing  — packages/session/session-title-first-prompt-llm/README.md
+- @deepseek-ai/dsh-session-title-first-prompt-llm — description: "面向用户与维护者的首消息 LLM（大语言模型）会话标题提供方说明，用于选择标题策略或排查自动标题生成。" — packages/session/session-title-first-prompt-llm/README.zh.md
+- @deepseek-ai/dsh-session-title-llm — description: "Shared model-execution policy for session-title providers: route, bounds, ca — packages/session/session-title-llm/README.md
+- @deepseek-ai/dsh-session-title-llm — description: "面向会话标题提供方的共享模型执行策略：路由、上限、取消、请求记录与流式组装。" — packages/session/session-title-llm/README.zh.md
+- @deepseek-ai/dsh-session-turn-outline — description: "Whole-log turn outline for clients and maintainers composing or debugging th — packages/session/session-turn-outline/README.md
+- @deepseek-ai/dsh-session-turn-outline — description: "面向组合或调试 turnOutline 投影单元的客户端与维护者的全量轮次大纲说明，支撑整会话轮次导航。" — packages/session/session-turn-outline/README.zh.md

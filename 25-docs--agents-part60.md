@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 60/66)
+
+- Agent Note: Built-in plugin feature previews — Status: implemented — .agents/notes/implemented/feature/2026-10-14-built-in-plugin-feature-previews.md
+- Agent Note: 内置插件功能配图 — Status: implemented — .agents/notes/implemented/feature/2026-10-14-built-in-plugin-feature-previews.zh.md
+- Agent Note: Prompt to reload when the Host release changes instead of hot-replacing across releases — Status: implemented — .agents/notes/implemented/feature/2026-10-14-host-release-change-refresh-prompt.md
+- Agent Note: Host release 变化时提示刷新页面，而不是跨 release 热替换 — Status: implemented — .agents/notes/implemented/feature/2026-10-14-host-release-change-refresh-prompt.zh.md
+- Agent Note: Direct DeepSeek Search and Fetch APIs — Status: implemented — .agents/notes/implemented/feature/2026-10-15-deepseek-search-fetch-api.md
+- Agent Note: 直接接入 DeepSeek Search 与 Fetch API — Status: implemented — .agents/notes/implemented/feature/2026-10-15-deepseek-search-fetch-api.zh.md
+- Agent Note: Raise the Node LTS engine floor to 22.19 — Status: implemented — .agents/notes/implemented/process/2026-07-06-node-engine-floor.md
+- Agent Note: 将 Node LTS 引擎下限提升至 22.19 — Status: implemented — .agents/notes/implemented/process/2026-07-06-node-engine-floor.zh.md
+- Agent Note: Serial cross-platform CI reference — Status: implemented — .agents/notes/implemented/process/2026-07-21-serial-cross-platform-ci-reference.md
+- Agent Note: 跨平台串行 CI 参考流程 — Status: implemented — .agents/notes/implemented/process/2026-07-21-serial-cross-platform-ci-reference.zh.md
+- Agent Note: CI failover runbook — hosted pools → in-house pool — Status: implemented — .agents/notes/implemented/process/2026-07-26-ci-failover-runbook.md
+- Agent Note: CI 故障切换手册 — 托管池 → 自有池 — Status: implemented — .agents/notes/implemented/process/2026-07-26-ci-failover-runbook.zh.md
+- Agent Note: Prefer maintained dependencies over hand-rolling — Status: implemented — .agents/notes/implemented/process/2026-07-26-dependencies-over-hand-rolling.md
+- Agent Note: 优先选用持续维护的依赖，而非手写实现 — Status: implemented — .agents/notes/implemented/process/2026-07-26-dependencies-over-hand-rolling.zh.md
+- Agent Note: Freeze low-future-value Agent Notes outside the active corpus — Status: implemented — .agents/notes/implemented/process/2026-07-26-frozen-agent-note-archive.md
+- Agent Note: 将未来指导价值较低的 Agent Note 冻结在活跃记录集合之外 — Status: implemented — .agents/notes/implemented/process/2026-07-26-frozen-agent-note-archive.zh.md
+- Agent Note: Make Lefthook installation worktree-local — Status: implemented — .agents/notes/implemented/process/2026-07-27-worktree-local-lefthook.md
+- Agent Note: 让 Lefthook 安装限定于各 worktree — Status: implemented — .agents/notes/implemented/process/2026-07-27-worktree-local-lefthook.zh.md
+- Agent Note: Generated third-party notices — Status: implemented — .agents/notes/implemented/process/2026-07-30-generated-third-party-notices.md
+- Agent Note: 生成的第三方声明 — Status: implemented — .agents/notes/implemented/process/2026-07-30-generated-third-party-notices.zh.md
+- Agent Note: Native GitHub stacks and optional PR rebases — Status: implemented — .agents/notes/implemented/process/2026-08-02-native-github-stacks-and-optional-rebases.md
+- Agent Note: GitHub 原生堆叠与可选 PR rebase — Status: implemented — .agents/notes/implemented/process/2026-08-02-native-github-stacks-and-optional-rebases.zh.md
+- Agent Note: Wine and native Windows CI — Status: implemented — .agents/notes/implemented/process/2026-08-08-native-windows-pull-request-ci.md
+- Agent Note: Wine 与原生 Windows CI — Status: implemented — .agents/notes/implemented/process/2026-08-08-native-windows-pull-request-ci.zh.md
+- Agent Note: Unified GitHub label taxonomy — Status: implemented — .agents/notes/implemented/process/2026-08-08-unified-github-label-taxonomy.md
+- Agent Note: 统一 GitHub 标签分类体系 — Status: implemented — .agents/notes/implemented/process/2026-08-08-unified-github-label-taxonomy.zh.md
+- Agent Note: Event-directed PR review status commands — Status: implemented — .agents/notes/implemented/process/2026-08-10-event-directed-pr-review-status.md
+- Agent Note: 由事件直接指定的 PR 评审状态命令 — Status: implemented — .agents/notes/implemented/process/2026-08-10-event-directed-pr-review-status.zh.md
+- Agent Note: Private npm publication as three independent sequences — Status: implemented — .agents/notes/implemented/process/2026-08-10-npm-release-sequences.md
+- Agent Note: 三条独立序列的私有 NPM 发布 — Status: implemented — .agents/notes/implemented/process/2026-08-10-npm-release-sequences.zh.md
+- Agent Note: Ban an ambiguous origin label — Status: implemented — .agents/notes/implemented/process/2026-08-26-ban-ambiguous-origin-label.md
+- Agent Note: 禁止有歧义的来源名称 — Status: implemented — .agents/notes/implemented/process/2026-08-26-ban-ambiguous-origin-label.zh.md
+- Agent Note: Published dependency faces and bounded peer relays — Status: implemented — .agents/notes/implemented/process/2026-08-26-published-dependency-faces.md
+- Agent Note: 发布依赖门面与有限 peer 中继 — Status: implemented — .agents/notes/implemented/process/2026-08-26-published-dependency-faces.zh.md
+- Agent Note: Windows Python runtime CI stays on GitHub-hosted Windows — Status: implemented — .agents/notes/implemented/process/2026-09-06-python-runtime-windows-hosted.md
+- Agent Note: Windows Python runtime CI 保留在 GitHub 托管 Windows 上 — Status: implemented — .agents/notes/implemented/process/2026-09-06-python-runtime-windows-hosted.zh.md
+- Agent Note: Blacksmith as a failover leg for CI pools — Status: implemented — .agents/notes/implemented/process/2026-09-09-blacksmith-failover-leg.md
+- Agent Note: Blacksmith 作为 CI 池的故障切换支路 — Status: implemented — .agents/notes/implemented/process/2026-09-09-blacksmith-failover-leg.zh.md
+- Agent Note: Parallel macOS notarization from isolated App copies — Status: implemented — .agents/notes/implemented/process/2026-09-09-parallel-macos-notarization.md
+- Agent Note: 基于隔离 App 副本的并行 macOS 公证 — Status: implemented — .agents/notes/implemented/process/2026-09-09-parallel-macos-notarization.zh.md

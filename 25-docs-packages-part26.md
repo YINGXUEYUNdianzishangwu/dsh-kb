@@ -1,0 +1,33 @@
+# docs: packages (830 篇, part 26/26)
+
+- dsh-util-workspace-path — description: "Browser-safe Workspace path helpers for joining relative paths, abbreviating — packages/util/workspace-path/README.md
+- dsh-util-workspace-path — description: "浏览器安全的 Workspace 路径辅助函数：拼接相对路径、缩写 POSIX 主目录并生成显示标题。" — packages/util/workspace-path/README.zh.md
+- AGENTS.md — Web Packages — These rules supplement the package conventions in [packages/AGENTS.md](../AGENTS.md). — packages/web/AGENTS.md
+- web/ — web access capability family — description: "Package map for the web access capability family: the search/fetch service,  — packages/web/README.md
+- web/：web 访问能力家族 — description: "web 访问能力家族的包映射：搜索与抓取服务、其提供方后端，以及消费它们的面向模型工具。" — packages/web/README.zh.md
+- @deepseek-ai/dsh-tool-web — description: "The model-facing web tools (websearch, webfetch) over ctx.web: how deploymen — packages/web/tool-web/README.md
+- @deepseek-ai/dsh-tool-web — description: "构建于 ctx.web 之上的面向模型 web 工具（websearch、webfetch）：部署方如何启用、配置并观察模型看到的搜索与抓取工具。" — packages/web/tool-web/README.zh.md
+- @deepseek-ai/dsh-web — description: "The web access service (ctx.web): how deployments and plugin authors search  — packages/web/web/README.md
+- @deepseek-ai/dsh-web — description: "web 访问服务（ctx.web）：部署方与插件作者如何通过可互换的提供方搜索 web 与抓取 URL，以及统一的选择策略与错误词汇。" — packages/web/web/README.zh.md
+- @deepseek-ai/dsh-web-deepseek-api — description: "DeepSeek Search and Fetch API providers, their shared authentication and tra — packages/web/web-deepseek-api/README.md
+- @deepseek-ai/dsh-web-deepseek-api — description: "DeepSeek Search 与 Fetch API 提供者、共享的鉴权与传输层、端点配置及标准化结果。" — packages/web/web-deepseek-api/README.zh.md
+- @deepseek-ai/dsh-web-fetch-http — description: "The anonymous public HTTP(S) fetch backend for ctx.web: how deployments moun — packages/web/web-fetch-http/README.md
+- @deepseek-ai/dsh-web-fetch-http — description: "ctx.web 的匿名公共 HTTP(S) 抓取后端：部署方如何挂载有界、安全的 URL 抓取，含同源重定向与仅文本解码。" — packages/web/web-fetch-http/README.zh.md
+- @deepseek-ai/dsh-web-search-deepseek — description: "The DeepSeek-backed search provider for ctx.web: how deployments mount nativ — packages/web/web-search-deepseek/README.md
+- @deepseek-ai/dsh-web-search-deepseek — description: "ctx.web 的 DeepSeek 搜索提供方：部署方如何通过 Anthropic 兼容 Messages API 挂载 DeepSeek 原生 we — packages/web/web-search-deepseek/README.zh.md
+- @deepseek-ai/dsh-web-search-exa — description: "The Exa-backed search provider for ctx.web: how deployments mount vendor-nat — packages/web/web-search-exa/README.md
+- @deepseek-ai/dsh-web-search-exa — description: "ctx.web 的 Exa 搜索提供方：部署方如何挂载厂商原生 web 搜索，获得可移植 snippet 与发布日期。" — packages/web/web-search-exa/README.zh.md
+- @deepseek-ai/dsh-web-search-perplexity — description: "The Perplexity-backed search provider for ctx.web: how deployments mount Ope — packages/web/web-search-perplexity/README.md
+- @deepseek-ai/dsh-web-search-perplexity — description: "ctx.web 的 Perplexity 搜索提供方：部署方如何挂载 OpenAI 兼容的 Perplexity 搜索，获得生成答案与引用。" — packages/web/web-search-perplexity/README.zh.md
+- packages/workflow — description: "The workflow group map: model-authored orchestration scripts that fan out su — packages/workflow/README.md
+- packages/workflow — description: "workflow 组地图：由模型编写的、可扇出 subagent 的编排脚本，供浏览本组的用户与维护者阅读。" — packages/workflow/README.zh.md
+- @deepseek-ai/dsh-tool-workflow — description: "The model-facing workflow tool: run a JavaScript orchestration script that f — packages/workflow/tool-workflow/README.md
+- @deepseek-ai/dsh-tool-workflow — description: "面向模型的工作流工具：运行扇出 subagent 的 JavaScript 编排脚本，供选择或配置模型驱动编排的用户与维护者阅读。" — packages/workflow/tool-workflow/README.zh.md
+- @deepseek-ai/dsh-workflow — description: "The workflow orchestration capability: run a model-written script that fans  — packages/workflow/workflow/README.md
+- @deepseek-ai/dsh-workflow — description: "工作流编排能力：运行由模型编写的、扇出 subagent 的脚本，供选择或构建在 ctx.workflowEngine 之上的用户与维护者阅读。" — packages/workflow/workflow/README.zh.md
+- @deepseek-ai/dsh-workflow-ptc — description: "Run workflow orchestration through the shared sandboxed PTC Node process run — packages/workflow/workflow-ptc/README.md
+- @deepseek-ai/dsh-workflow-ptc — description: "通过共享的沙箱化 PTC Node 进程运行时执行工作流编排，保留工作流钩子、subagent 路由和调用方拥有的取消能力。" — packages/workflow/workflow-ptc/README.zh.md
+- packages/workspace — description: "The workspace group map: the persistent workspace entity family, durable dir — packages/workspace/README.md
+- packages/workspace — description: "workspace 组地图：持久工作区实体家族、用户目录的持久记录与经会话头验证的会话归属关系，供浏览本组的用户与维护者阅读。" — packages/workspace/README.zh.md
+- @deepseek-ai/dsh-workspace — description: "Workspace entity registry (ctx.workspaceRegistry) for hosts choosing, mounti — packages/workspace/workspace/README.md
+- @deepseek-ai/dsh-workspace — description: "面向选择、挂载或排查持久 workspace 记录与会话头校验成员资格的宿主的 Workspace 实体注册表（ctx.workspaceRegistr — packages/workspace/workspace/README.zh.md

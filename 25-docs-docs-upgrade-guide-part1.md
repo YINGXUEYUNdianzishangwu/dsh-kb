@@ -1,0 +1,45 @@
+# docs: docs/upgrade-guide (86 篇, part 1/2)
+
+- Schedule moves into the Automation tasks optional bundle — kind: upgrade-guide — docs/upgrade-guide/v0.1.7-rc.2/schedule-optional-bundle/guide.md
+- Schedule 移入“自动化任务”可选 bundle — kind: upgrade-guide — docs/upgrade-guide/v0.1.7-rc.2/schedule-optional-bundle/guide.zh.md
+- Legacy `normal` work details display as Detailed — kind: upgrade-guide — docs/upgrade-guide/v0.1.7-rc.2/transcript-view-legacy-normal/guide.md
+- 旧值 `normal` 的工作步骤展示改为“详细” — kind: upgrade-guide — docs/upgrade-guide/v0.1.7-rc.2/transcript-view-legacy-normal/guide.zh.md
+- Account sign-in error codes — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/account-sign-in-errors/guide.md
+- 账号登录错误码 — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/account-sign-in-errors/guide.zh.md
+- NumPy and pandas upstream tests require a separate environment — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/bundled-python-tests/guide.md
+- NumPy 和 pandas 上游测试需要独立环境 — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/bundled-python-tests/guide.zh.md
+- Custom Python runtime aliases must target a sibling interpreter — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/primary-runtime-python-aliases/guide.md
+- 自定义 Python 运行时别名必须指向同目录解释器 — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/primary-runtime-python-aliases/guide.zh.md
+- Runtime invariant plugins are removed — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/remove-runtime-invariants/guide.md
+- 运行时不变式插件被移除 — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/remove-runtime-invariants/guide.zh.md
+- Automation tasks bundle removed — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/schedule-bundle-retired/guide.md
+- “自动化任务” bundle 已移除 — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/schedule-bundle-retired/guide.zh.md
+- Subpath plugins read `<subpath>/icon` instead of `<subpath>/package.json` — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/subpath-plugin-display-manifest/guide.md
+- 子路径插件改读 `<子路径>/icon`，不再读 `<子路径>/package.json` — kind: upgrade-guide — docs/upgrade-guide/v0.2.0-rc.2/subpath-plugin-display-manifest/guide.zh.md
+- DeepSeek API-key model visibility — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/deepseek-model-discovery/guide.md
+- DeepSeek API Key 模型可见性 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/deepseek-model-discovery/guide.zh.md
+- Enable test update-policy authentication dialogs locally — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/desktop-test-auth-popup/guide.md
+- 在本地开启测试更新策略鉴权弹窗 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/desktop-test-auth-popup/guide.zh.md
+- Explicit installation and composition for optional capabilities — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/experimental-package-composition/guide.md
+- 可选能力的显式安装与组合 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/experimental-package-composition/guide.zh.md
+- Instruction loading resolves one harness home — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/instruction-home-override/guide.md
+- 指令加载只解析一个 harness home — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/instruction-home-override/guide.zh.md
+- Background job ids identify one execution — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/job-id-identity/guide.md
+- 后台 job id 标识一次执行 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/job-id-identity/guide.zh.md
+- Mount JSONL persistence through its plugin — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/jsonl-persistence-plugin/guide.md
+- 通过插件挂载 JSONL 持久化 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/jsonl-persistence-plugin/guide.zh.md
+- Read named events from the Messages mock server — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/mock-messages-events/guide.md
+- 读取 Messages 模拟服务器的具名事件 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/mock-messages-events/guide.zh.md
+- Native subagent bundles include global tools — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/native-subagent-bundle-tools/guide.md
+- 原生子代理 bundle 包含全局工具 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/native-subagent-bundle-tools/guide.zh.md
+- Start a fresh Agent with New Session — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/new-session-generations/guide.md
+- 通过新会话创建新的 Agent — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/new-session-generations/guide.zh.md
+- `dsh plugin` option placement — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/plugin-option-placement/guide.md
+- `dsh plugin` 选项位置 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/plugin-option-placement/guide.zh.md
+- Download optional Python runtime resources explicitly — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/python-optional-resources/guide.md
+- 显式下载可选 Python 运行时资源 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/python-optional-resources/guide.zh.md
+- Python PTC applies the shared file sandbox — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/python-ptc-sandbox/guide.md
+- Python PTC 应用共享文件沙箱 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/python-ptc-sandbox/guide.zh.md
+- Prepare custom title routes — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/session-title-adapters/guide.md
+- 准备自定义标题路由 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/session-title-adapters/guide.zh.md
+- Migrate session-title providers — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/session-title-provider-strategy/guide.md

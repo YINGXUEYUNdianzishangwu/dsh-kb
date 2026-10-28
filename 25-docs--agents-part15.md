@@ -1,0 +1,38 @@
+# docs: .agents (2583 篇, part 15/66)
+
+- Agent Note: 网页图标随配色方案切换 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-10-web-favicon-dark-mode.zh.md
+- Agent Note: Bounded background job admission — Status: implemented — .agents/notes/archived/bug-fix/2026-08-11-bounded-background-job-admission.md
+- Agent Note: 有界后台任务准入 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-11-bounded-background-job-admission.zh.md
+- Agent Note: Owned-run finish reason reporting — Status: implemented — .agents/notes/archived/bug-fix/2026-08-11-owned-run-finish-reason.md
+- Agent Note: 自有运行的结束原因报告 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-11-owned-run-finish-reason.zh.md
+- Agent Note: The preset-authoring agent mount-validates its own composition — Status: implemented — .agents/notes/archived/bug-fix/2026-08-11-preset-authoring-agent-validates-its-own-composition.md
+- Agent Note: 创作 preset 的 agent 自行挂载校验其组装 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-11-preset-authoring-agent-validates-its-own-composition.zh.md
+- Agent Note: Preset cards clamp their description instead of sizing the roster — Status: implemented — .agents/notes/archived/bug-fix/2026-08-11-preset-card-description-clamp.md
+- Agent Note: 预设卡片截断自身描述，而不是由描述决定整份名单的高度 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-11-preset-card-description-clamp.zh.md
+- Agent Note: Synchronous cleanup of managed subprocesses on host exit — Status: implemented — .agents/notes/archived/bug-fix/2026-08-11-synchronous-subprocess-exit-cleanup.md
+- Agent Note: 宿主退出时同步清理受管子进程 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-11-synchronous-subprocess-exit-cleanup.zh.md
+- Agent Note: Collapsed sidebar upper controls share one entry motion — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-collapsed-sidebar-shared-entry-motion.md
+- Agent Note: 收起侧栏的上方控件共用同一进入动画 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-collapsed-sidebar-shared-entry-motion.zh.md
+- Agent Note: The overlay composer seat compensates for the bar instead of reserving a gutter — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-composer-overlay-seat-width-compensation.md
+- Agent Note: 覆盖视图的 composer 座位改为补偿滚动条宽度，不再预留滚动条槽 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-composer-overlay-seat-width-compensation.zh.md
+- Agent Note: fix the pwsh terminal overlay duplicate-loader collision — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-fix-pwsh-terminal-overlay-dup.md
+- Agent Note: 修复 pwsh 终端 overlay 的重复 loader 冲突 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-fix-pwsh-terminal-overlay-dup.zh.md
+- Agent Note: Full-session stats-strip figures through a sessionStats projection — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-full-session-turn-step-counts.md
+- Agent Note: 通过 sessionStats 投影提供全会话统计条数字 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-full-session-turn-step-counts.zh.md
+- Agent Note: The chat flow surfaces a max-tokens turn end — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-max-tokens-turn-end-notice.md
+- Agent Note: 聊天流展示 max-tokens 结束的轮次 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-max-tokens-turn-end-notice.zh.md
+- Agent Note: First-run readiness reads every provider, and the setup card closes — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-onboarding-reads-every-provider.md
+- Agent Note: First-run readiness reads every provider, and the setup card closes — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-onboarding-reads-every-provider.zh.md
+- Agent Note: Resolve Microsoft Store pwsh aliases — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-resolve-store-pwsh-aliases.md
+- Agent Note: 解析 Microsoft Store 的 pwsh 别名 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-resolve-store-pwsh-aliases.zh.md
+- Agent Note: Unlink fixture junctions before recursive deletion — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-unlink-fixture-junctions-before-delete.md
+- Agent Note: 递归删除前先解链 fixture junction — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-unlink-fixture-junctions-before-delete.zh.md
+- Agent Note: Unlink stale profile fallback links instead of rmSync — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-unlink-stale-profile-fallback-links.md
+- Agent Note: 用 unlink 删除过期的 profile 回退链接而非 rmSync — Status: implemented — .agents/notes/archived/bug-fix/2026-08-12-unlink-stale-profile-fallback-links.zh.md
+- Agent Note: Bound cold blank-session verification — Status: implemented — .agents/notes/archived/bug-fix/2026-08-13-bounded-cold-blank-verification.md
+- Agent Note: 有界验证冷空白会话 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-13-bounded-cold-blank-verification.zh.md
+- Agent Note: The feedback note editor floats above the transcript in a popover — Status: implemented — .agents/notes/archived/bug-fix/2026-08-13-feedback-note-editor-popover.md
+- Agent Note: 反馈备注编辑器以浮层悬浮在对话记录上方 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-13-feedback-note-editor-popover.zh.md
+- Agent Note: The configurable-provider directory withholds OAuth-only providers — Status: implemented — .agents/notes/archived/bug-fix/2026-08-13-oauth-only-providers-withheld.md
+- Agent Note: 可配置提供方目录不再提供仅以 OAuth 认证的提供方 — Status: implemented — .agents/notes/archived/bug-fix/2026-08-13-oauth-only-providers-withheld.zh.md
+- Agent Note: Safari textarea soft-wrap shrink recovery — Status: implemented — .agents/notes/archived/bug-fix/2026-08-13-safari-textarea-soft-wrap-reflow.md

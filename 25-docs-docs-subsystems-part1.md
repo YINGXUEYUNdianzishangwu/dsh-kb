@@ -1,0 +1,72 @@
+# docs: docs/subsystems (134 篇, part 1/2)
+
+- Agent Teams — English | [中文](agent-team.zh.md) — docs/subsystems/agent-team.md
+- Agent Teams — [English](agent-team.md) | 中文 — docs/subsystems/agent-team.zh.md
+- User Approval — English | [中文](approval.zh.md) — docs/subsystems/approval.md
+- 用户审批 — [English](approval.md) | 中文 — docs/subsystems/approval.zh.md
+- Durable Attachments — English | [中文](attachment.zh.md) — docs/subsystems/attachment.md
+- 持久附件 — [English](attachment.md) | 中文 — docs/subsystems/attachment.zh.md
+- Profile management — English | [中文](boot.zh.md) — docs/subsystems/boot.md
+- Profile 管理 — [English](boot.md) | 中文 — docs/subsystems/boot.zh.md
+- Browser use — English | [中文](browser-use.zh.md) — docs/subsystems/browser-use.md
+- 浏览器操作 — [English](browser-use.md) | 中文 — docs/subsystems/browser-use.zh.md
+- Claude Code mods: compatibility — English | [中文](claude-code-mods.zh.md) — docs/subsystems/claude-code-mods.md
+- Claude Code 模组：兼容性 — [English](claude-code-mods.md) | 中文 — docs/subsystems/claude-code-mods.zh.md
+- Client Modules — English | [中文](client-modules.zh.md) — docs/subsystems/client-modules.md
+- Client 模块 — [English](client-modules.md) | 中文 — docs/subsystems/client-modules.zh.md
+- Client Resources — English | [中文](client-resources.zh.md) — docs/subsystems/client-resources.md
+- 客户端资源 — [English](client-resources.md) | 中文 — docs/subsystems/client-resources.zh.md
+- Human Commands — English | [中文](commands.zh.md) — docs/subsystems/commands.md
+- 用户命令 — [English](commands.md) | 中文 — docs/subsystems/commands.zh.md
+- Compaction — English | [中文](compaction.zh.md) — docs/subsystems/compaction.md
+- 压缩（compaction） — [English](compaction.md) | 中文 — docs/subsystems/compaction.zh.md
+- Computer use — English | [中文](computer-use.zh.md) — docs/subsystems/computer-use.md
+- 计算机操作 — [English](computer-use.md) | 中文 — docs/subsystems/computer-use.zh.md
+- Conversation assembly — English | [中文](conversation.zh.md) — docs/subsystems/conversation.md
+- Conversation 组装 — [English](conversation.md) | 中文 — docs/subsystems/conversation.zh.md
+- Core — English | [中文](core.zh.md) — docs/subsystems/core.md
+- 核心 — [English](core.md) | 中文 — docs/subsystems/core.zh.md
+- User Credentials — English | [中文](credentials.zh.md) — docs/subsystems/credentials.md
+- 用户凭据 — [English](credentials.md) | 中文 — docs/subsystems/credentials.zh.md
+- Deliverables — English | [中文](deliverables.zh.md) — docs/subsystems/deliverables.md
+- 产出物 — [English](deliverables.md) | 中文 — docs/subsystems/deliverables.zh.md
+- Extensions — English | [中文](extensions.zh.md) — docs/subsystems/extensions.md
+- 扩展 — [English](extensions.md) | 中文 — docs/subsystems/extensions.zh.md
+- Message Feedback — English | [中文](feedback.zh.md) — docs/subsystems/feedback.md
+- 消息反馈 — [English](feedback.md) | 中文 — docs/subsystems/feedback.zh.md
+- Filesystem — English | [中文](filesystem.zh.md) — docs/subsystems/filesystem.md
+- 文件系统 — [English](filesystem.md) | 中文 — docs/subsystems/filesystem.zh.md
+- Same-session goals — English | [中文](goal.zh.md) — docs/subsystems/goal.md
+- 同会话目标 — [English](goal.md) | 中文 — docs/subsystems/goal.zh.md
+- Background Job Runtime — English | [中文](jobs.zh.md) — docs/subsystems/jobs.md
+- 后台任务运行时 — [English](jobs.md) | 中文 — docs/subsystems/jobs.zh.md
+- LLM Streaming — English | [中文](llm-streaming.zh.md) — docs/subsystems/llm-streaming.md
+- LLM（大语言模型）流式输出 — [English](llm-streaming.md) | 中文 — docs/subsystems/llm-streaming.zh.md
+- LSP navigation — English | [中文](lsp.zh.md) — docs/subsystems/lsp.md
+- LSP 导航 — [English](lsp.md) | 中文 — docs/subsystems/lsp.zh.md
+- MCP — English | [中文](mcp.zh.md) — docs/subsystems/mcp.md
+- MCP — [English](mcp.md) | 中文 — docs/subsystems/mcp.zh.md
+- Office to PDF — English | [中文](office-to-pdf.zh.md) — docs/subsystems/office-to-pdf.md
+- Office 转 PDF — [English](office-to-pdf.md) | 中文 — docs/subsystems/office-to-pdf.zh.md
+- OTel reporting — English | [中文](otel.zh.md) — docs/subsystems/otel.md
+- OTel 上报 — [English](otel.md) | 中文 — docs/subsystems/otel.zh.md
+- Permission Presets — English | [中文](permission-presets.zh.md) — docs/subsystems/permission-presets.md
+- 权限预设 — [English](permission-presets.md) | 中文 — docs/subsystems/permission-presets.zh.md
+- Session Persistence — English | [中文](persistence.zh.md) — docs/subsystems/persistence.md
+- 会话持久化 — [English](persistence.md) | 中文 — docs/subsystems/persistence.zh.md
+- Plan Mode — English | [中文](plan.zh.md) — docs/subsystems/plan.md
+- 计划模式 — [English](plan.md) | 中文 — docs/subsystems/plan.zh.md
+- Product telemetry — English | [中文](product-telemetry.zh.md) — docs/subsystems/product-telemetry.md
+- 产品埋点 — [English](product-telemetry.md) | 中文 — docs/subsystems/product-telemetry.zh.md
+- PTC runtime — English | [中文](ptc-runtime.zh.md) — docs/subsystems/ptc-runtime.md
+- PTC 运行时 — [English](ptc-runtime.md) | 中文 — docs/subsystems/ptc-runtime.zh.md
+- Subsystems — English | [中文](README.zh.md) — docs/subsystems/README.md
+- 子系统 — [English](README.md) | 中文 — docs/subsystems/README.zh.md
+- Process Sandbox — English | [中文](sandbox.zh.md) — docs/subsystems/sandbox.md
+- 进程沙箱 — [English](sandbox.md) | 中文 — docs/subsystems/sandbox.zh.md
+- Host-wide Schedule — English | [中文](schedule.zh.md) — docs/subsystems/schedule.md
+- 宿主级 Schedule — [English](schedule.md) | 中文 — docs/subsystems/schedule.zh.md
+- Scoped Registration — English | [中文](scope.zh.md) — docs/subsystems/scope.md
+- 作用域注册 — [English](scope.md) | 中文 — docs/subsystems/scope.zh.md
+- Session Projections — English | [中文](session-projection.zh.md) — docs/subsystems/session-projection.md
+- 会话投影 — [English](session-projection.md) | 中文 — docs/subsystems/session-projection.zh.md

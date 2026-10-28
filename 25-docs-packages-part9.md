@@ -1,0 +1,35 @@
+# docs: packages (830 篇, part 9/26)
+
+- @deepseek-ai/dsh-tools — description: "面向工具作者与维护者的工具注册表与执行流水线说明，用于注册、限制、呈现或调试面向模型的工具。" — packages/core/tools/README.zh.md
+- @deepseek-ai/dsh-authorization — description: "The authorization flow registry for users and maintainers who obtain credent — packages/credentials/authorization/README.md
+- @deepseek-ai/dsh-authorization — description: "面向用户与维护者的授权 flow 注册表：获取配置无法提供的凭据，因为拿到它需要与人对话。" — packages/credentials/authorization/README.zh.md
+- @deepseek-ai/dsh-credentials — description: "The credential seam for users and maintainers resolving, describing, or stor — packages/credentials/credentials/README.md
+- @deepseek-ai/dsh-credentials — description: "面向用户与维护者的凭据 seam：在不把机密值写进配置的前提下解析、描述或存储凭据——引用值与持久化记录。" — packages/credentials/credentials/README.zh.md
+- @deepseek-ai/dsh-credentials-local — description: "The file-backed credentials provider for users and maintainers choosing, con — packages/credentials/credentials-local/README.md
+- @deepseek-ai/dsh-credentials-local — description: "面向用户与维护者的文件型凭据提供方：选择、配置或排查本地凭据存储及其环境分层。" — packages/credentials/credentials-local/README.zh.md
+- @deepseek-ai/dsh-deepseek-account — description: "Account consumers read stored login state, start or cancel a browser login,  — packages/credentials/deepseek-account/README.md
+- @deepseek-ai/dsh-deepseek-account — description: "账号使用方可读取本地登录状态、发起或取消浏览器登录，并在保留 API Key 的情况下退出。Host 模型使用方仅能为提供者配置的推理来源解析账号凭证。 — packages/credentials/deepseek-account/README.zh.md
+- @deepseek-ai/dsh-deepseek-account-platform — description: "Sign in through the system browser and keep the account credential in the ex — packages/credentials/deepseek-account-platform/README.md
+- @deepseek-ai/dsh-deepseek-account-platform — description: "通过系统浏览器登录，并将账号凭证保存在现有本地凭证存储中。本地取消会阻止迟到的回调和兑换响应使用户登录。" — packages/credentials/deepseek-account-platform/README.zh.md
+- credentials/ — credentials and authorization — description: "Package map for the credential capability family: the credential-reference s — packages/credentials/README.md
+- credentials/：凭据与授权 — description: "凭据能力族的包映射：凭据引用 seam、环境与文件提供方、授权 flow 注册表，以及引用如何让机密值留在配置之外。" — packages/credentials/README.zh.md
+- packages/deliverables — description: "The deliverables group map: the Host plugins that record what a turn hands t — packages/deliverables/README.md
+- packages/deliverables — description: "deliverables 组导览：记录轮次交给用户的内容的 Host 插件，即显式文件交付与观察到的工作区改动，供浏览本组的用户与维护者阅读。" — packages/deliverables/README.zh.md
+- @deepseek-ai/dsh-tool-present — description: "Declare accessible files as deliverables with present; configuration, Sessio — packages/deliverables/tool-present/README.md
+- @deepseek-ai/dsh-tool-present — description: "通过 present 声明交付可访问的文件；配置、Session 归属与源文件打开。" — packages/deliverables/tool-present/README.zh.md
+- @deepseek-ai/dsh-workspace-changes — description: "Summarize each top-level turn's changed files from git working-tree snapshot — packages/deliverables/workspace-changes/README.md
+- @deepseek-ai/dsh-workspace-changes — description: "用 git 工作树快照和文件工具编辑前后的整文件捕获汇总每个顶层轮次改动的文件，以 workspace/changes Session 事件宣告，并在  — packages/deliverables/workspace-changes/README.zh.md
+- @deepseek-ai/dsh-office-to-pdf — description: "Host Office conversion with the independently published LibreOffice kit." — packages/document/office-to-pdf/README.md
+- @deepseek-ai/dsh-office-to-pdf — description: "通过独立发布的 LibreOffice kit 在 Host 转换 Office 文档。" — packages/document/office-to-pdf/README.zh.md
+- document/ — Office conversion — description: "Package map for Host Office conversion and reusable PDF results." — packages/document/README.md
+- document/ — Office 转换 — description: "Host Office 转换和可复用 PDF 结果的包索引。" — packages/document/README.zh.md
+- @deepseek-ai/dsh-experimental-agent-team — description: "Run named teammates with direct inbox messages and a durable shared task boa — packages/experimental/agent-team/README.md
+- @deepseek-ai/dsh-experimental-agent-team — description: "在实验性 Team 组合中运行具名 teammate，使用直接 inbox 消息和持久共享任务板。" — packages/experimental/agent-team/README.zh.md
+- @deepseek-ai/dsh-experimental-agent-team-profile — description: "Enable team collaboration, tools, and the Web roster and task board with one — packages/experimental/agent-team-profile/README.md
+- @deepseek-ai/dsh-experimental-agent-team-profile — description: "在一个实验性组合包中启用团队协作、工具与 Web 成员和任务看板。" — packages/experimental/agent-team-profile/README.zh.md
+- AGENTS.md — Experimental packages — These rules supplement the [package rules](../AGENTS.md). The [experimental reference](REA — packages/experimental/AGENTS.md
+- @deepseek-ai/dsh-experimental-api-speech-to-text — description: "Expose bounded transient transcription through the authenticated Web Remote. — packages/experimental/api-speech-to-text/README.md
+- @deepseek-ai/dsh-experimental-api-speech-to-text — description: "通过带认证的 Web Remote 提供有界临时转写。" — packages/experimental/api-speech-to-text/README.zh.md
+- @deepseek-ai/dsh-experimental-auto-review — description: "Add experimental per-call Auto review to a Web profile, using the current ag — packages/experimental/auto-review/README.md
+- @deepseek-ai/dsh-experimental-auto-review — description: "为 Web profile 添加实验性逐调用 Auto review，在工具以 Full access 执行前使用当前 agent 的模型审查。" — packages/experimental/auto-review/README.zh.md
+- @deepseek-ai/dsh-experimental-badge-skill-bundle — description: "Let agents add a “powered by dsh” badge to documents, pull requests, and oth — packages/experimental/badge-skill-bundle/README.md

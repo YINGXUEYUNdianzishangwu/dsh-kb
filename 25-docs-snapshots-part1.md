@@ -1,0 +1,47 @@
+# docs: snapshots (276 篇, part 1/6)
+
+- snapshots/acp/escalation-approved/system-prompt.expected.md — ../../session/text-turn/system-prompt.expected.md — snapshots/acp/escalation-approved/system-prompt.expected.md
+- snapshots/acp/fs-escalation-approved/workspace.expected/escalated.md — escalated — snapshots/acp/fs-escalation-approved/workspace.expected/escalated.md
+- snapshots/acp/fs-same-mode/workspace.expected/escalated.md — escalated — snapshots/acp/fs-same-mode/workspace.expected/escalated.md
+- snapshots/acp/image-compaction/system-prompt.expected.md — ../../session/read-image/system-prompt.expected.md — snapshots/acp/image-compaction/system-prompt.expected.md
+- AGENTS.md — Recorded-session snapshots — This tree contains only tests whose committed session JSONL is replay input and expected p — snapshots/AGENTS.md
+- snapshots/sdk/account-provider-signout/system-prompt.expected.md — ../text-turn/system-prompt.expected.md — snapshots/sdk/account-provider-signout/system-prompt.expected.md
+- snapshots/sdk/bash-tool/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/bash-tool/system-prompt.expected.md
+- snapshots/sdk/minimal-image-compaction/system-prompt.expected.md — You are a helpful software engineer assistant. — snapshots/sdk/minimal-image-compaction/system-prompt.expected.md
+- snapshots/sdk/persistent-tools/system-prompt.expected.md — You are the environment-selected minimal software engineer. — snapshots/sdk/persistent-tools/system-prompt.expected.md
+- snapshots/sdk/subagent-activation-limit/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/subagent-activation-limit/system-prompt.1.expected.md
+- snapshots/sdk/subagent-continuable/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/subagent-continuable/system-prompt.1.expected.md
+- snapshots/sdk/subagent-continuable-inheritance/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/subagent-continuable-inheritance/system-prompt.1.expected.md
+- snapshots/sdk/subagent-dsh-sdk-diagnostic/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/subagent-dsh-sdk-diagnostic/system-prompt.expected.md
+- snapshots/sdk/subagent-dsh-sdk-dynamic-route/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/subagent-dsh-sdk-dynamic-route/system-prompt.1.expected.md
+- snapshots/sdk/subagent-dsh-sdk-dynamic-route/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/subagent-dsh-sdk-dynamic-route/system-prompt.expected.md
+- snapshots/sdk/subagent-list-agents/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/subagent-list-agents/system-prompt.1.expected.md
+- snapshots/sdk/subagent-send-message/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/subagent-send-message/system-prompt.1.expected.md
+- snapshots/sdk/text-turn/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/text-turn/system-prompt.expected.md
+- snapshots/sdk/tool-error-details/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/sdk/tool-error-details/system-prompt.expected.md
+- snapshots/session/advanced-toolchain/system-prompt.1.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/advanced-toolchain/system-prompt.1.expected.md
+- snapshots/session/advanced-toolchain/system-prompt.2.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/advanced-toolchain/system-prompt.2.expected.md
+- snapshots/session/advanced-toolchain/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/advanced-toolchain/system-prompt.expected.md
+- snapshots/session/agent-instructions/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/agent-instructions/system-prompt.expected.md
+- snapshots/session/agent-instructions/workspace/.agents/AGENTS.md — Shared agents-root snapshot instruction. — snapshots/session/agent-instructions/workspace/.agents/AGENTS.md
+- snapshots/session/agent-instructions/workspace/AGENTS.canonical.md — Root snapshot instruction. — snapshots/session/agent-instructions/workspace/AGENTS.canonical.md
+- snapshots/session/agent-instructions/workspace/AGENTS.md — AGENTS.canonical.md — snapshots/session/agent-instructions/workspace/AGENTS.md
+- snapshots/session/agent-instructions/workspace/nested/AGENTS.canonical.md — Nested snapshot instruction. — snapshots/session/agent-instructions/workspace/nested/AGENTS.canonical.md
+- snapshots/session/agent-instructions/workspace/nested/AGENTS.md — AGENTS.canonical.md — snapshots/session/agent-instructions/workspace/nested/AGENTS.md
+- snapshots/session/agent-instructions-budget/workspace/.agents/AGENTS.md — global instruction global instruction global instruction global instruction global instruc — snapshots/session/agent-instructions-budget/workspace/.agents/AGENTS.md
+- snapshots/session/agent-instructions-budget/workspace/.dsh/AGENTS.md — global instruction global instruction global instruction global instruction global instruc — snapshots/session/agent-instructions-budget/workspace/.dsh/AGENTS.md
+- snapshots/session/agent-instructions-budget/workspace/AGENTS.md — Project budget snapshot instruction. — snapshots/session/agent-instructions-budget/workspace/AGENTS.md
+- snapshots/session/agent-instructions-group-failure/workspace/.agents/AGENTS.md — Original global instruction A. — snapshots/session/agent-instructions-group-failure/workspace/.agents/AGENTS.md
+- snapshots/session/agent-instructions-group-failure/workspace/.dsh/AGENTS.md — Original global instruction A. — snapshots/session/agent-instructions-group-failure/workspace/.dsh/AGENTS.md
+- snapshots/session/background-confinement-failure/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/background-confinement-failure/system-prompt.expected.md
+- snapshots/session/both-mode-turn/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/both-mode-turn/system-prompt.expected.md
+- snapshots/session/browser-use-chrome-devtools-mcp/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/browser-use-chrome-devtools-mcp/system-prompt.expected.md
+- snapshots/session/browser-use-playwright-mcp/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/browser-use-playwright-mcp/system-prompt.expected.md
+- snapshots/session/browser-use-stagehand-native/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/browser-use-stagehand-native/system-prompt.expected.md
+- snapshots/session/claude-code-mods/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/claude-code-mods/system-prompt.expected.md
+- snapshots/session/compaction-recovery/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/compaction-recovery/system-prompt.expected.md
+- snapshots/session/computer-use-cua-driver-mcp/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/computer-use-cua-driver-mcp/system-prompt.expected.md
+- snapshots/session/computer-use-cua-driver-native/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/computer-use-cua-driver-native/system-prompt.expected.md
+- snapshots/session/cordis-inspect-jsdoc/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/cordis-inspect-jsdoc/system-prompt.expected.md
+- snapshots/session/cua-native/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/cua-native/system-prompt.expected.md
+- snapshots/session/cua-ptc/system-prompt.expected.md — You are an AI agent powered by DeepSeek Harness. — snapshots/session/cua-ptc/system-prompt.expected.md

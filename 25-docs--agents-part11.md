@@ -1,0 +1,39 @@
+# docs: .agents (2583 篇, part 11/66)
+
+- Agent Note: Classify pi-ai transport truncations from flattened message text — Status: implemented — .agents/notes/archived/bug-fix/2026-07-22-pi-ai-transport-truncation-classification.md
+- Agent Note: 从扁平化的消息文本中分类 pi-ai 传输层截断 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-22-pi-ai-transport-truncation-classification.zh.md
+- Agent Note: demo:web builds the client plugin bundles — Status: implemented — .agents/notes/archived/bug-fix/2026-07-23-demo-web-builds-client-bundles.md
+- Agent Note: demo:web 构建客户端插件的打包产物 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-23-demo-web-builds-client-bundles.zh.md
+- Agent Note: Thinking rows use one disclosure target — Status: implemented — .agents/notes/archived/bug-fix/2026-07-23-thinking-row-disclosure-target.md
+- Agent Note: thinking 行使用单一展开目标 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-23-thinking-row-disclosure-target.zh.md
+- Agent Note: TUI generic-card Markdown rendering — Status: implemented — .agents/notes/archived/bug-fix/2026-07-23-tui-generic-card-markdown.md
+- Agent Note: TUI 通用卡片的 Markdown 渲染 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-23-tui-generic-card-markdown.zh.md
+- Agent Note: Empty model completions are retryable EMPTY_RESPONSE failures — Status: implemented — .agents/notes/archived/bug-fix/2026-07-24-empty-model-response-is-retryable.md
+- Agent Note: 空模型补全是可重试的 EMPTY_RESPONSE 失败 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-24-empty-model-response-is-retryable.zh.md
+- Agent Note: Recursive Python SDK session notifications — Status: implemented — .agents/notes/archived/bug-fix/2026-07-24-recursive-python-sdk-session-notifications.md
+- Agent Note: Python SDK 递归会话通知 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-24-recursive-python-sdk-session-notifications.zh.md
+- Agent Note: TUI presents a reason for every turn-end kind — Status: implemented — .agents/notes/archived/bug-fix/2026-07-24-tui-turn-end-stop-reason-notices.md
+- Agent Note: TUI 为每种轮次结束 kind 呈现原因 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-24-tui-turn-end-stop-reason-notices.zh.md
+- Agent Note: Intent draft echoes in the same tick — Status: implemented — .agents/notes/archived/bug-fix/2026-07-26-intent-draft-same-tick-echo.md
+- Agent Note: Intent draft echoes in the same tick — Status: implemented — .agents/notes/archived/bug-fix/2026-07-26-intent-draft-same-tick-echo.zh.md
+- Agent Note: Sample over-cap glob results across the tree — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-glob-sampling.md
+- Agent Note: 跨目录树采样超出上限的 glob 结果 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-glob-sampling.zh.md
+- Agent Note: Question-composer option rows are scroll content, not the slack absorber — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-question-composer-rows-do-not-shrink.md
+- Agent Note: 提问 composer 的选项行是滚动内容，而非空间不足时的吸收方 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-question-composer-rows-do-not-shrink.zh.md
+- Agent Note: Stable snapshot refresh volatiles — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-stable-snapshot-refresh-volatiles.md
+- Agent Note: 稳定快照刷新中的易变值 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-stable-snapshot-refresh-volatiles.zh.md
+- Agent Note: Tool-card single-row fields render inline — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-tool-card-single-row-fields-inline.md
+- Agent Note: 工具卡片的单行字段以内联方式渲染 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-tool-card-single-row-fields-inline.zh.md
+- Agent Note: TUI diff card dropped the duplicated file path — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-tui-diff-card-redundant-path-header.md
+- Agent Note: TUI diff 卡片重复打印文件路径 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-tui-diff-card-redundant-path-header.zh.md
+- Agent Note: TUI step timing trails the step's last message — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-tui-step-timing-trails-tool-cards.md
+- Agent Note: TUI 步骤计时跟在该步骤最后一条消息之后 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-27-tui-step-timing-trails-tool-cards.zh.md
+- Agent Note: The scrollbar tokens get their consumer, and the workspace list reserves its gutter — Status: implemented — .agents/notes/archived/bug-fix/2026-07-28-themed-scrollbars-and-reserved-gutter.md
+- Agent Note: 滚动条 token 有了消费方，工作区列表预留出滚动条空位 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-28-themed-scrollbars-and-reserved-gutter.zh.md
+- Agent Note: Web agents receive explicit runtime context — Status: implemented — .agents/notes/archived/bug-fix/2026-07-28-web-agent-runtime-context.md
+- Agent Note: Web agent 获得显式运行时上下文 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-28-web-agent-runtime-context.zh.md
+- Agent Note: Web conversation UI polish sweep — Status: implemented — .agents/notes/archived/bug-fix/2026-07-28-web-conversation-polish-sweep.md
+- Agent Note: Web 对话 UI 视觉优化 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-28-web-conversation-polish-sweep.zh.md
+- Agent Note: Web GUI changes close the loop on the existing URL — Status: implemented — .agents/notes/archived/bug-fix/2026-07-28-web-gui-feedback-loop.md
+- Agent Note: Web GUI 改动在现有 URL 上闭环 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-28-web-gui-feedback-loop.zh.md
+- Agent Note: Atomic Web image admission — Status: implemented — .agents/notes/archived/bug-fix/2026-07-29-atomic-web-image-admission.md

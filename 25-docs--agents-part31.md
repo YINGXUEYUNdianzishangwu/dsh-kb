@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 31/66)
+
+- Agent Note: Web `/export` 共用流式 Session ZIP 下载 — Status: implemented — .agents/notes/archived/feature/2026-08-11-web-export-command-and-dialog.zh.md
+- Agent Note: Status-driven disclosure for workflow runs — Status: implemented — .agents/notes/archived/feature/2026-08-11-workflow-run-status-driven-disclosure.md
+- Agent Note: 工作流运行的状态驱动 disclosure — Status: implemented — .agents/notes/archived/feature/2026-08-11-workflow-run-status-driven-disclosure.zh.md
+- Agent Note: Workspace Sidebar Order and Folding — Status: implemented — .agents/notes/archived/feature/2026-08-11-workspace-sidebar-order-and-folding.md
+- Agent Note: Workspace 侧边栏顺序与折叠 — Status: implemented — .agents/notes/archived/feature/2026-08-11-workspace-sidebar-order-and-folding.zh.md
+- Agent Note: Hero fish hover swim morph — Status: implemented — .agents/notes/archived/feature/2026-08-12-hero-fish-hover-swim-morph.md
+- Agent Note: 主页鲸鱼 hover 游动变形 — Status: implemented — .agents/notes/archived/feature/2026-08-12-hero-fish-hover-swim-morph.zh.md
+- Agent Note: `dsh web` opens its ready page — Status: implemented — .agents/notes/archived/feature/2026-08-12-open-ready-web-ui.md
+- Agent Note: `dsh web` 打开已就绪页面 — Status: implemented — .agents/notes/archived/feature/2026-08-12-open-ready-web-ui.zh.md
+- Agent Note: Product one-shot subagents use generic background Jobs — Status: implemented — .agents/notes/archived/feature/2026-08-12-product-subagent-one-shot-background-tasks.md
+- Agent Note: 产品 one-shot subagent 使用通用后台 Job — Status: implemented — .agents/notes/archived/feature/2026-08-12-product-subagent-one-shot-background-tasks.zh.md
+- Agent Note: Whole-page image drop, projected intake limits, and thumbnail tiling — Status: implemented — .agents/notes/archived/feature/2026-08-12-web-image-intake-and-limits-alignment.md
+- Agent Note: 整页图片拖放、上限投影预检与缩略图平铺 — Status: implemented — .agents/notes/archived/feature/2026-08-12-web-image-intake-and-limits-alignment.zh.md
+- Agent Note: Shared-modal product onboarding — Status: implemented — .agents/notes/archived/feature/2026-08-13-shared-modal-product-onboarding.md
+- Agent Note: 共用弹窗的产品引导 — Status: implemented — .agents/notes/archived/feature/2026-08-13-shared-modal-product-onboarding.zh.md
+- Agent Note: Web Turn process folding — Status: implemented — .agents/notes/archived/feature/2026-08-14-web-turn-process-folding.md
+- Agent Note: Web 轮次过程折叠 — Status: implemented — .agents/notes/archived/feature/2026-08-14-web-turn-process-folding.zh.md
+- Agent Note: web_search accepts multiple queries in one call — Status: implemented — .agents/notes/archived/feature/2026-08-17-web-search-multiple-queries.md
+- Agent Note: web_search 支持一次传入多个查询 — Status: implemented — .agents/notes/archived/feature/2026-08-17-web-search-multiple-queries.zh.md
+- Agent Note: System prompt expands into the opaque context body — Status: implemented — .agents/notes/archived/feature/2026-08-17-web-system-prompt-opaque-body.md
+- Agent Note: System prompt expands into the opaque context body — Status: implemented — .agents/notes/archived/feature/2026-08-17-web-system-prompt-opaque-body.zh.md
+- Agent Note: Exact-event session forks with shared crash repair — Status: implemented — .agents/notes/archived/feature/2026-08-18-arbitrary-seq-session-fork.md
+- Agent Note：复用崩溃修复的精确事件会话分叉 — Status: implemented — .agents/notes/archived/feature/2026-08-18-arbitrary-seq-session-fork.zh.md
+- Agent Note: Adaptive and drag-resizable conversation content width — Status: implemented — .agents/notes/archived/feature/2026-08-18-conversation-adaptive-content-width.md
+- Agent Note: 会话正文宽度自适应与拖拽调宽 — Status: implemented — .agents/notes/archived/feature/2026-08-18-conversation-adaptive-content-width.zh.md
+- Agent Note: Model-selected subagent routes — Status: implemented — .agents/notes/archived/feature/2026-08-18-model-selected-subagent-routes.md
+- Agent Note: 模型选择的 subagent 路由 — Status: implemented — .agents/notes/archived/feature/2026-08-18-model-selected-subagent-routes.zh.md
+- Agent Note: pi-ai Wire-Compatibility Surface in llm-pi-ai — Status: implemented — .agents/notes/archived/feature/2026-08-18-pi-ai-wire-compat-surface.md
+- Agent Note: pi-ai Wire-Compatibility Surface in llm-pi-ai — Status: implemented — .agents/notes/archived/feature/2026-08-18-pi-ai-wire-compat-surface.zh.md
+- Agent Note: Product subagents expose bounded structured failure facts — Status: implemented — .agents/notes/archived/feature/2026-08-18-product-subagent-failure-facts.md
+- Agent Note: 产品 subagent 公开有界结构化失败事实 — Status: implemented — .agents/notes/archived/feature/2026-08-18-product-subagent-failure-facts.zh.md
+- Agent Note: Product subagent named instances — Status: implemented — .agents/notes/archived/feature/2026-08-18-product-subagent-named-instances.md
+- Agent Note: 产品 subagent 命名实例 — Status: implemented — .agents/notes/archived/feature/2026-08-18-product-subagent-named-instances.zh.md
+- Agent Note: Settings-backed conversation content font size — Status: implemented — .agents/notes/archived/feature/2026-08-18-settings-font-size-control.md
+- Agent Note: Settings 支撑的会话正文字号 — Status: implemented — .agents/notes/archived/feature/2026-08-18-settings-font-size-control.zh.md
+- Agent Note: Web UI abbreviates POSIX home paths as `~` — Status: implemented — .agents/notes/archived/feature/2026-08-18-web-home-path-tilde.md
+- Agent Note: Web UI abbreviates POSIX home paths as `~` — Status: implemented — .agents/notes/archived/feature/2026-08-18-web-home-path-tilde.zh.md
+- Agent Note: High cache-hit decimal display — Status: implemented — .agents/notes/archived/feature/2026-08-19-high-cache-hit-decimal-display.md
+- Agent Note: 高缓存命中率的小数显示 — Status: implemented — .agents/notes/archived/feature/2026-08-19-high-cache-hit-decimal-display.zh.md
+- Agent Note: Web markdown tables fill the column by count, wide ones break out — Status: implemented — .agents/notes/archived/feature/2026-08-19-web-markdown-wide-table-view.md

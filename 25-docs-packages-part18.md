@@ -1,0 +1,34 @@
+# docs: packages (830 篇, part 18/26)
+
+- @deepseek-ai/dsh-sandbox-local — description: "面向 Linux、macOS 或 Windows 上选择、配置或排查进程隔离的用户与维护者的本地各平台沙箱后端。" — packages/sandbox/sandbox-local/README.zh.md
+- @deepseek-ai/dsh-sandbox-policy — description: "The shared per-call sandbox policy resolver and current model context for us — packages/sandbox/sandbox-policy/README.md
+- @deepseek-ai/dsh-sandbox-policy — description: "面向需要在各项负责强制执行的能力之间组合、配置或排查文件操作策略的用户与维护者，提供共享的逐调用沙箱策略解析器与当前模型上下文。" — packages/sandbox/sandbox-policy/README.zh.md
+- Diagnose Windows sandbox ACL failures — name: diagnose-windows-sandbox-acl — packages/sandbox/sandbox-windows-acl/assets/diagnose-windows-sandbox-acl/SKILL.md
+- @deepseek-ai/dsh-sandbox-windows-acl — description: "The Windows write-restriction sandbox backend for users and maintainers choo — packages/sandbox/sandbox-windows-acl/README.md
+- @deepseek-ai/dsh-sandbox-windows-acl — description: "面向 Windows 上选择、配置或排查受限令牌进程隔离的用户与维护者的 Windows 写入限制沙箱后端。" — packages/sandbox/sandbox-windows-acl/README.zh.md
+- AGENTS.md — Schedule packages — These rules supplement the repository and package instructions for packages/schedule/. — packages/schedule/AGENTS.md
+- schedule/ — Host-owned reminders — description: "The schedule package group: Host-owned scheduled reminders and task manageme — packages/schedule/README.md
+- schedule/ — Host 拥有的提醒 — description: "schedule 包组：Host 拥有的定时提醒与任务管理。" — packages/schedule/README.zh.md
+- @deepseek-ai/dsh-schedule — description: "Host-wide durable reminders and shared Session-bound task management." — packages/schedule/schedule/README.md
+- @deepseek-ai/dsh-schedule — description: "宿主级持久提醒与按会话绑定的共享任务管理。" — packages/schedule/schedule/README.zh.md
+- @deepseek-ai/dsh-tool-schedule — description: "Preset-scoped reminder management tools (schedulecreate, schedulelist, sched — packages/schedule/tool-schedule/README.md
+- @deepseek-ai/dsh-tool-schedule — description: "预设作用域的提醒管理工具（schedulecreate、schedulelist、scheduleupdate、scheduledelete），基于宿主 — packages/schedule/tool-schedule/README.zh.md
+- @deepseek-ai/dsh-sdk-client — description: "The TypeScript SDK client for callers that spawn a DeepSeek Harness runtime  — packages/sdk/client/README.md
+- @deepseek-ai/dsh-sdk-client — description: "面向以子进程方式启动 DeepSeek Harness 运行时、并通过 stdio JSON-RPC 驱动 agent（智能体）轮次的调用方的 Type — packages/sdk/client/README.zh.md
+- @deepseek-ai/dsh-sdk-protocol — description: "The SDK wire protocol for client and server implementers: the newline-delimi — packages/sdk/protocol/README.md
+- @deepseek-ai/dsh-sdk-protocol — description: "面向客户端与服务端实现者的 SDK 协议格式（wire format）说明：Harness 运行时与其 SDK 客户端之间使用的按换行分帧 JSON-R — packages/sdk/protocol/README.zh.md
+- sdk/ — drive a Harness runtime from another process — description: "Package map for the SDK family: JSON-RPC protocol plus the TypeScript client — packages/sdk/README.md
+- sdk/：从另一进程驱动 Harness 运行时 — description: "SDK 家族的包映射：JSON-RPC 协议，以及供进程外 SDK 使用的 TypeScript 客户端与服务器。" — packages/sdk/README.zh.md
+- @deepseek-ai/dsh-sdk-jsonrpc-server — description: "The stdio JSON-RPC serving plugin for deployments that let out-of-process SD — packages/sdk/server/README.md
+- @deepseek-ai/dsh-sdk-jsonrpc-server — description: "面向让进程外 SDK 客户端在 DeepSeek Harness 运行时中打开会话并驱动 agent 的部署的 stdio JSON-RPC 服务插件。 — packages/sdk/server/README.zh.md
+- session/ — durable session data plane — description: "Package map for the durable session data plane: the persistence seam and its — packages/session/README.md
+- session/ — 持久会话数据平面 — description: "持久会话数据平面的包映射：持久化 seam 及其后端、检查点策略、投影、基于日志的标题与外发会话遥测。" — packages/session/README.zh.md
+- @deepseek-ai/dsh-session-checkpoint-policy — description: "Semantic session durability checkpoints for users and maintainers deploying  — packages/session/session-checkpoint-policy/README.md
+- @deepseek-ai/dsh-session-checkpoint-policy — description: "面向用户与维护者的语义会话持久性检查点说明，用于部署不会在崩溃时丢失模型请求或工具副作用的持久化 agent（智能体）。" — packages/session/session-checkpoint-policy/README.zh.md
+- @deepseek-ai/dsh-session-format — description: "Pure adjacent Session format planning, lossless JSON value checks, header-on — packages/session/session-format/README.md
+- @deepseek-ai/dsh-session-format — description: "纯函数式相邻会话格式规划、无损 JSON 值检查、仅标头迁移与物理编解码分派。" — packages/session/session-format/README.zh.md
+- @deepseek-ai/dsh-session-format-catalog — description: "Build-static first-party Session format codec and adjacent migration assembl — packages/session/session-format-catalog/README.md
+- @deepseek-ai/dsh-session-format-catalog — description: "供持久化读取方使用的构建期静态第一方 Session 格式编解码器与相邻迁移装配。" — packages/session/session-format-catalog/README.zh.md
+- @deepseek-ai/dsh-session-format-v0-to-v1 — description: "Frozen released-v0 Session header, event, and packed-row decoder with the id — packages/session/session-format-v0-to-v1/README.md
+- @deepseek-ai/dsh-session-format-v0-to-v1 — description: "冻结的已发布 v0 会话标头、事件与打包行解码器，以及到 v1 的恒等转换。" — packages/session/session-format-v0-to-v1/README.zh.md
+- @deepseek-ai/dsh-session-format-v1-to-v2 — description: "Frozen released-v1 Session reader and cardinality-changing migration that em — packages/session/session-format-v1-to-v2/README.md

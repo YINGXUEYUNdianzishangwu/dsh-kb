@@ -1,0 +1,45 @@
+# docs: .agents (2583 篇, part 34/66)
+
+- Agent Note: Present follows Session filesystem access — Status: implemented — .agents/notes/archived/feature/2026-09-09-present-filesystem-access.md
+- Agent Note：Present 遵循 Session 文件系统访问规则 — Status: implemented — .agents/notes/archived/feature/2026-09-09-present-filesystem-access.zh.md
+- Agent Note: Inspect recorded PTC source in Trajectory — Status: implemented — .agents/notes/archived/feature/2026-09-09-ptc-trajectory-code-inspection.md
+- Agent Note: 在 Trajectory 中检查已记录的 PTC 源码 — Status: implemented — .agents/notes/archived/feature/2026-09-09-ptc-trajectory-code-inspection.zh.md
+- Agent Note: Composer reference previews — Status: implemented — .agents/notes/archived/feature/2026-09-10-composer-reference-previews.md
+- Agent Note: 输入框引用预览 — Status: implemented — .agents/notes/archived/feature/2026-09-10-composer-reference-previews.zh.md
+- Agent Note: Symmetric message feedback submission — Status: implemented — .agents/notes/archived/feature/2026-09-10-symmetric-message-feedback-submission.md
+- Agent Note: 对称消息反馈提交 — Status: implemented — .agents/notes/archived/feature/2026-09-10-symmetric-message-feedback-submission.zh.md
+- Agent Note: Desktop mandatory-update client and blocking window — Status: implemented — .agents/notes/archived/feature/2026-09-11-desktop-mandatory-update-client.md
+- Agent Note: Desktop 强更客户端与阻塞窗口 — Status: implemented — .agents/notes/archived/feature/2026-09-11-desktop-mandatory-update-client.zh.md
+- Agent Note: Sidebar document preview polish — Status: implemented — .agents/notes/archived/feature/2026-09-11-sidebar-document-preview-polish.md
+- Agent Note：侧边栏文档预览打磨 — Status: implemented — .agents/notes/archived/feature/2026-09-11-sidebar-document-preview-polish.zh.md
+- Agent Note: Turn changed-files card — Status: implemented — .agents/notes/archived/feature/2026-09-11-turn-changed-files-card.md
+- Agent Note: 本轮改动文件卡片 — Status: implemented — .agents/notes/archived/feature/2026-09-11-turn-changed-files-card.zh.md
+- Agent Note: On-demand MCP resources and scoped server instructions — Status: implemented — .agents/notes/archived/feature/2026-09-12-mcp-resources-and-instructions.md
+- Agent Note: 按需 MCP 资源与作用域服务器指令 — Status: implemented — .agents/notes/archived/feature/2026-09-12-mcp-resources-and-instructions.zh.md
+- Agent Note: MCP SDK protocol negotiation — Status: implemented — .agents/notes/archived/feature/2026-09-12-mcp-sdk-protocol-negotiation.md
+- Agent Note: MCP SDK 协议协商 — Status: implemented — .agents/notes/archived/feature/2026-09-12-mcp-sdk-protocol-negotiation.zh.md
+- Agent Note: macOS hidden titlebar with vibrancy sidebar — Status: implemented — .agents/notes/archived/feature/2026-09-13-macos-hidden-titlebar-vibrancy.md
+- Agent Note: macOS hidden titlebar with vibrancy sidebar — Status: implemented — .agents/notes/archived/feature/2026-09-13-macos-hidden-titlebar-vibrancy.zh.md
+- Agent Note: MCP resource availability follows configured servers — Status: implemented — .agents/notes/archived/feature/2026-09-13-mcp-resources-in-profiles.md
+- Agent Note: MCP 资源可用性取决于已配置服务器 — Status: implemented — .agents/notes/archived/feature/2026-09-13-mcp-resources-in-profiles.zh.md
+- Agent Note: Composer selection surfaces mirror the composer's Enter and Escape keys — Status: implemented — .agents/notes/archived/feature/2026-09-14-composer-selection-keyboard.md
+- Agent Note: composer 的选择界面沿用 composer 的 Enter 与 Escape — Status: implemented — .agents/notes/archived/feature/2026-09-14-composer-selection-keyboard.zh.md
+- Agent Note: Documentation diagram and image viewer — Status: implemented — .agents/notes/archived/feature/2026-09-14-docs-mermaid-viewer.md
+- Agent Note: 文档站图表与图片查看器 — Status: implemented — .agents/notes/archived/feature/2026-09-14-docs-mermaid-viewer.zh.md
+- Agent Note: Bundled Office skills with structural verification — Status: implemented — .agents/notes/archived/feature/2026-09-15-bundled-office-skills.md
+- Agent Note: Bundled Office skills with structural verification — Status: implemented — .agents/notes/archived/feature/2026-09-15-bundled-office-skills.zh.md
+- Agent Note: Turn review tab — Status: implemented — .agents/notes/archived/feature/2026-09-15-changed-file-diff-preview.md
+- Agent Note: 轮次 review tab — Status: implemented — .agents/notes/archived/feature/2026-09-15-changed-file-diff-preview.zh.md
+- Agent Note: Shared continuable Activation capacity — Status: implemented — .agents/notes/archived/feature/2026-09-15-continuable-activation-capacity.md
+- Agent Note: 共享的可续接 Activation 容量 — Status: implemented — .agents/notes/archived/feature/2026-09-15-continuable-activation-capacity.zh.md
+- Agent Note: Page Markdown actions in the documentation site — Status: implemented — .agents/notes/archived/feature/2026-09-15-docs-page-markdown-actions.md
+- Agent Note: 文档站页面 Markdown 操作 — Status: implemented — .agents/notes/archived/feature/2026-09-15-docs-page-markdown-actions.zh.md
+- Agent Note: Markdown file preview links — Status: implemented — .agents/notes/archived/feature/2026-09-15-markdown-file-preview-links.md
+- Agent Note: Markdown 文件预览链接 — Status: implemented — .agents/notes/archived/feature/2026-09-15-markdown-file-preview-links.zh.md
+- Agent Note: Profile command shorthand — Status: implemented — .agents/notes/archived/feature/2026-09-15-profile-command-shorthand.md
+- Agent Note: Profile 命令简写 — Status: implemented — .agents/notes/archived/feature/2026-09-15-profile-command-shorthand.zh.md
+- Agent Note: Device-local Desktop onboarding — Status: implemented — .agents/notes/archived/feature/2026-09-16-desktop-onboarding.md
+- Agent Note: 设备本地 Desktop 引导 — Status: implemented — .agents/notes/archived/feature/2026-09-16-desktop-onboarding.zh.md
+- Agent Note: Open Sidebar-previewed files in the default application — Status: implemented — .agents/notes/archived/feature/2026-09-16-open-in-default-app-for-sidebar-files.md
+- Agent Note：用默认应用打开 Sidebar 预览的文件 — Status: implemented — .agents/notes/archived/feature/2026-09-16-open-in-default-app-for-sidebar-files.zh.md
+- Agent Note: Repeated sandbox modes need no approval — Status: implemented — .agents/notes/archived/feature/2026-09-16-sandbox-same-mode.md

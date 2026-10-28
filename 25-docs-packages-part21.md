@@ -1,0 +1,37 @@
+# docs: packages (830 篇, part 21/26)
+
+- @deepseek-ai/dsh-tool-bash-persistent — description: "The model-facing persistent bash tool for users and maintainers choosing, co — packages/shell/tool-bash-persistent/README.md
+- @deepseek-ai/dsh-tool-bash-persistent — description: "面向模型的持久 bash 工具，供选择、配置或排查跨调用保留的按所有者隔离 shell 状态的使用者与维护者阅读。" — packages/shell/tool-bash-persistent/README.zh.md
+- @deepseek-ai/dsh-tool-pwsh — description: "The model-facing pwsh tool for users and maintainers choosing, configuring,  — packages/shell/tool-pwsh/README.md
+- @deepseek-ai/dsh-tool-pwsh — description: "面向模型的 pwsh 工具，供选择、配置或排查 Windows 上一次性 PowerShell 执行、后台任务与沙箱升权的使用者与维护者阅读。" — packages/shell/tool-pwsh/README.zh.md
+- @deepseek-ai/dsh-tool-pwsh-persistent — description: "The model-facing persistent pwsh tool for users and maintainers choosing, co — packages/shell/tool-pwsh-persistent/README.md
+- @deepseek-ai/dsh-tool-pwsh-persistent — description: "面向模型的持久 pwsh 工具，供选择、配置或排查跨调用保留的按所有者隔离 PowerShell 状态的使用者与维护者阅读。" — packages/shell/tool-pwsh-persistent/README.zh.md
+- skill/ — skill capability family — description: "The skill group map: reusable agent instructions discovered from providers a — packages/skill/README.md
+- skill/ — skill 能力家族 — description: "skill（技能）组地图：由提供方发现并经会话目录与 skill 工具加载的可复用 agent（智能体）指令，供浏览本组的用户与维护者阅读。" — packages/skill/README.zh.md
+- @deepseek-ai/dsh-skill — description: "The skill provider registry for users and maintainers choosing, configuring, — packages/skill/skill/README.md
+- @deepseek-ai/dsh-skill — description: "skill（技能）提供方注册表，供选择、配置或排查来自任意来源的 skill 如何被合并、解析与加载的用户与维护者阅读。" — packages/skill/skill/README.zh.md
+- @deepseek-ai/dsh-skill-filesystem — description: "The local filesystem skill provider for users and maintainers authoring loca — packages/skill/skill-filesystem/README.md
+- @deepseek-ai/dsh-skill-filesystem — description: "本地文件系统 skill 提供方，供编写本地 skill 或配置项目、自定义与用户 skill 根目录如何被发现与监视的用户与维护者阅读。" — packages/skill/skill-filesystem/README.zh.md
+- Missing Office sidecar — These instructions apply in Web, Desktop, and SDK sessions. First check whether an existin — packages/skill/skill-office/assets/office/references/sidecar.md
+- Office task routing — name: office — packages/skill/skill-office/assets/office/SKILL.md
+- Word documents — name: office-docx — packages/skill/skill-office/assets/office-docx/SKILL.md
+- Export an Office document to PDF — name: office-export-pdf — packages/skill/skill-office/assets/office-export-pdf/SKILL.md
+- PowerPoint presentations — name: office-pptx — packages/skill/skill-office/assets/office-pptx/SKILL.md
+- Recalculate spreadsheet formulas — name: office-recalculate — packages/skill/skill-office/assets/office-recalculate/SKILL.md
+- Document images and visual inspection — name: office-render — packages/skill/skill-office/assets/office-render/SKILL.md
+- Excel workbooks — name: office-xlsx — packages/skill/skill-office/assets/office-xlsx/SKILL.md
+- @deepseek-ai/dsh-skill-office — description: "Progressive Office authoring and CLI operation skills for document workflows — packages/skill/skill-office/README.md
+- @deepseek-ai/dsh-skill-office — description: "为文档工作流提供渐进加载的 Office 创作与 CLI 操作技能。" — packages/skill/skill-office/README.zh.md
+- @deepseek-ai/dsh-tool-skill — description: "The model-facing skill catalog and loader tool for users and maintainers und — packages/skill/tool-skill/README.md
+- @deepseek-ai/dsh-tool-skill — description: "面向模型的 skill（技能）目录与加载工具，供希望了解 agent（智能体）看到的内容或配置会话 skill 目录的用户与维护者阅读。" — packages/skill/tool-skill/README.zh.md
+- @deepseek-ai/dsh-tool-workspace-dependencies — description: "The loadworkspacedependencies tool: absolute paths into a bundled Python, No — packages/skill/tool-workspace-dependencies/README.md
+- @deepseek-ai/dsh-tool-workspace-dependencies — description: "loadworkspacedependencies 工具：返回随包附带的 Python、Node.js 与 pnpm 的绝对路径，payload 可原地 — packages/skill/tool-workspace-dependencies/README.zh.md
+- spill/ — text spill capability family — description: "Package map for the text spill capability family: what the storage service,  — packages/spill/README.md
+- spill/：文本 spill 能力家族 — description: "文本 spill 能力家族的包映射：存储服务、本地后端与结果策略各自提供什么。" — packages/spill/README.zh.md
+- @deepseek-ai/dsh-spill — description: "The spill storage service: save oversized tool text or captured session refe — packages/spill/spill/README.md
+- @deepseek-ai/dsh-spill — description: "spill 存储服务：保存超大工具文本或已捕获的会话引用，并返回可用于取回内容的定位信息。" — packages/spill/spill/README.zh.md
+- @deepseek-ai/dsh-spill-local — description: "The local filesystem spill backend: how spilled text is saved to private ses — packages/spill/spill-local/README.md
+- @deepseek-ai/dsh-spill-local — description: "本地文件系统 spill 后端：spill 文本如何保存到私有会话级文件，并用 read 或 grep 取回。" — packages/spill/spill-local/README.zh.md
+- @deepseek-ai/dsh-spill-policy — description: "Tool-result retention with a shared text/image token budget and readable rec — packages/spill/spill-policy/README.md
+- @deepseek-ai/dsh-spill-policy — description: "工具结果保留：文字和图片共享 token 预算，并通过完整结果文件恢复省略内容。" — packages/spill/spill-policy/README.zh.md
+- @deepseek-ai/dsh-fs-ssh — description: "Remote filesystem semantics for consumers sharing files with SSH subprocesse — packages/ssh/fs-ssh/README.md

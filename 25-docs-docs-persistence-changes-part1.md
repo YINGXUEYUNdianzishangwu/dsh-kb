@@ -1,0 +1,37 @@
+# docs: docs/persistence-changes (98 篇, part 1/4)
+
+- Initial persistence type baseline — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-11-initial.md
+- 初始持久化类型基线 — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-11-initial.zh.md
+- 2026-09-12-auto-review-error-metadata — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-12-auto-review-error-metadata.md
+- 2026-09-12-auto-review-error-metadata — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-12-auto-review-error-metadata.zh.md
+- 2026-09-13-working-directory — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-13-working-directory.md
+- 2026-09-13-working-directory — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-13-working-directory.zh.md
+- 2026-09-14-image-offload — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-14-image-offload.md
+- 2026-09-14-image-offload — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-14-image-offload.zh.md
+- 2026-09-14-workspace-changes-event — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-14-workspace-changes-event.md
+- 2026-09-14-workspace-changes-event — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-14-workspace-changes-event.zh.md
+- 2026-09-16-session-format-v4 — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-16-session-format-v4.md
+- 2026-09-16-session-format-v4 — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-16-session-format-v4.zh.md
+- 2026-09-18-schedule-optional-title — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-18-schedule-optional-title.md
+- 2026-09-18-schedule-optional-title — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-18-schedule-optional-title.zh.md
+- 2026-09-19-external-subagent-catalog — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-19-external-subagent-catalog.md
+- 2026-09-19-external-subagent-catalog — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-19-external-subagent-catalog.zh.md
+- 2026-09-20-unknown-child-catalog — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-20-unknown-child-catalog.md
+- 2026-09-20-unknown-child-catalog — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-20-unknown-child-catalog.zh.md
+- 2026-09-21-user-question-reply — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-21-user-question-reply.md
+- 2026-09-21-user-question-reply — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-21-user-question-reply.zh.md
+- 2026-09-30-job-session-lifecycle — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-09-30-job-session-lifecycle.md
+- 2026-09-30-job-session-lifecycle — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-09-30-job-session-lifecycle.zh.md
+- 2026-10-05-ptc-operation-metadata — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-10-05-ptc-operation-metadata.md
+- 2026-10-05-ptc-operation-metadata — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-10-05-ptc-operation-metadata.zh.md
+- 2026-10-05-working-directory-attribution — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-10-05-working-directory-attribution.md
+- 2026-10-05-working-directory-attribution — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-10-05-working-directory-attribution.zh.md
+- 2026-10-07-title-reasoning-effort — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-10-07-title-reasoning-effort.md
+- 2026-10-07-title-reasoning-effort — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-10-07-title-reasoning-effort.zh.md
+- 2026-10-13-deepseek-search-thinking — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-10-13-deepseek-search-thinking.md
+- 2026-10-13-deepseek-search-thinking — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-10-13-deepseek-search-thinking.zh.md
+- 2026-10-13-user-rpc-principal — description: "Records a persistence type transition and its compatibility acknowledgement. — docs/persistence-changes/2026-10-13-user-rpc-principal.md
+- 2026-10-13-user-rpc-principal — description: "记录持久化类型更改及其兼容性确认。" — docs/persistence-changes/2026-10-13-user-rpc-principal.zh.md
+- Session persistence formats — description: "Find the complete declared persistence types for every Session format from V — docs/persistence-changes/historical-formats/README.md
+- Session 持久化格式 — description: "查找从 V0 到工作区写入器版本的每个 Session 格式的完整持久化类型声明。" — docs/persistence-changes/historical-formats/README.zh.md
+- Session V0 persistence format — description: "Complete Session V0 persistence types, source evidence, and physical encodin — docs/persistence-changes/historical-formats/v0.md

@@ -1,0 +1,43 @@
+# docs: .agents (2583 篇, part 29/66)
+
+- Agent Note: composer 上下文占用圆环与启发式组成明细 — Status: implemented — .agents/notes/archived/feature/2026-08-05-composer-context-meter-breakdown.zh.md
+- Agent Note: Durable scheduled reminders — Status: implemented — .agents/notes/archived/feature/2026-08-05-durable-web-schedule.md
+- Agent Note: 持久定时提醒 — Status: implemented — .agents/notes/archived/feature/2026-08-05-durable-web-schedule.zh.md
+- Agent Note: Feedback-gated session telemetry — Status: implemented — .agents/notes/archived/feature/2026-08-05-feedback-gated-session-telemetry.md
+- Agent Note: 反馈门控的会话遥测 — Status: implemented — .agents/notes/archived/feature/2026-08-05-feedback-gated-session-telemetry.zh.md
+- Agent Note: Per-agent tool presentation, and the `ptc` preset — Status: implemented — .agents/notes/archived/feature/2026-08-05-per-agent-tool-presentation.md
+- Agent Note: 按 agent 的工具呈现方式，以及 `ptc` 预设 — Status: implemented — .agents/notes/archived/feature/2026-08-05-per-agent-tool-presentation.zh.md
+- Agent Note: pwsh UI presentation matches bash — Status: implemented — .agents/notes/archived/feature/2026-08-05-pwsh-ui-bash-parity.md
+- Agent Note: pwsh UI presentation matches bash — Status: implemented — .agents/notes/archived/feature/2026-08-05-pwsh-ui-bash-parity.zh.md
+- Agent Note: Web preview product badge — Status: implemented — .agents/notes/archived/feature/2026-08-05-web-preview-product-badge.md
+- Agent Note: Web 预览版产品徽标 — Status: implemented — .agents/notes/archived/feature/2026-08-05-web-preview-product-badge.zh.md
+- Agent Note: Experimental Agent Teams Web controls — Status: implemented — .agents/notes/archived/feature/2026-08-06-agent-teams-web.md
+- Agent Note: 实验性 Agent Teams Web 控件 — Status: implemented — .agents/notes/archived/feature/2026-08-06-agent-teams-web.zh.md
+- Agent Note: Bundled dsh badge skill — Status: implemented — .agents/notes/archived/feature/2026-08-06-bundled-dsh-badge-skill.md
+- Agent Note: 内置 dsh 徽章 skill — Status: implemented — .agents/notes/archived/feature/2026-08-06-bundled-dsh-badge-skill.zh.md
+- Agent Note: Continuable subagent current-turn interrupt — Status: implemented — .agents/notes/archived/feature/2026-08-06-continuable-subagent-interrupt.md
+- Agent Note: Continuable subagent 当前轮次中断 — Status: implemented — .agents/notes/archived/feature/2026-08-06-continuable-subagent-interrupt.zh.md
+- Agent Note: Settlement delivery belongs to the continuation manager — Status: implemented — .agents/notes/archived/feature/2026-08-06-manager-owned-subagent-settlement-delivery.md
+- Agent Note: Settlement delivery belongs to the continuation manager — Status: implemented — .agents/notes/archived/feature/2026-08-06-manager-owned-subagent-settlement-delivery.zh.md
+- Agent Note: MCP client auto-reconnect with bounded backoff — Status: implemented — .agents/notes/archived/feature/2026-08-06-mcp-client-auto-reconnect.md
+- Agent Note: MCP client auto-reconnect with bounded backoff — Status: implemented — .agents/notes/archived/feature/2026-08-06-mcp-client-auto-reconnect.zh.md
+- Agent Note: Resolved theme color metadata — Status: implemented — .agents/notes/archived/feature/2026-08-06-resolved-theme-color-metadata.md
+- Agent Note: 基于解析后主题的颜色元数据 — Status: implemented — .agents/notes/archived/feature/2026-08-06-resolved-theme-color-metadata.zh.md
+- Agent Note: Session completion dot in the sidebar — Status: implemented — .agents/notes/archived/feature/2026-08-06-session-completed-done-dot.md
+- Agent Note: 侧边栏会话完成提醒点 — Status: implemented — .agents/notes/archived/feature/2026-08-06-session-completed-done-dot.zh.md
+- Agent Note: Web install manifest metadata — Status: implemented — .agents/notes/archived/feature/2026-08-06-web-install-manifest.md
+- Agent Note: Web 安装 manifest 元数据 — Status: implemented — .agents/notes/archived/feature/2026-08-06-web-install-manifest.zh.md
+- Agent Note: Steer the whole Web queue with an empty-draft Cmd/Ctrl+Enter — Status: implemented — .agents/notes/archived/feature/2026-08-06-web-queue-steer-all-gesture.md
+- Agent Note: 空输入时 Cmd/Ctrl+Enter 将 Web 排队消息全部插话 — Status: implemented — .agents/notes/archived/feature/2026-08-06-web-queue-steer-all-gesture.zh.md
+- Agent Note: Web skill tool row — Status: implemented — .agents/notes/archived/feature/2026-08-06-web-skill-tool-row.md
+- Agent Note: Web skill 工具行 — Status: implemented — .agents/notes/archived/feature/2026-08-06-web-skill-tool-row.zh.md
+- Agent Note: the default model follows the picker — Status: implemented — .agents/notes/archived/feature/2026-08-07-default-model-follows-the-picker.md
+- Agent Note: 默认模型跟随选择器 — Status: implemented — .agents/notes/archived/feature/2026-08-07-default-model-follows-the-picker.zh.md
+- Agent Note: Feedback acknowledgement sharing disclosure — Status: implemented — .agents/notes/archived/feature/2026-08-07-feedback-acknowledgement-sharing-disclosure.md
+- Agent Note: 反馈确认中的会话共享披露 — Status: implemented — .agents/notes/archived/feature/2026-08-07-feedback-acknowledgement-sharing-disclosure.zh.md
+- Agent Note: inline-code file mentions open the file they name — Status: implemented — .agents/notes/archived/feature/2026-08-07-web-inline-file-mentions.md
+- Agent Note: 行内代码文件提及可打开其命名的文件 — Status: implemented — .agents/notes/archived/feature/2026-08-07-web-inline-file-mentions.zh.md
+- Agent Note: The no-Workspace composer opens the existing picker — Status: implemented — .agents/notes/archived/feature/2026-08-07-workspace-picker-composer-entry.md
+- Agent Note: 未选择 Workspace 时从编辑器打开现有选择器 — Status: implemented — .agents/notes/archived/feature/2026-08-07-workspace-picker-composer-entry.zh.md
+- Agent Note: `dsh run` owns one-shot headless execution — Status: implemented — .agents/notes/archived/feature/2026-08-08-dsh-run-headless-command.md
+- Agent Note: `dsh run` 负责一次性 headless 执行 — Status: implemented — .agents/notes/archived/feature/2026-08-08-dsh-run-headless-command.zh.md

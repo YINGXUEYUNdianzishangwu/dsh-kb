@@ -1,0 +1,44 @@
+# docs: .agents (2583 篇, part 25/66)
+
+- Agent Note: Skill 目录热刷新 — Status: implemented — .agents/notes/archived/feature/2026-07-27-skill-catalog-hot-refresh.zh.md
+- Agent Note: tmux-location context — Status: implemented — .agents/notes/archived/feature/2026-07-27-tmux-location-context.md
+- Agent Note: tmux 位置上下文 — Status: implemented — .agents/notes/archived/feature/2026-07-27-tmux-location-context.zh.md
+- Agent Note: Trajectory inspection ledger — Status: implemented — .agents/notes/archived/feature/2026-07-27-trajectory-inspection-ledger.md
+- Agent Note: 轨迹检查记录表 — Status: implemented — .agents/notes/archived/feature/2026-07-27-trajectory-inspection-ledger.zh.md
+- Agent Note: Dim-gray pulse for the running prompt glyph — Status: implemented — .agents/notes/archived/feature/2026-07-27-tui-running-glyph-smooth-fade.md
+- Agent Note: Dim-gray pulse for the running prompt glyph — Status: implemented — .agents/notes/archived/feature/2026-07-27-tui-running-glyph-smooth-fade.zh.md
+- Agent Note: Fixed `Tool / <name>` header for tool-call cards — Status: implemented — .agents/notes/archived/feature/2026-07-27-tui-tool-card-header.md
+- Agent Note: Fixed `Tool / <name>` header for tool-call cards — Status: implemented — .agents/notes/archived/feature/2026-07-27-tui-tool-card-header.zh.md
+- Agent Note: TypeScript SDK client and the SDK subagent backend — Status: implemented — .agents/notes/archived/feature/2026-07-27-typescript-sdk-and-sdk-subagent-backend.md
+- Agent Note: TypeScript SDK 客户端与 SDK subagent 后端 — Status: implemented — .agents/notes/archived/feature/2026-07-27-typescript-sdk-and-sdk-subagent-backend.zh.md
+- Agent Note: User-message IconActions under the bubble — Status: implemented — .agents/notes/archived/feature/2026-07-27-user-message-icon-actions.md
+- Agent Note: 用户消息气泡下方的 IconActions — Status: implemented — .agents/notes/archived/feature/2026-07-27-user-message-icon-actions.zh.md
+- Agent Note: Web file and session references — Status: implemented — .agents/notes/archived/feature/2026-07-27-web-file-and-session-references.md
+- Agent Note: Web 文件与会话引用 — Status: implemented — .agents/notes/archived/feature/2026-07-27-web-file-and-session-references.zh.md
+- Agent Note: Web session fork actions — Status: implemented — .agents/notes/archived/feature/2026-07-27-web-session-fork-actions.md
+- Agent Note: Web session fork 操作 — Status: implemented — .agents/notes/archived/feature/2026-07-27-web-session-fork-actions.zh.md
+- Agent Note: Web past-session search — Status: implemented — .agents/notes/archived/feature/2026-07-27-web-session-search.md
+- Agent Note: Web 历史会话搜索 — Status: implemented — .agents/notes/archived/feature/2026-07-27-web-session-search.zh.md
+- Agent Note: Web subagent catalog and human continuation — Status: implemented — .agents/notes/archived/feature/2026-07-27-web-subagent-conversations.md
+- Agent Note: Web subagent 目录与用户继续交互 — Status: implemented — .agents/notes/archived/feature/2026-07-27-web-subagent-conversations.zh.md
+- Agent Note: Workspace Registration Deletion — Status: implemented — .agents/notes/archived/feature/2026-07-27-workspace-registration-deletion.md
+- Agent Note: 删除 Workspace 注册记录 — Status: implemented — .agents/notes/archived/feature/2026-07-27-workspace-registration-deletion.zh.md
+- Agent Note: Cross-workspace session resume — Status: implemented — .agents/notes/archived/feature/2026-07-28-cross-workspace-resume.md
+- Agent Note: 跨 workspace 会话恢复 — Status: implemented — .agents/notes/archived/feature/2026-07-28-cross-workspace-resume.zh.md
+- Agent Note: `dsh migrate`/`dsh upgrade` seed the first turn with a skill — Status: implemented — .agents/notes/archived/feature/2026-07-28-dsh-guided-skill-session-commands.md
+- Agent Note: `dsh migrate`/`dsh upgrade` 以 skill 播种首轮 — Status: implemented — .agents/notes/archived/feature/2026-07-28-dsh-guided-skill-session-commands.zh.md
+- Agent Note: `dsh meta` boots the TUI over the harness checkout — Status: implemented — .agents/notes/archived/feature/2026-07-28-dsh-meta-source-workspace.md
+- Agent Note: `dsh meta` 以 harness 检出为 workspace 启动 TUI — Status: implemented — .agents/notes/archived/feature/2026-07-28-dsh-meta-source-workspace.zh.md
+- Agent Note: `/feedback` command — Status: implemented — .agents/notes/archived/feature/2026-07-28-feedback-command.md
+- Agent Note: `/feedback` 命令 — Status: implemented — .agents/notes/archived/feature/2026-07-28-feedback-command.zh.md
+- Agent Note: SDK max output tokens — Status: implemented — .agents/notes/archived/feature/2026-07-28-sdk-max-output-tokens.md
+- Agent Note: SDK 最大输出 token 数 — Status: implemented — .agents/notes/archived/feature/2026-07-28-sdk-max-output-tokens.zh.md
+- Agent Note: Independent model and user skill invocation policy — Status: implemented — .agents/notes/archived/feature/2026-07-28-skill-invocation-policy.md
+- Agent Note: 模型与用户彼此独立的 skill（技能）调用策略 — Status: implemented — .agents/notes/archived/feature/2026-07-28-skill-invocation-policy.zh.md
+- Agent Note: Todo plan strip clears on the next turn — Status: implemented — .agents/notes/archived/feature/2026-07-28-todo-plan-clears-on-next-turn.md
+- Agent Note: 下一轮次开始时清空 todo 计划条 — Status: implemented — .agents/notes/archived/feature/2026-07-28-todo-plan-clears-on-next-turn.zh.md
+- Agent Note: Tool-call file open in OS — Status: implemented — .agents/notes/archived/feature/2026-07-28-tool-call-file-open-in-os.md
+- Agent Note: 在工具调用中用系统应用打开文件 — Status: implemented — .agents/notes/archived/feature/2026-07-28-tool-call-file-open-in-os.zh.md
+- Agent Note: Web terminal card — the bash render intent reaches the browser — Status: implemented — .agents/notes/archived/feature/2026-07-28-web-terminal-card.md
+- Agent Note: Web 终端卡片：bash 渲染意图抵达浏览器 — Status: implemented — .agents/notes/archived/feature/2026-07-28-web-terminal-card.zh.md
+- Agent Note: Address pending queue occurrences for edit and removal — Status: implemented — .agents/notes/archived/feature/2026-07-29-addressable-queue-operations.md

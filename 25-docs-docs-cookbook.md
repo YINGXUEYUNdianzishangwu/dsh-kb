@@ -1,0 +1,26 @@
+# docs: docs/cookbook (24 篇, part 1/1)
+
+- Cookbook: adding a workspace package — English | [中文](adding-a-package.zh.md) — docs/cookbook/adding-a-package.md
+- 实操手册：添加 workspace 包 — [English](adding-a-package.md) | 中文 — docs/cookbook/adding-a-package.zh.md
+- Cookbook: Add a built-in plugin feature preview — English | [中文](adding-a-plugin-preview.zh.md) — docs/cookbook/adding-a-plugin-preview.md
+- Cookbook: 添加内置插件功能配图 — [English](adding-a-plugin-preview.md) | 中文 — docs/cookbook/adding-a-plugin-preview.zh.md
+- Cookbook: adding a Remote API — English | [中文](adding-a-remote-api.zh.md) — docs/cookbook/adding-a-remote-api.md
+- 实操手册：新增一个 Remote API — [English](adding-a-remote-api.md) | 中文 — docs/cookbook/adding-a-remote-api.zh.md
+- Cookbook: adding a Session log format version — English | [中文](adding-a-session-format-version.zh.md) — docs/cookbook/adding-a-session-format-version.md
+- 实操手册：添加 Session 日志格式版本 — [English](adding-a-session-format-version.md) | 中文 — docs/cookbook/adding-a-session-format-version.zh.md
+- Cookbook: live configuration forms — English | [中文](adding-a-settings-card.zh.md) — docs/cookbook/adding-a-settings-card.md
+- 实践指南：即时配置表单 — [English](adding-a-settings-card.md) | 中文 — docs/cookbook/adding-a-settings-card.zh.md
+- Tool authoring reference — English | [中文](adding-a-tool.zh.md) — docs/cookbook/adding-a-tool.md
+- 工具编写参考 — [English](adding-a-tool.md) | 中文 — docs/cookbook/adding-a-tool.zh.md
+- Cookbook: adding a vendored package — English | [中文](adding-a-vendored-package.zh.md) — docs/cookbook/adding-a-vendored-package.md
+- 实操手册：添加一个 vendored 包 — [English](adding-a-vendored-package.md) | 中文 — docs/cookbook/adding-a-vendored-package.zh.md
+- Cookbook: adding an LLM adapter — English | [中文](adding-an-llm-adapter.zh.md) — docs/cookbook/adding-an-llm-adapter.md
+- 实操手册：添加 LLM（大语言模型）适配器 — [English](adding-an-llm-adapter.md) | 中文 — docs/cookbook/adding-an-llm-adapter.zh.md
+- Cookbook: extension plugin shapes — English | [中文](extension-cookbook.zh.md) — docs/cookbook/extension-cookbook.md
+- 实操手册：扩展插件形态 — [English](extension-cookbook.md) | 中文 — docs/cookbook/extension-cookbook.zh.md
+- Maintaining the dsh-code-review skill — English | [中文](maintaining-dsh-code-review.zh.md) — docs/cookbook/maintaining-dsh-code-review.md
+- 维护 dsh-code-review skill — [English](maintaining-dsh-code-review.md) | 中文 — docs/cookbook/maintaining-dsh-code-review.zh.md
+- Responding to review across a stacked PR chain — English | [中文](responding-to-pr-review-on-a-stack.zh.md) — docs/cookbook/responding-to-pr-review-on-a-stack.md
+- 在堆叠 PR 链中回应评审意见 — [English](responding-to-pr-review-on-a-stack.md) | 中文 — docs/cookbook/responding-to-pr-review-on-a-stack.zh.md
+- Cookbook: reviewing persistence-type changes — description: "Generate, acknowledge, and verify Session persistence-type changes locally b — docs/cookbook/reviewing-persistence-type-changes.md
+- 实操手册：审阅持久化类型变更 — description: "在创建 PR 前，本地生成、确认并验证会话持久化类型变更。" — docs/cookbook/reviewing-persistence-type-changes.zh.md

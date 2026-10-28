@@ -1,0 +1,42 @@
+# docs: .agents (2583 篇, part 21/66)
+
+- Agent Note: dsh-hook-protocol——Claude Code / Codex 钩子协议格式共享核心库 — Status: implemented — .agents/notes/archived/feature/2026-06-30-hook-protocol-lib.zh.md
+- Agent Note: Interception extension points — the typed-Decision surface a hook programs against — Status: implemented — .agents/notes/archived/feature/2026-06-30-interception-extension-points.md
+- Agent Note: 拦截扩展点——钩子编程所面对的类型化 Decision 接口 — Status: implemented — .agents/notes/archived/feature/2026-06-30-interception-extension-points.zh.md
+- Agent Note: SessionStore fork API — Status: implemented — .agents/notes/archived/feature/2026-06-30-session-store-fork-api.md
+- Agent Note: SessionStore fork API — Status: implemented — .agents/notes/archived/feature/2026-06-30-session-store-fork-api.zh.md
+- Agent Note: Subagent lifecycle enrichment — lastAssistantMessage (observe-only) — Status: implemented — .agents/notes/archived/feature/2026-06-30-subagent-observe-enrich.md
+- Agent Note: Subagent 生命周期丰富化——lastAssistantMessage（仅观察） — Status: implemented — .agents/notes/archived/feature/2026-06-30-subagent-observe-enrich.zh.md
+- Agent Note: Dynamic workflows — a script-driven multi-agent orchestration seam — Status: implemented — .agents/notes/archived/feature/2026-07-05-dynamic-workflows.md
+- Agent Note: 动态工作流——脚本驱动的多 agent 编排 seam — Status: implemented — .agents/notes/archived/feature/2026-07-05-dynamic-workflows.zh.md
+- Agent Note: Skill system — progressive disclosure instructions for agents — Status: implemented — .agents/notes/archived/feature/2026-07-05-skill-system.md
+- Agent Note: Skill 系统——面向 agent 的渐进式指令披露 — Status: implemented — .agents/notes/archived/feature/2026-07-05-skill-system.zh.md
+- Agent Note: Explicit model-facing tool order — Status: implemented — .agents/notes/archived/feature/2026-07-06-explicit-tool-order.md
+- Agent Note: 显式的模型侧工具顺序 — Status: implemented — .agents/notes/archived/feature/2026-07-06-explicit-tool-order.zh.md
+- Agent Note: The subprocess sandbox — confinement seam, native runners, escalation, and per-session modes — Status: implemented — .agents/notes/archived/feature/2026-07-06-sandbox.md
+- Agent Note: 子进程沙箱——约束 seam、原生 runner、升级机制与按会话模式 — Status: implemented — .agents/notes/archived/feature/2026-07-06-sandbox.zh.md
+- Agent Note: MCP client plugin — connect to external MCP servers and bridge their tools — Status: implemented — .agents/notes/archived/feature/2026-07-07-mcp-client-plugin.md
+- Agent Note: MCP 客户端插件——连接外部 MCP 服务器并桥接其工具 — Status: implemented — .agents/notes/archived/feature/2026-07-07-mcp-client-plugin.zh.md
+- Agent Note: Plan mode — a logged per-agent session mode — Status: implemented — .agents/notes/archived/feature/2026-07-07-plan-mode.md
+- Agent Note: plan mode——记录到日志的逐 agent 会话模式 — Status: implemented — .agents/notes/archived/feature/2026-07-07-plan-mode.zh.md
+- Agent Note: The session prefix — request-only messages in front of the derived history — Status: implemented — .agents/notes/archived/feature/2026-07-07-session-prefix.md
+- Agent Note: 会话前缀——派生历史之前的仅请求消息 — Status: implemented — .agents/notes/archived/feature/2026-07-07-session-prefix.zh.md
+- Agent Note: Background subagent tasks — Status: implemented — .agents/notes/archived/feature/2026-07-08-background-subagent-tasks.md
+- Agent Note: 后台 subagent 任务 — Status: implemented — .agents/notes/archived/feature/2026-07-08-background-subagent-tasks.zh.md
+- Agent Note: Repeat-tool-call guard plugin — Status: implemented — .agents/notes/archived/feature/2026-07-08-repeat-tool-guard.md
+- Agent Note: 重复工具调用守卫插件 — Status: implemented — .agents/notes/archived/feature/2026-07-08-repeat-tool-guard.zh.md
+- Agent Note: Cordis runtime inspection and runner isolation — Status: implemented — .agents/notes/archived/feature/2026-07-08-self-referential-cordis-toolset.md
+- Agent Note：Cordis 运行时检查与 runner 隔离 — Status: implemented — .agents/notes/archived/feature/2026-07-08-self-referential-cordis-toolset.zh.md
+- Agent Note: Bash-backed grep and glob discovery tools — Status: implemented — .agents/notes/archived/feature/2026-07-09-bash-backed-grep-glob-discovery.md
+- Agent Note: 由 Bash 支持的 grep 与 glob 发现工具 — Status: implemented — .agents/notes/archived/feature/2026-07-09-bash-backed-grep-glob-discovery.zh.md
+- Agent Note: Expose agent session identity to tools and hooks — Status: implemented — .agents/notes/archived/feature/2026-07-10-agent-session-identity-and-log-location.md
+- Agent Note: 向工具与钩子公开 agent 会话标识 — Status: implemented — .agents/notes/archived/feature/2026-07-10-agent-session-identity-and-log-location.zh.md
+- Agent Note: Exact session query service — Status: implemented — .agents/notes/archived/feature/2026-07-10-session-query-service.md
+- Agent Note: 精确会话查询服务 — Status: implemented — .agents/notes/archived/feature/2026-07-10-session-query-service.zh.md
+- Agent Note: SQLite FTS5 session search — Status: implemented — .agents/notes/archived/feature/2026-07-10-sqlite-session-query-provider.md
+- Agent Note: SQLite FTS5 会话搜索 — Status: implemented — .agents/notes/archived/feature/2026-07-10-sqlite-session-query-provider.zh.md
+- Agent Note: Session query relationship tracing — Status: implemented — .agents/notes/archived/feature/2026-07-13-session-query-tracing.md
+- Agent Note: 会话查询关系追踪 — Status: implemented — .agents/notes/archived/feature/2026-07-13-session-query-tracing.zh.md
+- Agent Note: Cross-family file sandbox — one policy home, a sandboxed fs provider, and fs escalation parity — Status: implemented — .agents/notes/archived/feature/2026-07-14-cross-family-fs-sandbox.md
+- Agent Note: 跨家族文件沙箱——统一策略归属、沙箱化 fs 提供方、fs 升级对等 — Status: implemented — .agents/notes/archived/feature/2026-07-14-cross-family-fs-sandbox.zh.md
+- Agent Note: Optional time-context plugin — Status: implemented — .agents/notes/archived/feature/2026-07-14-time-context-plugin.md

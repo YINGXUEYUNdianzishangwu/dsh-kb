@@ -1,0 +1,33 @@
+# docs: packages (830 篇, part 5/26)
+
+- @deepseek-ai/dsh-client-ui-plan — description: "Web GUI 的 plan 模式状态徽章：显示 plan 模式已开启并可将其关闭的 composer 控件；供 plan 模式的用户与维护者阅读。" — packages/client/ui-plan/README.zh.md
+- @deepseek-ai/dsh-client-ui-plugin-manager — description: "Manage the profile's plugin bundles, their rows, and the plugins' configurat — packages/client/ui-plugin-manager/README.md
+- @deepseek-ai/dsh-client-ui-plugin-manager — description: "从 Web 侧栏管理 profile 的插件组合包、它们的行，以及插件的配置。" — packages/client/ui-plugin-manager/README.zh.md
+- @deepseek-ai/dsh-client-ui-plugin-market — description: "Discover tab of the Web Plugins page: search configured plugin market indexe — packages/client/ui-plugin-market/README.md
+- @deepseek-ai/dsh-client-ui-plugin-market — description: "Web 插件页的「发现」标签页：搜索已配置的插件市场索引，查看条目并安装。" — packages/client/ui-plugin-market/README.zh.md
+- @deepseek-ai/dsh-client-ui-primitives — description: "Shared React UI atoms for the dsh web client: controls, icons, markdown and  — packages/client/ui-primitives/README.md
+- @deepseek-ai/dsh-client-ui-primitives — description: "dsh Web 客户端共享的 React UI 原子组件：控件、图标、Markdown 与数学公式渲染，以及终端/读取/差异/搜索/网页输出卡片（零 C — packages/client/ui-primitives/README.zh.md
+- @deepseek-ai/dsh-client-ui-reference — description: "Web @file and @session reference source for the composer: candidates, orderi — packages/client/ui-reference/README.md
+- @deepseek-ai/dsh-client-ui-reference — description: "Web @file 与 @session 引用 source：候选项、排序，以及原子行内引用（统一的文件/会话选取）。" — packages/client/ui-reference/README.zh.md
+- @deepseek-ai/dsh-client-ui-renderer — description: "Browser UI renderer: React bindings for ordinary Slots and reusable Componen — packages/client/ui-renderer/README.md
+- @deepseek-ai/dsh-client-ui-renderer — description: "浏览器 UI 渲染器：普通 Slot 与可复用 Component Factory 的 React 绑定、ctx.uiRenderer 与组装后的 ds — packages/client/ui-renderer/README.zh.md
+- @deepseek-ai/dsh-client-ui-schedule — description: "Web task management across Sessions and a current-Session reminder catalog." — packages/client/ui-schedule/README.md
+- @deepseek-ai/dsh-client-ui-schedule — description: "跨会话的 Web 任务管理页面及当前会话的提醒列表。" — packages/client/ui-schedule/README.zh.md
+- @deepseek-ai/dsh-client-ui-secret-mask — description: "Web display masking for recognized credentials in sent user text, with a per — packages/client/ui-secret-mask/README.md
+- @deepseek-ai/dsh-client-ui-secret-mask — description: "Web 端已发送用户文本中可识别凭据的显示遮挡，交互消息中每个值带显示控件。" — packages/client/ui-secret-mask/README.zh.md
+- @deepseek-ai/dsh-client-ui-session — description: "React and Slot adapters for Session Controller lists, interaction state, and — packages/client/ui-session/README.md
+- @deepseek-ai/dsh-client-ui-session — description: "面向 Session Controller 列表、交互状态与逐会话上下文的 React 与 Slot 适配器。" — packages/client/ui-session/README.zh.md
+- @deepseek-ai/dsh-client-ui-settings — description: "Settings domain base plugin: shared configuration forms, schema service, and — packages/client/ui-settings/README.md
+- @deepseek-ai/dsh-client-ui-settings — description: "设置领域底座插件：共享配置表单、schema 服务，以及 dsh Web 客户端的规范设置 slot 类型约定。" — packages/client/ui-settings/README.zh.md
+- @deepseek-ai/dsh-client-ui-settings-account — description: "Account settings display DeepSeek login state and offer browser authorizatio — packages/client/ui-settings-account/README.md
+- @deepseek-ai/dsh-client-ui-settings-account — description: "设置中的账号页面显示 DeepSeek 登录状态，并提供浏览器授权和取消；侧边栏账号菜单提供 Platform 退出登录。" — packages/client/ui-settings-account/README.zh.md
+- @deepseek-ai/dsh-client-ui-settings-agent-loop — description: "The agent loop's settings page on the dsh web client's Plugins page: the par — packages/client/ui-settings-agent-loop/README.md
+- @deepseek-ai/dsh-client-ui-settings-agent-loop — description: "dsh Web 客户端插件页上的 Agent 循环设置页：agent-loop 命名空间的并行工具调用上限。" — packages/client/ui-settings-agent-loop/README.zh.md
+- @deepseek-ai/dsh-client-ui-settings-general — description: "Settings shell, ownerless copy, and durable product-onboarding namespace for — packages/client/ui-settings-general/README.md
+- @deepseek-ai/dsh-client-ui-settings-general — description: "dsh Web 客户端的设置外壳、无特定功能归属文案与持久化产品引导命名空间：「通用」分区、触发控件界面框架与引导账本投影。" — packages/client/ui-settings-general/README.zh.md
+- @deepseek-ai/dsh-client-ui-settings-models — description: "Models settings and product-onboarding plugin for the dsh web client: provid — packages/client/ui-settings-models/README.md
+- @deepseek-ai/dsh-client-ui-settings-models — description: "dsh Web 客户端的模型设置与产品引导插件：提供商行、API 密钥管理、模型列表与 DeepSeek 首次运行弹窗。" — packages/client/ui-settings-models/README.zh.md
+- @deepseek-ai/dsh-client-ui-settings-plugin-inventory — description: "Scope-grouped read-only plugin inventory tab in Web Plugins settings for the — packages/client/ui-settings-plugin-inventory/README.md
+- @deepseek-ai/dsh-client-ui-settings-plugin-inventory — description: "dsh Web 客户端设置中按作用域分组的只读插件清单标签页：Agent 预设组合在前，全局平面收在折叠分组里，搜索跨两组。" — packages/client/ui-settings-plugin-inventory/README.zh.md
+- @deepseek-ai/dsh-client-ui-settings-plugins — description: "Built-in plugins settings section for the dsh web client: the Settings navig — packages/client/ui-settings-plugins/README.md
+- @deepseek-ai/dsh-client-ui-settings-plugins — description: "dsh Web 客户端的「内置插件」设置分区：设置导航项与供功能插件注册标签页的标签行。" — packages/client/ui-settings-plugins/README.zh.md

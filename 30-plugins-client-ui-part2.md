@@ -1,0 +1,23 @@
+# Client UI 插件 (58, part 2/2)
+
+- @deepseek-ai/dsh-client-ui-settings-plugins 0.2.1-rc.3 — Built-in plugins settings section for the dsh web client: the Settings navigation entry and the tab chrome fea — packages/client/ui-settings-plugins
+- @deepseek-ai/dsh-client-ui-settings-session-log 0.2.1-rc.3 — General settings control for Session-log upload with DeepSeek API requests — packages/client/ui-settings-session-log
+- @deepseek-ai/dsh-client-ui-settings-shell 0.2.1-rc.3 — Settings page of the shell executor on the dsh web client's Plugins page: the command timeout and the per-stre — packages/client/ui-settings-shell
+- @deepseek-ai/dsh-client-ui-settings-subagent 0.2.1-rc.3 — Settings page of Subagent delegation on the dsh web client's Plugins page: recursion depth, parallel capacity, — packages/client/ui-settings-subagent
+- @deepseek-ai/dsh-client-ui-settings-web-search 0.2.1-rc.3 — Settings page of the DeepSeek web-search provider on the dsh web client's Plugins page: its API key, endpoint, — packages/client/ui-settings-web-search
+- @deepseek-ai/dsh-client-ui-shortcuts 0.2.1-rc.3 — Keyboard shortcut reference, recording, and local preference editing — packages/client/ui-shortcuts
+- @deepseek-ai/dsh-client-ui-sidebar 0.2.1-rc.3 — Sidebar plugin: session multi-level tree, search, grouping, state dots — packages/client/ui-sidebar
+- @deepseek-ai/dsh-client-ui-sidebar-browser 0.2.1-rc.3 — Sandboxed Web browser tabs for the right Sidebar — packages/client/ui-sidebar-browser
+- @deepseek-ai/dsh-client-ui-sidebar-documentpreview 0.2.1-rc.3 — Extensible Sidebar previews for Office documents, spreadsheets, Markdown, code, images, PDF, HTML, and plain t — packages/client/ui-sidebar-documentpreview
+- @deepseek-ai/dsh-client-ui-sidebar-files 0.2.1-rc.3 — Workspace file tree tab type for the right Sidebar: lazy directory listing over the workspaceFiles Remote name — packages/client/ui-sidebar-files
+- @deepseek-ai/dsh-client-ui-sidebar-right 0.2.1-rc.3 — Right Sidebar: the docking surface's session-bound state, its panel and header expand control, and the navigat — packages/client/ui-sidebar-right
+- @deepseek-ai/dsh-client-ui-sidebar-terminal 0.2.1-rc.3 — Interactive shell tabs for the right Sidebar — packages/client/ui-sidebar-terminal
+- @deepseek-ai/dsh-client-ui-skill 0.2.1-rc.3 — Web skill references and the dedicated skill tool row — packages/client/ui-skill
+- @deepseek-ai/dsh-client-ui-slots 0.2.1-rc.3 — Slot registry pure core: typed ordinary Slots and reusable Component Factories, derived props, Store seats, an — packages/client/ui-slots
+- @deepseek-ai/dsh-client-ui-subagent 0.2.1-rc.3 — Subagent conversation catalog, continuation routing UI, and '@' reference source — packages/client/ui-subagent
+- @deepseek-ai/dsh-client-ui-theme 0.2.1-rc.3 — Theme plugin: Host bootstrap for the pre-plugin palette; DOM-free ThemeRuntime for light/dark/system state; -- — packages/client/ui-theme
+- @deepseek-ai/dsh-client-ui-tool 0.2.1-rc.3 — Client Tool call-tree renderer and keyed per-tool presentation slot — packages/client/ui-tool
+- @deepseek-ai/dsh-client-ui-trajectory 0.2.1-rc.3 — Trajectory event ledger with an interactive timing overview: pure-consumer plugin registering into the convers — packages/client/ui-trajectory
+- @deepseek-ai/dsh-client-ui-user-questions 0.2.1-rc.3 — Web ask_user_question composer takeover and plan-review presentation UI — packages/client/ui-user-questions
+- @deepseek-ai/dsh-client-ui-workflow-run 0.2.1-rc.3 — Durable workflow-run Conversation Node and nested member disclosure for dsh web — packages/client/ui-workflow-run
+- @deepseek-ai/dsh-client-ui-workspace 0.2.1-rc.3 — Workspace picker plugin: one WorkspacePicker registered into the sidebar and empty-state workspace slots — packages/client/ui-workspace

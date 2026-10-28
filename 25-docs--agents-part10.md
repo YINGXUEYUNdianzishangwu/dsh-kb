@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 10/66)
+
+- Agent Note: Session 行 action 即 slot 列表 — Status: implemented — .agents/notes/archived/architecture/2026-09-17-session-row-menu-actions-slot.zh.md
+- Agent Note: Settings pages as companion packages — Status: implemented — .agents/notes/archived/architecture/2026-09-17-settings-pages-as-companion-packages.md
+- Agent Note：设置页作为伴生包 — Status: implemented — .agents/notes/archived/architecture/2026-09-17-settings-pages-as-companion-packages.zh.md
+- Agent Note: Shared Office runtime for Desktop and SDK — Status: implemented — .agents/notes/archived/architecture/2026-09-17-shared-office-runtime.md
+- Agent Note: Desktop 与 SDK 共享 Office 运行时 — Status: implemented — .agents/notes/archived/architecture/2026-09-17-shared-office-runtime.zh.md
+- Agent Note: Feature routes follow the document base, and a gate keeps them there — Status: implemented — .agents/notes/archived/architecture/2026-09-17-web-feature-routes-and-route-gate.md
+- Agent Note: 功能路由遵循文档 base，并由门禁维持 — Status: implemented — .agents/notes/archived/architecture/2026-09-17-web-feature-routes-and-route-gate.zh.md
+- Agent Note: Enable Agent Teams with one bundle — Status: implemented — .agents/notes/archived/architecture/2026-09-18-agent-teams-single-bundle.md
+- Agent Note: 通过一个组合包启用 Agent Teams — Status: implemented — .agents/notes/archived/architecture/2026-09-18-agent-teams-single-bundle.zh.md
+- Agent Note: Bound turn navigation work and batch historical jumps — Status: implemented — .agents/notes/archived/architecture/2026-09-18-chat-navigation-performance.md
+- Agent Note: 限制轮次导航工作量并聚合历史跳转 — Status: implemented — .agents/notes/archived/architecture/2026-09-18-chat-navigation-performance.zh.md
+- Agent Note: Plugin-owned localized display metadata — Status: implemented — .agents/notes/archived/architecture/2026-09-18-localized-package-metadata.md
+- Agent Note: 插件自有的多语言展示元信息 — Status: implemented — .agents/notes/archived/architecture/2026-09-18-localized-package-metadata.zh.md
+- Agent Note: Profile plugins share the installation's host runtime instances — Status: implemented — .agents/notes/archived/architecture/2026-09-18-profile-plugin-host-runtime-instances.md
+- Agent Note: Profile 插件共享安装自带的宿主运行时实例 — Status: implemented — .agents/notes/archived/architecture/2026-09-18-profile-plugin-host-runtime-instances.zh.md
+- Agent Note: Lossless projection checkpoint JSON — Status: implemented — .agents/notes/archived/architecture/2026-09-19-lossless-projection-checkpoint-json.md
+- Agent Note: 无损投影检查点 JSON — Status: implemented — .agents/notes/archived/architecture/2026-09-19-lossless-projection-checkpoint-json.zh.md
+- Agent Note: Creator skills disclose progressively and may read sources — Status: implemented — .agents/notes/archived/architecture/2026-09-21-creator-skills-progressive-disclosure.md
+- Agent Note: 创造模式 skill 渐进式披露并允许读源码 — Status: implemented — .agents/notes/archived/architecture/2026-09-21-creator-skills-progressive-disclosure.zh.md
+- Agent Note: Live plugin Config inspection replaces the Host Builtin provider — Status: implemented — .agents/notes/archived/architecture/2026-09-21-live-config-inspect-provider.md
+- Agent Note: 运行中插件 Config 检查取代 Host Builtin provider — Status: implemented — .agents/notes/archived/architecture/2026-09-21-live-config-inspect-provider.zh.md
+- Agent Note: Schedule in the shipped Web composition — Status: implemented — .agents/notes/archived/architecture/2026-09-24-web-default-schedule-composition.md
+- Agent Note: 默认 Web 组合中的 Schedule — Status: implemented — .agents/notes/archived/architecture/2026-09-24-web-default-schedule-composition.zh.md
+- Agent Note: Preserve Windows DACLs during atomic file replacement — Status: implemented — .agents/notes/archived/bug-fix/2026-07-19-windows-atomic-write-dacl-preservation.md
+- Agent Note: Windows 原子文件替换期间保留 DACL — Status: implemented — .agents/notes/archived/bug-fix/2026-07-19-windows-atomic-write-dacl-preservation.zh.md
+- Agent Note: Keep the Code Mode result card complete — Status: implemented — .agents/notes/archived/bug-fix/2026-07-20-code-mode-result-card-completeness.md
+- Agent Note: 保证 Code Mode 结果卡片内容完整 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-20-code-mode-result-card-completeness.zh.md
+- Agent Note: A config hot-reload must not kill or degrade a live app — Status: implemented — .agents/notes/archived/bug-fix/2026-07-20-config-hot-reload-resilience.md
+- Agent Note: 配置热重载不得杀死或降级正在运行的应用 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-20-config-hot-reload-resilience.zh.md
+- Agent Note: Render error cause chains at every diagnostic boundary — Status: implemented — .agents/notes/archived/bug-fix/2026-07-20-error-cause-chain-diagnostics.md
+- Agent Note: 在每个诊断边界渲染错误 cause 链 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-20-error-cause-chain-diagnostics.zh.md
+- Agent Note: Bind JSONL session identity before mutation — Status: implemented — .agents/notes/archived/bug-fix/2026-07-20-jsonl-storage-identity.md
+- Agent Note: 在变更前绑定 JSONL 会话身份 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-20-jsonl-storage-identity.zh.md
+- Agent Note: The summarization call replays the conversation prefix for KV-cache reuse — Status: implemented — .agents/notes/archived/bug-fix/2026-07-21-compaction-summary-prefix-cache-reuse.md
+- Agent Note: 摘要调用回放对话前缀以复用 KV Cache — Status: implemented — .agents/notes/archived/bug-fix/2026-07-21-compaction-summary-prefix-cache-reuse.zh.md
+- Agent Note: Semantic session checkpoints — Status: implemented — .agents/notes/archived/bug-fix/2026-07-21-semantic-session-checkpoints.md
+- Agent Note: 语义会话检查点 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-21-semantic-session-checkpoints.zh.md
+- Agent Note: A collapsed sidebar retains its control rail — Status: implemented — .agents/notes/archived/bug-fix/2026-07-22-collapsed-sidebar-control-rail.md
+- Agent Note: 侧边栏折叠后保留控制栏 — Status: implemented — .agents/notes/archived/bug-fix/2026-07-22-collapsed-sidebar-control-rail.zh.md

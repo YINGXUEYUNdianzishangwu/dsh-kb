@@ -1,0 +1,39 @@
+# docs: .agents (2583 篇, part 49/66)
+
+- Agent Note: Prompt variables and tool-guidance ownership — Status: implemented — .agents/notes/implemented/architecture/2026-07-05-prompt-variables-and-tool-guidance-ownership.md
+- Agent Note: 提示词变量与工具指导归属 — Status: implemented — .agents/notes/implemented/architecture/2026-07-05-prompt-variables-and-tool-guidance-ownership.zh.md
+- Agent Note: Every LLM request is reconstructable from the session log — Status: implemented — .agents/notes/implemented/architecture/2026-07-05-reconstructable-requests.md
+- Agent Note: 每个 LLM 请求都可从会话日志重建 — Status: implemented — .agents/notes/implemented/architecture/2026-07-05-reconstructable-requests.zh.md
+- Agent Note: A shared timeout/deadline primitive, with hard-kill left to each capability — Status: implemented — .agents/notes/implemented/architecture/2026-07-06-timeout-deadline-library.md
+- Agent Note: 共享的超时/截止时间原语，硬终止留给各能力自行实现 — Status: implemented — .agents/notes/implemented/architecture/2026-07-06-timeout-deadline-library.zh.md
+- Agent Note: Tool-call timeout policy as a plugin — Status: implemented — .agents/notes/implemented/architecture/2026-07-07-tool-call-timeout-policy.md
+- Agent Note: 工具调用超时策略作为插件 — Status: implemented — .agents/notes/implemented/architecture/2026-07-07-tool-call-timeout-policy.zh.md
+- Agent Note: Tool output spill policy — Status: implemented — .agents/notes/implemented/architecture/2026-07-08-tool-output-spill-files.md
+- Agent Note: 工具输出 spill 策略 — Status: implemented — .agents/notes/implemented/architecture/2026-07-08-tool-output-spill-files.zh.md
+- Agent Note: Single-file executable SDK runtime distribution (single-exe) — Status: implemented — .agents/notes/implemented/architecture/2026-07-10-single-file-executable-sdk-runtime-distribution.md
+- Agent Note: 单文件可执行的 SDK 运行时分发（single-exe） — Status: implemented — .agents/notes/implemented/architecture/2026-07-10-single-file-executable-sdk-runtime-distribution.zh.md
+- Agent Note: Provider-routed LLM adapters and a generic pi-ai backend — Status: implemented — .agents/notes/implemented/architecture/2026-07-14-provider-routed-llm-adapters.md
+- Agent Note: 基于提供方路由的 LLM 适配器与通用 pi-ai 后端 — Status: implemented — .agents/notes/implemented/architecture/2026-07-14-provider-routed-llm-adapters.zh.md
+- Agent Note: Initiating Agent scope over AsyncLocalStorage — Status: implemented — .agents/notes/implemented/architecture/2026-07-15-agent-initiator-scope.md
+- Agent Note: 基于 AsyncLocalStorage 的发起 Agent 作用域 — Status: implemented — .agents/notes/implemented/architecture/2026-07-15-agent-initiator-scope.zh.md
+- Agent Note: Cooperative tool cancellation at the registry boundary — Status: implemented — .agents/notes/implemented/architecture/2026-07-19-cooperative-tool-cancellation.md
+- Agent Note: 注册表边界上的协作式工具取消 — Status: implemented — .agents/notes/implemented/architecture/2026-07-19-cooperative-tool-cancellation.zh.md
+- Agent Note: Routed model context and compaction policy — Status: implemented — .agents/notes/implemented/architecture/2026-07-20-routed-model-context-and-compaction-policy.md
+- Agent Note: 路由模型上下文与压缩策略 — Status: implemented — .agents/notes/implemented/architecture/2026-07-20-routed-model-context-and-compaction-policy.zh.md
+- Agent Note: The slot system standard — single register, four props shares, and the framework store seat — Status: implemented — .agents/notes/implemented/architecture/2026-07-22-slot-type-chain-implementation.md
+- Agent Note: slot 体系标准——单一 register、props 四份额与框架 store 席位 — Status: implemented — .agents/notes/implemented/architecture/2026-07-22-slot-type-chain-implementation.zh.md
+- Agent Note: Client plugin loading — lazy factories, Cordis lifecycle, and hot reload — Status: implemented — .agents/notes/implemented/architecture/2026-07-23-client-plugin-loading-model.md
+- Agent Note: client 插件装载——惰性 factory、Cordis 生命周期与热重载 — Status: implemented — .agents/notes/implemented/architecture/2026-07-23-client-plugin-loading-model.zh.md
+- Agent Note: Separate context injection from turn execution — Status: implemented — .agents/notes/implemented/architecture/2026-07-24-separate-context-injection-from-turn-execution.md
+- Agent Note: 将上下文注入与轮次执行分离 — Status: implemented — .agents/notes/implemented/architecture/2026-07-24-separate-context-injection-from-turn-execution.zh.md
+- Agent Note: One harness home resolver — Status: implemented — .agents/notes/implemented/architecture/2026-07-24-single-harness-home-resolver.md
+- Agent Note: 单一 harness home 解析器 — Status: implemented — .agents/notes/implemented/architecture/2026-07-24-single-harness-home-resolver.zh.md
+- Agent Note: Compiler-independent Typert type model — Status: implemented — .agents/notes/implemented/architecture/2026-07-27-compiler-independent-typert-model.md
+- Agent Note: 编译器无关的 Typert 类型模型 — Status: implemented — .agents/notes/implemented/architecture/2026-07-27-compiler-independent-typert-model.zh.md
+- Agent Note: One carrier-level browser-trust boundary for all `/api` routes — Status: implemented — .agents/notes/implemented/architecture/2026-07-28-api-browser-trust-boundary.md
+- Agent Note: 所有 /api 路由共用一道载体级浏览器信任边界 — Status: implemented — .agents/notes/implemented/architecture/2026-07-28-api-browser-trust-boundary.zh.md
+- Agent Note: Create every message as an identified immutable value — Status: implemented — .agents/notes/implemented/architecture/2026-07-28-identified-immutable-message-values.md
+- Agent Note: 将每条消息创建为带标识的不可变值 — Status: implemented — .agents/notes/implemented/architecture/2026-07-28-identified-immutable-message-values.zh.md
+- Agent Note: Portable consumers over filesystem and subprocess execution worlds — Status: implemented — .agents/notes/implemented/architecture/2026-07-28-portable-execution-world-consumers.md
+- Agent Note: 基于文件系统与进程管理执行世界的可移植消费方 — Status: implemented — .agents/notes/implemented/architecture/2026-07-28-portable-execution-world-consumers.zh.md
+- Agent Note: dsh source launch through the tsx ESM hook — Status: implemented — .agents/notes/implemented/architecture/2026-07-29-dsh-source-launch-tsx-esm.md

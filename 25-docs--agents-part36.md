@@ -1,0 +1,43 @@
+# docs: .agents (2583 篇, part 36/66)
+
+- Agent Note: Classify Agent Notes by kind via path-encoded subdirectories — Status: implemented — .agents/notes/archived/process/2026-06-20-agent-note-classification.md
+- Agent Note: 通过路径编码的子目录对 Agent Note 进行分类 — Status: implemented — .agents/notes/archived/process/2026-06-20-agent-note-classification.zh.md
+- Agent Note: Subsystems catalog and the `ts type-equiv` drift gate — Status: implemented — .agents/notes/archived/process/2026-06-20-core-data-structures-catalog.md
+- Agent Note: 子系统目录与 `ts type-equiv` 漂移门禁 — Status: implemented — .agents/notes/archived/process/2026-06-20-core-data-structures-catalog.zh.md
+- Agent Note: Generated cordis events + services catalog — Status: implemented — .agents/notes/archived/process/2026-06-20-generated-cordis-catalog.md
+- Agent Note: 生成的 Cordis 事件与服务目录 — Status: implemented — .agents/notes/archived/process/2026-06-20-generated-cordis-catalog.zh.md
+- Agent Note: Bilingual documentation via paired sibling files and a pairing gate — Status: implemented — .agents/notes/archived/process/2026-07-02-bilingual-docs-and-pairing-gate.md
+- Agent Note: 通过配对兄弟文件与配对门禁实现双语文档 — Status: implemented — .agents/notes/archived/process/2026-07-02-bilingual-docs-and-pairing-gate.zh.md
+- Agent Note: Generated tool-schema catalog (boot-and-harvest) — Status: implemented — .agents/notes/archived/process/2026-07-02-tool-schema-catalog.md
+- Agent Note: 生成的工具 schema 目录（启动并采集） — Status: implemented — .agents/notes/archived/process/2026-07-02-tool-schema-catalog.zh.md
+- Agent Note: Documentation graph index for maintainers and SDK users — Status: implemented — .agents/notes/archived/process/2026-07-03-documentation-graph-atlas.md
+- Agent Note: 面向维护者与 SDK 用户的文档关系图索引 — Status: implemented — .agents/notes/archived/process/2026-07-03-documentation-graph-atlas.zh.md
+- Agent Note: JSDoc completeness gate for the cordis surface — Status: implemented — .agents/notes/archived/process/2026-07-04-cordis-jsdoc-completeness-gate.md
+- Agent Note: 针对 Cordis 对外服务接口的 JSDoc 完整性门禁 — Status: implemented — .agents/notes/archived/process/2026-07-04-cordis-jsdoc-completeness-gate.zh.md
+- Agent Note: Documentation structure, tiers, and budgets — Status: implemented — .agents/notes/archived/process/2026-07-04-doc-tiers-and-budgets.md
+- Agent Note: 文档结构、层级与预算 — Status: implemented — .agents/notes/archived/process/2026-07-04-doc-tiers-and-budgets.zh.md
+- Agent Note: Generated persistence log event catalog — Status: implemented — .agents/notes/archived/process/2026-07-04-persistence-log-catalog.md
+- Agent Note: 生成式持久化日志事件目录 — Status: implemented — .agents/notes/archived/process/2026-07-04-persistence-log-catalog.zh.md
+- Agent Note: One gated in-file format for Agent Notes — Status: implemented — .agents/notes/archived/process/2026-07-05-uniform-agent-note-format.md
+- Agent Note: Agent Note 的统一受门禁约束的文件内格式 — Status: implemented — .agents/notes/archived/process/2026-07-05-uniform-agent-note-format.zh.md
+- Agent Note: Export JSDoc gate — Status: implemented — .agents/notes/archived/process/2026-07-06-export-jsdoc-gate.md
+- Agent Note: 导出 JSDoc 门禁 — Status: implemented — .agents/notes/archived/process/2026-07-06-export-jsdoc-gate.zh.md
+- Agent Note: Generated plugin config catalog — Status: implemented — .agents/notes/archived/process/2026-07-06-generated-config-catalog.md
+- Agent Note: 生成式插件配置目录 — Status: implemented — .agents/notes/archived/process/2026-07-06-generated-config-catalog.zh.md
+- Agent Note: Parallel GitHub CI gates — Status: implemented — .agents/notes/archived/process/2026-07-06-parallel-github-ci-gates.md
+- Agent Note: 并行 GitHub CI 门禁 — Status: implemented — .agents/notes/archived/process/2026-07-06-parallel-github-ci-gates.zh.md
+- Agent Note: Parallel pre-push gates — Status: implemented — .agents/notes/archived/process/2026-07-06-parallel-pre-push-gates.md
+- Agent Note: 并行 pre-push 门禁 — Status: implemented — .agents/notes/archived/process/2026-07-06-parallel-pre-push-gates.zh.md
+- Agent Note: A gated Known-Limitations section in every package README — Status: implemented — .agents/notes/archived/process/2026-07-10-readme-known-limitations-gate.md
+- Agent Note: 每个包 README 中受门禁保护的「已知限制」章节 — Status: implemented — .agents/notes/archived/process/2026-07-10-readme-known-limitations-gate.zh.md
+- Agent Note: Package Model Experience contract — Status: implemented — .agents/notes/archived/process/2026-07-12-package-model-experience-contract.md
+- Agent Note: 包的模型体验约定 — Status: implemented — .agents/notes/archived/process/2026-07-12-package-model-experience-contract.zh.md
+- Agent Note: Project canonical documentation into the website — Status: implemented — .agents/notes/archived/process/2026-07-13-documentation-site-projection.md
+- Agent Note: 将权威文档投影到网站 — Status: implemented — .agents/notes/archived/process/2026-07-13-documentation-site-projection.zh.md
+- Agent Note: TypeScript Program-backed semantic gates — Status: implemented — .agents/notes/archived/process/2026-07-14-typescript-program-backed-semantic-gates.md
+- Agent Note: 基于 TypeScript Program 的语义门禁 — Status: implemented — .agents/notes/archived/process/2026-07-14-typescript-program-backed-semantic-gates.zh.md
+- Agent Note: Run CI examples from built lib — Status: implemented — .agents/notes/archived/process/2026-07-17-run-ci-examples-from-built-lib.md
+- Agent Note: 在 CI 中从构建后的 lib 运行示例 — Status: implemented — .agents/notes/archived/process/2026-07-17-run-ci-examples-from-built-lib.zh.md
+- Agent Note: Keep Agent Notes discoverable without a generated index — Status: implemented — .agents/notes/archived/process/2026-07-19-remove-generated-agent-note-index.md
+- Agent Note: 无需生成索引即可发现 Agent Note — Status: implemented — .agents/notes/archived/process/2026-07-19-remove-generated-agent-note-index.zh.md
+- Agent Note: Require an Agent Note for every non-trivial change — Status: implemented — .agents/notes/archived/process/2026-07-19-require-agent-notes-for-non-trivial-changes.md

@@ -1,0 +1,24 @@
+# docs: native (22 篇, part 1/1)
+
+- native/ — English | [中文](README.zh.md) — native/README.md
+- native/ — [English](README.md) | 中文 — native/README.zh.md
+- AGENTS.md — This workspace owns @deepseek-ai/node-addon-system: the Linux landlock-run confinement exe — native/system/AGENTS.md
+- Architecture — The system package family supplies native mechanisms to Node callers: a Linux confinement  — native/system/docs/architecture.md
+- CLI contract: landlock-run — This file pins the launcher's externally observable behavior — the cross-repo compatibilit — native/system/docs/cli-contract.md
+- POSIX flock behavior — tryLockExclusive(fd) returns a promise for one flock(fd, LOCKEX | LOCKNB) attempt. The sys — native/system/docs/flock-contract.md
+- Naming — The public package family belongs to the @deepseek-ai scope and uses the node-addon-system — native/system/docs/naming.md
+- Packaging — The family publishes one ESM entry package plus OS/CPU-selected optional platform packages — native/system/docs/packaging.md
+- Release — Pre-1.0: treat this as a release checklist, not a stability policy. — native/system/docs/release.md
+- Support matrix — | Platform package suffix | Builder | Payload | — native/system/docs/support-matrix.md
+- @deepseek-ai/node-addon-system-darwin-arm64 — description: "Prebuilt system.node for macOS arm64 POSIX locks." — native/system/packages/darwin-arm64/README.md
+- @deepseek-ai/node-addon-system-darwin-arm64 — description: "为 macOS arm64 POSIX 锁提供预编译 system.node。" — native/system/packages/darwin-arm64/README.zh.md
+- @deepseek-ai/node-addon-system-darwin-x64 — description: "Prebuilt system.node for macOS x64 POSIX locks." — native/system/packages/darwin-x64/README.md
+- @deepseek-ai/node-addon-system-darwin-x64 — description: "为 macOS x64 POSIX 锁提供预编译 system.node。" — native/system/packages/darwin-x64/README.zh.md
+- @deepseek-ai/node-addon-system — description: "JavaScript entry for the prebuilt Landlock launcher and asynchronous POSIX f — native/system/packages/entry/README.md
+- @deepseek-ai/node-addon-system — description: "预编译 Landlock 启动器与异步 POSIX flock 的 JavaScript 入口。" — native/system/packages/entry/README.zh.md
+- @deepseek-ai/node-addon-system-linux-arm64 — description: "Prebuilt Landlock launcher and POSIX flock addons for Linux arm64." — native/system/packages/linux-arm64/README.md
+- @deepseek-ai/node-addon-system-linux-arm64 — description: "为 Linux arm64 提供预编译 Landlock 启动器和 POSIX flock addon。" — native/system/packages/linux-arm64/README.zh.md
+- @deepseek-ai/node-addon-system-linux-x64 — description: "Prebuilt Landlock launcher and POSIX flock addons for Linux x64." — native/system/packages/linux-x64/README.md
+- @deepseek-ai/node-addon-system-linux-x64 — description: "为 Linux x64 提供预编译 Landlock 启动器和 POSIX flock addon。" — native/system/packages/linux-x64/README.zh.md
+- @deepseek-ai/node-addon-system — description: "Prebuilt system primitives for Linux confinement and POSIX Session write loc — native/system/README.md
+- @deepseek-ai/node-addon-system — description: "为 Linux 进程隔离与 POSIX 会话写锁提供预编译系统原语。" — native/system/README.zh.md

@@ -1,0 +1,41 @@
+# docs: .agents (2583 篇, part 6/66)
+
+- Agent Note: The skill registry is host-held and layered per scope — Status: implemented — .agents/notes/archived/architecture/2026-08-09-layered-skill-registry.md
+- Agent Note: skill 注册表由宿主持有并按 scope 分层 — Status: implemented — .agents/notes/archived/architecture/2026-08-09-layered-skill-registry.zh.md
+- Agent Note: Lifecycle-bound message feedback sidecar — Status: implemented — .agents/notes/archived/architecture/2026-08-10-message-feedback-sidecar.md
+- Agent Note: 绑定生命周期的消息反馈伴随记录 — Status: implemented — .agents/notes/archived/architecture/2026-08-10-message-feedback-sidecar.zh.md
+- Agent Note: Product subagent providers live in the shared profile host — Status: implemented — .agents/notes/archived/architecture/2026-08-10-product-subagent-providers-in-shared-host.md
+- Agent Note: 产品 subagent 提供方位于共享 profile 宿主 — Status: implemented — .agents/notes/archived/architecture/2026-08-10-product-subagent-providers-in-shared-host.zh.md
+- Agent Note: Remote event delivery (`ctx.remote.$on`) — Status: implemented — .agents/notes/archived/architecture/2026-08-10-remote-event-delivery.md
+- Agent Note: Remote 事件投递（ctx.remote.$on） — Status: implemented — .agents/notes/archived/architecture/2026-08-10-remote-event-delivery.zh.md
+- Agent Note: Place unary browser operations on owning Remote services — Status: implemented — .agents/notes/archived/architecture/2026-08-10-unary-apiproxy-remote-migration.md
+- Agent Note: 将一元浏览器操作放到所属 Remote 服务 — Status: implemented — .agents/notes/archived/architecture/2026-08-10-unary-apiproxy-remote-migration.zh.md
+- Agent Note: Trim the command-line seams to existing interfaces — Status: implemented — .agents/notes/archived/architecture/2026-08-11-cmdline-seam-trim.md
+- Agent Note: 把命令行接缝收窄到既有接口 — Status: implemented — .agents/notes/archived/architecture/2026-08-11-cmdline-seam-trim.zh.md
+- Agent Note: Loader interpolates the entry `disabled` field — Status: implemented — .agents/notes/archived/architecture/2026-08-11-loader-entry-disabled-interpolation.md
+- Agent Note: Loader 插值条目 `disabled` 字段 — Status: implemented — .agents/notes/archived/architecture/2026-08-11-loader-entry-disabled-interpolation.zh.md
+- Agent Note: Feature-owned tabs in Plugins settings — Status: implemented — .agents/notes/archived/architecture/2026-08-11-plugin-settings-tabs.md
+- Agent Note: “插件”设置中的功能自有标签页 — Status: implemented — .agents/notes/archived/architecture/2026-08-11-plugin-settings-tabs.zh.md
+- Agent Note: Persistent pwsh over the terminal seam on Windows — Status: implemented — .agents/notes/archived/architecture/2026-08-11-pwsh-persistent-pty.md
+- Agent Note: Windows 上基于 terminal seam 的持久化 pwsh — Status: implemented — .agents/notes/archived/architecture/2026-08-11-pwsh-persistent-pty.zh.md
+- Agent Note: Repository naming contract and pre-release rename ledger — Status: implemented — .agents/notes/archived/architecture/2026-08-11-repository-naming-contract-and-rename-ledger.md
+- Agent Note: 仓库命名约定与预发布重命名清单 — Status: implemented — .agents/notes/archived/architecture/2026-08-11-repository-naming-contract-and-rename-ledger.zh.md
+- Agent Note: Trajectory assembly from registered Conversation Contexts — Status: implemented — .agents/notes/archived/architecture/2026-08-11-trajectory-conversation-context-assembly.md
+- Agent Note: Trajectory 基于注册式 Conversation Context 组装数据 — Status: implemented — .agents/notes/archived/architecture/2026-08-11-trajectory-conversation-context-assembly.zh.md
+- Agent Note: A pi-ai model declares its own input modalities, and undeclared means text — Status: implemented — .agents/notes/archived/architecture/2026-08-12-pi-ai-route-default-input-modalities.md
+- Agent Note: pi-ai 模型自行声明输入模态，未声明即为文本 — Status: implemented — .agents/notes/archived/architecture/2026-08-12-pi-ai-route-default-input-modalities.zh.md
+- Agent Note: Plugin-owned settings surface — Status: implemented — .agents/notes/archived/architecture/2026-08-12-plugin-owned-settings-surface.md
+- Agent Note: 由插件自己拥有的设置表层 — Status: implemented — .agents/notes/archived/architecture/2026-08-12-plugin-owned-settings-surface.zh.md
+- Agent Note: Session content search ships opt-in through openAt never — Status: implemented — .agents/notes/archived/architecture/2026-08-13-session-content-search-opt-in.md
+- Agent Note: 会话内容搜索通过 openAt never 以 opt-in 方式交付 — Status: implemented — .agents/notes/archived/architecture/2026-08-13-session-content-search-opt-in.zh.md
+- Agent Note: Carry packed chunk rows through session history — Status: implemented — .agents/notes/archived/architecture/2026-08-15-packed-session-history-transport.md
+- Agent Note: 在会话历史中传输打包分片行 — Status: implemented — .agents/notes/archived/architecture/2026-08-15-packed-session-history-transport.zh.md
+- Agent Note: Dynamic client render and attachment ownership — Status: implemented — .agents/notes/archived/architecture/2026-08-17-dynamic-client-render-and-attachment-ownership.md
+- Agent Note: 客户端渲染与附件呈现的动态归属 — Status: implemented — .agents/notes/archived/architecture/2026-08-17-dynamic-client-render-and-attachment-ownership.zh.md
+- Agent Note: Settings describe mirror — Status: implemented — .agents/notes/archived/architecture/2026-08-17-settings-describe-mirror.md
+- Agent Note: Settings describe 镜像 — Status: implemented — .agents/notes/archived/architecture/2026-08-17-settings-describe-mirror.zh.md
+- Agent Note: Build-time public environment variables for client business code — Status: implemented — .agents/notes/archived/architecture/2026-08-18-client-build-environment.md
+- Agent Note: Client 业务代码使用构建期公开环境变量 — Status: implemented — .agents/notes/archived/architecture/2026-08-18-client-build-environment.zh.md
+- Agent Note: Publish Agent Teams under experimental package names — Status: implemented — .agents/notes/archived/architecture/2026-08-18-experimental-agent-teams-packages.md
+- Agent Note: 以实验性包名发布 Agent Teams — Status: implemented — .agents/notes/archived/architecture/2026-08-18-experimental-agent-teams-packages.zh.md
+- Agent Note: SQLite physical chunk-row compression — Status: implemented — .agents/notes/archived/architecture/2026-08-18-sqlite-physical-chunk-row-compression.md

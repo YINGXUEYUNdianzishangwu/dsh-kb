@@ -1,0 +1,45 @@
+# docs: docs/upgrade-guide (86 篇, part 2/2)
+
+- 迁移会话标题提供方 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/session-title-provider-strategy/guide.zh.md
+- SSH helper and PTC launch configuration — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/ssh-helper-launch/guide.md
+- SSH helper 与 PTC 启动配置 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/ssh-helper-launch/guide.zh.md
+- Migrate delegation to managed subagent activations — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/subagent-activations/guide.md
+- 将委派迁移到受管理的子 agent activation — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/subagent-activations/guide.zh.md
+- Configure subagent composition through presets — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/subagent-preset-composition/guide.md
+- 通过 preset 配置子 Agent 组装 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/subagent-preset-composition/guide.zh.md
+- Agent Teams messages use target inboxes — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/team-direct-inbox/guide.md
+- Agent Teams 消息使用目标收件箱 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/team-direct-inbox/guide.zh.md
+- Terminal command labels — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/terminal-command-labels/guide.md
+- 终端命令标签 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/terminal-command-labels/guide.zh.md
+- Select native or PTC tool presentation — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/tool-presentation-mode/guide.md
+- 选择原生或 PTC 工具呈现方式 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/tool-presentation-mode/guide.zh.md
+- Web listener and trust configuration moves to `webStartup` — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/web-listener-trust-config/guide.md
+- Web 监听与信任配置迁移到 `webStartup` — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/web-listener-trust-config/guide.zh.md
+- Migrate working-directory configuration and tool presentation — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/working-directory/guide.md
+- 迁移工作目录配置与工具展示 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.1/working-directory/guide.zh.md
+- Explicitly subscribe to account identity changes — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/deepseek-account-identity-watch/guide.md
+- 显式订阅账号身份变化 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/deepseek-account-identity-watch/guide.zh.md
+- DeepSeek account models come from the account listing — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/deepseek-account-model-catalog/guide.md
+- DeepSeek 账号模型改由账号的模型列表提供 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/deepseek-account-model-catalog/guide.zh.md
+- Desktop font-size shortcuts reserve custom key combinations — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/desktop-font-size-shortcuts/guide.md
+- 桌面端字号快捷键占用部分自定义组合键 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/desktop-font-size-shortcuts/guide.zh.md
+- `--from-default-profile` replaces an existing profile — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/from-default-profile-replaces-target/guide.md
+- `--from-default-profile` 会替换已存在的 profile — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/from-default-profile-replaces-target/guide.zh.md
+- Select interaction participation for non-page clients — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/operator-connect/guide.md
+- 为非页面客户端选择交互参与模式 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/operator-connect/guide.zh.md
+- Azure provider route rename — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/pi-ai-azure-provider/guide.md
+- Azure 提供方路由更名 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/pi-ai-azure-provider/guide.zh.md
+- pi-ai model visibility without a credential — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/pi-ai-model-discovery/guide.md
+- pi-ai 路由缺少凭据时的模型可见性 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/pi-ai-model-discovery/guide.zh.md
+- Installing over an installed plugin package is refused with HMR — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/plugin-install-over-installed/guide.md
+- 启用 HMR 时拒绝在已安装的插件包上再次安装 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/plugin-install-over-installed/guide.zh.md
+- SDK-minimal image reading and automatic compaction — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/sdk-minimal-image-compaction/guide.md
+- SDK-minimal 图片读取与自动压缩 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/sdk-minimal-image-compaction/guide.zh.md
+- A stored key takes precedence over an exported variable — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/stored-credentials-precedence/guide.md
+- 存储的密钥优先于导出的变量 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.2/stored-credentials-precedence/guide.zh.md
+- Plugin compatibility reads `engines.dsh` first — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.3/plugin-engines-dsh/guide.md
+- 插件兼容性先读 `engines.dsh` — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.3/plugin-engines-dsh/guide.zh.md
+- Update account notification consumers — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.4/account-notification-fields/guide.md
+- 更新账号通知使用方 — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-alpha.4/account-notification-fields/guide.zh.md
+- New Session returns to its blank Session — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-rc.2/new-session-blank-reuse/guide.md
+- 新会话回到其空白 Session — kind: upgrade-guide — docs/upgrade-guide/v0.2.1-rc.2/new-session-blank-reuse/guide.zh.md
